@@ -1,3 +1,12 @@
+<script>
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+</script>	
 <title>Sistem Analisis Peperiksaan Sekolah</title>
 				<form id="form7" name="form7" method="post" action="https://sapsnkra.moe.gov.my/ibubapa2/slipma.php">
 						<input type="hidden" name="nokp" id="nokp" value="030401080695">
@@ -6,5 +15,8 @@
 									<input type="hidden" name="kelas" id="kelas" value="S1">
 										<input type="hidden" name="cboPep" id="cboPep" value="PAT">
 										</form>  
-<script>document.getElementById("cboPep").value=window.AppInventor.getWebViewString();</script>	
-<script> document.form7.submit();</script>																
+<script>
+var cboPep = getUrlVars()["cboPep"];
+document.getElementById("cboPep").value=cboPep;
+</script>	
+<script>document.form7.submit();</script>																
