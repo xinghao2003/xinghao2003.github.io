@@ -6,14 +6,25 @@ function getUrlVars() {
     });
     return vars;
 }
-</script>	
+</script>
 <title>Sistem Analisis Peperiksaan Sekolah</title>
-				<form id="form7" name="form7" method="post" action="https://sapsnkra.moe.gov.my/ibubapa2/slipma.php">
-						<input type="hidden" name="nokp" id="nokp" value="030401080695">
-							<input type="hidden" name="kodsek" id="kodsek" value="AEA2044">
-								<input type="hidden" name="ting" id="ting" value="T4">
-									<input type="hidden" name="kelas" id="kelas" value="S1">
-										<input type="hidden" name="cboPep" id="cboPep" value="getUrlVars()["cboPep"];">
-										</form>  
-
-<script>document.form7.submit();</script>																
+<form id="form7" name="form7" method="post" action="https://sapsnkra.moe.gov.my/ibubapa2/slipma.php">
+	<input type="hidden" name="nokp" id="nokp" value="">
+	<input type="hidden" name="kodsek" id="kodsek" value="">
+	<input type="hidden" name="ting" id="ting" value="">
+	<input type="hidden" name="kelas" id="kelas" value="">
+	<input type="hidden" name="cboPep" id="cboPep" value="">
+</form>
+<script>
+var nokp = getUrlVars()["nokp"];
+document.getElementById("nokp").value=nokp;
+var kodsek = getUrlVars()["kodsek"];
+document.getElementById("kodsek").value=kodsek;
+var ting = getUrlVars()["ting"];
+document.getElementById("ting").value=ting;
+var kelas = getUrlVars()["kelas"];
+document.getElementById("kelas").value=cboPep;
+var cboPep = getUrlVars()["cboPep"];
+document.getElementById("cboPep").value=cboPep;
+document.form7.submit();
+</script>
