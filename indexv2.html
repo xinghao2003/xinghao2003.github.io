@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css">
 <!-- Tocas JS：模塊與 JavaScript 函式 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.js"></script>
-<title>Sistem Analisis Peperiksaan Sekolah</title>
+<title>考试成绩检阅</title>
 <div class="ts very narrow container segment">
 	<form class="ts form" name="form7" id="form7" method="post" action="https://sapsnkra.moe.gov.my/ibubapa2/slipma.php">
 		<div class="field">
@@ -15,20 +15,28 @@
 			<input type="text" name="nokp" id="nokp">
 		</div>
 		<div class="field">
-			<label>Kod Sekolah</label>
+			<label>学校编号</label>
 			<select class="ts basic dropdown" name="kodsek" id="kodsek">
 				<option value="AEA2044">AEA2044</option>
 			</select>
 		</div>
 		<div class="field">
-			<label>Tingkatan</label>
+			<label>年级</label>
 			<select class="ts basic dropdown" name="ting" id="ting">
 				<option value="T4">T4</option>
 				<option value="T5">T5</option>
 			</select>
 		</div>
+                <div class="field">
+			<label>班级</label>
+			<select class="ts basic dropdown" name="kelas" id="kelas">
+				<option value="S1">S1</option>
+				<option value="S2">S2</option>
+				<option value="S3">S3</option>
+			</select>
+		</div>
 		<div class="field">
-			<label>Jenis Peperiksaan</label>
+			<label>考试种类</label>
 			<select class="ts basic dropdown" name="cboPep" id="cboPep">
 				<option value="PPT">PPT</option>
 				<option value="PAT">PAT</option>
