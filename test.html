@@ -1,21 +1,54 @@
-<form name="form1" method="post" action="https://sapsnkra.moe.gov.my/login-exec.php">
-                    <tr> 
-                      <td rowspan="5">&nbsp;</td>
-                      <td>ID Pengguna</td>
-                      <td><input name="user" type="text" id="user"></td>
-                    </tr>
-                    <tr> 
-                      <td>Kata Laluan </td>
-                      <td><input name="password" type="password" id="password"></td>
-                    </tr>
-                    <tr>
-                      <td colspan="2"><font color="#FF0000">Masukkan kod pengesahan</font></td>
-                    </tr>
-                    <tr>
-                      <td>&nbsp;<img src="https://sapsnkra.moe.gov.my/randomimage.php"></td>
-                      <td>&nbsp;<input type="password" name="user_verify" size="12" maxlength="5"></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                      <td><input name="hantar" type="submit" id="hantar" value="Login"></td>
-                    </tr>
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<!-- Tocas UI：CSS 與元件 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css">
+<!-- Tocas JS：模塊與 JavaScript 函式 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.js"></script>
+<title>考试成绩检阅</title>
+<div class="ts very narrow container segment">
+	<form class="ts form" name="form7" id="form7" method="post" action="https://sapsnkra.moe.gov.my/ibubapa2/slipmr.php">
+		<div class="field">
+			<label>身份证</label>
+			<input type="text" name="nokp" id="nokp">
+		</div>
+		<div class="field">
+			<label>学校</label>
+			<select class="ts basic dropdown" name="kodsek" id="kodsek">
+				<option value="AEA2044">SMKGR</option>
+                                <option value="AEB2051">PGS</option>
+			</select>
+		</div>
+		<div class="field">
+			<label>年级</label>
+			<select class="ts basic dropdown" name="ting" id="ting">
+				<option value="T1">T1</option>
+                                <option value="T2">T2</option>
+				<option value="T3">T3</option>
+                                <option value="T4">T4</option>
+				<option value="T5">T5</option>
+			</select>
+		</div>
+                <div class="field">
+			<label>班级</label>
+			<select class="ts basic dropdown" name="kelas" id="kelas">
+				<option value="S1">S1</option>
+				<option value="S2">S2</option>
+				<option value="S3">S3</option>
+                                <option value="NOBLE">NOBLE</option>
+                                <option value="M">M</option>
+			</select>
+		</div>
+		<div class="field">
+			<label>考试种类</label>
+			<select class="ts basic dropdown" name="cboPep" id="cboPep">
+				<option value="PPT">年中</option>
+				<option value="PAT">年终</option>
+			</select>
+		</div>
+		<button class="ts button" name="submit" id="submit">送出</button>
+	</form>
+</div>
+</html>
