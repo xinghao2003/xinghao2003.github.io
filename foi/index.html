@@ -134,6 +134,9 @@
         <div id="progress-bar" class="progress-bar"></div>
         <div id="progress-text" class="progress-text"></div>
     </div>
+    <div class="jump-to-question" style="margin-top: 20px; text-align: center;">
+        <input type="number" id="question-input" placeholder="Jump to Question" min="1" max="3" oninput="jumpToQuestion()" style="width: 150px; padding: 10px; font-size: 16px;">
+    </div>
 
     <script>
         let quizData;
@@ -294,6 +297,20 @@
             progressBar.style.width = `${progress}%`;
             progressText.textContent = `${currentQuestionIndex + 1} / ${quizData.questions.length}`;
             console.log(`Progress: ${progress}%`); // Add this line for debugging
+        }
+
+        function jumpToQuestion() {
+            const selectedQuestion = document.getElementById('question-input').value;
+            if (selectedQuestion !== "") {
+                const questionIndex = parseInt(selectedQuestion) - 1;
+                if (questionIndex >= 0 && questionIndex < quizData.questions.length) {
+                    document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                    currentQuestionIndex = questionIndex;
+                    document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                    updateNavigationButtons();
+                    updateProgressBar();
+                }
+            }
         }
 
         createQuiz();
