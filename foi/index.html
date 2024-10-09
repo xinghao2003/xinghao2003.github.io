@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investment Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .question {
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .options {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .option {
+            margin-bottom: 10px;
+            padding: 10px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f8f8f8;
+            color: black;
+            /* Added this line */
+        }
+
+        .option:hover {
+            background-color: #e8e8e8;
+        }
+
+        button {
+            margin-top: 10px;
+            padding: 10px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .answer {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .nav-button {
+            flex: 1;
+            padding: 10px;
+            margin: 0 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .nav-button:disabled {
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .correct {
+            background-color: #90EE90;
+        }
+
+        .incorrect {
+            background-color: #FFA07A;
+        }
+
+        .progress-container {
+            width: 100%;
+            background-color: #f0f0f0;
+            margin-top: 20px;
+            border-radius: 5px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .progress-bar {
+            width: 0;
+            height: 20px;
+            background-color: #4CAF50;
+            transition: width 0.5s ease-in-out;
+        }
+
+        .progress-text {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: black;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Investment Quiz</h1>
+    <div id="quiz-container"></div>
+    <div class="navigation">
+        <button id="prev-btn" class="nav-button" onclick="showPreviousQuestion()" disabled>Previous</button>
+        <button id="next-btn" class="nav-button" onclick="showNextQuestion()">Next</button>
+    </div>
+
+    <div class="progress-container">
+        <div id="progress-bar" class="progress-bar"></div>
+        <div id="progress-text" class="progress-text"></div>
+    </div>
+
+    <script>
+        let quizData;
+        let currentQuestionIndex = 0;
+
+        // Load quiz data from JSON file
+        fetch('quiz_data.json')
+            .then(response => response.json())
+            .then(data => {
+                quizData = data;
+                createQuiz();
+                updateProgressBar();
+            })
+            .catch(error => console.error('Error loading quiz data:', error));
+
+        function createQuiz() {
+            const quizContainer = document.getElementById('quiz-container');
+            quizContainer.innerHTML = '';
+
+            quizData.questions.forEach((question, index) => {
+                const questionElement = document.createElement('div');
+                questionElement.classList.add('question');
+                questionElement.id = `question-${index}`;
+                if (index !== 0) questionElement.classList.add('hidden');
+
+                const questionText = document.createElement('p');
+                questionText.textContent = `${index + 1}. ${question.question}`;
+                questionElement.appendChild(questionText);
+
+                const optionsContainer = document.createElement('div');
+                optionsContainer.classList.add('options');
+
+                if (question.options) {
+                    question.options.forEach(option => {
+                        const optionButton = document.createElement('button');
+                        optionButton.classList.add('option');
+                        optionButton.textContent = `${option.id}) ${option.text}`;
+                        optionButton.onclick = () => selectOption(option.id, index);
+                        optionsContainer.appendChild(optionButton);
+                    });
+                } else if (question.answer === "TRUE" || question.answer === "FALSE") {
+                    const trueButton = document.createElement('button');
+                    trueButton.classList.add('option');
+                    trueButton.textContent = "TRUE";
+                    trueButton.onclick = () => selectOption("TRUE", index);
+                    optionsContainer.appendChild(trueButton);
+
+                    const falseButton = document.createElement('button');
+                    falseButton.classList.add('option');
+                    falseButton.textContent = "FALSE";
+                    falseButton.onclick = () => selectOption("FALSE", index);
+                    optionsContainer.appendChild(falseButton);
+                } else {
+                    const revealButton = document.createElement('button');
+                    revealButton.textContent = 'Reveal Answer';
+                    revealButton.addEventListener('click', () => revealAnswer(question.answer, index));
+                    optionsContainer.appendChild(revealButton);
+                }
+
+                questionElement.appendChild(optionsContainer);
+
+                const answerElement = document.createElement('div');
+                answerElement.classList.add('answer');
+                answerElement.id = `answer-${index}`;
+                questionElement.appendChild(answerElement);
+
+                quizContainer.appendChild(questionElement);
+            });
+
+            updateNavigationButtons();
+        }
+
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'ArrowLeft') {
+                showPreviousQuestion();
+            } else if (event.key === 'ArrowRight') {
+                showNextQuestion();
+            }
+        });
+
+        function selectOption(selectedOption, questionIndex) {
+            const question = quizData.questions[questionIndex];
+            console.log("Question:", question);
+            console.log("Selected Option:", selectedOption);
+
+            const options = document.querySelectorAll(`#question-${questionIndex} .option`);
+            console.log("Options:", options);
+
+            options.forEach(option => {
+                option.disabled = true;
+                const optionText = option.textContent.trim();
+                console.log("Checking option:", optionText);
+
+                if (question.options) {
+                    // For MCQ
+                    if (optionText.startsWith(selectedOption)) {
+                        option.classList.add(selectedOption === question.answer ? 'correct' : 'incorrect');
+                        console.log("MCQ option marked:", optionText, selectedOption === question.answer ? 'correct' : 'incorrect');
+                    }
+                    if (optionText.startsWith(question.answer)) {
+                        option.classList.add('correct');
+                        console.log("Correct MCQ answer marked:", optionText);
+                    }
+                } else {
+                    // For True/False
+                    if (optionText === selectedOption) {
+                        option.classList.add(selectedOption === question.answer ? 'correct' : 'incorrect');
+                        console.log("T/F option marked:", optionText, selectedOption === question.answer ? 'correct' : 'incorrect');
+                    }
+                    if (optionText === question.answer) {
+                        option.classList.add('correct');
+                        console.log("Correct T/F answer marked:", optionText);
+                    }
+                }
+            });
+
+            revealAnswer(question.answer, questionIndex);
+            if (selectedOption === question.answer) {
+                showNextQuestion();
+            }
+        }
+
+        function revealAnswer(answer, index) {
+            const answerElement = document.getElementById(`answer-${index}`);
+            answerElement.textContent = `Answer: ${answer}`;
+            answerElement.style.display = 'block';
+        }
+
+        function showNextQuestion() {
+            if (currentQuestionIndex < quizData.questions.length - 1) {
+                document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                currentQuestionIndex++;
+                document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                updateNavigationButtons();
+                updateProgressBar();
+            }
+        }
+
+        function showPreviousQuestion() {
+            if (currentQuestionIndex > 0) {
+                document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                currentQuestionIndex--;
+                document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                updateNavigationButtons();
+                updateProgressBar();
+            }
+        }
+
+        function updateNavigationButtons() {
+            document.getElementById('prev-btn').disabled = (currentQuestionIndex === 0);
+            document.getElementById('next-btn').disabled = (currentQuestionIndex === quizData.questions.length - 1);
+        }
+
+        function updateProgressBar() {
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            const progress = ((currentQuestionIndex + 1) / quizData.questions.length) * 100;
+            progressBar.style.width = `${progress}%`;
+            progressText.textContent = `${currentQuestionIndex + 1} / ${quizData.questions.length}`;
+            console.log(`Progress: ${progress}%`); // Add this line for debugging
+        }
+
+        createQuiz();
+    </script>
+</body>
+
+</html>
