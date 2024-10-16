@@ -1,42 +1,42 @@
 [
     {
         "name": "Enterpreneurship Chapter 1 - 3e",
-        "file": "/ent-chapter1-3e.json"
+        "file": "ent-chapter1-3e.json"
     },
     {
         "name": "Enterpreneurship Chapter 2 - 3e",
-        "file": "/ent-chapter2-3e.json"
+        "file": "ent-chapter2-3e.json"
     },
     {
         "name": "Enterpreneurship Chapter 3 - 3e",
-        "file": "/ent-chapter3-3e.json"
+        "file": "ent-chapter3-3e.json"
     },
     {
         "name": "Enterpreneurship Chapter 1 - 6e",
-        "file": "/ent-chapter1-6e.json"
+        "file": "ent-chapter1-6e.json"
     },
     {
         "name": "Enterpreneurship Chapter 2a - 6e",
-        "file": "/ent-chapter2a-6e.json"
+        "file": "ent-chapter2a-6e.json"
     },
     {
         "name": "Enterpreneurship Chapter 2b - 6e",
-        "file": "/ent-chapter2b-6e.json"
+        "file": "ent-chapter2b-6e.json"
     },
     {
         "name": "Enterpreneurship Chapter 3 - 6e",
-        "file": "/ent-chapter3-6e.json"
+        "file": "ent-chapter3-6e.json"
     },
     {
         "name": "Enterpreneurship Chapter 4 - 6e",
-        "file": "/ent-chapter4-6e.json"
+        "file": "ent-chapter4-6e.json"
     },
     {
         "name": "Enterpreneurship Chapter 5 - 6e",
-        "file": "/ent-chapter5-6e.json"
+        "file": "ent-chapter5-6e.json"
     },
     {
         "name": "Fundamental of Investement - Test 1",
-        "file": "/foi-test1.json"
+        "file": "foi-test1.json"
     }
 ]

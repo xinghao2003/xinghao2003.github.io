@@ -106,7 +106,7 @@
         let score = 0;
 
         function loadQuizList() {
-            fetch('/quiz.json')
+            fetch('quiz.json')
                 .then(response => response.json())
                 .then(data => {
                     availableQuizzes = data;
