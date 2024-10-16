@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            "50": "#eff6ff",
+                            "100": "#dbeafe",
+                            "200": "#bfdbfe",
+                            "300": "#93c5fd",
+                            "400": "#60a5fa",
+                            "500": "#3b82f6",
+                            "600": "#2563eb",
+                            "700": "#1d4ed8",
+                            "800": "#1e40af",
+                            "900": "#1e3a8a",
+                            "950": "#172554"
+                        }
+                    }
+                },
+                fontFamily: {
+                    'body': [
+                        'Inter',
+                        'ui-sans-serif',
+                        'system-ui',
+                        '-apple-system',
+                        'system-ui',
+                        'Segoe UI',
+                        'Roboto',
+                        'Helvetica Neue',
+                        'Arial',
+                        'Noto Sans',
+                        'sans-serif',
+                        'Apple Color Emoji',
+                        'Segoe UI Emoji',
+                        'Segoe UI Symbol',
+                        'Noto Color Emoji'
+                    ],
+                    'sans': [
+                        'Inter',
+                        'ui-sans-serif',
+                        'system-ui',
+                        '-apple-system',
+                        'system-ui',
+                        'Segoe UI',
+                        'Roboto',
+                        'Helvetica Neue',
+                        'Arial',
+                        'Noto Sans',
+                        'sans-serif',
+                        'Apple Color Emoji',
+                        'Segoe UI Emoji',
+                        'Segoe UI Symbol',
+                        'Noto Color Emoji'
+                    ]
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 transition-colors duration-300">
+    <div class="container mx-auto px-4 py-8 max-w-3xl">
+        <div id="quiz-selector" class="mb-8">
+            <select id="quiz-dropdown" class="w-full p-2 border rounded dark:bg-gray-800 dark:border-gray-700">
+                <option value="">Select a quiz</option>
+            </select>
+        </div>
+        <div id="quiz-container" class="mt-8 hidden"></div>
+        <div class="navigation flex justify-between mt-8 hidden">
+            <button id="prev-btn"
+                class="nav-button bg-primary-600 hover:bg-primary-700 text-white font-bold py-2 px-4 rounded disabled:opacity-50 disabled:cursor-not-allowed"
+                onclick="showPreviousQuestion()" disabled>Previous</button>
+            <button id="next-btn"
+                class="nav-button bg-primary-600 hover:bg-primary-700 text-white font-bold py-2 px-4 rounded disabled:opacity-50 disabled:cursor-not-allowed"
+                onclick="showNextQuestion()">Next</button>
+        </div>
+        <div class="progress-container mt-8 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden hidden">
+            <div id="progress-bar" class="h-4 bg-primary-600 transition-all duration-300 ease-in-out"></div>
+        </div>
+        <div id="progress-text" class="text-center mt-2 font-bold"></div>
+        <div class="jump-to-question mt-8 text-center hidden">
+            <input type="number" id="question-input" placeholder="Jump to Question" min="1"
+                class="w-48 p-2 border rounded dark:bg-gray-800 dark:border-gray-700" oninput="jumpToQuestion()">
+        </div>
+        <div class="flex justify-center mt-8">
+            <button id="toggle-dark-mode"
+                class="bg-gray-300 dark:bg-gray-700 text-gray-800 dark:text-gray-200 font-bold py-2 px-4 rounded">Toggle
+                Dark Mode</button>
+        </div>
+    </div>
+
+    <script>
+        let availableQuizzes = [];
+        let quizData;
+        let currentQuestionIndex = 0;
+        let score = 0;
+
+        function loadQuizList() {
+            fetch('/quiz.json')
+                .then(response => response.json())
+                .then(data => {
+                    availableQuizzes = data;
+                    populateQuizDropdown();
+                })
+                .catch(error => console.error('Error loading quiz list:', error));
+        }
+
+        function populateQuizDropdown() {
+            const dropdown = document.getElementById('quiz-dropdown');
+            dropdown.innerHTML = '<option value="">Select a quiz</option>';
+            availableQuizzes.forEach((quiz, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = quiz.name;
+                dropdown.appendChild(option);
+            });
+            dropdown.addEventListener('change', startSelectedQuiz);
+        }
+
+        function startSelectedQuiz() {
+            const selectedQuizIndex = document.getElementById('quiz-dropdown').value;
+            if (selectedQuizIndex !== "") {
+                const selectedQuiz = availableQuizzes[selectedQuizIndex];
+                loadQuizData(selectedQuiz.file);
+            }
+        }
+
+        function loadQuizData(filename) {
+            fetch(filename)
+                .then(response => response.json())
+                .then(data => {
+                    quizData = Object.values(data);
+                    currentQuestionIndex = 0;
+                    score = 0;
+                    createQuiz();
+                    updateProgressBar();
+                    document.getElementById('quiz-container').classList.remove('hidden');
+                    document.querySelector('.navigation').classList.remove('hidden');
+                    document.querySelector('.progress-container').classList.remove('hidden');
+                    document.querySelector('.jump-to-question').classList.remove('hidden');
+                    document.getElementById('progress-text').textContent = `${currentQuestionIndex + 1} / ${quizData.length}`;
+                })
+                .catch(error => console.error('Error loading quiz data:', error));
+        }
+
+        function createQuiz() {
+            const quizContainer = document.getElementById('quiz-container');
+            quizContainer.innerHTML = '';
+
+            quizData.forEach((question, index) => {
+                const questionElement = document.createElement('div');
+                questionElement.classList.add('mb-8', 'p-4', 'border', 'rounded', 'dark:border-gray-700');
+                questionElement.id = `question-${index}`;
+                if (index !== 0) questionElement.classList.add('hidden');
+
+                const questionText = document.createElement('p');
+                questionText.textContent = `${index + 1}. ${question.question}`;
+                questionText.classList.add('mb-4', 'font-bold');
+                questionElement.appendChild(questionText);
+
+                const optionsContainer = document.createElement('div');
+                optionsContainer.classList.add('space-y-2');
+
+                if (question.options) {
+                    // Sort options by key (A, B, C, etc.)
+                    const sortedOptions = Object.keys(question.options).sort().reduce((obj, key) => {
+                        obj[key] = question.options[key];
+                        return obj;
+                    }, {});
+                    for (const [id, text] of Object.entries(sortedOptions)) {
+                        const optionButton = document.createElement('button');
+                        optionButton.classList.add('w-full', 'text-left', 'p-2', 'rounded', 'bg-gray-200', 'dark:bg-gray-800', 'hover:bg-gray-300', 'dark:hover:bg-gray-700', 'transition-colors');
+                        optionButton.textContent = `${id}) ${text}`;
+                        optionButton.onclick = () => selectOption(id, index);
+                        optionsContainer.appendChild(optionButton);
+                    }
+                } else if (question.answer === "T" || question.answer === "F") {
+                    const trueButton = document.createElement('button');
+                    trueButton.classList.add('w-full', 'text-left', 'p-2', 'rounded', 'bg-gray-200', 'dark:bg-gray-800', 'hover:bg-gray-300', 'dark:hover:bg-gray-700', 'transition-colors');
+                    trueButton.textContent = "TRUE";
+                    trueButton.onclick = () => selectOption("T", index);
+                    optionsContainer.appendChild(trueButton);
+
+                    const falseButton = document.createElement('button');
+                    falseButton.classList.add('w-full', 'text-left', 'p-2', 'rounded', 'bg-gray-200', 'dark:bg-gray-800', 'hover:bg-gray-300', 'dark:hover:bg-gray-700', 'transition-colors');
+                    falseButton.textContent = "FALSE";
+                    falseButton.onclick = () => selectOption("F", index);
+                    optionsContainer.appendChild(falseButton);
+                }
+
+                questionElement.appendChild(optionsContainer);
+
+                const answerElement = document.createElement('div');
+                answerElement.classList.add('mt-4', 'font-bold', 'hidden');
+                answerElement.id = `answer-${index}`;
+                questionElement.appendChild(answerElement);
+
+                quizContainer.appendChild(questionElement);
+            });
+
+            updateNavigationButtons();
+        }
+
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'ArrowLeft') {
+                showPreviousQuestion();
+            } else if (event.key === 'ArrowRight') {
+                showNextQuestion();
+            }
+        });
+
+        function selectOption(selectedOption, questionIndex) {
+            const question = quizData[questionIndex];
+            if (!question) {
+                console.error("Question not found for index:", questionIndex);
+                return;
+            }
+
+            const options = document.querySelectorAll(`#question-${questionIndex} button`);
+
+            let isCorrect = false;
+
+            options.forEach(option => {
+                option.disabled = true;
+                option.classList.remove('bg-green-500', 'dark:bg-green-700', 'bg-red-500', 'dark:bg-red-700', 'text-white');
+                const optionText = option.textContent.trim();
+
+                if (question.options) {
+                    const optionId = optionText.split(')')[0].trim();
+                    if (optionId === selectedOption) {
+                        isCorrect = optionId === question.answer;
+                        if (isCorrect) {
+                            option.classList.add('bg-green-500', 'dark:bg-green-700', 'text-white');
+                            score++;
+                        } else {
+                            option.classList.add('bg-red-500', 'dark:bg-red-700', 'text-white');
+                        }
+                    }
+                    if (optionId === question.answer) {
+                        option.classList.add('bg-green-500', 'dark:bg-green-700', 'text-white');
+                    }
+                } else {
+                    // For True/False questions
+                    if ((selectedOption === "T" && option.textContent.trim() === "TRUE") ||
+                        (selectedOption === "F" && option.textContent.trim() === "FALSE")) {
+                        isCorrect = (selectedOption === "T" && question.answer === "T") ||
+                            (selectedOption === "F" && question.answer === "F");
+                        if (isCorrect) {
+                            option.classList.add('bg-green-500', 'dark:bg-green-700', 'text-white');
+                            score++;
+                        } else {
+                            option.classList.add('bg-red-500', 'dark:bg-red-700', 'text-white');
+                        }
+                    }
+                    if ((question.answer === "T" && option.textContent.trim() === "TRUE") ||
+                        (question.answer === "F" && option.textContent.trim() === "FALSE")) {
+                        option.classList.add('bg-green-500', 'dark:bg-green-700', 'text-white');
+                    }
+                }
+            });
+
+            revealAnswer(question.answer, questionIndex);
+
+            if (isCorrect) {
+                setTimeout(() => {
+                    showNextQuestion();
+                }, 1000);
+            }
+        }
+
+        function revealAnswer(answer, index) {
+            const answerElement = document.getElementById(`answer-${index}`);
+            if (answerElement) {
+                let answerText = `Answer: `;
+                if (quizData[index].options) {
+                    const answerOption = quizData[index].options[answer];
+                    answerText += `${answer}) ${answerOption}`;
+                } else if (answer === "T") {
+                    answerText += "TRUE";
+                } else if (answer === "F") {
+                    answerText += "FALSE";
+                }
+                answerElement.textContent = answerText;
+                answerElement.classList.remove('hidden');
+            }
+        }
+
+        function showNextQuestion() {
+            if (currentQuestionIndex < quizData.length - 1) {
+                document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                currentQuestionIndex++;
+                document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                updateNavigationButtons();
+                updateProgressBar();
+            } else {
+                console.log("Quiz completed!");
+                const quizContainer = document.getElementById('quiz-container');
+                quizContainer.innerHTML = `
+                    <div class="text-center text-xl font-bold">Quiz Completed!</div>
+                    <div class="text-center mt-4">Your Score: ${score} / ${quizData.length}</div>
+                    <div class="flex justify-center mt-4">
+                        <button onclick="restartQuiz()" class="bg-primary-600 hover:bg-primary-700 text-white font-bold py-2 px-4 rounded">Restart Quiz</button>
+                    </div>
+                `;
+                document.querySelector('.navigation').classList.add('hidden');
+                document.querySelector('.progress-container').classList.add('hidden');
+                document.querySelector('.jump-to-question').classList.add('hidden');
+                document.getElementById('progress-text').textContent = '';
+            }
+        }
+
+        function showPreviousQuestion() {
+            if (currentQuestionIndex > 0) {
+                document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                currentQuestionIndex--;
+                document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                updateNavigationButtons();
+                updateProgressBar();
+            }
+        }
+
+        function updateNavigationButtons() {
+            document.getElementById('prev-btn').disabled = (currentQuestionIndex === 0);
+            document.getElementById('next-btn').disabled = (currentQuestionIndex === quizData.length - 1);
+        }
+
+        function updateProgressBar() {
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            const progress = ((currentQuestionIndex + 1) / quizData.length) * 100;
+            progressBar.style.width = `${progress}%`;
+            progressText.textContent = `${currentQuestionIndex + 1} / ${quizData.length}`;
+        }
+
+        function jumpToQuestion() {
+            const selectedQuestion = parseInt(document.getElementById('question-input').value);
+            if (!isNaN(selectedQuestion) && selectedQuestion >= 1 && selectedQuestion <= quizData.length) {
+                document.getElementById(`question-${currentQuestionIndex}`).classList.add('hidden');
+                currentQuestionIndex = selectedQuestion - 1;
+                document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
+                updateNavigationButtons();
+                updateProgressBar();
+            }
+        }
+
+        function toggleDarkMode() {
+            document.documentElement.classList.toggle('dark');
+        }
+
+        function restartQuiz() {
+            currentQuestionIndex = 0;
+            score = 0;
+            createQuiz();
+            updateProgressBar();
+            document.querySelector('.navigation').classList.remove('hidden');
+            document.querySelector('.progress-container').classList.remove('hidden');
+            document.querySelector('.jump-to-question').classList.remove('hidden');
+            document.getElementById('quiz-container').classList.remove('hidden');
+            document.getElementById('quiz-container').innerHTML = '';
+            createQuiz();
+        }
+
+        document.getElementById('toggle-dark-mode').addEventListener('click', toggleDarkMode);
+
+        loadQuizList();
+    </script>
+</body>
+
+</html>
