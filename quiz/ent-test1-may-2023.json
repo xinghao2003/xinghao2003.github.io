@@ -1,0 +1,302 @@
+{
+    "1": {
+        "question": "Which of the following is a myth about entrepreneurs?",
+        "answer": "B",
+        "options": {
+            "A": "Entrepreneurs are individuals with potential.",
+            "B": "Entrepreneurs should be young and energetic.",
+            "C": "Entrepreneurs are motivated by achievement.",
+            "D": "All the above"
+        }
+    },
+    "2": {
+        "question": "Entrepreneurship can BEST be described as ________.",
+        "answer": "D",
+        "options": {
+            "A": "having a strong vision.",
+            "B": "taking a significant risk in a business context.",
+            "C": "a process that requires setting up a business.",
+            "D": "a process involving innovation, new product or service, and value creation."
+        }
+    },
+    "3": {
+        "question": "Which of the following risks is borne by the entrepreneur?",
+        "answer": "A",
+        "options": {
+            "A": "Financial risks",
+            "B": "Personal risks",
+            "C": "Psychological risks",
+            "D": "All the above"
+        }
+    },
+    "4": {
+        "question": "Which of the following is NOT one of the three ways to identify opportunities?",
+        "answer": "C",
+        "options": {
+            "A": "Observing trends",
+            "B": "Solving a problem",
+            "C": "Seeking banks loan",
+            "D": "Finding gap in marketplace"
+        }
+    },
+    "5": {
+        "question": "The three ways to identify an opportunity include ________.",
+        "answer": "A",
+        "options": {
+            "A": "observing trends, solving a problem, and finding gaps in the marketplace.",
+            "B": "studying industry trade journals, talking to consumers, and solving problems.",
+            "C": "observing trends, conducting brainstorming sessions, and studying industry trade journals.",
+            "D": "observing trends, talking to consumers, and finding gaps in the marketplace."
+        }
+    },
+    "6": {
+        "question": "An opportunity has the following four essential qualities: ________.",
+        "answer": "A",
+        "options": {
+            "A": "attractive; timely; durable; and anchored in a product, service, or business that creates or adds value for its buyer or end user.",
+            "B": "practical; opportune; appropriate; and anchored in a product, service, or business that is efficient and effective.",
+            "C": "realistic; striking; timely; and anchored in a product, service, or business that is timely.",
+            "D": "attention-getting; attractive; timely; and anchored in a product, service, or business that creates or adds value for its buyer or end user."
+        }
+    },
+    "7": {
+        "question": "Which of the following is NOT one of the four areas of feasibility analysis?",
+        "answer": "C",
+        "options": {
+            "A": "Product/service feasibility",
+            "B": "Financial feasibility",
+            "C": "Societal feasibility",
+            "D": "Organizational feasibility"
+        }
+    },
+    "8": {
+        "question": "Product/service __________ and produce/services __________ are the factors of product/services feasibility.",
+        "answer": "D",
+        "options": {
+            "A": "value; affordability",
+            "B": "demand; timeliness",
+            "C": "durability; value",
+            "D": "desirability; demand"
+        }
+    },
+    "9": {
+        "question": "A(n) __________ is a group of firms producing a similar product or service and __________ is the limited portion of the industry that it goes after or to which it wants to appeal.",
+        "answer": "D",
+        "options": {
+            "A": "target market; industry",
+            "B": "trade group; industry",
+            "C": "competitive group; target market",
+            "D": "industry; target market"
+        }
+    },
+    "9=10": {
+        "question": "The major issues that can appear in organizational feasibility analysis are management prowess and ________.",
+        "answer": "B",
+        "options": {
+            "A": "target market attractiveness",
+            "B": "resource sufficiency",
+            "C": "industry attractiveness",
+            "D": "capital requirements"
+        }
+    },
+    "11": {
+        "question": "__________ research is research probes data collected by the person or persons completing the analysis. __________ research examines data that is already collected.",
+        "answer": "D",
+        "options": {
+            "A": "Indirect, Direct",
+            "B": "Direct, Indirect",
+            "C": "Primary, Derivative",
+            "D": "Primary, Secondary"
+        }
+    },
+    "12": {
+        "question": "Which of the following statements is typically NOT included in a concept statement?",
+        "answer": "C",
+        "options": {
+            "A": "A brief description of the company's management team.",
+            "B": "A description of how the product or service will be sold and distributed.",
+            "C": "A description of how much money the new venture needs.",
+            "D": "The benefits of the product or service."
+        }
+    },
+    "13": {
+        "question": "__________ is the process of determining whether a business idea is viable.",
+        "answer": "A",
+        "options": {
+            "A": "Feasibility analysis",
+            "B": "Opportunity recognition",
+            "C": "Viability analysis",
+            "D": "Achievability analysis"
+        }
+    },
+    "14": {
+        "question": "Which could provide an individual with the motivation to start a new business venture?",
+        "answer": "D",
+        "options": {
+            "A": "Financial rewards",
+            "B": "A desire to be independent.",
+            "C": "Risk taking",
+            "D": "All of the above"
+        }
+    },
+    "15": {
+        "question": "Which of the following is an INCORRECT approach to administering a concept test?",
+        "answer": "C",
+        "options": {
+            "A": "The concept statement shouldn't exceed one page.",
+            "B": "After the concept statement is developed, it should be shown to at least 10 people.",
+            "C": "The best candidates to distribute a concept statement to are family and friends.",
+            "D": "If time permits, a concept statement should be used in an iterative manner and distributed to several groups of people."
+        }
+    },
+    "16": {
+        "question": "A/B split testing, landing pages, prototyping services, and Web site usability testing are all online tools available to assist in the ________ stage of developing a business idea.",
+        "answer": "B",
+        "options": {
+            "A": "opportunity recognition",
+            "B": "feasibility analysis",
+            "C": "business model",
+            "D": "business plan"
+        }
+    },
+    "17": {
+        "question": "THREE (3) commonly utilized methods for determining product/service demand are ________.",
+        "answer": "D",
+        "options": {
+            "A": "assessing the overall financial attractiveness of the proposed venture, talking face-to-face with potential customers, and assessing industry attractiveness",
+            "B": "analyzing the financial performance of other businesses, talking face-to-face with potential customers, and assessing target market attractiveness",
+            "C": "assessing target market attractiveness; utilizing online tools, such as Google AdWords and landing pages; and calculating total startup cash needed",
+            "D": "talking face-to-face with potential customers; utilizing online tools, such as Google AdWords and landing pages; and library, Internet and purchase research"
+        }
+    },
+    "18": {
+        "question": "The TWO (2) components of industry/target market feasibility analysis are industry ________ and target market status.",
+        "answer": "B",
+        "options": {
+            "A": "status and target market status",
+            "B": "attractiveness and target market attractiveness",
+            "C": "efficiency and target market demand",
+            "D": "attractiveness and product/service demand"
+        }
+    },
+    "19": {
+        "question": "Which of the following statements about target markets is INCORRECT?",
+        "answer": "D",
+        "options": {
+            "A": "There is a distinct difference between a firm's industry and its target market.",
+            "B": "The challenge in identifying an attractive target market is to find a market that's large enough for the proposed business but is yet small enough to avoid attracting larger competitors.",
+            "C": "By focusing on a target market, a firm can usually avoid head-to-head competition with industry leaders and can focus on serving a specialized market very well.",
+            "D": "It's generally easier to find good information about a target market than an industry."
+        }
+    },
+    "20": {
+        "question": "TWO (2) of the most important factors to consider regarding \"management prowess\" are",
+        "answer": "A",
+        "options": {
+            "A": "the passion the sole entrepreneur or the management team has for the business idea and the extent to which the management team or sole entrepreneur understands the markets in which the firm will participate.",
+            "B": "whether the members of the management team have worked successfully together before and the passion the sole entrepreneur or the management team has for the business idea.",
+            "C": "whether the members of the management team are good \"networkers\" and the extent to which the management team or sole entrepreneur understands the markets in which the firm will participate.",
+            "D": "the educational and functional backgrounds of the management team or sole entrepreneur."
+        }
+    },
+    "21": {
+        "question": "Why are small businesses important to a country's economy?",
+        "answer": "D",
+        "options": {
+            "A": "They provide an outlet for entrepreneurs.",
+            "B": "They can provide specialist support to larger companies.",
+            "C": "They can be innovators of new products.",
+            "D": "All the above"
+        }
+    },
+    "22": {
+        "question": "The two general categories of business models are ________ and ________.",
+        "answer": "B",
+        "options": {
+            "A": "normal; unique",
+            "B": "standard; disruptive",
+            "C": "ordinary; revolutionary",
+            "D": "customary; unique"
+        }
+    },
+    "23": {
+        "question": "_________ business models show existing plans or recipes can be used to decide how they will create, deliver, and capture value for their stakeholders.",
+        "answer": "D",
+        "options": {
+            "A": "Revolutionary",
+            "B": "Normal",
+            "C": "Disruptive",
+            "D": "Standard"
+        }
+    },
+    "24": {
+        "question": "An entrepreneur is:",
+        "answer": "B",
+        "options": {
+            "A": "Born",
+            "B": "Made",
+            "C": "Born and Made",
+            "D": "All of the above"
+        }
+    },
+    "25": {
+        "question": "Google and its AdWords program is an example of a ________ disruptive business model.",
+        "answer": "B",
+        "options": {
+            "A": "low-end",
+            "B": "new market",
+            "C": "high-quality",
+            "D": "low-price"
+        }
+    },
+    "26": {
+        "question": "Which of the following companies introduced a disruptive business model?",
+        "answer": "A",
+        "options": {
+            "A": "Salesforce.com",
+            "B": "eBay",
+            "C": "Panera Bread",
+            "D": "Barnes & Noble"
+        }
+    },
+    "27": {
+        "question": "Jamie Finch is crafting the business model for her fashion design firm. She just completed the section that describes how her firm plans to compete relative to her rivals. Jamie just completed the ________ portion of her business model template.",
+        "answer": "B",
+        "options": {
+            "A": "operations",
+            "B": "core strategy",
+            "C": "resources",
+            "D": "strategic plan"
+        }
+    },
+    "28": {
+        "question": "A business's ________ statement describes why it exists and what its business model is supposed to accomplish.",
+        "answer": "D",
+        "options": {
+            "A": "values",
+            "B": "importance",
+            "C": "differentiation",
+            "D": "mission"
+        }
+    },
+    "29": {
+        "question": "A company's ________ scope defines the products and markets on which it will concentrate.",
+        "answer": "A",
+        "options": {
+            "A": "product/market",
+            "B": "offering/industry",
+            "C": "business/market",
+            "D": "business/industry"
+        }
+    },
+    "30": {
+        "question": "A firm's ________ market is a place within a larger market segment that represents a narrower group of customers with similar interests.",
+        "answer": "D",
+        "options": {
+            "A": "aspirational",
+            "B": "ambitious",
+            "C": "constrained",
+            "D": "target"
+        }
+    }
+}
