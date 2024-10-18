@@ -89,7 +89,7 @@
             "D": "industry; target market"
         }
     },
-    "9=10": {
+    "10": {
         "question": "The major issues that can appear in organizational feasibility analysis are management prowess and ________.",
         "answer": "B",
         "options": {
@@ -297,6 +297,256 @@
             "B": "ambitious",
             "C": "constrained",
             "D": "target"
+        }
+    },
+    "31": {
+        "question": " ________ is arguably the most important section of a business plan:",
+        "answer": "C",
+        "options": {
+            "A": "Industry analysis",
+            "B": "Customer analysis",
+            "C": "Executive summary",
+            "D": "Mission and vision statement"
+        }
+    },
+    "32": {
+        "question": "A start-up needs to know about the ________ in its target market so it can tailor its products or services appropriately.",
+        "answer": "C",
+        "options": {
+            "A": "inputs",
+            "B": "expertise",
+            "C": "consumers",
+            "D": "management capabilities"
+        }
+    },
+    "33": {
+        "question": "A(n) ________ plan is to start by articulating its marketing strategy, positioning, and points of differentiation, and then talk about how these overall aspects of the plan will be supported by price, promotional mix, and distribution strategy.",
+        "answer": "D",
+        "options": {
+            "A": "strategic",
+            "B": "business",
+            "C": "operation",
+            "D": "marketing"
+        }
+    },
+    "34": {
+        "question": "Many investors who read the business plan will look first at the executive summary and then go directly to the ________ section to assess the strength of the people starting the firm.",
+        "answer": "C",
+        "options": {
+            "A": "profit and loss",
+            "B": "idea generation",
+            "C": "management team",
+            "D": "viability and feasibility"
+        }
+    },
+    "35": {
+        "question": "Which of the following is the main purpose for writing a business plan?",
+        "answer": "C",
+        "options": {
+            "A": "The plan helps the company develop a \"road map\" to follow",
+            "B": "The plan introduces potential investors and other stakeholders to the business opportunity",
+            "C": "Both A and B are equally important",
+            "D": "Neither A nor B captures the true purpose of a business plan"
+        }
+    },
+    "36": {
+        "question": "These are true about business plans EXCEPT:",
+        "answer": "D",
+        "options": {
+            "A": "is a written narrative",
+            "B": "describes what a new business intends to accomplish",
+            "C": "describes how a new business intends to accomplish its goals",
+            "D": "informs shareholders and investors about the business directions and goals"
+        }
+    },
+    "37": {
+        "question": "The executive summary will usually appear at the beginning of the business plan. Usually, when we write a business plan, the executive summary should be written:",
+        "answer": "A",
+        "options": {
+            "A": "last",
+            "B": "as the idea progresses",
+            "C": "in a professional manner",
+            "D": "as the skeleton of the business plan"
+        }
+    },
+    "38": {
+        "question": "These will happen when writing a business plan EXCEPT:",
+        "answer": "A",
+        "options": {
+            "A": "consistent flow of idea(s)",
+            "B": "getting feedback from others",
+            "C": "new insights constantly emerge",
+            "D": "the plan will usually change while written"
+        }
+    },
+    "39": {
+        "question": "A business plan is important as it forces the founding team to systematically think through every aspect of their new venture, and it ________ .",
+        "answer": "D",
+        "options": {
+            "A": "is a budget",
+            "B": "is a public relations document that can be used to promote the firm",
+            "C": "is a contract that is signed ny the founders of the firm",
+            "D": "communicates the merits of a new venture to outsiders, such as investors and bankers"
+        }
+    },
+    "40": {
+        "question": "A ________ is a firm's plan on how it creates, delivers, and captures value for its stakeholders.",
+        "answer": "C",
+        "options": {
+            "A": "launch plan",
+            "B": "business plan",
+            "C": "business model",
+            "D": "commercialization plan"
+        }
+    },
+    "41": {
+        "question": "Which of the following is the proper sequence for when a firm should develop a business model?",
+        "answer": "D",
+        "options": {
+            "A": "Validation of the business idea, creating a growth plan, forming of the model.",
+            "B": "Opportunity recognition, fleshing out the operational details, business model.",
+            "C": "Preparation of the business model, validation of the idea, opportunity recognition",
+            "D": "Initial validation of the business idea, preparation of the business model, fleshing out the operational details of the firm."
+        }
+    },
+    "42": {
+        "question": "Angela is opening a women's fashion boutique that will focus on professional women that are 30-45 years old. The age range of women that Angela plans to focus on is referred to as her ________ market.",
+        "answer": "A",
+        "options": {
+            "A": "target",
+            "B": "ambitious",
+            "C": "controlled",
+            "D": "identifiable"
+        }
+    },
+    "43": {
+        "question": "In recognizing business models, which of the following statements is INCORRECT?",
+        "answer": "C",
+        "options": {
+            "A": "There is no perfect business model.",
+            "B": "There are two general types of business models.",
+            "C": "A firm's business model is confined to its own boundaries.",
+            "D": "Most of the standard business models have been in place for some time."
+        }
+    },
+    "44": {
+        "question": "When Peter was thinking about launching a small business consulting company, to get advice on how to proceed, he stopped by his local Small Business Administration (SBA) office. The SBA advisor told Peter that one of the first things he needs to do is to sit down and write a 25-to-35-page narrative that describes what his new business plans to accomplish and how it plans to accomplish it. The SBA advisor is telling Peter to write a(n) _______.",
+        "answer": "B",
+        "options": {
+            "A": "tactical plan",
+            "B": "business plan",
+            "C": "marketing plan",
+            "D": "operations plan"
+        }
+    },
+    "45": {
+        "question": "Lionel has created a business model for his firm which is based on the current plan, or template for how firms in his industry create, deliver, and capture value for their shareholders. In this case, Lionel has crafted a ________ business model.",
+        "answer": "B",
+        "options": {
+            "A": "normal",
+            "B": "standard",
+            "C": "disruptive",
+            "D": "customary"
+        }
+    },
+    "46": {
+        "question": "________ business models are ones that do not fit the profile of standard business models and are impactful enough to change the way business is conducted in an industry.",
+        "answer": "C",
+        "options": {
+            "A": "Unique",
+            "B": "Normal",
+            "C": "Disruptive",
+            "D": "Incomparable"
+        }
+    },
+    "47": {
+        "question": "The first component in the Barringer/Ireland Business Model Template is ________.",
+        "answer": "B",
+        "options": {
+            "A": "target market",
+            "B": "core Strategy",
+            "C": "revenue streams",
+            "D": "product/market scope"
+        }
+    },
+    "48": {
+        "question": "A firm's ________ market is a place within a larger market segment that represents a narrower group of customers with similar interests.",
+        "answer": "A",
+        "options": {
+            "A": "target",
+            "B": "ambitious",
+            "C": "aspirational",
+            "D": "constrained"
+        }
+    },
+    "49": {
+        "question": "The two primary audiences for a business plan are ________ and ________.",
+        "answer": "C",
+        "options": {
+            "A": "a firm's customers; its competitors",
+            "B": "officials with the SEC; public relations firms",
+            "C": "a firm's employees and investors; other external stakeholders",
+            "D": "investors; other external stakeholders and public relations firms"
+        }
+    },
+    "50": {
+        "question": "Which one of the following statements is INCORRECT about business plans?",
+        "answer": "D",
+        "options": {
+            "A": "A business plan is typically 25 to 35 pages long.",
+            "B": "The business plan should be written while the feasibility analysis is completed.",
+            "C": "For most new ventures, the business plan is used both inside and outside the firm.",
+            "D": "A large percentage of entrepreneurs do not write business plans for their ventures."
+        }
+    },
+    "51": {
+        "question": "The ________ is a short overview of the entire business plan.",
+        "answer": "B",
+        "options": {
+            "A": "managerial review",
+            "B": "executive summary",
+            "C": "summary statement",
+            "D": "founder's introduction"
+        }
+    },
+    "52": {
+        "question": "Industry structure refers to how ________ an industry is.",
+        "answer": "D",
+        "options": {
+            "A": "hierarchical or flat",
+            "B": "traditional or progressive",
+            "C": "innovative or conservative",
+            "D": "concentrated or fragmented"
+        }
+    },
+    "53": {
+        "question": "Which one of the following is NOT a recommended guideline for writing a business plan?",
+        "answer": "D",
+        "options": {
+            "A": "For most plans, 25 to 35 pages is sufficient.",
+            "B": "A business plan needs to project a sense of anticipation and excitement.",
+            "C": "A business plan should look sharp, but not a lot of money should be spent on it.",
+            "D": "To make the best impression, a business plan should follow an unconventional structure and stand out in some dramatic way."
+        }
+    },
+    "54": {
+        "question": "Which of the following is INCORRECT regarding the executive summary of a business plan?",
+        "answer": "D",
+        "options": {
+            "A": "It should not exceed two single-spaced pages.",
+            "B": "It is arguably the most important section of the business plan.",
+            "C": "In many instances, an investor will first ask for a copy of a firm's executive summary.",
+            "D": "The executive summary is the first thing that should be written in preparing a business plan."
+        }
+    },
+    "55": {
+        "question": "Which one of the following is NOT an individual, group or institution that normally reads a company's business plan?",
+        "answer": "C",
+        "options": {
+            "A": "Board of directors",
+            "B": "State and local government officials",
+            "C": "Key recruits for jobs with the new firm",
+            "D": "Potential alliance partners and major customers"
         }
     }
 }
