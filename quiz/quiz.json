@@ -36,11 +36,39 @@
         "file": "ent-chapter5-6e.json"
     },
     {
+        "name": "Enterpreneurship Chapter 6a - 6e",
+        "file": "ent-chapter6a-6e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 6b - 5e",
+        "file": "ent-chapter6b-5e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 7 - 5e",
+        "file": "ent-chapter7-6e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 8a - 6e",
+        "file": "ent-chapter8a-6e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 8b - 6e",
+        "file": "ent-chapter8b-6e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 9 - 6e",
+        "file": "ent-chapter9-6e.json"
+    },
+    {
+        "name": "Enterpreneurship Chapter 11 - 6e",
+        "file": "ent-chapter11-6e.json"
+    },
+    {
         "name": "Enterpreneurship Past Test - C1 to C5",
         "file": "ent-past-test-c1-c5.json"
     },
     {
-        "name": "Enterpreneurship Past Test - C6 to C10",
+        "name": "Enterpreneurship Past Test - C6 to C11",
         "file": "ent-past-test-c6-c10.json"
     },
     {

@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "Uptown Cheapskate, the company profiled in the opening feature of Chapter 15, was started by Chelsea and Scott Sloan. According to the feature, Chelsea and Scott decided to grow Uptown Cheapskate via franchising because they wanted to",
+        "answer": "A",
+        "options": {
+            "A": "grow quickly without making a huge investment in real estate",
+            "B": "capture the prestige of being a franchise organization",
+            "C": "maintain maximum control of their business while at the same time maximizing profits",
+            "D": "grow quickly while at the same time maintaining maximum control of their business",
+            "E": "grow slowly while at the same time maximizing profits"
+        }
+    },
+    "2": {
+        "question": "Which of the following statements is incorrect regarding franchising?",
+        "answer": "C",
+        "options": {
+            "A": "In some industries, such as automotive and retail food, franchising is a dominant form of business ownership and growth.",
+            "B": "There are some instances in which franchising is not appropriate.",
+            "C": "Franchising is a relatively new form of business organization.",
+            "D": "Franchising, by its very nature, involves the sharing of knowledge between a franchisor and a franchisee.",
+            "E": "Franchising is a relatively poorly understood form of business ownership and growth."
+        }
+    },
+    "3": {
+        "question": "____ is a form of business ownership in which a firm that already has a successful product or service licenses its trademark and method of doing business to other businesses in exchange for an initial franchise fee and an ongoing royalty.",
+        "answer": "D",
+        "options": {
+            "A": "Licensing",
+            "B": "Joint Venturing",
+            "C": "Contracting",
+            "D": "Franchising",
+            "E": "Sub-Contracting"
+        }
+    },
+    "4": {
+        "question": "Franchising is a form of business ownership in which a firm that already has a successful product or service licenses its trademark and method of doing business to another business in exchange for",
+        "answer": "A",
+        "options": {
+            "A": "an initial franchise fee and an ongoing royalty",
+            "B": "a one-time franchise fee",
+            "C": "an equity position in the new business",
+            "D": "an ongoing royalty",
+            "E": "an initial franchise fee and an equity position in the new business"
+        }
+    },
+    "5": {
+        "question": "According to the textbook, the Comfort Keepers business idea lends itself to franchising because the",
+        "answer": "E",
+        "options": {
+            "A": "company has the ability to grow profitably and has a good trademark",
+            "B": "company's business concept is easy to teach and individual Comfort Keeper outlets are inexpensive to open and operate",
+            "C": "company has new technology to introduce to the marketplace",
+            "D": "company has intellectual property and the ability to grow quickly",
+            "E": "company has a good trademark and a good business method"
+        }
+    },
+    "6": {
+        "question": "The two distinctly different types of franchise systems are ____ franchise and ____ franchise.",
+        "answer": "E",
+        "options": {
+            "A": "product trademark; business arrangement",
+            "B": "product plus; business format",
+            "C": "business design; product improvement",
+            "D": "product extension; business design",
+            "E": "product trademark; business format"
+        }
+    },
+    "7": {
+        "question": "A ____ franchise is an arrangement under which the franchisor grants to the franchisee the right to buy its products and use its trade name.",
+        "answer": "A",
+        "options": {
+            "A": "product and trademark",
+            "B": "product extension",
+            "C": "business format",
+            "D": "production plus",
+            "E": "business design"
+        }
+    },
+    "8": {
+        "question": "General Motors operates a ____ franchise system.",
+        "answer": "C",
+        "options": {
+            "A": "product format and trademark",
+            "B": "product extension",
+            "C": "product and trademark",
+            "D": "business format",
+            "E": "business format and trademark"
+        }
+    },
+    "9": {
+        "question": "James Ryan has been a Coors Beer distributor for the past 20 years. James owns a ____ franchise.",
+        "answer": "B",
+        "options": {
+            "A": "business format",
+            "B": "product and trademark",
+            "C": "business design",
+            "D": "product plus",
+            "E": "product and business format"
+        }
+    },
+    "10": {
+        "question": "Which of the following statements is incorrect regarding product and trademark franchises?",
+        "answer": "C",
+        "options": {
+            "A": "Rather than obtaining a royalty or franchise fee, the product and trademark franchisor obtains the majority of its income from selling its products to its dealers or distributors at a markup.",
+            "B": "Ford Motors establishes product trademark rather than business format franchises.",
+            "C": "Product trademark franchises are more popular than business format franchises.",
+            "D": "Product and trademark franchisees are typically permitted to operate in a fairly autonomous manner.",
+            "E": "A product trademark franchise typically connects a single manufacturer with a network of dealers or distributors."
+        }
+    },
+    "11": {
+        "question": "Melanie Jacobs recently opened a Papa John's franchise. So far, she is very satisfied with Papa John's because in exchange for an initial franchise fee and an ongoing royalty payment, Papa John's has provided Melanie a formula for doing business along with training, advertising, and other forms of assistance. Melanie purchased a ____ franchise.",
+        "answer": "E",
+        "options": {
+            "A": "business extension",
+            "B": "formula driven",
+            "C": "sales extension",
+            "D": "product and trademark",
+            "E": "business format"
+        }
+    },
+    "12": {
+        "question": "Which of the following statements is correct regarding business format franchises?",
+        "answer": "B",
+        "options": {
+            "A": "Business format franchises are less popular than product and trademark franchises.",
+            "B": "A business format franchise can be very rigid and demanding.",
+            "C": "Agricultural machinery dealerships and soft-drink bottlers are well-known examples of business format franchises.",
+            "D": "Business format franchises are illegal in some states.",
+            "E": "The business format franchisor obtains the majority of its income from selling its products to its dealers at a markup."
+        }
+    },
+    "13": {
+        "question": "Which of the following is NOT an industry in which business format franchises predominate?",
+        "answer": "A",
+        "options": {
+            "A": "Soft drink bottlers",
+            "B": "Business services",
+            "C": "Hotels and motels",
+            "D": "Quick service restaurants",
+            "E": "Automotive service and repair"
+        }
+    },
+    "14": {
+        "question": "A(n) ____ franchise agreement involves the sale of a single franchise for a specific location.",
+        "answer": "A",
+        "options": {
+            "A": "individual",
+            "B": "one-of-a-kind",
+            "C": "sole",
+            "D": "defined",
+            "E": "general"
+        }
+    },
+    "15": {
+        "question": "Jenna Page recently entered into an agreement with Anytime Fitness to open five Anytime Fitness franchises. According to the agreement that Jenna entered into, she has the right to open up to five Anytime Fitness franchises within the city limits of Lawrence, Kansas. Jenna has entered into a(n) ____ franchise agreement.",
+        "answer": "D",
+        "options": {
+            "A": "individual",
+            "B": "district",
+            "C": "locality",
+            "D": "area",
+            "E": "city"
+        }
+    },
+    "16": {
+        "question": "A master franchisee, in addition to having the right to open and operate a specific number of locations in a particular area, also has the right to",
+        "answer": "C",
+        "options": {
+            "A": "stop making royalty payments if its sales decline",
+            "B": "sell products made by companies other than the franchisor",
+            "C": "offer and sell the franchise to other people in its area",
+            "D": "use its own operating manuals to run its franchise outlets",
+            "E": "stop making royalty payments if it is losing money"
+        }
+    },
+    "17": {
+        "question": "The people who buy franchises from master franchises are typically called ____ franchisees.",
+        "answer": "E",
+        "options": {
+            "A": "minor",
+            "B": "secondary",
+            "C": "mini",
+            "D": "subordinate",
+            "E": "sub"
+        }
+    },
+    "18": {
+        "question": "A multiple-unit franchisee is a person who owns",
+        "answer": "C",
+        "options": {
+            "A": "franchise outlets from more than one franchisor",
+            "B": "both product and trademark franchise outlets and business format franchise outlets",
+            "C": "and operates more than one outlet of the same franchisor",
+            "D": "more than 10 franchise outlets",
+            "E": "franchise units from multiple franchisors"
+        }
+    },
+    "19": {
+        "question": "Franchising is a form of business organization in which a firm that already has a successful product or service licenses its trademark and method of doing business to other businesses in exchange for an initial franchise fee and an ongoing royalty.",
+        "answer": "true"
+    },
+    "20": {
+        "question": "A product and trademark franchise typically connects a single manufacturer with a network of dealers or distributors.",
+        "answer": "true"
+    },
+    "21": {
+        "question": "A Pepsi Cola bottling dealership is an example of a business format franchise.",
+        "answer": "false"
+    },
+    "22": {
+        "question": "In a business format franchise, the franchisor provides a formula for doing business to the franchisee along with training, advertising, and other forms of assistance.",
+        "answer": "true"
+    },
+    "23": {
+        "question": "Business format franchises typically allow franchisees substantial flexibility in how they run their individual franchise units.",
+        "answer": "false"
+    },
+    "24": {
+        "question": "An area franchise agreement allows a franchisee to own and operate a specific number of outlets in a particular geographic area.",
+        "answer": "true"
+    },
+    "25": {
+        "question": "The people who buy franchises from master franchisees are typically called employee-franchisees.",
+        "answer": "false"
+    },
+    "26": {
+        "question": "From the franchisor's point of view, which of the following is incorrect regarding franchising?",
+        "answer": "B",
+        "options": {
+            "A": "Establishing a franchise system should be approached carefully and deliberately.",
+            "B": "Franchising is a relatively simple business endeavor.",
+            "C": "Franchising involves managerially demanding tasks.",
+            "D": "Over the years a number of fraudulent franchise organizations have come and gone.",
+            "E": "Franchising is a fairly heavily regulated form of business ownership."
+        }
+    },
+    "27": {
+        "question": "Franchising is appropriate when a",
+        "answer": "B",
+        "options": {
+            "A": "firm's business methods are not polished, it has a desire to grow, and it is trying to commercialize a technology product",
+            "B": "firm has a strong trademark, a desire to grow, and a well-designed business method",
+            "C": "firm is trying to commercialize a technology product, it is well-funded, and it has a desire to grow",
+            "D": "firm has a weak trademark, it is well-funded, and it has a desire to grow",
+            "E": "firm has a desire to grow, it has a well-designed business method, and it is well funded"
+        }
+    },
+    "28": {
+        "question": "Which of the following companies is suitable for franchising?",
+        "answer": "C",
+        "options": {
+            "A": "Home Depot",
+            "B": "Dropbox",
+            "C": "Qdoba Mexican Grill",
+            "D": "Walmart",
+            "E": "GoPro"
+        }
+    },
+    "29": {
+        "question": "The Savvy Entrepreneurial Firm feature in Chapter 15 focuses on Wahoo's Fish Taco, a franchise organization that offers Mexican food mixed with Brazilian and Asian flavors. According to the feature, one of the things the founders of Wahoo's did that has contributed to its success is elect to make Wahoo's",
+        "answer": "A",
+        "options": {
+            "A": "a relatively slow growth system, focusing on branding and service quality rather than rapid growth",
+            "B": "a nationwide system, operating in all 50 states",
+            "C": "an extremely affordable system to buy into, with a $9,000 original franchise fee and an ongoing royalty of only 2 1/2 percent",
+            "D": "a niche franchise that is only available in theme parks and food courts of malls",
+            "E": "a fast growth system to establish a clear first-mover advantage in its niche"
+        }
+    },
+    "30": {
+        "question": "According to our textbook, which of the following is NOT a quality to look for in prospective franchisees?",
+        "answer": "A",
+        "options": {
+            "A": "Individual, rather than team-oriented",
+            "B": "Ability to follow instructions",
+            "C": "Experience in the industry in which the franchisee operates",
+            "D": "Ability to operate with minimal supervision",
+            "E": "Adequate financial resources and a good credit history"
+        }
+    },
+    "31": {
+        "question": "Franchising is a popular form of business growth.",
+        "answer": "true"
+    },
+    "32": {
+        "question": "Home Depot is an example of an organization that is perfectly suited for franchising.",
+        "answer": "false"
+    },
+    "33": {
+        "question": "An individual who is team oriented and has experience in the industry in which the franchise competes is a good candidate to be a franchisee.",
+        "answer": "true"
+    },
+    "34": {
+        "question": "According to a concept called ____ theory, it is more effective for the units of a growing chain to be run by franchisees than by managers because managers are usually paid a salary and may not be as committed to the success of their individual units as franchisees, who are in effect the owners of the units they manage.",
+        "answer": "C",
+        "options": {
+            "A": "incentive",
+            "B": "stimulus",
+            "C": "agency",
+            "D": "stewardship",
+            "E": "motivation"
+        }
+    },
+    "35": {
+        "question": "According to the textbook, from the franchisor's point of view, the primary disadvantage of franchising is that",
+        "answer": "B",
+        "options": {
+            "A": "it is a poorly understood form of business ownership",
+            "B": "an organization allows others to profit from its trademark and business method",
+            "C": "franchise organizations consistently make less money than alternative forms of business ownership",
+            "D": "it typically takes longer to grow an organization via franchising than company-owned stores",
+            "E": "it is not legal in seven states and the District of Columbia"
+        }
+    },
+    "36": {
+        "question": "Which of the following is a company that is suitable for franchising but has a relatively small number of franchise outlets?",
+        "answer": "D",
+        "options": {
+            "A": "Anytime Fitness",
+            "B": "Hampton Inn Hotels",
+            "C": "McDonalds",
+            "D": "Starbucks",
+            "E": "The UPS Store"
+        }
+    },
+    "37": {
+        "question": "Which of the following was NOT identified in the textbook as one of the disadvantages of franchising a business?",
+        "answer": "C",
+        "options": {
+            "A": "Loss of control",
+            "B": "Friction with franchisees",
+            "C": "Franchisee motivation",
+            "D": "Differences in required business skills",
+            "E": "Legal expenses"
+        }
+    },
+    "38": {
+        "question": "An advantage of franchising, from the franchisors point of view, is that franchising helps a venture grow because the franchisees provide the majority of the capital.",
+        "answer": "true"
+    },
+    "39": {
+        "question": "A management concept called agency theory refutes the value of franchising for organizations with multiple units, like restaurant chains.",
+        "answer": "false"
+    },
+    "40": {
+        "question": "The What Went Wrong feature in Chapter 15 focuses on Sbarro's, the pizza chain. One of the main reasons for Sbarro's failure was the",
+        "answer": "A",
+        "options": {
+            "A": "decline in mall traffic",
+            "B": "high prices of products",
+            "C": "poor quality of products",
+            "D": "dispute with franchisees",
+            "E": "high number of franchises"
+        }
+    },
+    "41": {
+        "question": "According to the textbook, which of the following is NOT a cost that is typically associated with buying a franchise?",
+        "answer": "C",
+        "options": {
+            "A": "Advertising fees",
+            "B": "Continuing royalty payments",
+            "C": "Trademark acquisition fee",
+            "D": "Initial franchise fee",
+            "E": "Capital requirements"
+        }
+    },
+    "42": {
+        "question": "According to the textbook, a franchisee's weekly or monthly royalty fees are typically around ____ percent of gross income.",
+        "answer": "D",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        }
+    },
+    "43": {
+        "question": "In the majority of cases, a franchisee pays the franchisor a royalty based on ____.",
+        "answer": "D",
+        "options": {
+            "A": "a predetermined fixed weekly or monthly amount",
+            "B": "weekly or monthly net income",
+            "C": "the size of the franchise outlet",
+            "D": "weekly or monthly gross income",
+            "E": "the age of the franchise outlet"
+        }
+    },
+    "44": {
+        "question": "Advertising fees that franchisees have to pay the franchisor are typically less than ____ percent of gross income.",
+        "answer": "C",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        }
+    },
+    "45": {
+        "question": "There are two primary advantages to buying a franchise over other forms of business ownership. First, the franchisor typically provides training, technical expertise, and other forms of support, and second,",
+        "answer": "D",
+        "options": {
+            "A": "franchising is almost a sure way of making a profit",
+            "B": "a franchise agreement is typically easy to exit if expectations aren't met",
+            "C": "franchisors typically encourage creativity on the part of franchisees",
+            "D": "the franchisor provides an entrepreneur the ability to own a business using a tested and refined business method",
+            "E": "franchise organizations are consistently more profitable than non-franchise organizations in the same industry"
+        }
+    },
+    "46": {
+        "question": "According to the textbook, the main disadvantage of buying a franchise is",
+        "answer": "C",
+        "options": {
+            "A": "franchise organizations typically grow slower than non-franchise organizations in the same industry",
+            "B": "franchisors typically provide poor levels of support",
+            "C": "the cost involved",
+            "D": "the service sector of the U.S. economy is waning in importance",
+            "E": "franchising is waning in its popularity"
+        }
+    },
+    "47": {
+        "question": "Which of the following is NOT an advantage of buying a franchise?",
+        "answer": "E",
+        "options": {
+            "A": "A proven product or service within an established system",
+            "B": "Franchisor ongoing support",
+            "C": "Availability of financing",
+            "D": "Potential for business growth",
+            "E": "Duration and nature of the commitment"
+        }
+    },
+    "48": {
+        "question": "All of the following are advantages to buying a franchise except",
+        "answer": "A",
+        "options": {
+            "A": "restrictions on creativity",
+            "B": "potential for business growth",
+            "C": "availability of financing",
+            "D": "a proven product or service within an established market",
+            "E": "franchisor's ongoing support"
+        }
+    },
+    "49": {
+        "question": "In the majority of cases, a franchisee pays a royalty based on a percentage of weekly or monthly net income.",
+        "answer": "false"
+    },
+    "50": {
+        "question": "Franchisees are often required to pay into a national or regional advertising fund, even if the advertisements are directed at goals other than promoting the franchisor's product or service.",
+        "answer": "true"
+    },
+    "51": {
+        "question": "The royalty fees a franchisee pays are usually around four to five percent of gross income.",
+        "answer": "true"
+    },
+    "52": {
+        "question": "One of the most important questions a prospective franchisor should consider is whether the fees and royalties charged by a franchisor are consistent with the franchise's value or worth.",
+        "answer": "true"
+    },
+    "53": {
+        "question": "According to the textbook, the first rule of buying a franchise is",
+        "answer": "E",
+        "options": {
+            "A": "asking for a copy of the franchisor's annual report",
+            "B": "checking the profitability of similar franchises",
+            "C": "making sure the franchisor's industry is conductive to franchising",
+            "D": "making proper arrangements for financing",
+            "E": "not making a hasty decision"
+        }
+    },
+    "54": {
+        "question": "To avoid making a hasty judgment, a franchisee may not purchase a franchise for ____ days from the time the Franchise Disclosure Document is received.",
+        "answer": "D",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "10",
+            "D": "14",
+            "E": "30"
+        }
+    },
+    "55": {
+        "question": "The ____ contains 23 categories of information that give a prospective franchisee a broad base of information about the background and financial health of the franchisor.",
+        "answer": "D",
+        "options": {
+            "A": "Franchise Due Diligence Certificate",
+            "B": "Franchise Offering Contract",
+            "C": "Standardized Franchise Contract",
+            "D": "Franchise Disclosure Document",
+            "E": "Franchise Code of Conduct"
+        }
+    },
+    "56": {
+        "question": "The Franchise Disclosure Document is accepted in (or by) ____.",
+        "answer": "D",
+        "options": {
+            "A": "11 states",
+            "B": "all 50 states, all of Canada, and parts of Mexico",
+            "C": "39 states and all of Canada",
+            "D": "all 50 states and parts of Canada",
+            "E": "all nations participating in the North America Free Trade Agreement"
+        }
+    },
+    "57": {
+        "question": "The Franchise Disclosure Document contains ____ categories of information.",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "14",
+            "C": "23",
+            "D": "35",
+            "E": "44"
+        }
+    },
+    "58": {
+        "question": "The document that consummates the sale of a franchise is called the ____.",
+        "answer": "B",
+        "options": {
+            "A": "franchise disclosure document",
+            "B": "franchise agreement",
+            "C": "license agreement",
+            "D": "uniform franchise contract",
+            "E": "franchise circular"
+        }
+    },
+    "59": {
+        "question": "While franchise agreements vary, each agreement typically contains these sections: the ____ agreement and the ____ agreement.",
+        "answer": "E",
+        "options": {
+            "A": "statutory; purchase",
+            "B": "franchise; buy",
+            "C": "buy; membership",
+            "D": "procurement; statutory",
+            "E": "purchase; franchise"
+        }
+    },
+    "60": {
+        "question": "While franchise agreements vary, each agreement typically contains the purchase agreement and the ____ agreement.",
+        "answer": "E",
+        "options": {
+            "A": "legal",
+            "B": "procurement",
+            "C": "conversion",
+            "D": "sell",
+            "E": "franchise"
+        }
+    },
+    "61": {
+        "question": "In addition to FTC disclosure requirements, ____ states have laws providing additional protection to franchisees.",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "10",
+            "C": "15",
+            "D": "33",
+            "E": "47"
+        }
+    },
+    "62": {
+        "question": "The Franchise Disclosure Document contains a total of 23 categories of information that give a prospective franchisee a broad base of information about the background and financial health of the franchisor.",
+        "answer": "true"
+    },
+    "63": {
+        "question": "A prospective franchisee should fully understand all the information contained in the Franchise Disclosure Document before a franchise agreement is signed.",
+        "answer": "true"
+    },
+    "64": {
+        "question": "The Franchise Disclosure Document is the document that consummates the sale of a franchise.",
+        "answer": "false"
+    },
+    "65": {
+        "question": "According to a recent FTC report, instances of problems between franchisors and their franchisees tend to be",
+        "answer": "B",
+        "options": {
+            "A": "prevalent practices",
+            "B": "isolated occurrences",
+            "C": "nonexistent",
+            "D": "prevalent practices for product and trademark franchise systems and isolated occurrences for business format franchise systems",
+            "E": "isolated occurrences for product and trademark franchise systems and prevalent practices for business format franchise systems"
+        }
+    },
+    "66": {
+        "question": "International opportunities for franchising are becoming",
+        "answer": "D",
+        "options": {
+            "A": "less prevalent",
+            "B": "neither more nor less prevalent",
+            "C": "more prevalent for product and trademark franchise systems and less prevalent for business format franchise systems",
+            "D": "more prevalent",
+            "E": "less prevalent for product and trademark franchise systems and more prevalent for business format franchise systems"
+        }
+    },
+    "67": {
+        "question": "In regard to international franchising, under a(n) ____ franchise agreement, the U.S. franchisor grants the rights to an individual or company (the developer) to develop multiple franchised businesses within a country or territory.",
+        "answer": "D",
+        "options": {
+            "A": "indirect",
+            "B": "global",
+            "C": "concurrent",
+            "D": "direct",
+            "E": "express"
+        }
+    },
+    "68": {
+        "question": "Jim Pierce just purchased the rights to develop multiple School of Rock franchises in Germany. Jim just purchased a(n) ____ franchise arrangement.",
+        "answer": "D",
+        "options": {
+            "A": "concurrent",
+            "B": "indirect",
+            "C": "lateral",
+            "D": "direct",
+            "E": "subordinate"
+        }
+    },
+    "69": {
+        "question": "In the context of international franchising, under a ____ franchise arrangement, the U.S. firm grants the rights to an individual or company (the master franchisee) to develop one or more franchise businesses and to license others to develop one or more franchise businesses within the country.",
+        "answer": "A",
+        "options": {
+            "A": "master",
+            "B": "direct",
+            "C": "subordinate",
+            "D": "concurrent",
+            "E": "multinational"
+        }
+    },
+    "70": {
+        "question": "The majority of franchisors are highly ethical individuals who are interested only in making a fair return on their investment.",
+        "answer": "true"
+    }
+}

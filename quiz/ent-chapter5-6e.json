@@ -1,652 +1,652 @@
 {
-  "1": {
-    "question": "Athletic Propulsion Labs, the company profiled in the opening feature of Chapter 6, makes \nathletic shoes that give the wearer extra bounce. One of factors that made the founders' initial  \nbusiness plan seemingly unrealistic was the price point. The price point in the original busine ss \nplan was $________.",
-    "answer": "A",
-    "options": {
-      "A": "300",
-      "B": "200",
-      "C": "100",
-      "D": "25",
-      "E": "40"
+    "1": {
+        "question": "Athletic Propulsion Labs, the company profiled in the opening feature of Chapter 6, makes \nathletic shoes that give the wearer extra bounce. One of factors that made the founders' initial  \nbusiness plan seemingly unrealistic was the price point. The price point in the original busine ss \nplan was $________.",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "200",
+            "C": "100",
+            "D": "25",
+            "E": "40"
+        }
+    },
+    "2": {
+        "question": "Peter Watson is thinking about launching a small business consulting company. To get  advice \non how to proceed, he stopped by his local Small Business Administration (SB\nSBA advisor told Peter that one of the first things he needs to do is to sit down and write a 25 to \n35 page narrative that describes what his new business plans to accomplish and how it plans t o \naccomplish it. The SBA advisor is telling Peter to write a(n) ________.",
+        "answer": "D",
+        "options": {
+            "A": "tactical plan",
+            "B": "marketing plan",
+            "C": "operations plan",
+            "D": "business plan",
+            "E": "feasibility analysis"
+        }
+    },
+    "3": {
+        "question": "Which of the following is the main purpose for writing a business plan?\n\n\n\n\n\nimportant for inexperienced entrepreneurs.",
+        "answer": "C",
+        "options": {
+            "A": "The plan helps the company develop a \"road map\" to follow.",
+            "B": "The plan introduces potential investors and other stakeholders to the business opportunity.",
+            "C": "Both A and B are equally important.",
+            "D": "Neither A nor B captures the true purpose of a business plan.",
+            "E": "Reason A is the most important for experienced entrepreneurs and reason B is the most"
+        }
+    },
+    "4": {
+        "question": "According to the textbook, a business plan is best described as a(n) ________.",
+        "answer": "A",
+        "options": {
+            "A": "narrative description of a new business",
+            "B": "contract",
+            "C": "budget",
+            "D": "agreement",
+            "E": "marketing initiative"
+        }
+    },
+    "5": {
+        "question": "A 2015 Wells Fargo/Gallup Small Business Index Survey found that only ________ percent of\nbusiness owners have a formal business plan.",
+        "answer": "D",
+        "options": {
+            "A": "10",
+            "B": "15",
+            "C": "27",
+            "D": "33",
+            "E": "42"
+        }
+    },
+    "6": {
+        "question": "A business plan is important as it forces the founding team to systematically think t hrough \nevery aspect of their new venture, and it ________.",
+        "answer": "E",
+        "options": {
+            "A": "is a budget",
+            "B": "is a public relations document that can be used to promote the firm",
+            "C": "is a contract that is signed by the founders of the firm",
+            "D": "is a financial analysis",
+            "E": "communicates the merits of a new venture to outsiders, such as investors and bankers"
+        }
+    },
+    "7": {
+        "question": "A commercialization plan is a written narrative that describes what a new busines s plans to \naccomplish and how it plans to accomplish it.",
+        "answer": "F"
+    },
+    "8": {
+        "question": "According to studies cited in the book, a large percentage of entrepreneurs write business \nplans for their ventures.",
+        "answer": "F"
+    },
+    "9": {
+        "question": "For most new ventures, the business plan is a dual-purpose document used both inside and \noutside the firm.",
+        "answer": "T"
+    },
+    "10": {
+        "question": "A business plan can usually be completed in one to three days.",
+        "answer": "F"
+    },
+    "11": {
+        "question": "Which of the following statements is incorrect about business plans?\n\ntheir new venture.\n\noutside the firm.",
+        "answer": "E",
+        "options": {
+            "A": "Writing a business plan forces a firm's founders to systematically think through each aspe ct of",
+            "B": "For most new ventures, the business plan is a dual-purpose document used both inside and",
+            "C": "A business plan is typically 25 to 35 pages long.",
+            "D": "A large percentage of entrepreneurs do not write business plans for their new ventures.",
+            "E": "The business plan should be written while the feasibility analysis is being complet ed."
+        }
+    },
+    "12": {
+        "question": "The document that does the best job of introducing potential investors and other stakeholders\nwith the business opportunity the firm is pursuing and how it plans to pursue it is the ________.",
+        "answer": "A",
+        "options": {
+            "A": "business plan",
+            "B": "feasibility analysis",
+            "C": "opportunity analysis",
+            "D": "industry analysis",
+            "E": "marketing plan"
+        }
+    },
+    "13": {
+        "question": "The two primary audiences for a business plan are ________ and ________.",
+        "answer": "E",
+        "options": {
+            "A": "a firm's employees; officials with the SEC",
+            "B": "a firm's customers; its competitors",
+            "C": "investors; other external stakeholders and public relations firms",
+            "D": "officials with the SEC; public relations firms",
+            "E": "a firm's employees and investors; other external stakeholders"
+        }
+    },
+    "14": {
+        "question": "The two primary audiences for a business plan are investors and other external stakeholders \nand ________.",
+        "answer": "B",
+        "options": {
+            "A": "officials with the SEC",
+            "B": "a firm's employees",
+            "C": "a firm's competitors",
+            "D": "a firm's customers",
+            "E": "public relations firms"
+        }
+    },
+    "15": {
+        "question": "Which of the following is NOT  an individual, group or institution that normally reads a \ncompany's business plan?",
+        "answer": "C",
+        "options": {
+            "A": "Board of directors",
+            "B": "Potential alliance partners and major customers",
+            "C": "State and local government officials",
+            "D": "Key recruits for jobs with the new firm",
+            "E": "Rank-and-file employees"
+        }
+    },
+    "16": {
+        "question": "Which of the following is NOT  a recommended guideline for writing a business plan?\n\nstand out in some dramatic way.\n\nthat surround a new venture.\n\n\nappearance of the plan.\n\ncolors when preparing a business plan.",
+        "answer": "A",
+        "options": {
+            "A": "To make the best impression, a business plan should follow an unconventional structure and",
+            "B": "A business plan needs to project a sense of anticipation and excitement about the poss ibilities",
+            "C": "For most plans, 25 to 35 pages is sufficient.",
+            "D": "A business plan should look sharp, but not a lot of money should be spent on the physical",
+            "E": "Shy away from using a lot of boldfaced type, italics, clip art, and different font sizes and"
+        }
+    },
+    "17": {
+        "question": "The two primary audiences for a firm's business plan are a firm's employees and investors \nand other external stakeholders.",
+        "answer": "T"
+    },
+    "18": {
+        "question": "What are the two main reasons for writing a business plan?",
+        "answer": "F"
+    },
+    "19": {
+        "question": "Which of the following is NOT  one of the \"red flags\" listed in the textbook that raises \nquestions about one or more aspects of a company's business plan?",
+        "answer": "B",
+        "options": {
+            "A": "Founders with none of their own money at risk",
+            "B": "Defining the market size too narrowly",
+            "C": "A poorly cited plan",
+            "D": "Sloppiness in any area",
+            "E": "Overly aggressive financials"
+        }
+    },
+    "20": {
+        "question": "Which of the following is one of the \"red flags\" listed in the textbook that raises questions \nabout one or more aspects of a company's business plan?",
+        "answer": "C",
+        "options": {
+            "A": "Takes several days or weeks to complete",
+            "B": "Founders that have their own money at risk",
+            "C": "Defining the market size too broadly",
+            "D": "Less than 50 pages long",
+            "E": "Directed towards both an external and an internal audience"
+        }
+    },
+    "21": {
+        "question": "To make the best impression, a business plan should follow a ________.\n\nstructure for firms with disruptive business models\n\nfirms\n\n\n\nfirms",
+        "answer": "B",
+        "options": {
+            "A": "conventional structure for companies with standard business models and a nonconventional",
+            "B": "conventional structure for manufacturing firms and a nonconventional structure for service",
+            "C": "conventional structure",
+            "D": "nonconventional structure",
+            "E": "nonconventional structure for manufacturing firms and a conventional structure for service"
+        }
+    },
+    "22": {
+        "question": "For most business plans, ________ pages are sufficient.",
+        "answer": "D",
+        "options": {
+            "A": "40 to 50",
+            "B": "30 to 40",
+            "C": "15 to 20",
+            "D": "25 to 35",
+            "E": "5 to 10"
+        }
+    },
+    "23": {
+        "question": "The three types of business plans are ________.",
+        "answer": "E",
+        "options": {
+            "A": "functional business plan, full business plan, feasibility plan",
+            "B": "summary business plan, contingency plan, full business plan",
+            "C": "functional business plan, contingency plan, full business plan",
+            "D": "opportunity plan, feasibility plan, full business plan",
+            "E": "summary business plan, full business plan, operational business plan"
+        }
+    },
+    "24": {
+        "question": "Sarah Parks is in the very early stages of putting together a business startup, and is thinki ng \nabout writing a business plan to request funds to conduct a feasibility analysis and write a  more \ncomplete business plan. What type of business plan should Sarah write at this point?",
+        "answer": "C",
+        "options": {
+            "A": "Full business plan",
+            "B": "Tactical business plan",
+            "C": "Summary business plan",
+            "D": "Operational business plan",
+            "E": "Strategic business plan"
+        }
+    },
+    "25": {
+        "question": "A(n) ________ business plan, which is typically 25 to 35 pages long, works best for new \nventures who are at the point where they need funding or financing.",
+        "answer": "D",
+        "options": {
+            "A": "tactical",
+            "B": "strategic",
+            "C": "summary",
+            "D": "full",
+            "E": "operational"
+        }
+    },
+    "26": {
+        "question": "A(n) ________ business plan, which is intended to be a blueprint for a company's operations,\nis 40-100 pages long and is meant primarily for an internal audience.",
+        "answer": "A",
+        "options": {
+            "A": "operational",
+            "B": "full",
+            "C": "deliberate",
+            "D": "summary",
+            "E": "tactical"
+        }
+    },
+    "27": {
+        "question": "Kevin Andrews has decided to write a business plan that is intended to be read primaril y by \nhis staff, which will present a blueprint for his company's entire operation and will provide \nguidance to operational managers. Kevin should write a(n) ________ business plan.",
+        "answer": "A",
+        "options": {
+            "A": "operational",
+            "B": "tactical",
+            "C": "strategic",
+            "D": "summary",
+            "E": "functional"
+        }
+    },
+    "28": {
+        "question": "Which of the following business plans matches with its appropriate length?",
+        "answer": "B",
+        "options": {
+            "A": "Operational business plan \u00e2\u20ac\u201d 10-15 pages",
+            "B": "Full business plan \u00e2\u20ac\u201d 25-35 pages",
+            "C": "Summary business plan \u00e2\u20ac\u201d 25-35 pages",
+            "D": "Full business plan \u00e2\u20ac\u201d 40-100 pages",
+            "E": "Operational business plan \u00e2\u20ac\u201d 25-35 pages"
+        }
+    },
+    "29": {
+        "question": "Which of the following business plans matches with its appropriate emphasis?\n\nfunding or financing; serves as a \"blueprint\" for the company's operations.\n\nwant to \"test the waters\" to see if investors are interested in their idea.\n\n\"test the waters\" to see if investors are interested in the idea.\n\nfor creating a blueprint for a company's operations and providing guidance to operational \nmanagers.\n\nwant to \"test the waters\" to see if investors are interested in their idea.",
+        "answer": "E",
+        "options": {
+            "A": "Summary business plan  works best for companies who are at the point where they need",
+            "B": "Operational business plan  works best for companies in the early stages of development that",
+            "C": "Full business plan  works best for companies in the early stages of development that want to",
+            "D": "Summary business plan  is meant primarily for an internal audience and works best as a tool",
+            "E": "Summary business plan  works best for companies in the early stages of development that"
+        }
+    },
+    "30": {
+        "question": "To make the best impression, a business plan should follow a conventional structure.",
+        "answer": "T"
+    },
+    "31": {
+        "question": "For most business plans, 25 to 35 pages are sufficient.",
+        "answer": "T"
+    },
+    "32": {
+        "question": "According to the textbook, the executive summary is arguably the most important section of \nthe business plan.",
+        "answer": "T"
+    },
+    "33": {
+        "question": "The executive summary is a lengthy overview of the entire business plan.",
+        "answer": "F"
+    },
+    "34": {
+        "question": "A company's industry analysis and target market analysis are usually included in the same  \nsection of its business plan.",
+        "answer": "F"
+    },
+    "35": {
+        "question": "Fragmented industries are more receptive to new entrants than industries that are dominated \nby a handful of large firms.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "A tagline is a phrase that a business uses to reinforce its position in the marketplac e.",
+        "answer": "T"
+    },
+    "37": {
+        "question": "A competitor analysis, which is a detailed analysis of a firm's competitors, should be \nincluded in the market analysis section of its business plan.",
+        "answer": "T"
+    },
+    "38": {
+        "question": "The major revenue drivers, which are the ways a business earns money, should be first \nidentified in \"The Economics of the Business\" section of the business plan.",
+        "answer": "T"
+    },
+    "39": {
+        "question": "A firm's operating leverage is an analysis of its debt versus its equity.",
+        "answer": "F"
+    },
+    "40": {
+        "question": "The management team and company structure section of a business plan is one of the lesser-\nread sections.",
+        "answer": "F"
+    },
+    "41": {
+        "question": "An organizational chart is a graphic representation of how authority and responsibility are \ndistributed within a company.",
+        "answer": "T"
+    },
+    "42": {
+        "question": "A sources and uses of funds statement is a document that lays out specifically how much \nmoney a firm needs, where the money will come from, and what the money will be used for.",
+        "answer": "T"
+    },
+    "43": {
+        "question": "The pro forma  financial statements are the heart of the operations section of a business plan.",
+        "answer": "F"
+    },
+    "44": {
+        "question": "There is an emerging school of thought that opposes the idea of writing a business plan and \nadvocates experimentation and trial-and-error learning gleaned through customer feedback a nd \nformal planning. How does the approach to writing a business plan described in this book differ \nfrom this philosophy? How does trial-and-error learning figure into the approach to writing a \nbusiness plan advocated in this book?",
+        "answer": "T"
+    },
+    "45": {
+        "question": "The ________ is a short overview of the entire business plan.",
+        "answer": "B",
+        "options": {
+            "A": "summary statement",
+            "B": "executive summary",
+            "C": "managerial review",
+            "D": "founder's introduction",
+            "E": "abstract"
+        }
+    },
+    "46": {
+        "question": "Which of the following statements is incorrect regarding the executive summary of a \nbusiness plan?\n\n\nrequest a copy of the full business plan only if the executive summary is sufficiently convincing.",
+        "answer": "E",
+        "options": {
+            "A": "It is a short overview of the entire business plan.",
+            "B": "In many instances an investor will first ask for a copy of a firm's executive summary and will",
+            "C": "It is arguably the most important section of the business plan.",
+            "D": "It should not exceed two single-spaced pages.",
+            "E": "The executive summary is the first thing that should be written in preparing a business pl an."
+        }
+    },
+    "47": {
+        "question": "Melanie Summer spoke to an investor who is interested in her business idea. Melanie of fered\nto send the investor a copy of her full business plan, but the investor asked for a short overview \nof the business plan instead. What portion of her business plan should Melanie send the investor?",
+        "answer": "B",
+        "options": {
+            "A": "Marketing plan",
+            "B": "Executive summary",
+            "C": "Elevator pitch",
+            "D": "Company description",
+            "E": "Operations plan"
+        }
+    },
+    "48": {
+        "question": "According to the textbook, in many instances an investor will first ask for a copy of a firm's \n________ and will request a copy of the full business plan only if that portion of the plan is \nsufficiently convincing.",
+        "answer": "E",
+        "options": {
+            "A": "appendix",
+            "B": "industry analysis",
+            "C": "operations plan",
+            "D": "financial plan",
+            "E": "executive summary"
+        }
+    },
+    "49": {
+        "question": "The Savvy Entrepreneurial Firm feature in Chapter 6 focuses on three companies: Songkick, \nGrubHub, and Instagram. The overarching point of the feature is ________.\n\nstart getting customer feedback\n\n\nfounders start getting customer feedback",
+        "answer": "B",
+        "options": {
+            "A": "most business plans require major changes after the business is launched and the founders",
+            "B": "the degree to which business plans pan out as their founders envisioned varies",
+            "C": "most business plans require only minor changes after the business is launched and the",
+            "D": "the most effective business plans take four to eight weeks to complete",
+            "E": "most business plans are quickly discarded after the business is launched"
+        }
+    },
+    "50": {
+        "question": "Which of the following statements is incorrect regarding the industry analysis portion of a \nfirm's business plan?\n\n\n\nanalysis.\n\n\nlong-term prospects for the industry.",
+        "answer": "A",
+        "options": {
+            "A": "It is important to focus simultaneously on a business's industry and its target market.",
+            "B": "Industry structure refers to how concentrated or fragmented an industry is.",
+            "C": "Most industries have 6 to 10 key success factors that should be reported in the industry",
+            "D": "Industry trends, which include both environmental and business trends, should be discussed.",
+            "E": "The industry analysis should conclude with a brief statement of your beliefs regarding the"
+        }
+    },
+    "51": {
+        "question": "A company's mission statement should be placed in the ________ section of its business \nplan.",
+        "answer": "C",
+        "options": {
+            "A": "marketing plan",
+            "B": "management team and company structure",
+            "C": "company description",
+            "D": "market analysis",
+            "E": "industry analysis"
+        }
+    },
+    "52": {
+        "question": "Industry structure refers to how ________ an industry is.",
+        "answer": "A",
+        "options": {
+            "A": "concentrated or fragmented",
+            "B": "traditional or progressive",
+            "C": "innovative or conservative",
+            "D": "hierarchical or flat",
+            "E": "large or small"
+        }
+    },
+    "53": {
+        "question": "A(n) ________ statement describes why a company exists and what it aspires to become.",
+        "answer": "C",
+        "options": {
+            "A": "tactical",
+            "B": "values",
+            "C": "mission",
+            "D": "operations",
+            "E": "strategic"
+        }
+    },
+    "54": {
+        "question": "A(n) ________, in a business plan context, is a noteworthy event in the past or future \ndevelopment of a business.",
+        "answer": "D",
+        "options": {
+            "A": "aspiration",
+            "B": "intention",
+            "C": "signpost",
+            "D": "milestone",
+            "E": "target"
+        }
+    },
+    "55": {
+        "question": "The ________ section of a business plan breaks the industry into segments and zeroes in on \nthe specific segment (or target market) to which the firm will try to appeal.",
+        "answer": "C",
+        "options": {
+            "A": "competitive analysis",
+            "B": "current status",
+            "C": "market analysis",
+            "D": "marketing plan",
+            "E": "operations plan"
+        }
+    },
+    "56": {
+        "question": "A competitor analysis should be included in the ________ section of a business plan.",
+        "answer": "A",
+        "options": {
+            "A": "market analysis",
+            "B": "industry analysis",
+            "C": "company description",
+            "D": "management team and company structure",
+            "E": "operations plan"
+        }
+    },
+    "57": {
+        "question": "The Partnering for Success feature in Chapter 6 focuses on the need to involve others in what\nthe entrepreneurs are doing. This community of supporters is called ________.",
+        "answer": "E",
+        "options": {
+            "A": "the entrepreneurial team",
+            "B": "the industry",
+            "C": "stakeholders",
+            "D": "shareholders",
+            "E": "early evangelists"
+        }
+    },
+    "58": {
+        "question": "The ________ section of the business plan addresses the basic logic of how profits are \nearned in the business.",
+        "answer": "A",
+        "options": {
+            "A": "economics of the business",
+            "B": "operations plan",
+            "C": "executive summary",
+            "D": "design and development plan",
+            "E": "market analysis"
+        }
+    },
+    "59": {
+        "question": "Operating leverage is highest in companies that have ________.",
+        "answer": "E",
+        "options": {
+            "A": "a service rather than a manufacturing emphasis",
+            "B": "virtually no fixed costs",
+            "C": "equal variable and fixed costs",
+            "D": "a high proportion of variable costs relative to their fixed costs",
+            "E": "a high proportion of fixed costs relative to their variable costs"
+        }
+    },
+    "60": {
+        "question": "Which of the following statements is incorrect regarding the marketing plan section of a \nbusiness plan?\n\n\nstrategy and (2) the nuts and bolts of marketing a firm's product in terms of product, price, \npromotion, and place.\n\ncompetitors.\n\nservices.\n\nmarket and how it differentiates itself from its competitors.",
+        "answer": "C",
+        "options": {
+            "A": "The marketing plan focuses on how the business will market and sell its product or service.",
+            "B": "The two most important items to include in a marketing plan are (1) overall marketing",
+            "C": "The best way to describe a company's marketing plan is to begin by talking about its",
+            "D": "A firm's marketing strategy refers to its overall approach for marketing its products and",
+            "E": "A firm's overall approach to marketing typically boils down to how it positions itself in i ts"
+        }
+    },
+    "61": {
+        "question": "A computer-generated image of an invention that displays the invention as a 3D model that \ncan be viewed from all sides and rotated 360 degrees is called a(n) ________.",
+        "answer": "A",
+        "options": {
+            "A": "virtual prototype",
+            "B": "concept visualization",
+            "C": "abstract prototype",
+            "D": "virtual design",
+            "E": "usability test"
+        }
+    },
+    "62": {
+        "question": "A prototype is ________.",
+        "answer": "D",
+        "options": {
+            "A": "a form of opportunity recognition",
+            "B": "a tool for evaluating the industry a new firm plans to enter",
+            "C": "a financial model",
+            "D": "the first physical depiction of a new product",
+            "E": "a tool for evaluating the organizational prowess of a new firm"
+        }
+    },
+    "63": {
+        "question": "What section of the business plan deals with the day-to-day operations of a company?",
+        "answer": "C",
+        "options": {
+            "A": "Financial plan",
+            "B": "Marketing plan",
+            "C": "Operations plan",
+            "D": "Industry analysis",
+            "E": "Executive summary"
+        }
+    },
+    "64": {
+        "question": "The facilities and equipment that a business needs should be described in the ________ \nsection of its business plan.",
+        "answer": "E",
+        "options": {
+            "A": "marketing plan",
+            "B": "management team and company structure",
+            "C": "company description",
+            "D": "market analysis",
+            "E": "operations plan"
+        }
+    },
+    "65": {
+        "question": "According to the textbook, many investors and others who read business plans look first at \nthe executive summary and then go directly to the ________ section of the business plan to make\ntheir preliminary assessment.",
+        "answer": "A",
+        "options": {
+            "A": "management team and company structure",
+            "B": "product (or service) design and development plan",
+            "C": "industry analysis",
+            "D": "marketing plan",
+            "E": "operations plan"
+        }
+    },
+    "66": {
+        "question": "A(n) ________ is a graphic representation of how authority and responsibility are distributed \nwithin a company.",
+        "answer": "A",
+        "options": {
+            "A": "organizational chart",
+            "B": "personnel chart",
+            "C": "human resources chart",
+            "D": "administrative chart",
+            "E": "directional chart"
+        }
+    },
+    "67": {
+        "question": "The document that lays out specifically how much money a firm needs, where the money \nwill come from, and what the money will be used for is referred to as a(n) ________.",
+        "answer": "A",
+        "options": {
+            "A": "sources and uses of funds statement",
+            "B": "assumptions sheet",
+            "C": "pro forma  financial statement",
+            "D": "credit and debit statement",
+            "E": "capital and operational budgeting statement"
+        }
+    },
+    "68": {
+        "question": "Kate Payne was reading the business plan for New Venture Fitness Drinks, and noticed that \nprior to its financial statements, New Venture Fitness Drinks placed an explanati on of the sources\nof the numbers for the statements and the assumptions used to generate them. This explanation is\ncalled a(n) ________.",
+        "answer": "C",
+        "options": {
+            "A": "estimate sheet",
+            "B": "hypothesis sheet",
+            "C": "assumptions sheet",
+            "D": "forecast sheet",
+            "E": "forecast hypothesis"
+        }
+    },
+    "69": {
+        "question": "According to the textbook, the ________ are the heart of the financial section of a business \nplan.",
+        "answer": "B",
+        "options": {
+            "A": "financial ratios",
+            "B": "pro forma  financial statements",
+            "C": "budgets",
+            "D": "sources and uses of funds statements",
+            "E": "break-even analyses"
+        }
+    },
+    "70": {
+        "question": "Most business plan writers interpret or make sense of a firm's historical and/or pro forma  \nfinancial statements through ________ analysis.",
+        "answer": "A",
+        "options": {
+            "A": "ratio",
+            "B": "assumptions",
+            "C": "scenario",
+            "D": "proportion",
+            "E": "relative"
+        }
+    },
+    "71": {
+        "question": "What is an \"executive summary?\" Why is the executive summary often called the most \nimportant part of a business plan?",
+        "answer": "T"
+    },
+    "72": {
+        "question": "Why is the \"management team and company structure\" section of the business plan often \ngiven disproportionate weight among investors?",
+        "answer": "I"
+    },
+    "73": {
+        "question": "According to the textbook, the first rule in making an oral presentation is to ________.",
+        "answer": "A",
+        "options": {
+            "A": "follow instructions",
+            "B": "be creative",
+            "C": "emphasize all the positive aspects of a business venture",
+            "D": "appear confident",
+            "E": "do something out of the ordinary"
+        }
+    },
+    "74": {
+        "question": "The first rule in making oral presentations is to follow instructions.",
+        "answer": "T"
+    },
+    "75": {
+        "question": "How should the entrepreneur approach the oral presentation of the business plan?",
+        "answer": "M"
     }
-  },
-  "2": {
-    "question": "Peter Watson is thinking about launching a small business consulting company. To get  advice \non how to proceed, he stopped by his local Small Business Administration (SB\nSBA advisor told Peter that one of the first things he needs to do is to sit down and write a 25 to \n35 page narrative that describes what his new business plans to accomplish and how it plans t o \naccomplish it. The SBA advisor is telling Peter to write a(n) ________.",
-    "answer": "D",
-    "options": {
-      "A": "tactical plan",
-      "B": "marketing plan",
-      "C": "operations plan",
-      "D": "business plan",
-      "E": "feasibility analysis"
-    }
-  },
-  "3": {
-    "question": "Which of the following is the main purpose for writing a business plan?\n\n\n\n\n\nimportant for inexperienced entrepreneurs.",
-    "answer": "C",
-    "options": {
-      "A": "The plan helps the company develop a \"road map\" to follow.",
-      "B": "The plan introduces potential investors and other stakeholders to the business opportunity.",
-      "C": "Both A and B are equally important.",
-      "D": "Neither A nor B captures the true purpose of a business plan.",
-      "E": "Reason A is the most important for experienced entrepreneurs and reason B is the most"
-    }
-  },
-  "4": {
-    "question": "According to the textbook, a business plan is best described as a(n) ________.",
-    "answer": "A",
-    "options": {
-      "A": "narrative description of a new business",
-      "B": "contract",
-      "C": "budget",
-      "D": "agreement",
-      "E": "marketing initiative"
-    }
-  },
-  "5": {
-    "question": "A 2015 Wells Fargo/Gallup Small Business Index Survey found that only ________ percent of\nbusiness owners have a formal business plan.",
-    "answer": "D",
-    "options": {
-      "A": "10",
-      "B": "15",
-      "C": "27",
-      "D": "33",
-      "E": "42"
-    }
-  },
-  "6": {
-    "question": "A business plan is important as it forces the founding team to systematically think t hrough \nevery aspect of their new venture, and it ________.",
-    "answer": "E",
-    "options": {
-      "A": "is a budget",
-      "B": "is a public relations document that can be used to promote the firm",
-      "C": "is a contract that is signed by the founders of the firm",
-      "D": "is a financial analysis",
-      "E": "communicates the merits of a new venture to outsiders, such as investors and bankers"
-    }
-  },
-  "7": {
-    "question": "A commercialization plan is a written narrative that describes what a new busines s plans to \naccomplish and how it plans to accomplish it.",
-    "answer": "F"
-  },
-  "8": {
-    "question": "According to studies cited in the book, a large percentage of entrepreneurs write business \nplans for their ventures.",
-    "answer": "F"
-  },
-  "9": {
-    "question": "For most new ventures, the business plan is a dual-purpose document used both inside and \noutside the firm.",
-    "answer": "T"
-  },
-  "10": {
-    "question": "A business plan can usually be completed in one to three days.",
-    "answer": "F"
-  },
-  "11": {
-    "question": "Which of the following statements is incorrect about business plans?\n\ntheir new venture.\n\noutside the firm.",
-    "answer": "E",
-    "options": {
-      "A": "Writing a business plan forces a firm's founders to systematically think through each aspe ct of",
-      "B": "For most new ventures, the business plan is a dual-purpose document used both inside and",
-      "C": "A business plan is typically 25 to 35 pages long.",
-      "D": "A large percentage of entrepreneurs do not write business plans for their new ventures.",
-      "E": "The business plan should be written while the feasibility analysis is being complet ed."
-    }
-  },
-  "12": {
-    "question": "The document that does the best job of introducing potential investors and other stakeholders\nwith the business opportunity the firm is pursuing and how it plans to pursue it is the ________.",
-    "answer": "A",
-    "options": {
-      "A": "business plan",
-      "B": "feasibility analysis",
-      "C": "opportunity analysis",
-      "D": "industry analysis",
-      "E": "marketing plan"
-    }
-  },
-  "13": {
-    "question": "The two primary audiences for a business plan are ________ and ________.",
-    "answer": "E",
-    "options": {
-      "A": "a firm's employees; officials with the SEC",
-      "B": "a firm's customers; its competitors",
-      "C": "investors; other external stakeholders and public relations firms",
-      "D": "officials with the SEC; public relations firms",
-      "E": "a firm's employees and investors; other external stakeholders"
-    }
-  },
-  "14": {
-    "question": "The two primary audiences for a business plan are investors and other external stakeholders \nand ________.",
-    "answer": "B",
-    "options": {
-      "A": "officials with the SEC",
-      "B": "a firm's employees",
-      "C": "a firm's competitors",
-      "D": "a firm's customers",
-      "E": "public relations firms"
-    }
-  },
-  "15": {
-    "question": "Which of the following is NOT  an individual, group or institution that normally reads a \ncompany's business plan?",
-    "answer": "C",
-    "options": {
-      "A": "Board of directors",
-      "B": "Potential alliance partners and major customers",
-      "C": "State and local government officials",
-      "D": "Key recruits for jobs with the new firm",
-      "E": "Rank-and-file employees"
-    }
-  },
-  "16": {
-    "question": "Which of the following is NOT  a recommended guideline for writing a business plan?\n\nstand out in some dramatic way.\n\nthat surround a new venture.\n\n\nappearance of the plan.\n\ncolors when preparing a business plan.",
-    "answer": "A",
-    "options": {
-      "A": "To make the best impression, a business plan should follow an unconventional structure and",
-      "B": "A business plan needs to project a sense of anticipation and excitement about the poss ibilities",
-      "C": "For most plans, 25 to 35 pages is sufficient.",
-      "D": "A business plan should look sharp, but not a lot of money should be spent on the physical",
-      "E": "Shy away from using a lot of boldfaced type, italics, clip art, and different font sizes and"
-    }
-  },
-  "17": {
-    "question": "The two primary audiences for a firm's business plan are a firm's employees and investors \nand other external stakeholders.",
-    "answer": "T"
-  },
-  "18": {
-    "question": "What are the two main reasons for writing a business plan?",
-    "answer": "F"
-  },
-  "19": {
-    "question": "Which of the following is NOT  one of the \"red flags\" listed in the textbook that raises \nquestions about one or more aspects of a company's business plan?",
-    "answer": "B",
-    "options": {
-      "A": "Founders with none of their own money at risk",
-      "B": "Defining the market size too narrowly",
-      "C": "A poorly cited plan",
-      "D": "Sloppiness in any area",
-      "E": "Overly aggressive financials"
-    }
-  },
-  "20": {
-    "question": "Which of the following is one of the \"red flags\" listed in the textbook that raises questions \nabout one or more aspects of a company's business plan?",
-    "answer": "C",
-    "options": {
-      "A": "Takes several days or weeks to complete",
-      "B": "Founders that have their own money at risk",
-      "C": "Defining the market size too broadly",
-      "D": "Less than 50 pages long",
-      "E": "Directed towards both an external and an internal audience"
-    }
-  },
-  "21": {
-    "question": "To make the best impression, a business plan should follow a ________.\n\nstructure for firms with disruptive business models\n\nfirms\n\n\n\nfirms",
-    "answer": "B",
-    "options": {
-      "A": "conventional structure for companies with standard business models and a nonconventional",
-      "B": "conventional structure for manufacturing firms and a nonconventional structure for service",
-      "C": "conventional structure",
-      "D": "nonconventional structure",
-      "E": "nonconventional structure for manufacturing firms and a conventional structure for service"
-    }
-  },
-  "22": {
-    "question": "For most business plans, ________ pages are sufficient.",
-    "answer": "D",
-    "options": {
-      "A": "40 to 50",
-      "B": "30 to 40",
-      "C": "15 to 20",
-      "D": "25 to 35",
-      "E": "5 to 10"
-    }
-  },
-  "23": {
-    "question": "The three types of business plans are ________.",
-    "answer": "E",
-    "options": {
-      "A": "functional business plan, full business plan, feasibility plan",
-      "B": "summary business plan, contingency plan, full business plan",
-      "C": "functional business plan, contingency plan, full business plan",
-      "D": "opportunity plan, feasibility plan, full business plan",
-      "E": "summary business plan, full business plan, operational business plan"
-    }
-  },
-  "24": {
-    "question": "Sarah Parks is in the very early stages of putting together a business startup, and is thinki ng \nabout writing a business plan to request funds to conduct a feasibility analysis and write a  more \ncomplete business plan. What type of business plan should Sarah write at this point?",
-    "answer": "C",
-    "options": {
-      "A": "Full business plan",
-      "B": "Tactical business plan",
-      "C": "Summary business plan",
-      "D": "Operational business plan",
-      "E": "Strategic business plan"
-    }
-  },
-  "25": {
-    "question": "A(n) ________ business plan, which is typically 25 to 35 pages long, works best for new \nventures who are at the point where they need funding or financing.",
-    "answer": "D",
-    "options": {
-      "A": "tactical",
-      "B": "strategic",
-      "C": "summary",
-      "D": "full",
-      "E": "operational"
-    }
-  },
-  "26": {
-    "question": "A(n) ________ business plan, which is intended to be a blueprint for a company's operations,\nis 40-100 pages long and is meant primarily for an internal audience.",
-    "answer": "A",
-    "options": {
-      "A": "operational",
-      "B": "full",
-      "C": "deliberate",
-      "D": "summary",
-      "E": "tactical"
-    }
-  },
-  "27": {
-    "question": "Kevin Andrews has decided to write a business plan that is intended to be read primaril y by \nhis staff, which will present a blueprint for his company's entire operation and will provide \nguidance to operational managers. Kevin should write a(n) ________ business plan.",
-    "answer": "A",
-    "options": {
-      "A": "operational",
-      "B": "tactical",
-      "C": "strategic",
-      "D": "summary",
-      "E": "functional"
-    }
-  },
-  "28": {
-    "question": "Which of the following business plans matches with its appropriate length?",
-    "answer": "B",
-    "options": {
-      "A": "Operational business plan \u00e2\u20ac\u201d 10-15 pages",
-      "B": "Full business plan \u00e2\u20ac\u201d 25-35 pages",
-      "C": "Summary business plan \u00e2\u20ac\u201d 25-35 pages",
-      "D": "Full business plan \u00e2\u20ac\u201d 40-100 pages",
-      "E": "Operational business plan \u00e2\u20ac\u201d 25-35 pages"
-    }
-  },
-  "29": {
-    "question": "Which of the following business plans matches with its appropriate emphasis?\n\nfunding or financing; serves as a \"blueprint\" for the company's operations.\n\nwant to \"test the waters\" to see if investors are interested in their idea.\n\n\"test the waters\" to see if investors are interested in the idea.\n\nfor creating a blueprint for a company's operations and providing guidance to operational \nmanagers.\n\nwant to \"test the waters\" to see if investors are interested in their idea.",
-    "answer": "E",
-    "options": {
-      "A": "Summary business plan  works best for companies who are at the point where they need",
-      "B": "Operational business plan  works best for companies in the early stages of development that",
-      "C": "Full business plan  works best for companies in the early stages of development that want to",
-      "D": "Summary business plan  is meant primarily for an internal audience and works best as a tool",
-      "E": "Summary business plan  works best for companies in the early stages of development that"
-    }
-  },
-  "30": {
-    "question": "To make the best impression, a business plan should follow a conventional structure.",
-    "answer": "T"
-  },
-  "31": {
-    "question": "For most business plans, 25 to 35 pages are sufficient.",
-    "answer": "T"
-  },
-  "32": {
-    "question": "According to the textbook, the executive summary is arguably the most important section of \nthe business plan.",
-    "answer": "T"
-  },
-  "33": {
-    "question": "The executive summary is a lengthy overview of the entire business plan.",
-    "answer": "F"
-  },
-  "34": {
-    "question": "A company's industry analysis and target market analysis are usually included in the same  \nsection of its business plan.",
-    "answer": "F"
-  },
-  "35": {
-    "question": "Fragmented industries are more receptive to new entrants than industries that are dominated \nby a handful of large firms.",
-    "answer": "T"
-  },
-  "36": {
-    "question": "A tagline is a phrase that a business uses to reinforce its position in the marketplac e.",
-    "answer": "T"
-  },
-  "37": {
-    "question": "A competitor analysis, which is a detailed analysis of a firm's competitors, should be \nincluded in the market analysis section of its business plan.",
-    "answer": "T"
-  },
-  "38": {
-    "question": "The major revenue drivers, which are the ways a business earns money, should be first \nidentified in \"The Economics of the Business\" section of the business plan.",
-    "answer": "T"
-  },
-  "39": {
-    "question": "A firm's operating leverage is an analysis of its debt versus its equity.",
-    "answer": "F"
-  },
-  "40": {
-    "question": "The management team and company structure section of a business plan is one of the lesser-\nread sections.",
-    "answer": "F"
-  },
-  "41": {
-    "question": "An organizational chart is a graphic representation of how authority and responsibility are \ndistributed within a company.",
-    "answer": "T"
-  },
-  "42": {
-    "question": "A sources and uses of funds statement is a document that lays out specifically how much \nmoney a firm needs, where the money will come from, and what the money will be used for.",
-    "answer": "T"
-  },
-  "43": {
-    "question": "The pro forma  financial statements are the heart of the operations section of a business plan.",
-    "answer": "F"
-  },
-  "44": {
-    "question": "There is an emerging school of thought that opposes the idea of writing a business plan and \nadvocates experimentation and trial-and-error learning gleaned through customer feedback a nd \nformal planning. How does the approach to writing a business plan described in this book differ \nfrom this philosophy? How does trial-and-error learning figure into the approach to writing a \nbusiness plan advocated in this book?",
-    "answer": "T"
-  },
-  "45": {
-    "question": "The ________ is a short overview of the entire business plan.",
-    "answer": "B",
-    "options": {
-      "A": "summary statement",
-      "B": "executive summary",
-      "C": "managerial review",
-      "D": "founder's introduction",
-      "E": "abstract"
-    }
-  },
-  "46": {
-    "question": "Which of the following statements is incorrect regarding the executive summary of a \nbusiness plan?\n\n\nrequest a copy of the full business plan only if the executive summary is sufficiently convincing.",
-    "answer": "E",
-    "options": {
-      "A": "It is a short overview of the entire business plan.",
-      "B": "In many instances an investor will first ask for a copy of a firm's executive summary and will",
-      "C": "It is arguably the most important section of the business plan.",
-      "D": "It should not exceed two single-spaced pages.",
-      "E": "The executive summary is the first thing that should be written in preparing a business pl an."
-    }
-  },
-  "47": {
-    "question": "Melanie Summer spoke to an investor who is interested in her business idea. Melanie of fered\nto send the investor a copy of her full business plan, but the investor asked for a short overview \nof the business plan instead. What portion of her business plan should Melanie send the investor?",
-    "answer": "B",
-    "options": {
-      "A": "Marketing plan",
-      "B": "Executive summary",
-      "C": "Elevator pitch",
-      "D": "Company description",
-      "E": "Operations plan"
-    }
-  },
-  "48": {
-    "question": "According to the textbook, in many instances an investor will first ask for a copy of a firm's \n________ and will request a copy of the full business plan only if that portion of the plan is \nsufficiently convincing.",
-    "answer": "E",
-    "options": {
-      "A": "appendix",
-      "B": "industry analysis",
-      "C": "operations plan",
-      "D": "financial plan",
-      "E": "executive summary"
-    }
-  },
-  "49": {
-    "question": "The Savvy Entrepreneurial Firm feature in Chapter 6 focuses on three companies: Songkick, \nGrubHub, and Instagram. The overarching point of the feature is ________.\n\nstart getting customer feedback\n\n\nfounders start getting customer feedback",
-    "answer": "B",
-    "options": {
-      "A": "most business plans require major changes after the business is launched and the founders",
-      "B": "the degree to which business plans pan out as their founders envisioned varies",
-      "C": "most business plans require only minor changes after the business is launched and the",
-      "D": "the most effective business plans take four to eight weeks to complete",
-      "E": "most business plans are quickly discarded after the business is launched"
-    }
-  },
-  "50": {
-    "question": "Which of the following statements is incorrect regarding the industry analysis portion of a \nfirm's business plan?\n\n\n\nanalysis.\n\n\nlong-term prospects for the industry.",
-    "answer": "A",
-    "options": {
-      "A": "It is important to focus simultaneously on a business's industry and its target market.",
-      "B": "Industry structure refers to how concentrated or fragmented an industry is.",
-      "C": "Most industries have 6 to 10 key success factors that should be reported in the industry",
-      "D": "Industry trends, which include both environmental and business trends, should be discussed.",
-      "E": "The industry analysis should conclude with a brief statement of your beliefs regarding the"
-    }
-  },
-  "51": {
-    "question": "A company's mission statement should be placed in the ________ section of its business \nplan.",
-    "answer": "C",
-    "options": {
-      "A": "marketing plan",
-      "B": "management team and company structure",
-      "C": "company description",
-      "D": "market analysis",
-      "E": "industry analysis"
-    }
-  },
-  "52": {
-    "question": "Industry structure refers to how ________ an industry is.",
-    "answer": "A",
-    "options": {
-      "A": "concentrated or fragmented",
-      "B": "traditional or progressive",
-      "C": "innovative or conservative",
-      "D": "hierarchical or flat",
-      "E": "large or small"
-    }
-  },
-  "53": {
-    "question": "A(n) ________ statement describes why a company exists and what it aspires to become.",
-    "answer": "C",
-    "options": {
-      "A": "tactical",
-      "B": "values",
-      "C": "mission",
-      "D": "operations",
-      "E": "strategic"
-    }
-  },
-  "54": {
-    "question": "A(n) ________, in a business plan context, is a noteworthy event in the past or future \ndevelopment of a business.",
-    "answer": "D",
-    "options": {
-      "A": "aspiration",
-      "B": "intention",
-      "C": "signpost",
-      "D": "milestone",
-      "E": "target"
-    }
-  },
-  "55": {
-    "question": "The ________ section of a business plan breaks the industry into segments and zeroes in on \nthe specific segment (or target market) to which the firm will try to appeal.",
-    "answer": "C",
-    "options": {
-      "A": "competitive analysis",
-      "B": "current status",
-      "C": "market analysis",
-      "D": "marketing plan",
-      "E": "operations plan"
-    }
-  },
-  "56": {
-    "question": "A competitor analysis should be included in the ________ section of a business plan.",
-    "answer": "A",
-    "options": {
-      "A": "market analysis",
-      "B": "industry analysis",
-      "C": "company description",
-      "D": "management team and company structure",
-      "E": "operations plan"
-    }
-  },
-  "57": {
-    "question": "The Partnering for Success feature in Chapter 6 focuses on the need to involve others in what\nthe entrepreneurs are doing. This community of supporters is called ________.",
-    "answer": "E",
-    "options": {
-      "A": "the entrepreneurial team",
-      "B": "the industry",
-      "C": "stakeholders",
-      "D": "shareholders",
-      "E": "early evangelists"
-    }
-  },
-  "58": {
-    "question": "The ________ section of the business plan addresses the basic logic of how profits are \nearned in the business.",
-    "answer": "A",
-    "options": {
-      "A": "economics of the business",
-      "B": "operations plan",
-      "C": "executive summary",
-      "D": "design and development plan",
-      "E": "market analysis"
-    }
-  },
-  "59": {
-    "question": "Operating leverage is highest in companies that have ________.",
-    "answer": "E",
-    "options": {
-      "A": "a service rather than a manufacturing emphasis",
-      "B": "virtually no fixed costs",
-      "C": "equal variable and fixed costs",
-      "D": "a high proportion of variable costs relative to their fixed costs",
-      "E": "a high proportion of fixed costs relative to their variable costs"
-    }
-  },
-  "60": {
-    "question": "Which of the following statements is incorrect regarding the marketing plan section of a \nbusiness plan?\n\n\nstrategy and (2) the nuts and bolts of marketing a firm's product in terms of product, price, \npromotion, and place.\n\ncompetitors.\n\nservices.\n\nmarket and how it differentiates itself from its competitors.",
-    "answer": "C",
-    "options": {
-      "A": "The marketing plan focuses on how the business will market and sell its product or service.",
-      "B": "The two most important items to include in a marketing plan are (1) overall marketing",
-      "C": "The best way to describe a company's marketing plan is to begin by talking about its",
-      "D": "A firm's marketing strategy refers to its overall approach for marketing its products and",
-      "E": "A firm's overall approach to marketing typically boils down to how it positions itself in i ts"
-    }
-  },
-  "61": {
-    "question": "A computer-generated image of an invention that displays the invention as a 3D model that \ncan be viewed from all sides and rotated 360 degrees is called a(n) ________.",
-    "answer": "A",
-    "options": {
-      "A": "virtual prototype",
-      "B": "concept visualization",
-      "C": "abstract prototype",
-      "D": "virtual design",
-      "E": "usability test"
-    }
-  },
-  "62": {
-    "question": "A prototype is ________.",
-    "answer": "D",
-    "options": {
-      "A": "a form of opportunity recognition",
-      "B": "a tool for evaluating the industry a new firm plans to enter",
-      "C": "a financial model",
-      "D": "the first physical depiction of a new product",
-      "E": "a tool for evaluating the organizational prowess of a new firm"
-    }
-  },
-  "63": {
-    "question": "What section of the business plan deals with the day-to-day operations of a company?",
-    "answer": "C",
-    "options": {
-      "A": "Financial plan",
-      "B": "Marketing plan",
-      "C": "Operations plan",
-      "D": "Industry analysis",
-      "E": "Executive summary"
-    }
-  },
-  "64": {
-    "question": "The facilities and equipment that a business needs should be described in the ________ \nsection of its business plan.",
-    "answer": "E",
-    "options": {
-      "A": "marketing plan",
-      "B": "management team and company structure",
-      "C": "company description",
-      "D": "market analysis",
-      "E": "operations plan"
-    }
-  },
-  "65": {
-    "question": "According to the textbook, many investors and others who read business plans look first at \nthe executive summary and then go directly to the ________ section of the business plan to make\ntheir preliminary assessment.",
-    "answer": "A",
-    "options": {
-      "A": "management team and company structure",
-      "B": "product (or service) design and development plan",
-      "C": "industry analysis",
-      "D": "marketing plan",
-      "E": "operations plan"
-    }
-  },
-  "66": {
-    "question": "A(n) ________ is a graphic representation of how authority and responsibility are distributed \nwithin a company.",
-    "answer": "A",
-    "options": {
-      "A": "organizational chart",
-      "B": "personnel chart",
-      "C": "human resources chart",
-      "D": "administrative chart",
-      "E": "directional chart"
-    }
-  },
-  "67": {
-    "question": "The document that lays out specifically how much money a firm needs, where the money \nwill come from, and what the money will be used for is referred to as a(n) ________.",
-    "answer": "A",
-    "options": {
-      "A": "sources and uses of funds statement",
-      "B": "assumptions sheet",
-      "C": "pro forma  financial statement",
-      "D": "credit and debit statement",
-      "E": "capital and operational budgeting statement"
-    }
-  },
-  "68": {
-    "question": "Kate Payne was reading the business plan for New Venture Fitness Drinks, and noticed that \nprior to its financial statements, New Venture Fitness Drinks placed an explanati on of the sources\nof the numbers for the statements and the assumptions used to generate them. This explanation is\ncalled a(n) ________.",
-    "answer": "C",
-    "options": {
-      "A": "estimate sheet",
-      "B": "hypothesis sheet",
-      "C": "assumptions sheet",
-      "D": "forecast sheet",
-      "E": "forecast hypothesis"
-    }
-  },
-  "69": {
-    "question": "According to the textbook, the ________ are the heart of the financial section of a business \nplan.",
-    "answer": "B",
-    "options": {
-      "A": "financial ratios",
-      "B": "pro forma  financial statements",
-      "C": "budgets",
-      "D": "sources and uses of funds statements",
-      "E": "break-even analyses"
-    }
-  },
-  "70": {
-    "question": "Most business plan writers interpret or make sense of a firm's historical and/or pro forma  \nfinancial statements through ________ analysis.",
-    "answer": "A",
-    "options": {
-      "A": "ratio",
-      "B": "assumptions",
-      "C": "scenario",
-      "D": "proportion",
-      "E": "relative"
-    }
-  },
-  "71": {
-    "question": "What is an \"executive summary?\" Why is the executive summary often called the most \nimportant part of a business plan?",
-    "answer": "T"
-  },
-  "72": {
-    "question": "Why is the \"management team and company structure\" section of the business plan often \ngiven disproportionate weight among investors?",
-    "answer": "I"
-  },
-  "73": {
-    "question": "According to the textbook, the first rule in making an oral presentation is to ________.",
-    "answer": "A",
-    "options": {
-      "A": "follow instructions",
-      "B": "be creative",
-      "C": "emphasize all the positive aspects of a business venture",
-      "D": "appear confident",
-      "E": "do something out of the ordinary"
-    }
-  },
-  "74": {
-    "question": "The first rule in making oral presentations is to follow instructions.",
-    "answer": "T"
-  },
-  "75": {
-    "question": "How should the entrepreneur approach the oral presentation of the business plan?",
-    "answer": "M"
-  }
 }

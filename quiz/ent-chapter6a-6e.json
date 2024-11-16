@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "Billy Goat Ice Cream, the company profiled in the opening feature in Chapter 7, is a",
+        "answer": "A",
+        "options": {
+            "A": "limited liability corporation",
+            "B": "sole proprietorship",
+            "C": "partnership",
+            "D": "Schedule S corporation",
+            "E": "Schedule C corporation"
+        }
+    },
+    "2": {
+        "question": "According to the textbook, the single most important thing the founders of an entrepreneurial venture can do is",
+        "answer": "E",
+        "options": {
+            "A": "start a board of advisors",
+            "B": "establish business partnerships",
+            "C": "make money",
+            "D": "select a limited liability corporation as opposed to an S-corporation",
+            "E": "establish a strong ethical culture for their firms"
+        }
+    },
+    "3": {
+        "question": "According to the 2016 Global Business Ethics Survey, a total of ____ percent of U.S. employees surveyed report observing misconduct.",
+        "answer": "E",
+        "options": {
+            "A": "7",
+            "B": "15",
+            "C": "24",
+            "D": "47",
+            "E": "30"
+        }
+    },
+    "4": {
+        "question": "According to the 2016 Global Business Ethics Survey, ____ percent of U.S. respondents indicated that they reported observed misconduct in their workplace.",
+        "answer": "C",
+        "options": {
+            "A": "52",
+            "B": "67",
+            "C": "76",
+            "D": "81",
+            "E": "94"
+        }
+    },
+    "5": {
+        "question": "Which of the following is the most important thing that an entrepreneur, or team of entrepreneurs, can do to build a strong ethical culture in their organization?",
+        "answer": "C",
+        "options": {
+            "A": "Implement an ethics training program",
+            "B": "Write a mission statement",
+            "C": "Lead by example",
+            "D": "Hire an ethics compliance officer",
+            "E": "Write a code of conduct"
+        }
+    },
+    "6": {
+        "question": "A code of ____ is a formal statement of an organization's values on certain ethical and social issues.",
+        "answer": "A",
+        "options": {
+            "A": "conduct",
+            "B": "behavior",
+            "C": "performance",
+            "D": "principles",
+            "E": "morals"
+        }
+    },
+    "7": {
+        "question": "Facebook's Code of Conduct has ____ sections.",
+        "answer": "B",
+        "options": {
+            "A": "3",
+            "B": "13",
+            "C": "8",
+            "D": "11",
+            "E": "7"
+        }
+    },
+    "8": {
+        "question": "A situation that involves doing something that is beneficial to oneself or the organization, but may be unethical, is called a(n)",
+        "answer": "C",
+        "options": {
+            "A": "ethical quandary",
+            "B": "ethical predicament",
+            "C": "ethical dilemma",
+            "D": "principled quandary",
+            "E": "just dilemma"
+        }
+    },
+    "9": {
+        "question": "The advantage of having a code of conduct is that it provides specific guidance to entrepreneurs, managers, and ____ regarding expectations of them in terms of ethical behavior.",
+        "answer": "B",
+        "options": {
+            "A": "suppliers",
+            "B": "employees",
+            "C": "customers",
+            "D": "outsiders",
+            "E": "lenders"
+        }
+    },
+    "10": {
+        "question": "The single most important thing the founders of an entrepreneurial venture can do to avoid ethical misconduct is to establish a strong ethical culture for their firms.",
+        "answer": "T"
+    },
+    "11": {
+        "question": "The most important thing that any entrepreneur, or team of entrepreneurs, can do to build a strong ethical culture in their organization is to hire an aggressive attorney.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "An ethical dilemma is a situation that involves doing something that is beneficial to oneself or the organization, but may be unethical.",
+        "answer": "T"
+    },
+    "13": {
+        "question": "A(n) ____ is a written document that deals with issues such as the relative split of the equity among the founders of the firm, how individual founders will be compensated for the cash or the \"sweat equity\" they put into the firm, and how long the founder will have to remain with the firm for their shares to fully vest.",
+        "answer": "C",
+        "options": {
+            "A": "entrepreneurs' agreement",
+            "B": "creators' agreement",
+            "C": "founders' agreement",
+            "D": "initiators' agreement",
+            "E": "originators' agreement"
+        }
+    },
+    "14": {
+        "question": "Most founders' agreements include a ____ clause, which legally obligates the departing founder to sell to the remaining founders his or her interest in the firm if the remaining founders are interested.",
+        "answer": "B",
+        "options": {
+            "A": "redemption",
+            "B": "buyback",
+            "C": "statutory purchase",
+            "D": "voluntary recoup",
+            "E": "shareholder surrender"
+        }
+    },
+    "15": {
+        "question": "Which of the following is typically NOT included in the founders' agreement for a firm?",
+        "answer": "A",
+        "options": {
+            "A": "Marketing plan",
+            "B": "Legal form of business ownership",
+            "C": "Buyback clause",
+            "D": "Apportionment of stock",
+            "E": "Identity and proposed titles of the founders"
+        }
+    },
+    "16": {
+        "question": "The Savvy Entrepreneurial Firm feature in Chapter 7 focuses on the topic of vesting company stock. According to the feature, a typical startup's vesting schedule lasts ____ and includes a 12-month cliff.",
+        "answer": "D",
+        "options": {
+            "A": "12 months",
+            "B": "12 months to 24 months",
+            "C": "24 months to 36 months",
+            "D": "36 months to 48 months",
+            "E": "48 months to 60 months"
+        }
+    },
+    "17": {
+        "question": "A(n) ____ agreement binds an employee or another party to not disclose a company's trade secret. A ____ agreement prevents an individual from competing against a former employer for a specific period of time.",
+        "answer": "A",
+        "options": {
+            "A": "nondisclosure; noncompete",
+            "B": "non breach-of-trust; nonchallenge",
+            "C": "voluntary truth; nonparticipate",
+            "D": "binding confidentiality; noncompete",
+            "E": "ethics; nonparticipate"
+        }
+    },
+    "18": {
+        "question": "Jessica Marsh just took a job with Instagram. As part of her employment contract, Jessica signed an agreement that states that she will not disclose any of Instagram's trade secrets. The agreement that Jessica signed is called a(n) ____ agreement.",
+        "answer": "A",
+        "options": {
+            "A": "nondisclosure",
+            "B": "non breach-of-trust",
+            "C": "ethics",
+            "D": "binding confidentiality",
+            "E": "legitimacy"
+        }
+    },
+    "19": {
+        "question": "Steven Diaz just took a job with Harley Davidson. As part of his employment agreement, Harley Davidson required Steven to sign an agreement, which states that if he leaves Harley Davidson, he will not work for a firm that competes against Harley Davidson for at least two years. The agreement that Steven signed is called a ____ agreement.",
+        "answer": "D",
+        "options": {
+            "A": "nondisclosure",
+            "B": "nonparticipate",
+            "C": "nonchallenge",
+            "D": "noncompete",
+            "E": "noncontend"
+        }
+    },
+    "20": {
+        "question": "____ is the process in which an impartial third party helps those involved in a dispute reach an agreement.",
+        "answer": "E",
+        "options": {
+            "A": "Conciliation",
+            "B": "Reconciliation",
+            "C": "Negotiation",
+            "D": "Appeasement",
+            "E": "Mediation"
+        }
+    },
+    "21": {
+        "question": "It is important for an entrepreneur to select an attorney as late as possible when developing a business venture.",
+        "answer": "F"
+    },
+    "22": {
+        "question": "A founders' agreement is a written document that deals with issues such as the relative split of the equity among the founders of the firm.",
+        "answer": "T"
+    },
+    "23": {
+        "question": "The idea that it's important to get \"everything in writing\" in regard to business agreements causes unnecessary work and can lead to an erosion of trust between business partners.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "A noncompete agreement prevents an individual from competing against a former employer for a specific period of time.",
+        "answer": "T"
+    },
+    "25": {
+        "question": "Mediation is the process in which an impartial third party helps those involved in a dispute reach an agreement.",
+        "answer": "T"
+    },
+    "26": {
+        "question": "Which of the following statements regarding business licenses and permits is incorrect?",
+        "answer": "A",
+        "options": {
+            "A": "Most business licenses and permits can wait until after a business is launched to be obtained.",
+            "B": "A business license can typically be obtained at the city clerk's office in the community where the business will be located.",
+            "C": "If a business will be run out of a home, a home occupation business license is often required.",
+            "D": "Some business licenses are hard to get.",
+            "E": "The business licenses and permits that are needed vary by city, county, and state."
+        }
+    },
+    "27": {
+        "question": "Most businesses that plan to use a fictitious name, which is any name other than the business owner's name, need a(n) ____ permit.",
+        "answer": "E",
+        "options": {
+            "A": "unreal business name",
+            "B": "fabricated business name",
+            "C": "invented business name",
+            "D": "conjured business name",
+            "E": "fictitious business name"
+        }
+    },
+    "28": {
+        "question": "Very few businesses require licenses and permits to operate.",
+        "answer": "F"
+    },
+    "29": {
+        "question": "Which form of business ownership is a particularly poor choice for an aggressive entrepreneurial firm?",
+        "answer": "B",
+        "options": {
+            "A": "C corporation",
+            "B": "Sole proprietorship",
+            "C": "Subchapter S corporation",
+            "D": "Limited partnership",
+            "E": "Limited liability corporation"
+        }
+    },
+    "30": {
+        "question": "Which of the following is NOT one of the four factors identified in the textbook as critical in selecting a form of business ownership?",
+        "answer": "C",
+        "options": {
+            "A": "The cost of setting up and maintaining the legal form",
+            "B": "The number and types of investors involved",
+            "C": "Accounting considerations",
+            "D": "Tax considerations",
+            "E": "The extent to which personal assets can be shielded from the liabilities of the business"
+        }
+    },
+    "31": {
+        "question": "The simplest and most common form of business entity is the",
+        "answer": "A",
+        "options": {
+            "A": "sole proprietorship",
+            "B": "general partnership",
+            "C": "C corporation",
+            "D": "limited liability company",
+            "E": "subchapter S corporation"
+        }
+    },
+    "32": {
+        "question": "All of the following are advantages of a sole proprietorship except",
+        "answer": "B",
+        "options": {
+            "A": "creating one is easy and inexpensive",
+            "B": "unlimited liability",
+            "C": "it is not subject to double taxation",
+            "D": "the owner maintains complete control of the business",
+            "E": "business losses can be deducted against the sole proprietor's other sources of income"
+        }
+    },
+    "33": {
+        "question": "Which of the following statements is incorrect regarding sole proprietorships?",
+        "answer": "D",
+        "options": {
+            "A": "There is one owner.",
+            "B": "Sole proprietor is in full control.",
+            "C": "Business ends at the owner's death or loss of interest in the business.",
+            "D": "Liquidity of the investment is high.",
+            "E": "Money must be raised by the sole proprietor."
+        }
+    },
+    "34": {
+        "question": "Partnerships are organized as either ____ or ____ partnerships.",
+        "answer": "D",
+        "options": {
+            "A": "specific; general",
+            "B": "narrow; broad",
+            "C": "inward; outward",
+            "D": "general; limited",
+            "E": "partial; full"
+        }
+    },
+    "35": {
+        "question": "A(n) ____ details the responsibilities and the ownership shares of the partners involved with an organization.",
+        "answer": "A",
+        "options": {
+            "A": "partnership agreement",
+            "B": "industry contract",
+            "C": "business pledge",
+            "D": "business agreement",
+            "E": "partnership pledge"
+        }
+    },
+    "36": {
+        "question": "Which of the following is NOT an advantage of a general partnership?",
+        "answer": "C",
+        "options": {
+            "A": "Business losses can be deducted against the partners' other sources of income.",
+            "B": "The skills and abilities of more than one individual are available to the firm.",
+            "C": "The liquidity of each partner's investment is low.",
+            "D": "Creating one is relatively easy and inexpensive compared to a C corporation or limited liability company.",
+            "E": "It is not subject to double taxation."
+        }
+    },
+    "37": {
+        "question": "A ____ partnership is a modified form of a general partnership.",
+        "answer": "B",
+        "options": {
+            "A": "restricted",
+            "B": "limited",
+            "C": "partial",
+            "D": "constrained",
+            "E": "fractional"
+        }
+    },
+    "38": {
+        "question": "Which of the following statements about limited partnerships is incorrect?",
+        "answer": "D",
+        "options": {
+            "A": "A limited partnership is a modified form of a general partnership.",
+            "B": "Limited partnerships are common in real estate and oil and gas exploration.",
+            "C": "A limited partnership is usually formed to raise money or to spread out the risk of a venture without forming a corporation.",
+            "D": "Both the limited partners and the general partners are responsible for the debts and obligations of the partnership.",
+            "E": "A limited partnership contains two classes of owners-general and limited partners."
+        }
+    },
+    "39": {
+        "question": "A ____ sets forth the rights and duties of the general and limited partners, along with the details of how the partnership will be managed and eventually dissolved.",
+        "answer": "E",
+        "options": {
+            "A": "partnership accord",
+            "B": "restricted partnership agreement",
+            "C": "business partnership agreement",
+            "D": "limited partnership concurrence",
+            "E": "limited partnership agreement"
+        }
+    },
+    "40": {
+        "question": "According to the textbook, ____ are common in real estate development, oil and gas exploration, and motion picture ventures.",
+        "answer": "D",
+        "options": {
+            "A": "sole proprietorships",
+            "B": "limited liability companies",
+            "C": "subchapter S corporations",
+            "D": "limited partnerships",
+            "E": "general partnerships"
+        }
+    },
+    "41": {
+        "question": "A separate legal entity organized under the authority of a state is referred to as a ____.",
+        "answer": "E",
+        "options": {
+            "A": "limited partnership",
+            "B": "conglomerate",
+            "C": "general partnership",
+            "D": "sole proprietorship",
+            "E": "corporation"
+        }
+    },
+    "42": {
+        "question": "Corporations are organized as either ____ corporations or ____ corporations.",
+        "answer": "D",
+        "options": {
+            "A": "permanent; temporary",
+            "B": "general; limited",
+            "C": "voluntary; statutory",
+            "D": "C; subchapter S",
+            "E": "regular; limited liability"
+        }
+    },
+    "43": {
+        "question": "Large firms like Apple, Facebook, General Electric, and Microsoft, that trade on organized stock exchanges, are",
+        "answer": "D",
+        "options": {
+            "A": "limited partnerships",
+            "B": "limited liability companies",
+            "C": "subchapter S corporations",
+            "D": "C corporations",
+            "E": "general partnerships"
+        }
+    },
+    "44": {
+        "question": "Most C corporations have two classes of stock-____ and ____.",
+        "answer": "B",
+        "options": {
+            "A": "premium; normal",
+            "B": "common; preferred",
+            "C": "standard; substandard",
+            "D": "regular; special",
+            "E": "ordinary; distinct"
+        }
+    },
+    "45": {
+        "question": "Which of the following is true regarding common and preferred stock?",
+        "answer": "C",
+        "options": {
+            "A": "Preferred stock is rarely issued.",
+            "B": "Common stock is rarely issued.",
+            "C": "Common stock is issued more broadly than preferred stock.",
+            "D": "Preferred stock is issued more broadly than common stock.",
+            "E": "Common and preferred stock are issued in the same amount."
+        }
+    },
+    "46": {
+        "question": "____ stock is typically issued to conservative investors who have preferential rights over common stockholders in regard to dividends and to the assets of the corporation in the event of liquidation.",
+        "answer": "C",
+        "options": {
+            "A": "Restricted",
+            "B": "Partial",
+            "C": "Preferred",
+            "D": "Common",
+            "E": "Limited liability"
+        }
+    },
+    "47": {
+        "question": "Which of the following statements is incorrect regarding common stock?",
+        "answer": "A",
+        "options": {
+            "A": "Common stock is issued more narrowly than preferred stock.",
+            "B": "The common stockholders have voting rights.",
+            "C": "The common stockholders get paid after the creditors in the event of the liquidation of the corporation.",
+            "D": "Common stock is the form of stock that most shareholders of a corporation own.",
+            "E": "The common stockholders elect the board of directors."
+        }
+    },
+    "48": {
+        "question": "A corporation is formed by filing ____ with the Secretary of State's office in the state of incorporation.",
+        "answer": "E",
+        "options": {
+            "A": "a certificate of intent to incorporate",
+            "B": "articles of business",
+            "C": "corporate credentials",
+            "D": "a corporation permit",
+            "E": "articles of incorporation"
+        }
+    },
+    "49": {
+        "question": "A disadvantage of C corporations is that they are subject to ____, which means that a corporation is taxed on its net income and when the same income is distributed to shareholders in the form of dividends it is taxed again on shareholders' personal income tax returns.",
+        "answer": "A",
+        "options": {
+            "A": "double taxation",
+            "B": "dual toll",
+            "C": "double duty",
+            "D": "double assessment",
+            "E": "dual harm"
+        }
+    },
+    "50": {
+        "question": "Corporations that trade their stock on organized exchanges like the New York Stock Exchange and the NASDAQ are called ____ corporations.",
+        "answer": "C",
+        "options": {
+            "A": "national",
+            "B": "civil",
+            "C": "public",
+            "D": "premier",
+            "E": "common"
+        }
+    },
+    "51": {
+        "question": "In a ____ corporation, the voting stock is held by a small number of individuals and is very thinly or infrequently traded.",
+        "answer": "E",
+        "options": {
+            "A": "public",
+            "B": "private",
+            "C": "narrow",
+            "D": "cautious public",
+            "E": "closely-held"
+        }
+    },
+    "52": {
+        "question": "If the owners of a corporation don't file their annual paperwork, neglect to pay their annual fees, or commit fraud, a court could ignore the fact that a corporation has been established and the owners could be held personally liable for the actions of the corporation. This chain of events is referred to as",
+        "answer": "D",
+        "options": {
+            "A": "vacating the corporate status",
+            "B": "yielding the corporate privilege",
+            "C": "surrendering the corporate shield",
+            "D": "piercing the corporate veil",
+            "E": "capitulating the corporate doctrine"
+        }
+    },
+    "53": {
+        "question": "____ are a special form of incentive compensation. These plans provide employees the option or right to buy a certain number of shares of their company's stock at a stated price over a certain period of time.",
+        "answer": "D",
+        "options": {
+            "A": "Corporate options",
+            "B": "Collective plans",
+            "C": "Share plans",
+            "D": "Stock options",
+            "E": "Dividends"
+        }
+    },
+    "54": {
+        "question": "Which of the following is a disadvantage of a C Corporation?",
+        "answer": "A",
+        "options": {
+            "A": "Income is subject to double taxation.",
+            "B": "Limited liability",
+            "C": "Raising capital is easier than a partnership or sole proprietorship.",
+            "D": "Stock is liquid if traded on a major stock exchange.",
+            "E": "No restrictions exist on the number of shareholders."
+        }
+    },
+    "55": {
+        "question": "Which of the following is an advantage of a C Corporation?",
+        "answer": "B",
+        "options": {
+            "A": "Setting up and maintaining one is more difficult than for a sole proprietorship or a partnership.",
+            "B": "Stock is liquid if traded on a major stock exchange.",
+            "C": "Business losses cannot be deducted against the shareholders' other sources of income.",
+            "D": "Income is subject to double taxation.",
+            "E": "Small shareholders typically have little voice in the management of the firm."
+        }
+    },
+    "56": {
+        "question": "A ____ combines the advantages of a partnership and a C corporation.",
+        "answer": "A",
+        "options": {
+            "A": "subchapter S corporation",
+            "B": "limited partnership",
+            "C": "general partnership",
+            "D": "sole proprietorship",
+            "E": "subchapter K corporation"
+        }
+    },
+    "57": {
+        "question": "Which of the following is NOT one of the standards that a business must meet to qualify for status as a subchapter S corporation?",
+        "answer": "A",
+        "options": {
+            "A": "The business must be a subsidiary of another corporation.",
+            "B": "All shareholders must agree to have the corporation formed as a subchapter S corporation.",
+            "C": "It can have no more than 100 members (husbands and wives count as one member).",
+            "D": "It can have only one class of stock issued and outstanding.",
+            "E": "The shareholders must be U.S. citizens."
+        }
+    },
+    "58": {
+        "question": "The ____ is a form of business organization that is rapidly gaining popularity in the United States. The concept originated in Germany and was first introduced in the United States in the state of Wyoming.",
+        "answer": "C",
+        "options": {
+            "A": "limited partnership",
+            "B": "general partnership",
+            "C": "limited liability company",
+            "D": "subchapter S corporation",
+            "E": "C corporation"
+        }
+    },
+    "59": {
+        "question": "In which form of business ownership are the owners called \"members\"?",
+        "answer": "C",
+        "options": {
+            "A": "general partnership",
+            "B": "limited partnership",
+            "C": "limited liability company",
+            "D": "subchapter C corporation",
+            "E": "C corporation"
+        }
+    },
+    "60": {
+        "question": "Choosing a legal entity for a firm is a one-time event. Once a form of legal entity has been chosen, it cannot be changed.",
+        "answer": "F"
+    },
+    "61": {
+        "question": "A disadvantage of a sole proprietorship is that it is subject to double taxation.",
+        "answer": "F"
+    },
+    "62": {
+        "question": "A disadvantage of a general partnership is that the liquidity of each partner's investment is low.",
+        "answer": "T"
+    },
+    "63": {
+        "question": "The major difference between a general and a limited partnership is that a limited partnership includes two classes of owners-general and limited partners.",
+        "answer": "T"
+    },
+    "64": {
+        "question": "Corporations are organized as either C corporations, T corporations, or subchapter S corporations.",
+        "answer": "F"
+    },
+    "65": {
+        "question": "It is usually easier for a corporation to raise investment capital than a sole proprietorship or a general partnership because the shareholders are not liable beyond their investment in the firm.",
+        "answer": "T"
+    },
+    "66": {
+        "question": "The vast majority of corporations in the United States are public corporations.",
+        "answer": "F"
+    },
+    "67": {
+        "question": "Stock options are a special form of incentive compensation.",
+        "answer": "T"
+    },
+    "68": {
+        "question": "A subchapter S corporation combines the advantages of a partnership and a C corporation.",
+        "answer": "T"
+    },
+    "69": {
+        "question": "Few entrepreneurial firms start as subchapter S corporations.",
+        "answer": "F"
+    },
+    "70": {
+        "question": "The limited liability corporation is a form of business organization that is rapidly losing popularity in the United States.",
+        "answer": "F"
+    }
+}

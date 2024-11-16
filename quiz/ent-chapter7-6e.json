@@ -1,0 +1,632 @@
+{
+	"1": {
+		"question": "Kinvolved, the company profiled in the opening feature of Chapter 10, is an EdTech startup that involves an app to track student absences. The company was co-founded by Miriam Altman and Alexandra Meis. Which of the following is true about Kinvolved's founding story?",
+		"answer": "B",
+		"options": {
+			"A": "Both Altman and Meis were college professors before starting the venture.",
+			"B": "The co-founders raised money via an Indiegogo crowdfunding campaign.",
+			"C": "Altman and Meis went public via an IPO soon after launch.",
+			"D": "Both Altman and Meis attended Stanford University.",
+			"E": "Altman and Meis met while they were teaching at Harvard University."
+		}
+	},
+	"2": {
+		"question": "According to the textbook, many entrepreneurs go about the task of raising capital haphazardly because they",
+		"answer": "B",
+		"options": {
+			"A": "are uncomfortable talking about money and they haven't written a business plan",
+			"B": "lack experience in this area and because they don't know much about their choices",
+			"C": "are focused on the nuts and bolts of starting their business",
+			"D": "haven't completed a feasibility analysis or business plan",
+			"E": "are intimidated by the process and they are unsure of how much money they need"
+		}
+	},
+	"3": {
+		"question": "Courtney Young is the founder of a company in the semiconductor industry. Courtney's firm is still in the feasibility analysis stage and doesn't have a product that is ready to sell. The company is spending about $25,000 per month and expects to maintain that level of spending until it reaches profitability. The $25,000 a month is Courtney's",
+		"answer": "C",
+		"options": {
+			"A": "consumption",
+			"B": "utilization",
+			"C": "burn",
+			"D": "usage",
+			"E": "liquidity"
+		}
+	},
+	"4": {
+		"question": "The three primary reasons startups need funding are",
+		"answer": "A",
+		"options": {
+			"A": "cash flow challenges, capital investments, and lengthy product development cycles",
+			"B": "business research, cash flow challenges, and costs associated with building a brand",
+			"C": "bonuses for members of the new venture team, attorney fees, and lengthy product development cycles",
+			"D": "attorney fees, capital investments, and marketing research",
+			"E": "bonuses for members of the new venture team, marketing research, and personnel costs"
+		}
+	},
+	"5": {
+		"question": "In startup firms, inventory must be purchased, employees must be trained and paid, and advertising must be paid for before cash is generated from sales. Which of the following reasons that motivate firms to seek funding or financing is illustrated in this example?",
+		"answer": "A",
+		"options": {
+			"A": "Cash flow challenges",
+			"B": "Marketing costs",
+			"C": "Personnel costs",
+			"D": "Capital investments",
+			"E": "Lengthy product development cycles"
+		}
+	},
+	"6": {
+		"question": "For startup firms, the cost of buying real estate, building facilities, and purchasing equipment often exceeds the firm's ability to provide funds for those needs on its own. Which of the following reasons that motivate firms to seek funding or financing is illustrated in this example?",
+		"answer": "D",
+		"options": {
+			"A": "Lengthy product development cycles",
+			"B": "Costs associated with building a brand",
+			"C": "Cash flow challenges",
+			"D": "Capital investments",
+			"E": "Personnel costs"
+		}
+	},
+	"7": {
+		"question": "Peter Simmons owns a specialized computer software company. Although Peter's software designers and programmers are very good, it takes 2-3 years to develop a good software product. This example illustrates the need for funding or financing referred to as",
+		"answer": "D",
+		"options": {
+			"A": "personnel costs",
+			"B": "marketing costs",
+			"C": "costs associated with building a brand",
+			"D": "lengthy product development cycles",
+			"E": "cash flow challenges"
+		}
+	},
+	"8": {
+		"question": "For startup firms, some products are under development for years before they generate earnings. The upfront costs often exceed a firm's ability to fund these activities on its own. Which of the following reasons that motivate firms to seek funding or financing is illustrated in this example?",
+		"answer": "E",
+		"options": {
+			"A": "Cash flow challenges",
+			"B": "Marketing costs",
+			"C": "Capital investments",
+			"D": "Personnel costs",
+			"E": "Lengthy product development cycles"
+		}
+	},
+	"9": {
+		"question": "The Partnering for Success feature in Chapter 10 focuses on Startup Weekend. Startup Weekend is a for-profit organization that",
+		"answer": "A",
+		"options": {
+			"A": "creates a context in which small groups of people can start a business in 54 hours (usually over a weekend)",
+			"B": "sponsors \"weekend\" events that connect entrepreneurs with mentors, advisors and potential investors",
+			"C": "provides 54-hour weekend retreats for people to gather and learn as much as possible about the startup process",
+			"D": "sponsors pitch events, usually over a weekend, that allow entrepreneurs to pitch their business ideas to angel investors",
+			"E": "facilitates weekend business plan competitions across the United States"
+		}
+	},
+	"10": {
+		"question": "The three reasons that most firms need to raise money during their early life are cash flow challenges, capital investments, and lengthy product development cycles.",
+		"answer": "T"
+	},
+	"11": {
+		"question": "According to our textbook, the seed money that gets a company off the ground typically comes from",
+		"answer": "E",
+		"options": {
+			"A": "angel investors",
+			"B": "venture capitalists",
+			"C": "commercial banks",
+			"D": "governmental agencies",
+			"E": "the founders of the firm"
+		}
+	},
+	"12": {
+		"question": "Katy Anderson's startup, which is in the organic fruit and vegetables industry, was launched on January 1, 2015. However, prior to its formal launch, Katy spent many hours working on her business, particularly during the feasibility analysis stage. The time and effort that entrepreneurs put into their venture, that can't be easily measured from a financial point of view, is referred to as",
+		"answer": "C",
+		"options": {
+			"A": "effort",
+			"B": "intangible",
+			"C": "sweat",
+			"D": "worry",
+			"E": "fret"
+		}
+	},
+	"13": {
+		"question": "According to the textbook, beyond their own funds, the second source of funds for many new ventures is",
+		"answer": "C",
+		"options": {
+			"A": "government grants",
+			"B": "business angels",
+			"C": "friends and family",
+			"D": "banks",
+			"E": "venture capital"
+		}
+	},
+	"14": {
+		"question": "Steven and Emily Campbell are planning to open a casual dining restaurant in downtown Akron, Ohio, and need $125,000 to get started. They have $50,000 of their own money, which leaves $75,000. After getting turned down by a couple of banks, they decided to turn to their relatives and acquaintances for help. Fortunately, they were able to raise the money through a gift from Steven's grandfather, a loan from Emily's parents, and a small investment by Steven's best friend in college, Doug. The money that an entrepreneur raises in this manner is referred to as",
+		"answer": "A",
+		"options": {
+			"A": "friends and family",
+			"B": "bootstrapping",
+			"C": "networking money",
+			"D": "compassion money",
+			"E": "legacy money"
+		}
+	},
+	"15": {
+		"question": "Amy Clark just opened a soup and salad restaurant near Golden Gate Park in San Francisco, CA. Rather than borrow money or raise funds from investors, Amy used her creativity and ingenuity and figured out how to get her business up and running without the need for external funding. Amy is utilizing a technique referred to as",
+		"answer": "E",
+		"options": {
+			"A": "networking",
+			"B": "reaching",
+			"C": "scrounging",
+			"D": "prospecting",
+			"E": "bootstrapping"
+		}
+	},
+	"16": {
+		"question": "Typically, the seed money that gets a company off the ground comes from a commercial bank.",
+		"answer": "F"
+	},
+	"17": {
+		"question": "The vast majority of founders contribute personal funds along with sweat equity to their ventures.",
+		"answer": "T"
+	},
+	"18": {
+		"question": "The three common sources of \"personal\" financing for a startup firm are personal funds, friends and family, and bootstrapping.",
+		"answer": "T"
+	},
+	"19": {
+		"question": "Bootstrapping is the process of combining personal funds, equity investments, and bank financing to launch a business.",
+		"answer": "F"
+	},
+	"20": {
+		"question": "Equity financing (or funding) means",
+		"answer": "A",
+		"options": {
+			"A": "exchanging partial ownership in a firm, usually in the form of stock, for funding",
+			"B": "getting a grant or outright gift",
+			"C": "getting a loan",
+			"D": "getting a lease",
+			"E": "getting a loan guarantee"
+		}
+	},
+	"21": {
+		"question": "Which of the following is NOT a source of equity funding?",
+		"answer": "E",
+		"options": {
+			"A": "Initial public offering",
+			"B": "Angel investors",
+			"C": "Private placement",
+			"D": "Venture capital",
+			"E": "Government grants"
+		}
+	},
+	"22": {
+		"question": "Equity investors typically have a ______ year investment horizon.",
+		"answer": "C",
+		"options": {
+			"A": "1 to 3",
+			"B": "2 to 4",
+			"C": "3 to 5",
+			"D": "4 to 6",
+			"E": "5 to 7"
+		}
+	},
+	"23": {
+		"question": "A liquidity event accomplishes which of the following purposes?",
+		"answer": "C",
+		"options": {
+			"A": "Provides a business sufficient funding to operate for up to a year without raising additional funding",
+			"B": "Provides the founders of a firm a salary",
+			"C": "Converts some or all of a company's stock to cash",
+			"D": "Allows the founders of a firm to sell stock to the public",
+			"E": "Allows a business to liquidate in an ethical and cost-effective manner"
+		}
+	},
+	"24": {
+		"question": "Which of the following statements is incorrect regarding equity funding?",
+		"answer": "E",
+		"options": {
+			"A": "Equity investors expect to get their money back, along with a substantial capital gain, through the sale of their stock.",
+			"B": "Angel investors are a common source of equity funding.",
+			"C": "Equity funding is not a loan.",
+			"D": "Equity investors are very demanding.",
+			"E": "Equity investors fund the majority of the plans they consider."
+		}
+	},
+	"25": {
+		"question": "Which of the following sets of characteristics places a startup in the strongest position to apply for equity funding?",
+		"answer": "E",
+		"options": {
+			"A": "Weak cash flow, high leverage, low-to-moderate growth, unproven management",
+			"B": "Strong cash flow, low leverage, audited financials, good management, healthy balance sheet",
+			"C": "Unique business idea, strong cash flow, low-to-moderate growth, broad market",
+			"D": "Strong cash flow, high leverage, low-to-moderate growth, unproven management",
+			"E": "Unique business idea, high growth, niche market, proven management"
+		}
+	},
+	"26": {
+		"question": "A brief, carefully constructed statement that outlines the merits of a business opportunity is called a(n)",
+		"answer": "E",
+		"options": {
+			"A": "subway",
+			"B": "sway",
+			"C": "bootstrap",
+			"D": "teaser",
+			"E": "elevator"
+		}
+	},
+	"27": {
+		"question": "Debt financing means exchanging partial ownership in a firm in exchange for cash.",
+		"answer": "F"
+	},
+	"28": {
+		"question": "The ideal candidate for a bank loan is a firm with weak cash flow, high leverage, low to moderate growth and unproven management.",
+		"answer": "F"
+	},
+	"29": {
+		"question": "The three most common forms of equity funding are ______.",
+		"answer": "C",
+		"options": {
+			"A": "friends and family, venture capital, bank loans",
+			"B": "SBIR grants, SBA guaranteed loans, bank loans",
+			"C": "initial public offerings, business angels, venture capitalists",
+			"D": "friends and family, business angels, bootstrapping",
+			"E": "SBIR grants, venture capital, initial public offerings"
+		}
+	},
+	"30": {
+		"question": "______ are individuals who invest their personal capital directly in start-ups.",
+		"answer": "B",
+		"options": {
+			"A": "Venture capitals",
+			"B": "Business angels",
+			"C": "Institutional investors",
+			"D": "Investment bankers",
+			"E": "Business capitalists"
+		}
+	},
+	"31": {
+		"question": "Which of the following statements is NOT correct regarding business angels?",
+		"answer": "B",
+		"options": {
+			"A": "Business angels invest in more startups on a yearly basis than venture capitalists.",
+			"B": "The number of angel investors has decreased dramatically over the past decade.",
+			"C": "Business angels usually take a seat on the board of directors of the firms in which they invest.",
+			"D": "Business angels are valuable because of their willingness to make relatively small investments.",
+			"E": "Business angels are difficult to find."
+		}
+	},
+	"32": {
+		"question": "According to the textbook, the unique value provided by business angels is they ______.",
+		"answer": "B",
+		"options": {
+			"A": "are willing to make relatively large investments",
+			"B": "are willing to make relatively small investments",
+			"C": "require a fairly low rate of return on their money",
+			"D": "invest money but typically don't take a seat on a company's board of directors",
+			"E": "are easy to find"
+		}
+	},
+	"33": {
+		"question": "______ are limited partnerships of money managers who raise money in \"funds\" to invest in startups and growing firms.",
+		"answer": "A",
+		"options": {
+			"A": "Venture capital firms",
+			"B": "Business angels",
+			"C": "Institutional investors",
+			"D": "Investment bankers",
+			"E": "Business capitalists"
+		}
+	},
+	"34": {
+		"question": "Venture capital firms are ______ of money managers who raise money in \"funds\" to invest in startups and growing firms.",
+		"answer": "A",
+		"options": {
+			"A": "limited partnerships",
+			"B": "finance associations",
+			"C": "consortiums",
+			"D": "collations",
+			"E": "strategic partnerships"
+		}
+	},
+	"35": {
+		"question": "In 2015, venture capital firms funded nearly ______ deals.",
+		"answer": "C",
+		"options": {
+			"A": "800",
+			"B": "2,600",
+			"C": "3,700",
+			"D": "6,200",
+			"E": "8,000"
+		}
+	},
+	"36": {
+		"question": "Once a venture capitalist makes an investment in a firm, subsequent investments are made in rounds and are referred to as ______.",
+		"answer": "D",
+		"options": {
+			"A": "later funding",
+			"B": "successive funding",
+			"C": "subsequent backing",
+			"D": "follow-on funding",
+			"E": "ensuing backing"
+		}
+	},
+	"37": {
+		"question": "An important part of obtaining venture capital funding is going through ______ diligence, which refers to the process of investigating the merits of a potential venture and verifying the key claims made by the business plan.",
+		"answer": "C",
+		"options": {
+			"A": "appropriate",
+			"B": "fit",
+			"C": "due",
+			"D": "prior",
+			"E": "responsible"
+		}
+	},
+	"38": {
+		"question": "In regard to the stages (or rounds) of venture capital funding, the stage of funding that occurs when an investment is made very early in a venture's life to fund the development of a prototype and feasibility analysis is referred to as ______ funding.",
+		"answer": "A",
+		"options": {
+			"A": "seed",
+			"B": "second-stage",
+			"C": "first-stage",
+			"D": "mezzanine",
+			"E": "startup"
+		}
+	},
+	"39": {
+		"question": "The first sale of stock by a firm to the public is referred to as a(n) ______.",
+		"answer": "E",
+		"options": {
+			"A": "original public submission",
+			"B": "first unrestricted offering",
+			"C": "preemptive initial offering",
+			"D": "original open offering",
+			"E": "initial public offering"
+		}
+	},
+	"40": {
+		"question": "The What Went Wrong? feature in Chapter 10 focuses on DrawQuest. DrawQuest captured the attention of venture capitalists, gained 25,000 users, and still failed. According to the feature, the main reason DrawQuest failed is that the founders ______.",
+		"answer": "C",
+		"options": {
+			"A": "couldn't work together effectively",
+			"B": "were ineffective in managing their investment capital",
+			"C": "never figured out the business side of the venture",
+			"D": "fell out of favor with their investors",
+			"E": "were ineffective in raising follow-on rounds of funding"
+		}
+	},
+	"41": {
+		"question": "A(n) ______ bank is an institution, such as Credit Suisse First Boston, that acts as an underwriter or agent for a firm engaged in an initial public offering.",
+		"answer": "D",
+		"options": {
+			"A": "venture",
+			"B": "statutory",
+			"C": "fiduciary",
+			"D": "investment",
+			"E": "public"
+		}
+	},
+	"42": {
+		"question": "Angel investors, private placement, venture capital, and initial public offerings are the most common sources of equity funding.",
+		"answer": "T"
+	},
+	"43": {
+		"question": "The number of angel investors in the United States has decreased dramatically over the past decade.",
+		"answer": "F"
+	},
+	"44": {
+		"question": "Most business angels remain fairly anonymous and are matched up with entrepreneurs through referrals.",
+		"answer": "T"
+	},
+	"45": {
+		"question": "Venture capitalists are individuals who invest their personal capital directly in startups.",
+		"answer": "F"
+	},
+	"46": {
+		"question": "Venture capital is money that is invested by venture capital firms in startups and small businesses with exceptional growth potential.",
+		"answer": "T"
+	},
+	"47": {
+		"question": "The percentage of the profits the venture capitalist gets is called the \"carry\".",
+		"answer": "T"
+	},
+	"48": {
+		"question": "Venture capital involves getting a loan or selling corporate bonds.",
+		"answer": "F"
+	},
+	"49": {
+		"question": "Debt financing involves ______.",
+		"answer": "E",
+		"options": {
+			"A": "raising venture capital or securing a private placement",
+			"B": "selling corporate bonds or selling stock via an IPO",
+			"C": "getting a grant or selling corporate bonds",
+			"D": "getting a loan or raising venture capital",
+			"E": "getting a loan or selling corporate bonds"
+		}
+	},
+	"50": {
+		"question": "Historically, commercial banks ______.",
+		"answer": "E",
+		"options": {
+			"A": "have been a good source of funds for startup firms",
+			"B": "have not funded startup firms at all",
+			"C": "have been a good source of funds for manufacturing firm startups but not for service firm startups",
+			"D": "have been a good source of funds for service firm startups but not for manufacturing firm startups",
+			"E": "have not been a good source of funds for startup firms"
+		}
+	},
+	"51": {
+		"question": "The two major advantages of getting a loan versus investment capital are ______.",
+		"answer": "D",
+		"options": {
+			"A": "the money doesn't have to be paid back and lenders typically take an active interest in their borrowers",
+			"B": "banks are reliable sources of funding for startups and interest payments are tax deductible",
+			"C": "the money doesn't have to be paid back and no ownership in the firm is surrendered",
+			"D": "no ownership in the firm is surrendered and interest payments are tax deductible",
+			"E": "banks are reliable sources of funding for startups and lenders typically take an active interest in borrowers"
+		}
+	},
+	"52": {
+		"question": "The most notable SBA program available to small businesses is the ______.",
+		"answer": "C",
+		"options": {
+			"A": "SBA 1060 Guaranty",
+			"B": "Code 604 Guaranty Program",
+			"C": "7(A) Guaranty Program",
+			"D": "SBA 101 Program",
+			"E": "Small Business 401 Program"
+		}
+	},
+	"53": {
+		"question": "______ is a financial transaction whereby a business sells its accounts receivable to a third party at a discount in exchange for cash.",
+		"answer": "A",
+		"options": {
+			"A": "Factoring",
+			"B": "Vendor credit",
+			"C": "Peer-to-peer lending",
+			"D": "Crowdfunding",
+			"E": "Leasing"
+		}
+	},
+	"54": {
+		"question": "Historically, commercial banks have been viewed as an excellent source of financing for startup firms.",
+		"answer": "F"
+	},
+	"55": {
+		"question": "The average SBA 7(A) loan amount in 2015 was $371,628.",
+		"answer": "T"
+	},
+	"56": {
+		"question": "Kickstarter and Indiegogo are examples of ______ crowdfunding sites.",
+		"answer": "E",
+		"options": {
+			"A": "equity-based",
+			"B": "vendor-based",
+			"C": "peer-based",
+			"D": "debt-based",
+			"E": "reward-based"
+		}
+	},
+	"57": {
+		"question": "The two types of crowdfunding sites are ______-based and ______-based.",
+		"answer": "A",
+		"options": {
+			"A": "rewards; equity",
+			"B": "equity; debt",
+			"C": "expectations; performance",
+			"D": "private; nonprivate",
+			"E": "domestic; international"
+		}
+	},
+	"58": {
+		"question": "Fundable and Crowdfunder are examples of ______-based crowdfunding sites.",
+		"answer": "D",
+		"options": {
+			"A": "debt",
+			"B": "reward",
+			"C": "government",
+			"D": "equity",
+			"E": "industry"
+		}
+	},
+	"59": {
+		"question": "A(n) ______ is a written agreement in which the owner of a piece of property allows an individual or business to use the property for a specified period of time in exchange for payments.",
+		"answer": "E",
+		"options": {
+			"A": "assurance",
+			"B": "loan",
+			"C": "guarantee",
+			"D": "warranty",
+			"E": "lease"
+		}
+	},
+	"60": {
+		"question": "The major advantage of leasing is that ______.",
+		"answer": "B",
+		"options": {
+			"A": "it enables a company to have access to average or above average facilities and equipment",
+			"B": "it enables a company to acquire the use of assets with little or no down payment",
+			"C": "it is cheaper in the long run than purchasing",
+			"D": "a lease agreement is easier to negotiate than a purchase agreement",
+			"E": "it is easier to obtain credit on a lease than a purchase"
+		}
+	},
+	"61": {
+		"question": "The ______ Program is a competitive grant program that provides over $2.5 billion per year to small businesses for early-state and development projects.",
+		"answer": "B",
+		"options": {
+			"A": "SBTA",
+			"B": "SBIR",
+			"C": "SBAP",
+			"D": "SAIR",
+			"E": "SBTR"
+		}
+	},
+	"62": {
+		"question": "Which \"phase\" of the SBIR Program is a six-month feasibility study in which the recipient must demonstrate the technical feasibility of the proposed innovation?",
+		"answer": "A",
+		"options": {
+			"A": "Phase I",
+			"B": "Phase II",
+			"C": "Phase III",
+			"D": "Phase V",
+			"E": "Phase X"
+		}
+	},
+	"63": {
+		"question": "The SBIR is a ______-phase program, meaning that firms that qualify have the potential to receive more than one grant to fund a particular proposal.",
+		"answer": "B",
+		"options": {
+			"A": "two",
+			"B": "three",
+			"C": "six",
+			"D": "nine",
+			"E": "twelve"
+		}
+	},
+	"64": {
+		"question": "The main difference between the SBIR and the STTR programs is that the STTR program requires the participation of ______.",
+		"answer": "C",
+		"options": {
+			"A": "an attorney",
+			"B": "a venture capitalist",
+			"C": "researchers working at universities or other research institutions",
+			"D": "a certified public accountant",
+			"E": "a government agency in conducting the research"
+		}
+	},
+	"65": {
+		"question": "Which of the following statements is incorrect about grant programs?",
+		"answer": "A",
+		"options": {
+			"A": "Granting agencies are very visible and well-known, so it's normally not hard to find one.",
+			"B": "The federal government has grant programs beyond the SBIR and STTR programs.",
+			"C": "It's important to avoid grant-related scams.",
+			"D": "There is a limited number of organizations that offer new businesses grants.",
+			"E": "There are private foundations that grant money to both existing and startup firms."
+		}
+	},
+	"66": {
+		"question": "The Savvy Entrepreneurial Firm feature in Chapter 10 focuses on the manner in which biotech firms and large drug companies work together to bring pharmaceutical products to market. According to the feature, the most compelling partnerships are those that help entrepreneurial firms focus on what they do best, which is typically ______, and that allow them to tap their partners' complementary strengths and resources.",
+		"answer": "A",
+		"options": {
+			"A": "innovation",
+			"B": "marketing",
+			"C": "project management",
+			"D": "fundraising",
+			"E": "product distribution"
+		}
+	},
+	"67": {
+		"question": "Factoring is a financial transaction whereby a business sells its accounts receivable to a third party at a discount in exchange for cash.",
+		"answer": "T"
+	},
+	"68": {
+		"question": "Kickstarter, Indiegogo and RocketHub are examples of equity-based crowdfunding sites.",
+		"answer": "F"
+	},
+	"69": {
+		"question": "A lease is a written agreement in which the owner of a piece of property allows an individual or business to use the property for a specified period of time in exchange for payments.",
+		"answer": "T"
+	},
+	"70": {
+		"question": "The SBIR and STTR programs provide entrepreneurs access to mentors, advisors and potential investors rather than cash.",
+		"answer": "F"
+	}
+}

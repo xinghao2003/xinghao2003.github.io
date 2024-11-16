@@ -1,0 +1,632 @@
+{
+	"1": {
+		"question": "The opening feature focuses on DripCatch, a company that makes a device that catches water that drips off of glassware when it comes out of the dishwasher. The central form of intellectual property that DripCatch is hoping to benefit from is a(n)",
+		"answer": "A",
+		"options": {
+			"A": "patent",
+			"B": "Internet domain name",
+			"C": "license",
+			"D": "trademark",
+			"E": "copyright"
+		}
+	},
+	"2": {
+		"question": "Which of the following is an example of intellectual property?",
+		"answer": "C",
+		"options": {
+			"A": "DripCatch's cash reserves",
+			"B": "The computer that you use",
+			"C": "Nike's swoosh logo",
+			"D": "United's fleet of planes",
+			"E": "Google's headquarters in Mountain View, California"
+		}
+	},
+	"3": {
+		"question": "Which of the following is not an example of intellectual property?",
+		"answer": "E",
+		"options": {
+			"A": "Proactiv's formula for acne medication",
+			"B": "Apple's trademark",
+			"C": "Internet domain name www.dripcatch.com",
+			"D": "Microsoft's Windows operating system",
+			"E": "A computer monitor"
+		}
+	},
+	"4": {
+		"question": "Which of the following was not identified in the textbook as one of the common mistakes that entrepreneurs make regarding intellectual property?",
+		"answer": "C",
+		"options": {
+			"A": "Not fully recognizing the value of their intellectual property",
+			"B": "Not properly identifying all their intellectual property",
+			"C": "Not properly registering their Internet domain names",
+			"D": "Not using their intellectual property as part of their overall plan for success",
+			"E": "Not taking sufficient steps to protect their intellectual property"
+		}
+	},
+	"5": {
+		"question": "There are two primary rules of thumb for deciding if intellectual property protection should be pursued for a particular intellectual asset. First, a firm should determine if the intellectual property has value in the marketplace. Second, a firm should determine if its intellectual property",
+		"answer": "A",
+		"options": {
+			"A": "is directly related to its competitive advantage",
+			"B": "could be licensed to another company",
+			"C": "is more than three years old",
+			"D": "is something that was developed \"in-house\"",
+			"E": "rightfully belongs to the firm or the employees who developed it"
+		}
+	},
+	"6": {
+		"question": "Which of the following are the four key forms of intellectual property protection?",
+		"answer": "A",
+		"options": {
+			"A": "Patents, copyrights, trademarks, and trade secrets",
+			"B": "Discoveries, covenants, trademarks, patents",
+			"C": "Patents, official documents, copyrights, inventions",
+			"D": "Discoveries, Internet domain names, innovations, trademarks",
+			"E": "Convents, inventions, opportunities, and copyrights"
+		}
+	},
+	"7": {
+		"question": "Which of the following is not one of the four key forms of intellectual property protection?",
+		"answer": "A",
+		"options": {
+			"A": "Innovations",
+			"B": "Copyrights",
+			"C": "Trademarks",
+			"D": "Trade secrets",
+			"E": "Patents"
+		}
+	},
+	"8": {
+		"question": "Intellectual property is any product of human intellect that is intangible but has value in the marketplace.",
+		"answer": "T"
+	},
+	"9": {
+		"question": "Patents, trademarks, copyrights, and licenses are the four key forms of intellectual property.",
+		"answer": "F"
+	},
+	"10": {
+		"question": "A grant from the federal government conferring the rights to exclude others from making, selling, or using an invention for a specific period of time is referred to as a(n)",
+		"answer": "B",
+		"options": {
+			"A": "trademark",
+			"B": "patent",
+			"C": "idea secret",
+			"D": "innovation",
+			"E": "copyright"
+		}
+	},
+	"11": {
+		"question": "Which form of intellectual property protection is the only one expressly mentioned in the original articles of the U.S. Constitution?",
+		"answer": "B",
+		"options": {
+			"A": "Assurances",
+			"B": "Patents",
+			"C": "Copyrights",
+			"D": "Trade secrets",
+			"E": "Trademarks"
+		}
+	},
+	"12": {
+		"question": "The first patent, which was granted for a process of making potash, an ingredient in fertilizer, was signed by",
+		"answer": "E",
+		"options": {
+			"A": "John Adams",
+			"B": "Thomas Jefferson",
+			"C": "Abraham Lincoln",
+			"D": "Theodore Roosevelt",
+			"E": "George Washington"
+		}
+	},
+	"13": {
+		"question": "The sole entity responsible for granting patents in the United States is the",
+		"answer": "A",
+		"options": {
+			"A": "U.S. Patent and Trademark Office",
+			"B": "Federal Patent, Copyright and Trademark Office",
+			"C": "Securities and Exchange Commission",
+			"D": "U.S. Department of Patents",
+			"E": "U.S. Treasury Department"
+		}
+	},
+	"14": {
+		"question": "Since the first patent was granted, there have been over patents granted in the United States.",
+		"answer": "D",
+		"options": {
+			"A": "526,000",
+			"B": "2.3 million",
+			"C": "4.6 million",
+			"D": "8.7 million",
+			"E": "12.2 million"
+		}
+	},
+	"15": {
+		"question": "Which of the following selections correctly identifies the three types of patents?",
+		"answer": "D",
+		"options": {
+			"A": "Manufacturing; process; plant",
+			"B": "Usefulness; purpose; genetic",
+			"C": "Explicit; implicit; plant",
+			"D": "Utility; design; plant",
+			"E": "Manufacturing; service; other"
+		}
+	},
+	"16": {
+		"question": "_____ patents are the most common type of patent and cover what we generally think of as new inventions.",
+		"answer": "D",
+		"options": {
+			"A": "Value",
+			"B": "Product",
+			"C": "Method",
+			"D": "Utility",
+			"E": "Design"
+		}
+	},
+	"17": {
+		"question": "Amazon.com's one-click ordering system and Priceline.com's \"name-your-price\" business model are examples of _____ patents.",
+		"answer": "E",
+		"options": {
+			"A": "copyright extension",
+			"B": "utility",
+			"C": "business technique",
+			"D": "trademark extension",
+			"E": "business method"
+		}
+	},
+	"18": {
+		"question": "There are three basic requirements for a patent to be granted. The subject of the patent application must be",
+		"answer": "C",
+		"options": {
+			"A": "useful, difficult to copy, and novel in relation to prior arts in the field",
+			"B": "based on cutting edge science or technology, not obvious to a person of ordinary skill in the field, and rare",
+			"C": "useful, novel in relation to prior arts in the field, and not obvious to a person of ordinary skill in the field",
+			"D": "rare, difficult to copy, and not obvious to a person of ordinary skill in the field",
+			"E": "useful, scientific, and novel in relation to prior arts in the field"
+		}
+	},
+	"19": {
+		"question": "The term of a utility patent is _____ years from the date of the _____",
+		"answer": "D",
+		"options": {
+			"A": "7; patent is granted",
+			"B": "15; initial application",
+			"C": "15; patent is granted",
+			"D": "20; initial application",
+			"E": "20; patent is granted"
+		}
+	},
+	"20": {
+		"question": "_____ patents are the second most common type of patent and cover the invention of new, original, and ornamental designs for manufactured products.",
+		"answer": "E",
+		"options": {
+			"A": "Aesthetic",
+			"B": "Utility",
+			"C": "Visual",
+			"D": "Blueprint",
+			"E": "Design"
+		}
+	},
+	"21": {
+		"question": "A utility patent is good for _____ years from the date of the original application, a design patent is good for _____ years from the date the patent is granted, and a plant patent is good for _____ years from the date of the original application.",
+		"answer": "D",
+		"options": {
+			"A": "14; 14; 20",
+			"B": "20; 20; 14",
+			"C": "20; 20; 20",
+			"D": "20; 14; 20",
+			"E": "14; 20; 14"
+		}
+	},
+	"22": {
+		"question": "In terms of priority in filing a patent application, the United States uses a first-to-_____ system.",
+		"answer": "A",
+		"options": {
+			"A": "file",
+			"B": "invent",
+			"C": "manufacture",
+			"D": "sell",
+			"E": "validate"
+		}
+	},
+	"23": {
+		"question": "Patent _____ takes place when one party engages in the unauthorized use of another party's patent.",
+		"answer": "E",
+		"options": {
+			"A": "breach",
+			"B": "encroachment",
+			"C": "violation",
+			"D": "infraction",
+			"E": "infringement"
+		}
+	},
+	"24": {
+		"question": "The Savvy Entrepreneurial Firm feature in Chapter 12 focused on provisional patent applications. The main point of the feature is to illustrate that filing a provisional patent application effectively takes",
+		"answer": "D",
+		"options": {
+			"A": "substantial financial resources",
+			"B": "a substantial commitment of time and effort",
+			"C": "very little effort",
+			"D": "some finesse",
+			"E": "substantial expertise"
+		}
+	},
+	"25": {
+		"question": "A patent is a grant from the federal government conferring the rights to exclude others from making, selling, or using an invention for the term of the trademark.",
+		"answer": "T"
+	},
+	"26": {
+		"question": "The average time for the approval of a patent is approximately seven months.",
+		"answer": "F"
+	},
+	"27": {
+		"question": "Since the first patent was granted in 1790, the USPTO has granted 8.7 million patents.",
+		"answer": "T"
+	},
+	"28": {
+		"question": "A utility patent can be obtained for a new product or process or the \"idea\" for a new product or process.",
+		"answer": "F"
+	},
+	"29": {
+		"question": "Design patents are the most common type of patent and cover what we generally think of as new inventions.",
+		"answer": "F"
+	},
+	"30": {
+		"question": "A _____ is any word, name, symbol, or device used to identify the source of origin of products or services and to distinguish those products or services from others.",
+		"answer": "B",
+		"options": {
+			"A": "copyright",
+			"B": "trademark",
+			"C": "license",
+			"D": "trade secret",
+			"E": "patent"
+		}
+	},
+	"31": {
+		"question": "The four types of trademarks are",
+		"answer": "A",
+		"options": {
+			"A": "trademarks, service marks, collective marks, and certification marks",
+			"B": "examination marks, trademarks, combined marks, and service marks",
+			"C": "shared marks, collective marks, mutual marks, and trademarks",
+			"D": "service marks, cooperative marks, trademarks, and shared marks",
+			"E": "trademarks, collective marks, documentation marks, and combined marks"
+		}
+	},
+	"32": {
+		"question": "Which of the following is not a type of trademark?",
+		"answer": "C",
+		"options": {
+			"A": "Trademark",
+			"B": "Certification mark",
+			"C": "Documentation mark",
+			"D": "Collective mark",
+			"E": "Service mark"
+		}
+	},
+	"33": {
+		"question": "Dell for computers, Modcloth for vintage and vintage-inspired women's clothing, and Proactiv for acne medication are examples of",
+		"answer": "E",
+		"options": {
+			"A": "certifications",
+			"B": "copyrights",
+			"C": "patents",
+			"D": "trade secrets",
+			"E": "trademarks"
+		}
+	},
+	"34": {
+		"question": "_____ marks are similar to ordinary trademarks, but they are used to identify the services or intangible activities of a business rather than a business's physical product.",
+		"answer": "D",
+		"options": {
+			"A": "Creative",
+			"B": "Intangible",
+			"C": "Examination",
+			"D": "Service",
+			"E": "Subtle"
+		}
+	},
+	"35": {
+		"question": "_____ marks are trademarks or service marks used by the members of a cooperative, association, or other collective group, including marks indicating membership in a union or similar organization.",
+		"answer": "A",
+		"options": {
+			"A": "Collective",
+			"B": "Share",
+			"C": "Examination",
+			"D": "Joint",
+			"E": "Certification"
+		}
+	},
+	"36": {
+		"question": "The Partnering for Success feature in Chapter 12 starts by talking about Gary Schwartzberg, who, along with a partner, developed a new type of bagel dubbed the \"Begeler,\" which was eventually licensed to Kraft. According to the feature, entrepreneurs and inventors like Gary Schwartzberg are finding that large consumer products companies are",
+		"answer": "C",
+		"options": {
+			"A": "ambivalent about what they have to offer",
+			"B": "increasingly interested in what they have to offer for new products, but are ambivalent about services",
+			"C": "increasingly interested in what they have to offer",
+			"D": "increasingly interested in what they have to offer for new services, but are ambivalent about products",
+			"E": "increasingly disinterested in what they have to offer"
+		}
+	},
+	"37": {
+		"question": "Which of the following is not generally eligible for trademark protection?",
+		"answer": "D",
+		"options": {
+			"A": "Trade dress",
+			"B": "Shapes",
+			"C": "Words",
+			"D": "Surnames",
+			"E": "Designs or logos"
+		}
+	},
+	"38": {
+		"question": "A trademark is registered with the",
+		"answer": "E",
+		"options": {
+			"A": "U.S. Commerce Department",
+			"B": "Federal Trade Commission",
+			"C": "Securities and Exchange Commission",
+			"D": "Federal Patent, Copyright, and Trademark Office",
+			"E": "U.S. Patent and Trademark Office"
+		}
+	},
+	"39": {
+		"question": "A trademark is a word, name, symbol, or device used to identify the source or origin of products or services and to distinguish those products or services from others.",
+		"answer": "T"
+	},
+	"40": {
+		"question": "Certification marks are similar to ordinary trademarks, but they are used to identify the services or intangible activities of a business rather than a business's physical product.",
+		"answer": "F"
+	},
+	"41": {
+		"question": "Combinations of numbers and letters, such as 3M and 1-800-CONTACTS, can be trademarked.",
+		"answer": "T"
+	},
+	"42": {
+		"question": "Trademark law falls under the Lanham Act, which passed in 1946.",
+		"answer": "T"
+	},
+	"43": {
+		"question": "Marks that are merely descriptive of a product or service can be trademarked.",
+		"answer": "F"
+	},
+	"44": {
+		"question": "A form of intellectual property protection that grants to the owner of a work of authorship the legal right to determine how the work is used and to obtain the economic benefits from the work is referred to as a(n)",
+		"answer": "E",
+		"options": {
+			"A": "assurance document",
+			"B": "patent",
+			"C": "trade secret",
+			"D": "brand",
+			"E": "copyright"
+		}
+	},
+	"45": {
+		"question": "Which of the following statements about copyrights is incorrect?",
+		"answer": "C",
+		"options": {
+			"A": "Businesses typically possess a treasure trove of copyrightable material.",
+			"B": "A musical composition that is written down is copyrightable.",
+			"C": "Copyrightable material may be in tangible or intangible form.",
+			"D": "The 1976 Copyright Act governs copyright law in the United States.",
+			"E": "A copyright is a form of intellectual property protection."
+		}
+	},
+	"46": {
+		"question": "Copyright law is governed by the",
+		"answer": "E",
+		"options": {
+			"A": "U.S. Constitution",
+			"B": "1946 Intellectual Property Act",
+			"C": "1966 Trademark and Copyright Act",
+			"D": "1955 Inventors and Writer's Protection Act",
+			"E": "Copyright Revision Act of 1976"
+		}
+	},
+	"47": {
+		"question": "If a local band wrote their own rendition of a Katy Perry song, the band could try to copyright their rendition of the song as a(n) _____ work.",
+		"answer": "C",
+		"options": {
+			"A": "imitative",
+			"B": "offshoot",
+			"C": "derivative",
+			"D": "subsequent",
+			"E": "supplemental"
+		}
+	},
+	"48": {
+		"question": "Copyright law protects any work of authorship",
+		"answer": "C",
+		"options": {
+			"A": "90 days after it is approved by the U.S. Copyright Office",
+			"B": "one year after it assumes a tangible form",
+			"C": "the moment it assumes a tangible form",
+			"D": "as soon as it is approved by the U.S. Copyright Office",
+			"E": "30 days after it assumes a tangible form"
+		}
+	},
+	"49": {
+		"question": "Which of the following symbols is the copyright bug?",
+		"answer": "D",
+		"options": {
+			"A": "\u00c3\u00a7",
+			"B": "\u00e2\u201a\u00ac",
+			"C": "\u00c2\u00a2",
+			"D": "\u00c2\u00a9",
+			"E": "\u00e2\u201e\u00a2"
+		}
+	},
+	"50": {
+		"question": "According to current regulations, any copyrightable work created on or after January 1, 1978, is protected by copyright law for the life of the author plus _____ years.",
+		"answer": "E",
+		"options": {
+			"A": "28.5",
+			"B": "101",
+			"C": "40",
+			"D": "55",
+			"E": "70"
+		}
+	},
+	"51": {
+		"question": "The main exclusion from copyright laws is that copyright laws cannot protect",
+		"answer": "A",
+		"options": {
+			"A": "ideas",
+			"B": "dramatic works",
+			"C": "computer software",
+			"D": "musical compositions",
+			"E": "literary works"
+		}
+	},
+	"52": {
+		"question": "Copyright _____ occurs when one work derives from another or is an exact copy or shows substantial similarity to the original work.",
+		"answer": "A",
+		"options": {
+			"A": "infringement",
+			"B": "violation",
+			"C": "intrusion",
+			"D": "breach",
+			"E": "duplication"
+		}
+	},
+	"53": {
+		"question": "The What Went Wrong? feature in Chapter 12 focuses on a dispute between GoldieBlox, a toy company, and the Beastie Boys, a musical group. The dispute centered on GoldieBlox's use of a Beastie Boys song in a commercial without the Beastie Boy's permission. To justify their actions, GoldieBlox argued that their use of the song was justified based on the legal principle of _____ use.",
+		"answer": "A",
+		"options": {
+			"A": "fair",
+			"B": "trivial",
+			"C": "limited",
+			"D": "inconsequential",
+			"E": "non-restricted"
+		}
+	},
+	"54": {
+		"question": "A trademark is a form of intellectual property protection that grants to the owner of a work of authorship the legal right to determine how the work is used and to obtain the economic benefits from the work.",
+		"answer": "F"
+	},
+	"55": {
+		"question": "Computer software is not covered by copyright law.",
+		"answer": "F"
+	},
+	"56": {
+		"question": "Pictorial, graphic, and sculptural works can be protected via copyrights.",
+		"answer": "T"
+	},
+	"57": {
+		"question": "Copyright infringement occurs when one work derives from another or is an exact copy.",
+		"answer": "T"
+	},
+	"58": {
+		"question": "A company's customer list is most commonly protected under _____ regulations.",
+		"answer": "C",
+		"options": {
+			"A": "patent",
+			"B": "copyright",
+			"C": "trade secret",
+			"D": "trademark",
+			"E": "collective mark"
+		}
+	},
+	"59": {
+		"question": "A _____ is any formula, pattern, physical device, idea, process, or other information that provides the owner of the information with a competitive advantage in the marketplace.",
+		"answer": "D",
+		"options": {
+			"A": "patent",
+			"B": "copyright",
+			"C": "trademark",
+			"D": "trade secret",
+			"E": "certification mark"
+		}
+	},
+	"60": {
+		"question": "Which of the following items would typically be protected by a form of intellectual property protection other than trade secret statutes?",
+		"answer": "C",
+		"options": {
+			"A": "Financial forecast",
+			"B": "Product formula",
+			"C": "A company's logo",
+			"D": "Logs of sales calls",
+			"E": "Employee roster"
+		}
+	},
+	"61": {
+		"question": "The federal Economic Espionage Act, passed in 1996, criminalizes",
+		"answer": "E",
+		"options": {
+			"A": "copyright infringement",
+			"B": "utility patent violations",
+			"C": "trademark violations",
+			"D": "design patent violations",
+			"E": "the theft of trade secrets"
+		}
+	},
+	"62": {
+		"question": "The _____, which was drafted in 1979 by a special commission, attempted to set nationwide standards for trade secret legislation.",
+		"answer": "C",
+		"options": {
+			"A": "Intangible Assets Protection Act",
+			"B": "Fairness in Intellectual Property Act",
+			"C": "Uniform Trade Secrets Act",
+			"D": "Trademark & Copyright Act",
+			"E": "Economic Espionage Act"
+		}
+	},
+	"63": {
+		"question": "According to the textbook, trade secret disputes arise most frequently when",
+		"answer": "B",
+		"options": {
+			"A": "one firm alleges that it can legally use another firm's trade secrets because they were \"voluntarily\" disclosed",
+			"B": "an employee leaves a firm to join a competitor and is accused of taking confidential information with him or her",
+			"C": "one firm claims that another firm outright stole its trade secrets",
+			"D": "one firms claims that what another firm is claiming as a trade secret is common knowledge",
+			"E": "one firm claims that it obtained another firm's trade secrets through legal means"
+		}
+	},
+	"64": {
+		"question": "A trade secret is any formula, pattern, physical device, idea, process, or other information that provides the owner of the information with a competitive advantage in the marketplace.",
+		"answer": "T"
+	},
+	"65": {
+		"question": "While stealing trade secrets is widely considered to be unethical, it is not a criminal offense.",
+		"answer": "F"
+	},
+	"66": {
+		"question": "Trade secret disputes arise most frequently when one firm alleges that a trade secret claimed by another firm is common knowledge, and can therefore be used by anyone.",
+		"answer": "F"
+	},
+	"67": {
+		"question": "An _____ is conducted to determine the intellectual property a company owns.",
+		"answer": "A",
+		"options": {
+			"A": "intellectual property audit",
+			"B": "intangible materials audit",
+			"C": "academic property inventory",
+			"D": "intellectual materials inventory",
+			"E": "intangible property inventory"
+		}
+	},
+	"68": {
+		"question": "Consider the following questions: Are products under development that require patent protection? Are we in compliance with the copyright license agreements into which we have entered? Is anyone infringing on our trademarks? Are company trade secrets leaking out to competitors? These are the types of questions that would be asked when conducting a(n)",
+		"answer": "E",
+		"options": {
+			"A": "intangible material examination",
+			"B": "intellectual property inventory",
+			"C": "intangible material inspection",
+			"D": "patent, trademark, copyright, and trade secret review",
+			"E": "intellectual property audit"
+		}
+	},
+	"69": {
+		"question": "There are two primary reasons to conduct an intellectual property audit. First, it is prudent for a company to periodically determine whether its intellectual property is being properly protected. The second reason for a company to conduct an intellectual property audit is to",
+		"answer": "B",
+		"options": {
+			"A": "remain prepared for a Security & Exchange Commission spot inspection",
+			"B": "remain prepared to justify its value in the event of a merger or acquisition",
+			"C": "remain prepared for an initial public offering",
+			"D": "update the value of its intellectual property on its balance sheet",
+			"E": "make sure no intellectual property has been stolen"
+		}
+	},
+	"70": {
+		"question": "An intellectual property audit is conducted to determine the intellectual property a company owns.",
+		"answer": "T"
+	}
+}

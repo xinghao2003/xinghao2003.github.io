@@ -1,0 +1,632 @@
+{
+    "1": {
+        "question": "Filtereasy, the company profiled in the opening feature of Chapter 14, provides a monthly subscription service for",
+        "answer": "B",
+        "options": {
+            "A": "water filters",
+            "B": "air filters",
+            "C": "any household filters",
+            "D": "coffee filters",
+            "E": "oil filters"
+        }
+    },
+    "2": {
+        "question": "Shelby Collins owns a firm that designs and sells women's clothing. She is currently trying to grow her firm by developing new product lines. Shelby is pursuing a(n) strategy.",
+        "answer": "E",
+        "options": {
+            "A": "in-house growth",
+            "B": "center growth",
+            "C": "domestic growth",
+            "D": "external growth",
+            "E": "internal growth"
+        }
+    },
+    "3": {
+        "question": "New product development, other product-related strategies, and international expansion are examples of growth strategies.",
+        "answer": "D",
+        "options": {
+            "A": "external",
+            "B": "domestic",
+            "C": "primary",
+            "D": "internal",
+            "E": "in-house"
+        }
+    },
+    "4": {
+        "question": "Internally generated growth is often called organic growth because it does not rely on",
+        "answer": "A",
+        "options": {
+            "A": "outside intervention",
+            "B": "its own skills and capabilities",
+            "C": "external funding",
+            "D": "internal leadership",
+            "E": "internal design expertise"
+        }
+    },
+    "5": {
+        "question": "Which of the following is an example of an external growth strategy?",
+        "answer": "E",
+        "options": {
+            "A": "Geographic expansion",
+            "B": "Improving an existing product or service",
+            "C": "Increasing the market penetration of an existing product or service",
+            "D": "Extending product lines",
+            "E": "Strategic alliances"
+        }
+    },
+    "6": {
+        "question": "Nest Labs, Zappos and Sir Kensington's are examples of firms that are growing via growth strategies.",
+        "answer": "C",
+        "options": {
+            "A": "in-house",
+            "B": "external",
+            "C": "internal",
+            "D": "central",
+            "E": "derivative"
+        }
+    },
+    "7": {
+        "question": "Which mechanism for firm growth involves the creation and sale of new products or services?",
+        "answer": "B",
+        "options": {
+            "A": "Strategic alliances",
+            "B": "New product development",
+            "C": "Licensing",
+            "D": "Franchising",
+            "E": "Joint ventures"
+        }
+    },
+    "8": {
+        "question": "Which of the following is an advantage of internal growth strategies?",
+        "answer": "D",
+        "options": {
+            "A": "Need to develop new resources",
+            "B": "Get quality and pricing right",
+            "C": "Investment in a failed internal effort can be difficult to recoup",
+            "D": "Provides maximum control",
+            "E": "Adds to industry capacity"
+        }
+    },
+    "9": {
+        "question": "Which of the following statements is NOT true regarding new product development?",
+        "answer": "D",
+        "options": {
+            "A": "New product development involves designing, producing, and selling new products as a means of increasing firm revenues and profits.",
+            "B": "When new product development is properly executed, there is tremendous upside potential.",
+            "C": "The key to successful new product development strategy is to develop products that aren't simply \"me-too\" products.",
+            "D": "In general, developing new products is a low-risk strategy.",
+            "E": "In many fast-paced industries, new product development is a competitive necessity."
+        }
+    },
+    "10": {
+        "question": "Internally generated growth is often called growth.",
+        "answer": "D",
+        "options": {
+            "A": "artificial",
+            "B": "natural",
+            "C": "acquisitive",
+            "D": "organic",
+            "E": "inorganic"
+        }
+    },
+    "11": {
+        "question": "Which of the following was NOT identified in the textbook as a key to effective new product development?",
+        "answer": "E",
+        "options": {
+            "A": "Develop products that add value.",
+            "B": "Get quality and pricing right.",
+            "C": "Find a need and fill it.",
+            "D": "Conduct ongoing feasibility analysis.",
+            "E": "Focus on broad target markets."
+        }
+    },
+    "12": {
+        "question": "Which of the following was NOT identified in Chapter 14 as one of the top five reasons new products fail?",
+        "answer": "C",
+        "options": {
+            "A": "The potential market was overestimated.",
+            "B": "Customers saw the product as too expensive.",
+            "C": "Lack of passion for the product.",
+            "D": "The product was no different than the competition's.",
+            "E": "The costs of developing the product line were too high."
+        }
+    },
+    "13": {
+        "question": "External growth strategies involve efforts taken within the firm itself, such as new product development, other product-related strategies, and international expansion.",
+        "answer": "F"
+    },
+    "14": {
+        "question": "Internally generated growth is often-called organic growth because it does not rely on outside intervention.",
+        "answer": "T"
+    },
+    "15": {
+        "question": "In many fast-paced industries, new product development is a competitive necessity.",
+        "answer": "T"
+    },
+    "16": {
+        "question": "An advantage of internal growth is that it is a rapid form of growth.",
+        "answer": "F"
+    },
+    "17": {
+        "question": "New product development is a low-risk growth strategy.",
+        "answer": "F"
+    },
+    "18": {
+        "question": "If a business enhances the quality of a product, makes it more convenient to use, improves its durability, or makes it more up-to-date, any one of those initiatives fall under the category of",
+        "answer": "E",
+        "options": {
+            "A": "increasing the market penetration of an existing product or service",
+            "B": "extending product lines",
+            "C": "geographic expansion",
+            "D": "licensing",
+            "E": "improving an existing product or service"
+        }
+    },
+    "19": {
+        "question": "A strategy seeks to increase the sales of a product or service through greater marketing efforts or through increased production capacity and efficiency.",
+        "answer": "D",
+        "options": {
+            "A": "product line extension",
+            "B": "product line sharpening",
+            "C": "product line widening",
+            "D": "market penetration",
+            "E": "market expansion"
+        }
+    },
+    "20": {
+        "question": "Pam Ryan owns a store that sells running shoes and related products. Pam is currently trying to increase sales through endorsements by famous runners and former Olympic athletes. Pam is pursuing a(n) strategy.",
+        "answer": "C",
+        "options": {
+            "A": "strategic alliance",
+            "B": "licensing",
+            "C": "market penetration",
+            "D": "geographic expansion",
+            "E": "improving an existing product or service"
+        }
+    },
+    "21": {
+        "question": "Work that is done for a company by people other than the company's full-time employees is referred to as",
+        "answer": "D",
+        "options": {
+            "A": "insourcing",
+            "B": "farming-out",
+            "C": "personnel extension",
+            "D": "outsourcing",
+            "E": "capacity enhancement"
+        }
+    },
+    "22": {
+        "question": "A(n) strategy involves making additional versions of a product so that it will appeal to different clientele.",
+        "answer": "E",
+        "options": {
+            "A": "market penetration",
+            "B": "geographic expansion",
+            "C": "improving an existing product or service",
+            "D": "strategic alliance",
+            "E": "product line extension"
+        }
+    },
+    "23": {
+        "question": "Chris Smith owns a store that sells all-terrain vehicles (ATVs). In the past, Chris just sold one version of each of the ATVs he sold in his showroom, but to increase sales, Chris now sells a low-end, a medium-priced, and a high-end version of each of the ATVs he sells. Chris's new strategy is called a(n) strategy.",
+        "answer": "C",
+        "options": {
+            "A": "improving an existing product or service",
+            "B": "market penetration",
+            "C": "product line extension",
+            "D": "geographic expansion",
+            "E": "joint venture"
+        }
+    },
+    "24": {
+        "question": "Entrepreneurial businesses that grow by expanding from their original location to additional geographic sites are pursuing a strategy.",
+        "answer": "D",
+        "options": {
+            "A": "common expansion",
+            "B": "market penetration",
+            "C": "universal networking",
+            "D": "geographic expansion",
+            "E": "product line extension"
+        }
+    },
+    "25": {
+        "question": "Shelly Watters owns a chain of fashion boutiques that started in Washington, DC and has expanded into Maryland, Virginia, and West Virginia. Shelly is growing her company via a strategy of",
+        "answer": "A",
+        "options": {
+            "A": "geographic expansion",
+            "B": "market penetration",
+            "C": "product line extension",
+            "D": "outsourcing",
+            "E": "licensing"
+        }
+    },
+    "26": {
+        "question": "A market penetration strategy involves actions taken to increase the sales of a product or service through greater marketing efforts or through increased product capacity and efficiency.",
+        "answer": "T"
+    },
+    "27": {
+        "question": "A product line extension strategy involves making additional versions of a product so that it will appeal to a different clientele or making related products to sell to the same clientele.",
+        "answer": "T"
+    },
+    "28": {
+        "question": "Geographic expansion is most common in manufacturing settings.",
+        "answer": "F"
+    },
+    "29": {
+        "question": "According to a survey of rapid growth firms conducted by the Small Business & Entrepreneurship Council and the Financial Services Roundtable, percent of all U.S. exports are accounted for by small businesses.",
+        "answer": "B",
+        "options": {
+            "A": "78",
+            "B": "97",
+            "C": "41",
+            "D": "53",
+            "E": "66"
+        }
+    },
+    "30": {
+        "question": "International new ventures are",
+        "answer": "C",
+        "options": {
+            "A": "businesses that have employees located in two or more countries",
+            "B": "businesses that sell products in two or more countries",
+            "C": "businesses that, from inception, seek to derive significant competitive advantage by using their resources to sell products or services in multiple countries",
+            "D": "businesses that are headquartered in a foreign country and export their products to the United States",
+            "E": "new ventures that export at least one-third of their products to foreign countries"
+        }
+    },
+    "31": {
+        "question": "The What Went Wrong feature in Chapter 14 focuses on the failure of Crumbs Bake Shop, a specialty-restaurant chain that sold gourmet cupcakes. According to the feature, Crumbs failed due to",
+        "answer": "C",
+        "options": {
+            "A": "lack of funding to facilitate expansion, high real estate costs, management turnover, poor operating margins",
+            "B": "no pivot or change in strategy, lack of international expansion, trademark dispute with a competitor, failure to franchise",
+            "C": "increasingly crowded market, consumers started losing interest in cupcakes, high real estate costs, and no pivot or change in strategy",
+            "D": "lack of funding to facilitate expansion, management turnover, increasingly crowded market, and high fixed costs",
+            "E": "high operating costs, trademark dispute with a competitor, consumers started losing interest in cupcakes, and failure to franchise"
+        }
+    },
+    "32": {
+        "question": "Which of the following is the primary advantage of exporting as a foreign market entry strategy?",
+        "answer": "C",
+        "options": {
+            "A": "Provides a firm total control over its foreign operations",
+            "B": "Ability to generate revenue",
+            "C": "Exporting is a relatively inexpensive way for a firm to become involved in foreign markets.",
+            "D": "The exporting company's customers put up most of the capital needed to establish the export operation.",
+            "E": "Exporting involves very little effort on the part of a firm."
+        }
+    },
+    "33": {
+        "question": "Which of the following is the primary disadvantage of licensing as a foreign market entry strategy?",
+        "answer": "A",
+        "options": {
+            "A": "A firm in effect \"teaches\" a foreign company how to produce its proprietary products.",
+            "B": "High transportation costs",
+            "C": "It is usually a one-time activity.",
+            "D": "A firm loses partial control of its business operations.",
+            "E": "Quality control"
+        }
+    },
+    "34": {
+        "question": "Which of the following is the primary advantage of a wholly owned subsidiary as a foreign market entry strategy?",
+        "answer": "A",
+        "options": {
+            "A": "Provides a firm total control over its operations",
+            "B": "Easier to raise capital to implement than other foreign market entry strategies",
+            "C": "Gaining an appreciation of local customs and market preferences",
+            "D": "Low transportation costs",
+            "E": "The ability to give employees foreign market experience"
+        }
+    },
+    "35": {
+        "question": "The majority of entrepreneurial firms first enter foreign markets as exporters.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "growth strategies rely on establishing relationships with third parties, such as mergers, acquisitions, strategic alliances, joint ventures, licensing, and franchising.",
+        "answer": "D",
+        "options": {
+            "A": "Internal",
+            "B": "Domestic",
+            "C": "Outside",
+            "D": "External",
+            "E": "Peripheral"
+        }
+    },
+    "37": {
+        "question": "Brian Ramsey owns a firm that develops and sells smartphone accessories. He is currently trying to grow his firm through strategic alliances and joint ventures. Brian is pursuing a(n) growth strategy.",
+        "answer": "B",
+        "options": {
+            "A": "domestic",
+            "B": "external",
+            "C": "subsidiary",
+            "D": "internal",
+            "E": "secondary"
+        }
+    },
+    "38": {
+        "question": "Which of the following is an example of an external growth strategy?",
+        "answer": "B",
+        "options": {
+            "A": "New product development",
+            "B": "Mergers and acquisitions",
+            "C": "Market penetration",
+            "D": "Product line extension",
+            "E": "Geographic expansion"
+        }
+    },
+    "39": {
+        "question": "Rachel Watts owns a chain of office supply stores. Over the past three years, Rachel has significantly increased her sales through the outright purchase of additional office supply stores. Rachel is pursuing a(n) strategy.",
+        "answer": "A",
+        "options": {
+            "A": "acquisition",
+            "B": "merger",
+            "C": "strategic alliance",
+            "D": "joint venture",
+            "E": "licensing"
+        }
+    },
+    "40": {
+        "question": "A(n) is the pooling of interests to combine two or more firms into one. A(n) is the outright purchase of one firm by another.",
+        "answer": "B",
+        "options": {
+            "A": "acquisition; merger",
+            "B": "merger; acquisition",
+            "C": "licensing agreement; acquisition",
+            "D": "joint venture; strategic alliance",
+            "E": "strategic alliance; joint venture"
+        }
+    },
+    "41": {
+        "question": "In an acquisition, the surviving firm is called the , and the firm that is acquired is called the",
+        "answer": "D",
+        "options": {
+            "A": "target; acquirer",
+            "B": "goal; objective",
+            "C": "objective; aggressor",
+            "D": "acquirer; target",
+            "E": "aggressor; objective"
+        }
+    },
+    "42": {
+        "question": "Two years ago, Cameron Jones and Mary Scott each owned a small chain of smoothie restaurants in New York City. Just recently, they decided to pool their interests and combine their individual chains of restaurants into one chain. What Cameron and Mary did with their firms is called a(n)",
+        "answer": "E",
+        "options": {
+            "A": "licensing agreement",
+            "B": "strategic alliance",
+            "C": "acquisition",
+            "D": "joint venture",
+            "E": "merger"
+        }
+    },
+    "43": {
+        "question": "Which of the following is a disadvantage of growth by means of external growth strategies?",
+        "answer": "E",
+        "options": {
+            "A": "Diversification of business risk",
+            "B": "Economies of scale",
+            "C": "Getting access to proprietary products or services",
+            "D": "Reducing competition",
+            "E": "Loss of organizational flexibility"
+        }
+    },
+    "44": {
+        "question": "Which of the following is an advantage of growth by means of external growth strategies?",
+        "answer": "A",
+        "options": {
+            "A": "Gaining access to new products and markets",
+            "B": "Increased business complexity",
+            "C": "Clash of corporate cultures",
+            "D": "Antitrust implications",
+            "E": "Loss of organizational flexibility"
+        }
+    },
+    "45": {
+        "question": "The two primary steps involved in finding an appropriate acquisition candidate are (1) Make a \"short list\" of appropriate acquisition candidates and (2)",
+        "answer": "A",
+        "options": {
+            "A": "carefully screen each candidate to determine its suitability for acquisition",
+            "B": "interview the CEO of each candidate to determine his/her openness to an acquisition",
+            "C": "determine if acquiring each candidate is financially feasible",
+            "D": "meet with each candidate's top management team to discern if they are compatible with your top management team",
+            "E": "hire a consulting firm to determine the best acquisition candidate"
+        }
+    },
+    "46": {
+        "question": "is the granting of permission by one company to another company to use a specific form of its intellectual property under clearly defined conditions.",
+        "answer": "D",
+        "options": {
+            "A": "Verifying",
+            "B": "Confirming",
+            "C": "Endorsing",
+            "D": "Licensing",
+            "E": "Certifying"
+        }
+    },
+    "47": {
+        "question": "The is the company that owns the intellectual property. The is the company purchasing the right to use it.",
+        "answer": "B",
+        "options": {
+            "A": "endorsee; endorser",
+            "B": "licensor; licensee",
+            "C": "licensor; endorsee",
+            "D": "endorser; endorsee",
+            "E": "licensee; licensor"
+        }
+    },
+    "48": {
+        "question": "licensing is the licensing of proprietary technology that the licensor typically controls by virtue of a utility patent.",
+        "answer": "D",
+        "options": {
+            "A": "Skill",
+            "B": "Intellectual property",
+            "C": "Utility",
+            "D": "Technology",
+            "E": "Expertise"
+        }
+    },
+    "49": {
+        "question": "Qualcomm, a high-tech company headquartered in San Diego, owns the rights to several of the key components that permit cell phones to work. Instead of selling cell phones itself, Qualcomm grants permission to many companies to use specific forms of its intellectual property in exchange for monetary compensation. Qualcomm in engaging in an external growth strategy referred to as",
+        "answer": "A",
+        "options": {
+            "A": "licensing",
+            "B": "strategic alliances",
+            "C": "acquisitions",
+            "D": "new product development",
+            "E": "joint ventures"
+        }
+    },
+    "50": {
+        "question": "licensing is the licensing of a recognized trademark or brand that the licensor typically controls through a registered trademark or copyright.",
+        "answer": "D",
+        "options": {
+            "A": "Goods and character",
+            "B": "Products and trademark",
+            "C": "Products and brand",
+            "D": "Merchandise and character",
+            "E": "Products and services"
+        }
+    },
+    "51": {
+        "question": "Merchandise and character licensing is the licensing of a recognized trademark or brand that the licensor typically controls through a registered",
+        "answer": "E",
+        "options": {
+            "A": "trade secret or copyright",
+            "B": "patent or copyright",
+            "C": "trademark or patent",
+            "D": "patent or trade secret",
+            "E": "trademark or copyright"
+        }
+    },
+    "52": {
+        "question": "Samantha Jones owns a chain of ice cream stores in New England. To draw attention to her stores, she adopted a very colorful and distinctive logo several years ago, which depicts a funny-looking cow churning ice cream. Recently, a dairy company asked Samantha if it could use a characterization of her funny-looking cow on a line of yogurt it is coming out with, and offered to pay Samantha's company 3 cents for every carton of yogurt it sells that has the cow's image on the carton. If Samantha accepts this proposal, she will need to enter into a(n) agreement with the dairy.",
+        "answer": "A",
+        "options": {
+            "A": "licensing",
+            "B": "joint venture",
+            "C": "strategic alliance",
+            "D": "new product development",
+            "E": "exporting"
+        }
+    },
+    "53": {
+        "question": "According to the textbook, the key to effective merchandise and character licensing is",
+        "answer": "B",
+        "options": {
+            "A": "get licensing income monthly rather than yearly",
+            "B": "resist the temptation to license a trademark too widely",
+            "C": "licensing a trademark very widely",
+            "D": "restrict licensing agreements to one year",
+            "E": "restrict licensing to product categories that have no relevance and appeal to a firm's core customers"
+        }
+    },
+    "54": {
+        "question": "A is a partnership between two or more firms that is developed to achieve a specific goal and has no joint ownership involved.",
+        "answer": "E",
+        "options": {
+            "A": "joint alliance",
+            "B": "joint venture",
+            "C": "licensing agreement",
+            "D": "merger",
+            "E": "strategic alliance"
+        }
+    },
+    "55": {
+        "question": "Which of the following was identified in the textbook as an advantage of participating in strategic alliances and joint ventures?",
+        "answer": "E",
+        "options": {
+            "A": "Management complexities",
+            "B": "Loss of organizational flexibility",
+            "C": "Partners' cultures may clash.",
+            "D": "Risk becoming dependent on a partner",
+            "E": "Learning"
+        }
+    },
+    "56": {
+        "question": "Which of the following was identified in the textbook as a disadvantage of participating in strategic alliances and joint ventures?",
+        "answer": "C",
+        "options": {
+            "A": "Risk and cost sharing",
+            "B": "Economies of scale",
+            "C": "Partial loss of decision autonomy",
+            "D": "Gain access to a foreign market",
+            "E": "Neutralizing or blocking competitors"
+        }
+    },
+    "57": {
+        "question": "In the context of strategic alliances, alliances feature cooperation in research and development, engineering, and manufacturing.",
+        "answer": "E",
+        "options": {
+            "A": "administrative",
+            "B": "directorial",
+            "C": "marketing",
+            "D": "organizational",
+            "E": "technological"
+        }
+    },
+    "58": {
+        "question": "In the context of strategic alliances, alliances typically match a company with a distribution system with a company that has a product to sell to increase sales of a product or service.",
+        "answer": "B",
+        "options": {
+            "A": "promotion",
+            "B": "marketing",
+            "C": "organizational",
+            "D": "directional",
+            "E": "technological"
+        }
+    },
+    "59": {
+        "question": "The Partnering for Success feature in Chapter 14 is titled \"Three Steps to Alliance Success.\" The three steps to alliance success identified in the feature are",
+        "answer": "B",
+        "options": {
+            "A": "drafting a licensing agreement, setting up a governance structure, and making it work",
+            "B": "selecting a partner, cutting the deal, and making it work",
+            "C": "interviewing potential partners, cutting the deal, and supervising the implementation of the agreement",
+            "D": "drafting a licensing agreement, cutting the deal, and setting up a governance structure",
+            "E": "selecting an alliance \"manager,\" setting up a governance structure, and making it work"
+        }
+    },
+    "60": {
+        "question": "External growth strategies rely on establishing relationships with third parties, such as mergers, acquisitions, strategic alliances, joint ventures, licensing, and franchising.",
+        "answer": "T"
+    },
+    "61": {
+        "question": "An acquisition is the pooling of interests to combine two or more firms into one. A merger is the outright purchase of one firm by another.",
+        "answer": "F"
+    },
+    "62": {
+        "question": "In an acquisition, the surviving firm is called the acquirer, and the firm that is acquired is called the target.",
+        "answer": "T"
+    },
+    "63": {
+        "question": "In regard to acquisitions, many firms have found that the process of assimilating another company into their current operations is relatively easy and is not disruptive to the current operations of their firm.",
+        "answer": "F"
+    },
+    "64": {
+        "question": "Licensing is the granting of permission by one company to another company to use a specific form of its intellectual property under clearly-defined conditions.",
+        "answer": "T"
+    },
+    "65": {
+        "question": "Technology licensing is the licensing of proprietary technology that the licensor typically controls by virtue of a utility patent.",
+        "answer": "T"
+    },
+    "66": {
+        "question": "Loss of proprietary information is a disadvantage of participating in strategic alliances and joint ventures.",
+        "answer": "T"
+    },
+    "67": {
+        "question": "A joint venture is a partnership between two or more firms that is developed to achieve a specific goal and has no joint ownership involved.",
+        "answer": "F"
+    },
+    "68": {
+        "question": "In a link joint venture, the partners collaborate at a single point in the value chain to gain economies of scale in production or distribution.",
+        "answer": "F"
+    },
+    "69": {
+        "question": "In a scale joint venture, the position of the parties is not symmetrical, and the objectives of the partners may diverge.",
+        "answer": "F"
+    },
+    "70": {
+        "question": "A spin-out occurs when a large company divests itself of one of its smaller divisions and the division becomes an independent company.",
+        "answer": "T"
+    }
+}

@@ -1,652 +1,652 @@
 {
-  "1": {
-    "question": "IndieU is the focus of the opening feature of Chapter 4. Connecting college students with new \nindie artists and putting it in the students' hands to stage unforgettable college experiences that \nshowcase fresh music is IndieU's ________.",
-    "answer": "E",
-    "options": {
-      "A": "revenue model",
-      "B": "cost model",
-      "C": "business plan",
-      "D": "financial plan",
-      "E": "unique value proposition"
+    "1": {
+        "question": "IndieU is the focus of the opening feature of Chapter 4. Connecting college students with new \nindie artists and putting it in the students' hands to stage unforgettable college experiences that \nshowcase fresh music is IndieU's ________.",
+        "answer": "E",
+        "options": {
+            "A": "revenue model",
+            "B": "cost model",
+            "C": "business plan",
+            "D": "financial plan",
+            "E": "unique value proposition"
+        }
+    },
+    "2": {
+        "question": "A ________ is a firm's plan or recipe for how it creates, delivers, and captures value for its \nstakeholders.",
+        "answer": "B",
+        "options": {
+            "A": "commercialization plan",
+            "B": "business model",
+            "C": "business plan",
+            "D": "launch plan",
+            "E": "tactical model"
+        }
+    },
+    "3": {
+        "question": "The Savvy Entrepreneurial Firm feature in Chapter 4 f ocuses on the ways in which CoachUp \ncreates, delivers and captures value for its stakeholders. According to the feature, CoachUp \nwould be a business that would be difficult to copy. According to the feature, it would be \ndifficult to copy because ________.  \n\nwho have used its service",
+        "answer": "A",
+        "options": {
+            "A": "it has raised $9.4 million, has 13,000 coaches in its platform, and tens of thousands of athletes",
+            "B": "it has a highly -functional Web site and has a talented management team",
+            "C": "it has a savvy marketing plan",
+            "D": "it has raised $9.4  million and has a talented management team",
+            "E": "it has an excellent Internet domain name and has a first -mover advantage"
+        }
+    },
+    "4": {
+        "question": "Which of the following is the proper sequence for when a firm should develop a business \nmodel?  \n\nrecognition  \n\nmodel  \n\noperational details of the firm  \n\nbusiness model  \n\nfirm",
+        "answer": "C",
+        "options": {
+            "A": "Preparation of the business model, initial validation of the business idea, opportunity",
+            "B": "Initial validation of the business idea , establishing a growth plan, preparation of the business",
+            "C": "Initial validation of the business idea, preparation of the business model, fleshing out the",
+            "D": "Opportunity recognition, fleshing out the operational details  of the firm, preparation of the",
+            "E": "Opportunity recognition, preparation of the business model, establishing a growth plan for the"
+        }
+    },
+    "5": {
+        "question": "In regard to business models, which of the following statements is incorrect?  \n\n\nthe capabilities it possesses.  \n\nbusiness model of another firm.",
+        "answer": "A",
+        "options": {
+            "A": "There is a standard business model that most firms follow.",
+            "B": "A firm's business model is inherently dependent on the collection of resources it controls and",
+            "C": "It is dangerous for a company to assume that it can be successful by simply copying the",
+            "D": "A firm's business model is its plan or diagram for how it competes.",
+            "E": "It is often difficult to determine what another firm's business model is."
+        }
+    },
+    "6": {
+        "question": "The Partnering for Success fe ature in Chapter 4 focused on Web -based platforms, including \nUpwork and Guru, that make it easy to identify and hire experienced ________.",
+        "answer": "B",
+        "options": {
+            "A": "part time employees",
+            "B": "freelancers",
+            "C": "interns",
+            "D": "virtual assistants",
+            "E": "full -time employees"
+        }
+    },
+    "7": {
+        "question": "A business model is a firm's plan or recipe for how it creates, delivers, and captures value for \nits stakeholders.",
+        "answer": "T"
+    },
+    "8": {
+        "question": "What is a business model? Why is it important? Provide an example to illustrate your answer.",
+        "answer": "A"
+    },
+    "9": {
+        "question": "The two general categories of business models are ________ and ________ .",
+        "answer": "B",
+        "options": {
+            "A": "normal; unique",
+            "B": "standard; disruptive",
+            "C": "ordinary; revolutionary",
+            "D": "customary; unique",
+            "E": "ordinary; disruptive"
+        }
+    },
+    "10": {
+        "question": "________ business models depict existing plans or recipes firms can use to determine how \nthey will create, deliver, and capture value for their stakeholders.",
+        "answer": "E",
+        "options": {
+            "A": "Revolutionary",
+            "B": "Normal",
+            "C": "Customary",
+            "D": "Disrupti ve",
+            "E": "Standard"
+        }
+    },
+    "11": {
+        "question": "Brandon Jones has crafted a business model for his firm that is based on an existing plan or \ntemplate for how firms in his industry create, deliver and capture value for their shareholders. \nBrandon has crafted a ________ business model.",
+        "answer": "A",
+        "options": {
+            "A": "standard",
+            "B": "disruptive",
+            "C": "customary",
+            "D": "normal",
+            "E": "temporary"
+        }
+    },
+    "12": {
+        "question": "Which of the following statements about business models is incorrect?  \n\n\n\n\n\nrun\" regardless of circumstances.",
+        "answer": "D",
+        "options": {
+            "A": "There are two general types of business models.",
+            "B": "There is no perfect business model.",
+            "C": "Most of the standard business models have been in place for some time.",
+            "D": "A firm's business model is confined to its own boundaries.",
+            "E": "Firms should guard themselves against th inking that one particular business model is a \"home"
+        }
+    },
+    "13": {
+        "question": "________ refers to the number of subscribers that a subscription -based business loses each \nmonth.",
+        "answer": "B",
+        "options": {
+            "A": "Agitate",
+            "B": "Churn",
+            "C": "Erosion",
+            "D": "Attrition",
+            "E": "Stir"
+        }
+    },
+    "14": {
+        "question": "Tyler Smith founded a firm that has a subscription -based business model. Although Tyler \nhas averaged 600 new subscribers per month, she also loses 450 subscri bers per month. The \nnumber of subscribers that Tyler loses each month is referred to as ________.",
+        "answer": "B",
+        "options": {
+            "A": "erosion",
+            "B": "churn",
+            "C": "destruction",
+            "D": "attrition",
+            "E": "agitation"
+        }
+    },
+    "15": {
+        "question": "Which of the following firms has a peer -to-peer business model?",
+        "answer": "C",
+        "options": {
+            "A": "Dell",
+            "B": "Dropbox",
+            "C": "Airbnb",
+            "D": "Salesforce.com",
+            "E": "Google"
+        }
+    },
+    "16": {
+        "question": "________ business models are ones that do not fit the profile of standard business models, \nand are impactful enough that they disrupt or change the way business is conducted in an \nindustry or an important niche within an industry.",
+        "answer": "A",
+        "options": {
+            "A": "Disruptive",
+            "B": "Normal",
+            "C": "Unique",
+            "D": "Incomparable",
+            "E": "Exceptional"
+        }
+    },
+    "17": {
+        "question": "Google and its AdWords program is an example of a ________ disruptive business model.",
+        "answer": "B",
+        "options": {
+            "A": "low -end",
+            "B": "new -market",
+            "C": "high -quality",
+            "D": "low -price",
+            "E": "new -channel"
+        }
+    },
+    "18": {
+        "question": "Southwest Airlines is an example of a ________ disruptive bus iness model.",
+        "answer": "A",
+        "options": {
+            "A": "low -end",
+            "B": "new -market",
+            "C": "high -quality",
+            "D": "new -product",
+            "E": "new -channel"
+        }
+    },
+    "19": {
+        "question": "There are two types of disruptive business models \u00e2\u20ac\u201d ________ and ________.",
+        "answer": "C",
+        "options": {
+            "A": "low -end; high -end",
+            "B": "new -product; new -market",
+            "C": "new -market; low -end",
+            "D": "new -channel; high -quality",
+            "E": "standard; unique"
+        }
+    },
+    "20": {
+        "question": "Which of the following firms introduced a disruptive business model?",
+        "answer": "A",
+        "options": {
+            "A": "Salesforce.com",
+            "B": "eBay",
+            "C": "Panera Bread",
+            "D": "Bar nes & Noble",
+            "E": "J. Crew"
+        }
+    },
+    "21": {
+        "question": "Standard business models depict existing plans or reci pes firms can use to determine how \nthey will create, deliver, and capture value for their stakeholders.",
+        "answer": "T"
+    },
+    "22": {
+        "question": "It is important to understand that there are several perfect business models.",
+        "answer": "F"
+    },
+    "23": {
+        "question": "Disruptive business models are impactful enough that they disrupt or change the way \nbusiness is conducted in an industry or an important niche within an industry.",
+        "answer": "T"
+    },
+    "24": {
+        "question": "According to the textbook, Southwest Airlines introduced a new market disruption type of \ndisruptive business mo del.",
+        "answer": "F"
+    },
+    "25": {
+        "question": "The Barringer/Ireland Business Model Template has five major categories and 14 individual \nparts.",
+        "answer": "F"
+    },
+    "26": {
+        "question": "What is the difference between  standard business models and disruptive business models? \nInclude examples of both in your answer.",
+        "answer": "S"
+    },
+    "27": {
+        "question": "The Barringer/Ireland Business Model Canvas consists of ________ major category(ies) and \n________ parts.",
+        "answer": "D",
+        "options": {
+            "A": "1; 12",
+            "B": "3; 9",
+            "C": "6; 18",
+            "D": "4; 12",
+            "E": "2; 6"
+        }
+    },
+    "28": {
+        "question": "The four major categories in the Barringer/Ireland Business Model Template are  ________.",
+        "answer": "A",
+        "options": {
+            "A": "core strategy, resources, financials, and operations",
+            "B": "core strategy, value proposition, customers and channels",
+            "C": "value proposition, resources, customers and partners",
+            "D": "activities, partners, customers, and competitors",
+            "E": "value proposition,  cost structure, financials, and operations"
+        }
+    },
+    "29": {
+        "question": "Which of the following is NOT  one of the four major categories in the Barringer/Ireland \nBusiness Model Template?",
+        "answer": "C",
+        "options": {
+            "A": "Operations",
+            "B": "Resources",
+            "C": "Channels",
+            "D": "Core Strategy",
+            "E": "Financials"
+        }
+    },
+    "30": {
+        "question": "In the Barringer/Ireland Business Model Template, ________  describes how the firm plans \nto compete relative to its competitors.",
+        "answer": "E",
+        "options": {
+            "A": "strategic plan",
+            "B": "grand strategy",
+            "C": "tactical strategy",
+            "D": "value proposition",
+            "E": "core strategy"
+        }
+    },
+    "31": {
+        "question": "Jamie Finch is crafting the business model for her fashion design firm. She just completed \nthe section that  describes how her firm plans to compete relative to her rivals. Jamie just \ncompleted the ________ portion of her business model template.",
+        "answer": "B",
+        "options": {
+            "A": "operations",
+            "B": "core strategy",
+            "C": "resources",
+            "D": "strategic plan",
+            "E": "tactical strategy"
+        }
+    },
+    "32": {
+        "question": "Which of the following is NOT  one of the four ele ments of the core strategy section of the \nBarringer/Ireland Business Model Template?",
+        "answer": "B",
+        "options": {
+            "A": "Business Mission",
+            "B": "Key Assets",
+            "C": "Basis of Differentiation",
+            "D": "Target Market",
+            "E": "Product/Market Scope"
+        }
+    },
+    "33": {
+        "question": "A business's ________ statement describes why it exists and what its business mode l is \nsupposed to accomplish.",
+        "answer": "D",
+        "options": {
+            "A": "values",
+            "B": "importance",
+            "C": "differentiation",
+            "D": "mission",
+            "E": "significance"
+        }
+    },
+    "34": {
+        "question": "Nathan Green is starting a firm in the organic produce industry. Nathan has developed a \nstatement \u00e2\u20ac\u201c\"Helping Make Your Life Better, Healthier, and Fuller\" \u00e2\u20ac\u201cthat describes the r eason his \ncompany exists and what his business model is supposed to accomplish. In the terminology used \nin the Barringer/Ireland Business Model Template, Nathan's statement is referred to as his \n________ statement.",
+        "answer": "D",
+        "options": {
+            "A": "values",
+            "B": "uniqueness",
+            "C": "differentiatio n",
+            "D": "mission",
+            "E": "task"
+        }
+    },
+    "35": {
+        "question": "T he first box in the Barringer/Ireland Business Model Template is ________.",
+        "answer": "C",
+        "options": {
+            "A": "product/market scope",
+            "B": "revenue streams",
+            "C": "business mission",
+            "D": "target market",
+            "E": "channels"
+        }
+    },
+    "36": {
+        "question": "When completing the basis of differentiation box in the Barringer/Ireland Business Model \nTemplate, it is best to limit the description to ________.",
+        "answer": "A",
+        "options": {
+            "A": "two to three points",
+            "B": "one point",
+            "C": "five to 10 points",
+            "D": "two to three points for manufacturing firms and five to 10 points for service firms",
+            "E": "five to 10 points for manufacturing firms and two to three points for s ervice firms"
+        }
+    },
+    "37": {
+        "question": "A firm's _ _______ market is a place within a larger market segment that represents a \nnarrower group of customers with similar interests.",
+        "answer": "D",
+        "options": {
+            "A": "aspirational",
+            "B": "ambitious",
+            "C": "constrained",
+            "D": "target",
+            "E": "objective"
+        }
+    },
+    "38": {
+        "question": "Kaitlyn Harris is opening up a women's fashion boutique that will focus on professio nal \nwomen that are 18 -30 years old. The age range of women that Kaitlyn plans to focus on is \nreferred to as her ________ market.",
+        "answer": "D",
+        "options": {
+            "A": "controlled",
+            "B": "ambitious",
+            "C": "identifiable",
+            "D": "target",
+            "E": "aspirational"
+        }
+    },
+    "39": {
+        "question": "A company's ________ scope defines the products and markets on which it will concentrate.",
+        "answer": "A",
+        "options": {
+            "A": "product/market",
+            "B": "offering/industry",
+            "C": "business/market",
+            "D": "business/industry",
+            "E": "offering/market"
+        }
+    },
+    "40": {
+        "question": "Erin Hill is working on the box in the Barringer/Ireland Business Model Template that \ndefines the products and markets on which her firm will concentrate. E rin is working on the \n________ scope portion of the business model template.",
+        "answer": "E",
+        "options": {
+            "A": "offering/market",
+            "B": "offering/industry",
+            "C": "business/market",
+            "D": "business/industry",
+            "E": "product/market"
+        }
+    },
+    "41": {
+        "question": "The Resources section of the Barringer/Ireland Business Model Template consists of the \n________ and ________ boxes.",
+        "answer": "D",
+        "options": {
+            "A": "business mission; core competency",
+            "B": "core competency; product/market scope",
+            "C": "channels; key partners",
+            "D": "core competency; key assets",
+            "E": "revenue streams; key assets"
+        }
+    },
+    "42": {
+        "question": "In the Barringer/Ireland Business Model Template, a(n) ________ is a specific factor  or \ncapability that supports a firm's business model and sets it apart from its rivals.",
+        "answer": "B",
+        "options": {
+            "A": "primary capability",
+            "B": "core competency",
+            "C": "essential asset",
+            "D": "staple proficiency",
+            "E": "key aptitude"
+        }
+    },
+    "43": {
+        "question": "Mark White is the founder of a firm that builds iPhone apps. Mark is very technically savvy, \nwhich allows him to build apps quickly and with minimal bugs or problems. In the terminology \nof the Barringer/Ireland Business Model Template, Mark's technical savvy is a(n) ________ of \nhis firm.",
+        "answer": "B",
+        "options": {
+            "A": "primary capability",
+            "B": "core competency",
+            "C": "essential  asset",
+            "D": "staple proficiency",
+            "E": "key aptitude"
+        }
+    },
+    "44": {
+        "question": "In the terminology of the Barringer/Ireland Business Model Template, ________ assets are \nthe assets that a firm owns that enable its business model to work.",
+        "answer": "A",
+        "options": {
+            "A": "key",
+            "B": "tactical",
+            "C": "fundamental",
+            "D": "primary",
+            "E": "strategic"
+        }
+    },
+    "45": {
+        "question": "In the Barringer/Ireland Business Model Template, key assets can be ________.",
+        "answer": "E",
+        "options": {
+            "A": "fixed, situational, variable, and permanent",
+            "B": "tactical, strategic, fixed, and variable",
+            "C": "tangible, intangible, variable, and fixed",
+            "D": "temporary, permanent, fixed, and variable",
+            "E": "physical, financial , intellectual, or human"
+        }
+    },
+    "46": {
+        "question": "The Financials section of the Barringer/Ireland Business Model Template consists of three \nboxes. The boxes are titled ________.",
+        "answer": "B",
+        "options": {
+            "A": "economics of the business, startup -costs, and break -even",
+            "B": "revenue streams, cost structure, and financing/funding",
+            "C": "profit margins, revenue streams, and break -even",
+            "D": "startup -costs, operating leverage, and financing/funding",
+            "E": "fixed vs variables costs, financing/funding, and break -even"
+        }
+    },
+    "47": {
+        "question": "Which section of the Barringer/Ireland Business Model Template is the only section that \ndescribes how it makes money?",
+        "answer": "C",
+        "options": {
+            "A": "Core strategy",
+            "B": "Resources",
+            "C": "Financials",
+            "D": "Operations",
+            "E": "Value proposition"
+        }
+    },
+    "48": {
+        "question": "A firm's ________ describe(s) the ways in which it makes money.",
+        "answer": "C",
+        "options": {
+            "A": "proceeds account",
+            "B": "break -even analysis",
+            "C": "revenue streams",
+            "D": "cash flow",
+            "E": "income statement"
+        }
+    },
+    "49": {
+        "question": "Advertising, commissions, do wnload fees, licensing, and product sale are examples of \n________.",
+        "answer": "A",
+        "options": {
+            "A": "revenue streams",
+            "B": "basis of differentiation",
+            "C": "key assets",
+            "D": "channels",
+            "E": "cost structure"
+        }
+    },
+    "50": {
+        "question": "In the terminology of the Barringer/Ireland Business Model Template, a firm's ________ \nstructure describes the mo st important costs incurred to support its business model.",
+        "answer": "B",
+        "options": {
+            "A": "expense",
+            "B": "cost",
+            "C": "budget",
+            "D": "overhead",
+            "E": "outflow"
+        }
+    },
+    "51": {
+        "question": "Jenna Franklin is completing the portion of the Barringer/Ireland Business Model Template \nthat describes the most important costs that will be incurred to supp ort her business model. Jenna \nis completing the ________ structure box in the business model template.",
+        "answer": "E",
+        "options": {
+            "A": "expense",
+            "B": "outlay",
+            "C": "payment",
+            "D": "overhead",
+            "E": "cost"
+        }
+    },
+    "52": {
+        "question": "________ costs are costs that remain the same despite the volume of goods or services \nproduced. ________ costs vary p roportionally with the volume of goods or services provided.",
+        "answer": "C",
+        "options": {
+            "A": "Expense; Non -standard",
+            "B": "Standard; Non -Standard",
+            "C": "Fixed; Variable",
+            "D": "Non -Standard; Standard",
+            "E": "Variable; Fixed"
+        }
+    },
+    "53": {
+        "question": "According to the textbook, there are three categories of costs to consider when completing \nthe \"financing/funding\" section of the Barringer/Ireland Business Model Template. These are \n________.",
+        "answer": "E",
+        "options": {
+            "A": "setup costs, one -time expenses, and costs associated with incorporating the firm",
+            "B": "capital costs, marketing costs, and provisions for ramp -up expenses",
+            "C": "setup costs, marketing costs, and operating costs",
+            "D": "capital costs, one -time expenses, and provisions for ramp -up expenses",
+            "E": "operating costs, capital costs, and costs associated with setting up the firm"
+        }
+    },
+    "54": {
+        "question": "The operations quadrant in the Barringer/Ireland Business Model Te mplate includes three \nsections. These are ________.",
+        "answer": "A",
+        "options": {
+            "A": "product (or service) production, channels, and key partners",
+            "B": "product/market scope, cost structure, and key partners",
+            "C": "key assets, cost structure, and channels",
+            "D": "key partners, financing/funding, and  target market",
+            "E": "channels, core competency, and key partners"
+        }
+    },
+    "55": {
+        "question": "Sarah Green, who plans to open a garden and lawn business, is working on the portion of the \nBarringer/Ireland Business Model template that focuses on how her products and services will be \nproduced. Sarah is wor king on the ________ section of the template.",
+        "answer": "B",
+        "options": {
+            "A": "basis of differentiation",
+            "B": "product/service production",
+            "C": "product/market scope",
+            "D": "core competency",
+            "E": "channels"
+        }
+    },
+    "56": {
+        "question": "Brad Jones is in the process of opening an electronics supply company and is working on the \nportion of his busin ess plan template that describes how he will deliver his products and services \nto his customers. The portion of the business plan template that Brad is working on is referred to \nas ________.",
+        "answer": "A",
+        "options": {
+            "A": "channels",
+            "B": "network",
+            "C": "linkages",
+            "D": "grids",
+            "E": "conduits"
+        }
+    },
+    "57": {
+        "question": "Cynthia Hamilton is lau nching a chain of smoothie restaurants. Among Cynthia's key \npartners will be firms that provide her the ingredients needed to make her smoothies. In the \nterminology of the Barringer/Ireland Business Model Template, these partners are called \n________.",
+        "answer": "B",
+        "options": {
+            "A": "de alers",
+            "B": "suppliers",
+            "C": "merchants",
+            "D": "traders",
+            "E": "brokers"
+        }
+    },
+    "58": {
+        "question": "An entity created by two or more firms pooling a portion of their resources to create a \nseparate, jointly -owned organization is called a ________.",
+        "answer": "C",
+        "options": {
+            "A": "trade association",
+            "B": "network",
+            "C": "joint venture",
+            "D": "consortia",
+            "E": "strate gic alliance"
+        }
+    },
+    "59": {
+        "question": "Th e four major categories in the Barringer/Ireland Business Model Template are: core \nstrategy, resources, financials, and operations.",
+        "answer": "T"
+    },
+    "60": {
+        "question": "Core strategy describes what causes consumers to pick one company's products over another.",
+        "answer": "F"
+    },
+    "61": {
+        "question": "A business's mission or mission statement describes why it exists and what its business  model is supposed to accomplish.",
+        "answer": "T"
+    },
+    "62": {
+        "question": "When completing the basis for differentiation portion of the Barringer/Ireland Business \nModel template, it is important to emphasize as many points of differentiation as possible.",
+        "answer": "F"
+    },
+    "63": {
+        "question": "A company's target market is a plac e within a larger market segment that represents a \nnarrower group of customers with similar interests.",
+        "answer": "T"
+    },
+    "64": {
+        "question": "A company's product/market scope defines the products and markets on which it will \nconcentrate.",
+        "answer": "T"
+    },
+    "65": {
+        "question": "The resources section of the Barringer/Ireland Business Model Template includes t hree parts: \ncore competency, key assets, and revenue streams.",
+        "answer": "F"
+    },
+    "66": {
+        "question": "In the terminology of the Barringer/Ireland Business Model Template, a key asset is a \nspecific factor or capability that supports a firm's business model and sets it apart from its rivals.",
+        "answer": "F"
+    },
+    "67": {
+        "question": "A firm's revenue streams d escribe the ways in which it makes money.",
+        "answer": "T"
+    },
+    "68": {
+        "question": "Value -driven businesses focus on minimizing costs wherever possible.",
+        "answer": "F"
+    },
+    "69": {
+        "question": "In the financing/funding section of the Barringer/Ireland Business Model Template, there are \nthree categories of costs to consider: capital costs, one -time expenses, and  provisions for ramp -\nup expenses.",
+        "answer": "T"
+    },
+    "70": {
+        "question": "The operations section of the Barringer/Ireland Business Model Template includes three \nsections: product (or service) production, channels, and key partners.",
+        "answer": "T"
+    },
+    "71": {
+        "question": "A company's channels describe how it delivers its product or service to its customers.",
+        "answer": "T"
+    },
+    "72": {
+        "question": "A strategic alliance is an entity created by two or more firms pooling a portion of their \nresources to create a separate, jointly -owned organization.",
+        "answer": "F"
+    },
+    "73": {
+        "question": "Describe the Barringer/Ireland Business Model Template and discuss its purpose.",
+        "answer": "T"
+    },
+    "74": {
+        "question": "Briefly describe the four main components of the Barringer/Ireland Business Model \nTemplate. Identify the subcompon ents of each of the four main components of a business model.",
+        "answer": "T"
+    },
+    "75": {
+        "question": "What are core competencies? Provide an example of the core competencies that are utilized \nby an entrepreneuri al firm.",
+        "answer": "A"
     }
-  },
-  "2": {
-    "question": "A ________ is a firm's plan or recipe for how it creates, delivers, and captures value for its \nstakeholders.",
-    "answer": "B",
-    "options": {
-      "A": "commercialization plan",
-      "B": "business model",
-      "C": "business plan",
-      "D": "launch plan",
-      "E": "tactical model"
-    }
-  },
-  "3": {
-    "question": "The Savvy Entrepreneurial Firm feature in Chapter 4 f ocuses on the ways in which CoachUp \ncreates, delivers and captures value for its stakeholders. According to the feature, CoachUp \nwould be a business that would be difficult to copy. According to the feature, it would be \ndifficult to copy because ________.  \n\nwho have used its service",
-    "answer": "A",
-    "options": {
-      "A": "it has raised $9.4 million, has 13,000 coaches in its platform, and tens of thousands of athletes",
-      "B": "it has a highly -functional Web site and has a talented management team",
-      "C": "it has a savvy marketing plan",
-      "D": "it has raised $9.4  million and has a talented management team",
-      "E": "it has an excellent Internet domain name and has a first -mover advantage"
-    }
-  },
-  "4": {
-    "question": "Which of the following is the proper sequence for when a firm should develop a business \nmodel?  \n\nrecognition  \n\nmodel  \n\noperational details of the firm  \n\nbusiness model  \n\nfirm",
-    "answer": "C",
-    "options": {
-      "A": "Preparation of the business model, initial validation of the business idea, opportunity",
-      "B": "Initial validation of the business idea , establishing a growth plan, preparation of the business",
-      "C": "Initial validation of the business idea, preparation of the business model, fleshing out the",
-      "D": "Opportunity recognition, fleshing out the operational details  of the firm, preparation of the",
-      "E": "Opportunity recognition, preparation of the business model, establishing a growth plan for the"
-    }
-  },
-  "5": {
-    "question": "In regard to business models, which of the following statements is incorrect?  \n\n\nthe capabilities it possesses.  \n\nbusiness model of another firm.",
-    "answer": "A",
-    "options": {
-      "A": "There is a standard business model that most firms follow.",
-      "B": "A firm's business model is inherently dependent on the collection of resources it controls and",
-      "C": "It is dangerous for a company to assume that it can be successful by simply copying the",
-      "D": "A firm's business model is its plan or diagram for how it competes.",
-      "E": "It is often difficult to determine what another firm's business model is."
-    }
-  },
-  "6": {
-    "question": "The Partnering for Success fe ature in Chapter 4 focused on Web -based platforms, including \nUpwork and Guru, that make it easy to identify and hire experienced ________.",
-    "answer": "B",
-    "options": {
-      "A": "part time employees",
-      "B": "freelancers",
-      "C": "interns",
-      "D": "virtual assistants",
-      "E": "full -time employees"
-    }
-  },
-  "7": {
-    "question": "A business model is a firm's plan or recipe for how it creates, delivers, and captures value for \nits stakeholders.",
-    "answer": "T"
-  },
-  "8": {
-    "question": "What is a business model? Why is it important? Provide an example to illustrate your answer.",
-    "answer": "A"
-  },
-  "9": {
-    "question": "The two general categories of business models are ________ and ________ .",
-    "answer": "B",
-    "options": {
-      "A": "normal; unique",
-      "B": "standard; disruptive",
-      "C": "ordinary; revolutionary",
-      "D": "customary; unique",
-      "E": "ordinary; disruptive"
-    }
-  },
-  "10": {
-    "question": "________ business models depict existing plans or recipes firms can use to determine how \nthey will create, deliver, and capture value for their stakeholders.",
-    "answer": "E",
-    "options": {
-      "A": "Revolutionary",
-      "B": "Normal",
-      "C": "Customary",
-      "D": "Disrupti ve",
-      "E": "Standard"
-    }
-  },
-  "11": {
-    "question": "Brandon Jones has crafted a business model for his firm that is based on an existing plan or \ntemplate for how firms in his industry create, deliver and capture value for their shareholders. \nBrandon has crafted a ________ business model.",
-    "answer": "A",
-    "options": {
-      "A": "standard",
-      "B": "disruptive",
-      "C": "customary",
-      "D": "normal",
-      "E": "temporary"
-    }
-  },
-  "12": {
-    "question": "Which of the following statements about business models is incorrect?  \n\n\n\n\n\nrun\" regardless of circumstances.",
-    "answer": "D",
-    "options": {
-      "A": "There are two general types of business models.",
-      "B": "There is no perfect business model.",
-      "C": "Most of the standard business models have been in place for some time.",
-      "D": "A firm's business model is confined to its own boundaries.",
-      "E": "Firms should guard themselves against th inking that one particular business model is a \"home"
-    }
-  },
-  "13": {
-    "question": "________ refers to the number of subscribers that a subscription -based business loses each \nmonth.",
-    "answer": "B",
-    "options": {
-      "A": "Agitate",
-      "B": "Churn",
-      "C": "Erosion",
-      "D": "Attrition",
-      "E": "Stir"
-    }
-  },
-  "14": {
-    "question": "Tyler Smith founded a firm that has a subscription -based business model. Although Tyler \nhas averaged 600 new subscribers per month, she also loses 450 subscri bers per month. The \nnumber of subscribers that Tyler loses each month is referred to as ________.",
-    "answer": "B",
-    "options": {
-      "A": "erosion",
-      "B": "churn",
-      "C": "destruction",
-      "D": "attrition",
-      "E": "agitation"
-    }
-  },
-  "15": {
-    "question": "Which of the following firms has a peer -to-peer business model?",
-    "answer": "C",
-    "options": {
-      "A": "Dell",
-      "B": "Dropbox",
-      "C": "Airbnb",
-      "D": "Salesforce.com",
-      "E": "Google"
-    }
-  },
-  "16": {
-    "question": "________ business models are ones that do not fit the profile of standard business models, \nand are impactful enough that they disrupt or change the way business is conducted in an \nindustry or an important niche within an industry.",
-    "answer": "A",
-    "options": {
-      "A": "Disruptive",
-      "B": "Normal",
-      "C": "Unique",
-      "D": "Incomparable",
-      "E": "Exceptional"
-    }
-  },
-  "17": {
-    "question": "Google and its AdWords program is an example of a ________ disruptive business model.",
-    "answer": "B",
-    "options": {
-      "A": "low -end",
-      "B": "new -market",
-      "C": "high -quality",
-      "D": "low -price",
-      "E": "new -channel"
-    }
-  },
-  "18": {
-    "question": "Southwest Airlines is an example of a ________ disruptive bus iness model.",
-    "answer": "A",
-    "options": {
-      "A": "low -end",
-      "B": "new -market",
-      "C": "high -quality",
-      "D": "new -product",
-      "E": "new -channel"
-    }
-  },
-  "19": {
-    "question": "There are two types of disruptive business models \u00e2\u20ac\u201d ________ and ________.",
-    "answer": "C",
-    "options": {
-      "A": "low -end; high -end",
-      "B": "new -product; new -market",
-      "C": "new -market; low -end",
-      "D": "new -channel; high -quality",
-      "E": "standard; unique"
-    }
-  },
-  "20": {
-    "question": "Which of the following firms introduced a disruptive business model?",
-    "answer": "A",
-    "options": {
-      "A": "Salesforce.com",
-      "B": "eBay",
-      "C": "Panera Bread",
-      "D": "Bar nes & Noble",
-      "E": "J. Crew"
-    }
-  },
-  "21": {
-    "question": "Standard business models depict existing plans or reci pes firms can use to determine how \nthey will create, deliver, and capture value for their stakeholders.",
-    "answer": "T"
-  },
-  "22": {
-    "question": "It is important to understand that there are several perfect business models.",
-    "answer": "F"
-  },
-  "23": {
-    "question": "Disruptive business models are impactful enough that they disrupt or change the way \nbusiness is conducted in an industry or an important niche within an industry.",
-    "answer": "T"
-  },
-  "24": {
-    "question": "According to the textbook, Southwest Airlines introduced a new market disruption type of \ndisruptive business mo del.",
-    "answer": "F"
-  },
-  "25": {
-    "question": "The Barringer/Ireland Business Model Template has five major categories and 14 individual \nparts.",
-    "answer": "F"
-  },
-  "26": {
-    "question": "What is the difference between  standard business models and disruptive business models? \nInclude examples of both in your answer.",
-    "answer": "S"
-  },
-  "27": {
-    "question": "The Barringer/Ireland Business Model Canvas consists of ________ major category(ies) and \n________ parts.",
-    "answer": "D",
-    "options": {
-      "A": "1; 12",
-      "B": "3; 9",
-      "C": "6; 18",
-      "D": "4; 12",
-      "E": "2; 6"
-    }
-  },
-  "28": {
-    "question": "The four major categories in the Barringer/Ireland Business Model Template are  ________.",
-    "answer": "A",
-    "options": {
-      "A": "core strategy, resources, financials, and operations",
-      "B": "core strategy, value proposition, customers and channels",
-      "C": "value proposition, resources, customers and partners",
-      "D": "activities, partners, customers, and competitors",
-      "E": "value proposition,  cost structure, financials, and operations"
-    }
-  },
-  "29": {
-    "question": "Which of the following is NOT  one of the four major categories in the Barringer/Ireland \nBusiness Model Template?",
-    "answer": "C",
-    "options": {
-      "A": "Operations",
-      "B": "Resources",
-      "C": "Channels",
-      "D": "Core Strategy",
-      "E": "Financials"
-    }
-  },
-  "30": {
-    "question": "In the Barringer/Ireland Business Model Template, ________  describes how the firm plans \nto compete relative to its competitors.",
-    "answer": "E",
-    "options": {
-      "A": "strategic plan",
-      "B": "grand strategy",
-      "C": "tactical strategy",
-      "D": "value proposition",
-      "E": "core strategy"
-    }
-  },
-  "31": {
-    "question": "Jamie Finch is crafting the business model for her fashion design firm. She just completed \nthe section that  describes how her firm plans to compete relative to her rivals. Jamie just \ncompleted the ________ portion of her business model template.",
-    "answer": "B",
-    "options": {
-      "A": "operations",
-      "B": "core strategy",
-      "C": "resources",
-      "D": "strategic plan",
-      "E": "tactical strategy"
-    }
-  },
-  "32": {
-    "question": "Which of the following is NOT  one of the four ele ments of the core strategy section of the \nBarringer/Ireland Business Model Template?",
-    "answer": "B",
-    "options": {
-      "A": "Business Mission",
-      "B": "Key Assets",
-      "C": "Basis of Differentiation",
-      "D": "Target Market",
-      "E": "Product/Market Scope"
-    }
-  },
-  "33": {
-    "question": "A business's ________ statement describes why it exists and what its business mode l is \nsupposed to accomplish.",
-    "answer": "D",
-    "options": {
-      "A": "values",
-      "B": "importance",
-      "C": "differentiation",
-      "D": "mission",
-      "E": "significance"
-    }
-  },
-  "34": {
-    "question": "Nathan Green is starting a firm in the organic produce industry. Nathan has developed a \nstatement \u00e2\u20ac\u201c\"Helping Make Your Life Better, Healthier, and Fuller\" \u00e2\u20ac\u201cthat describes the r eason his \ncompany exists and what his business model is supposed to accomplish. In the terminology used \nin the Barringer/Ireland Business Model Template, Nathan's statement is referred to as his \n________ statement.",
-    "answer": "D",
-    "options": {
-      "A": "values",
-      "B": "uniqueness",
-      "C": "differentiatio n",
-      "D": "mission",
-      "E": "task"
-    }
-  },
-  "35": {
-    "question": "T he first box in the Barringer/Ireland Business Model Template is ________.",
-    "answer": "C",
-    "options": {
-      "A": "product/market scope",
-      "B": "revenue streams",
-      "C": "business mission",
-      "D": "target market",
-      "E": "channels"
-    }
-  },
-  "36": {
-    "question": "When completing the basis of differentiation box in the Barringer/Ireland Business Model \nTemplate, it is best to limit the description to ________.",
-    "answer": "A",
-    "options": {
-      "A": "two to three points",
-      "B": "one point",
-      "C": "five to 10 points",
-      "D": "two to three points for manufacturing firms and five to 10 points for service firms",
-      "E": "five to 10 points for manufacturing firms and two to three points for s ervice firms"
-    }
-  },
-  "37": {
-    "question": "A firm's _ _______ market is a place within a larger market segment that represents a \nnarrower group of customers with similar interests.",
-    "answer": "D",
-    "options": {
-      "A": "aspirational",
-      "B": "ambitious",
-      "C": "constrained",
-      "D": "target",
-      "E": "objective"
-    }
-  },
-  "38": {
-    "question": "Kaitlyn Harris is opening up a women's fashion boutique that will focus on professio nal \nwomen that are 18 -30 years old. The age range of women that Kaitlyn plans to focus on is \nreferred to as her ________ market.",
-    "answer": "D",
-    "options": {
-      "A": "controlled",
-      "B": "ambitious",
-      "C": "identifiable",
-      "D": "target",
-      "E": "aspirational"
-    }
-  },
-  "39": {
-    "question": "A company's ________ scope defines the products and markets on which it will concentrate.",
-    "answer": "A",
-    "options": {
-      "A": "product/market",
-      "B": "offering/industry",
-      "C": "business/market",
-      "D": "business/industry",
-      "E": "offering/market"
-    }
-  },
-  "40": {
-    "question": "Erin Hill is working on the box in the Barringer/Ireland Business Model Template that \ndefines the products and markets on which her firm will concentrate. E rin is working on the \n________ scope portion of the business model template.",
-    "answer": "E",
-    "options": {
-      "A": "offering/market",
-      "B": "offering/industry",
-      "C": "business/market",
-      "D": "business/industry",
-      "E": "product/market"
-    }
-  },
-  "41": {
-    "question": "The Resources section of the Barringer/Ireland Business Model Template consists of the \n________ and ________ boxes.",
-    "answer": "D",
-    "options": {
-      "A": "business mission; core competency",
-      "B": "core competency; product/market scope",
-      "C": "channels; key partners",
-      "D": "core competency; key assets",
-      "E": "revenue streams; key assets"
-    }
-  },
-  "42": {
-    "question": "In the Barringer/Ireland Business Model Template, a(n) ________ is a specific factor  or \ncapability that supports a firm's business model and sets it apart from its rivals.",
-    "answer": "B",
-    "options": {
-      "A": "primary capability",
-      "B": "core competency",
-      "C": "essential asset",
-      "D": "staple proficiency",
-      "E": "key aptitude"
-    }
-  },
-  "43": {
-    "question": "Mark White is the founder of a firm that builds iPhone apps. Mark is very technically savvy, \nwhich allows him to build apps quickly and with minimal bugs or problems. In the terminology \nof the Barringer/Ireland Business Model Template, Mark's technical savvy is a(n) ________ of \nhis firm.",
-    "answer": "B",
-    "options": {
-      "A": "primary capability",
-      "B": "core competency",
-      "C": "essential  asset",
-      "D": "staple proficiency",
-      "E": "key aptitude"
-    }
-  },
-  "44": {
-    "question": "In the terminology of the Barringer/Ireland Business Model Template, ________ assets are \nthe assets that a firm owns that enable its business model to work.",
-    "answer": "A",
-    "options": {
-      "A": "key",
-      "B": "tactical",
-      "C": "fundamental",
-      "D": "primary",
-      "E": "strategic"
-    }
-  },
-  "45": {
-    "question": "In the Barringer/Ireland Business Model Template, key assets can be ________.",
-    "answer": "E",
-    "options": {
-      "A": "fixed, situational, variable, and permanent",
-      "B": "tactical, strategic, fixed, and variable",
-      "C": "tangible, intangible, variable, and fixed",
-      "D": "temporary, permanent, fixed, and variable",
-      "E": "physical, financial , intellectual, or human"
-    }
-  },
-  "46": {
-    "question": "The Financials section of the Barringer/Ireland Business Model Template consists of three \nboxes. The boxes are titled ________.",
-    "answer": "B",
-    "options": {
-      "A": "economics of the business, startup -costs, and break -even",
-      "B": "revenue streams, cost structure, and financing/funding",
-      "C": "profit margins, revenue streams, and break -even",
-      "D": "startup -costs, operating leverage, and financing/funding",
-      "E": "fixed vs variables costs, financing/funding, and break -even"
-    }
-  },
-  "47": {
-    "question": "Which section of the Barringer/Ireland Business Model Template is the only section that \ndescribes how it makes money?",
-    "answer": "C",
-    "options": {
-      "A": "Core strategy",
-      "B": "Resources",
-      "C": "Financials",
-      "D": "Operations",
-      "E": "Value proposition"
-    }
-  },
-  "48": {
-    "question": "A firm's ________ describe(s) the ways in which it makes money.",
-    "answer": "C",
-    "options": {
-      "A": "proceeds account",
-      "B": "break -even analysis",
-      "C": "revenue streams",
-      "D": "cash flow",
-      "E": "income statement"
-    }
-  },
-  "49": {
-    "question": "Advertising, commissions, do wnload fees, licensing, and product sale are examples of \n________.",
-    "answer": "A",
-    "options": {
-      "A": "revenue streams",
-      "B": "basis of differentiation",
-      "C": "key assets",
-      "D": "channels",
-      "E": "cost structure"
-    }
-  },
-  "50": {
-    "question": "In the terminology of the Barringer/Ireland Business Model Template, a firm's ________ \nstructure describes the mo st important costs incurred to support its business model.",
-    "answer": "B",
-    "options": {
-      "A": "expense",
-      "B": "cost",
-      "C": "budget",
-      "D": "overhead",
-      "E": "outflow"
-    }
-  },
-  "51": {
-    "question": "Jenna Franklin is completing the portion of the Barringer/Ireland Business Model Template \nthat describes the most important costs that will be incurred to supp ort her business model. Jenna \nis completing the ________ structure box in the business model template.",
-    "answer": "E",
-    "options": {
-      "A": "expense",
-      "B": "outlay",
-      "C": "payment",
-      "D": "overhead",
-      "E": "cost"
-    }
-  },
-  "52": {
-    "question": "________ costs are costs that remain the same despite the volume of goods or services \nproduced. ________ costs vary p roportionally with the volume of goods or services provided.",
-    "answer": "C",
-    "options": {
-      "A": "Expense; Non -standard",
-      "B": "Standard; Non -Standard",
-      "C": "Fixed; Variable",
-      "D": "Non -Standard; Standard",
-      "E": "Variable; Fixed"
-    }
-  },
-  "53": {
-    "question": "According to the textbook, there are three categories of costs to consider when completing \nthe \"financing/funding\" section of the Barringer/Ireland Business Model Template. These are \n________.",
-    "answer": "E",
-    "options": {
-      "A": "setup costs, one -time expenses, and costs associated with incorporating the firm",
-      "B": "capital costs, marketing costs, and provisions for ramp -up expenses",
-      "C": "setup costs, marketing costs, and operating costs",
-      "D": "capital costs, one -time expenses, and provisions for ramp -up expenses",
-      "E": "operating costs, capital costs, and costs associated with setting up the firm"
-    }
-  },
-  "54": {
-    "question": "The operations quadrant in the Barringer/Ireland Business Model Te mplate includes three \nsections. These are ________.",
-    "answer": "A",
-    "options": {
-      "A": "product (or service) production, channels, and key partners",
-      "B": "product/market scope, cost structure, and key partners",
-      "C": "key assets, cost structure, and channels",
-      "D": "key partners, financing/funding, and  target market",
-      "E": "channels, core competency, and key partners"
-    }
-  },
-  "55": {
-    "question": "Sarah Green, who plans to open a garden and lawn business, is working on the portion of the \nBarringer/Ireland Business Model template that focuses on how her products and services will be \nproduced. Sarah is wor king on the ________ section of the template.",
-    "answer": "B",
-    "options": {
-      "A": "basis of differentiation",
-      "B": "product/service production",
-      "C": "product/market scope",
-      "D": "core competency",
-      "E": "channels"
-    }
-  },
-  "56": {
-    "question": "Brad Jones is in the process of opening an electronics supply company and is working on the \nportion of his busin ess plan template that describes how he will deliver his products and services \nto his customers. The portion of the business plan template that Brad is working on is referred to \nas ________.",
-    "answer": "A",
-    "options": {
-      "A": "channels",
-      "B": "network",
-      "C": "linkages",
-      "D": "grids",
-      "E": "conduits"
-    }
-  },
-  "57": {
-    "question": "Cynthia Hamilton is lau nching a chain of smoothie restaurants. Among Cynthia's key \npartners will be firms that provide her the ingredients needed to make her smoothies. In the \nterminology of the Barringer/Ireland Business Model Template, these partners are called \n________.",
-    "answer": "B",
-    "options": {
-      "A": "de alers",
-      "B": "suppliers",
-      "C": "merchants",
-      "D": "traders",
-      "E": "brokers"
-    }
-  },
-  "58": {
-    "question": "An entity created by two or more firms pooling a portion of their resources to create a \nseparate, jointly -owned organization is called a ________.",
-    "answer": "C",
-    "options": {
-      "A": "trade association",
-      "B": "network",
-      "C": "joint venture",
-      "D": "consortia",
-      "E": "strate gic alliance"
-    }
-  },
-  "59": {
-    "question": "Th e four major categories in the Barringer/Ireland Business Model Template are: core \nstrategy, resources, financials, and operations.",
-    "answer": "T"
-  },
-  "60": {
-    "question": "Core strategy describes what causes consumers to pick one company's products over another.",
-    "answer": "F"
-  },
-  "61": {
-    "question": "A business's mission or mission statement describes why it exists and what its business  model is supposed to accomplish.",
-    "answer": "T"
-  },
-  "62": {
-    "question": "When completing the basis for differentiation portion of the Barringer/Ireland Business \nModel template, it is important to emphasize as many points of differentiation as possible.",
-    "answer": "F"
-  },
-  "63": {
-    "question": "A company's target market is a plac e within a larger market segment that represents a \nnarrower group of customers with similar interests.",
-    "answer": "T"
-  },
-  "64": {
-    "question": "A company's product/market scope defines the products and markets on which it will \nconcentrate.",
-    "answer": "T"
-  },
-  "65": {
-    "question": "The resources section of the Barringer/Ireland Business Model Template includes t hree parts: \ncore competency, key assets, and revenue streams.",
-    "answer": "F"
-  },
-  "66": {
-    "question": "In the terminology of the Barringer/Ireland Business Model Template, a key asset is a \nspecific factor or capability that supports a firm's business model and sets it apart from its rivals.",
-    "answer": "F"
-  },
-  "67": {
-    "question": "A firm's revenue streams d escribe the ways in which it makes money.",
-    "answer": "T"
-  },
-  "68": {
-    "question": "Value -driven businesses focus on minimizing costs wherever possible.",
-    "answer": "F"
-  },
-  "69": {
-    "question": "In the financing/funding section of the Barringer/Ireland Business Model Template, there are \nthree categories of costs to consider: capital costs, one -time expenses, and  provisions for ramp -\nup expenses.",
-    "answer": "T"
-  },
-  "70": {
-    "question": "The operations section of the Barringer/Ireland Business Model Template includes three \nsections: product (or service) production, channels, and key partners.",
-    "answer": "T"
-  },
-  "71": {
-    "question": "A company's channels describe how it delivers its product or service to its customers.",
-    "answer": "T"
-  },
-  "72": {
-    "question": "A strategic alliance is an entity created by two or more firms pooling a portion of their \nresources to create a separate, jointly -owned organization.",
-    "answer": "F"
-  },
-  "73": {
-    "question": "Describe the Barringer/Ireland Business Model Template and discuss its purpose.",
-    "answer": "T"
-  },
-  "74": {
-    "question": "Briefly describe the four main components of the Barringer/Ireland Business Model \nTemplate. Identify the subcompon ents of each of the four main components of a business model.",
-    "answer": "T"
-  },
-  "75": {
-    "question": "What are core competencies? Provide an example of the core competencies that are utilized \nby an entrepreneuri al firm.",
-    "answer": "A"
-  }
 }

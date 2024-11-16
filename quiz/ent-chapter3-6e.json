@@ -1,652 +1,652 @@
 {
-  "1": {
-    "question": "WriteLab, the company profiled in the opening feature of Chapter 5, believes it has created a \nbarrier to entry to enable it to maintain a leadership position in the education industry . Its barrier \nto entry is ________.",
-    "answer": "E",
-    "options": {
-      "A": "the price-point of its product",
-      "B": "the strength of its brand",
-      "C": "its social mission",
-      "D": "its economies of scale",
-      "E": "that Donald McQuade, one of its co-founders, is well-established in the writing communi ty"
+    "1": {
+        "question": "WriteLab, the company profiled in the opening feature of Chapter 5, believes it has created a \nbarrier to entry to enable it to maintain a leadership position in the education industry . Its barrier \nto entry is ________.",
+        "answer": "E",
+        "options": {
+            "A": "the price-point of its product",
+            "B": "the strength of its brand",
+            "C": "its social mission",
+            "D": "its economies of scale",
+            "E": "that Donald McQuade, one of its co-founders, is well-established in the writing communi ty"
+        }
+    },
+    "2": {
+        "question": "Terry Washington recently started a new firm in the financial services industry. Prior to  \nstarting his firm, he spent considerable time doing research on the potential of the industry. The  \nresearch that Terry was doing is called ________ analysis.",
+        "answer": "A",
+        "options": {
+            "A": "industry",
+            "B": "sector",
+            "C": "commercial",
+            "D": "business",
+            "E": "target market"
+        }
+    },
+    "3": {
+        "question": "A(n) ________ is a group of firms producing a similar product or service, such as soft drinks, \nairlines, or smartphone apps.",
+        "answer": "D",
+        "options": {
+            "A": "cluster",
+            "B": "division",
+            "C": "sector",
+            "D": "industry",
+            "E": "network"
+        }
+    },
+    "4": {
+        "question": "Once a firm decides to enter an industry and chooses a market in which to compete, it must \ngain an understanding of its competitive environment. This challenge can be undertaken by \ncompleting a(n) ________ analysis.",
+        "answer": "C",
+        "options": {
+            "A": "business",
+            "B": "industry",
+            "C": "competitor",
+            "D": "strategic",
+            "E": "market"
+        }
+    },
+    "5": {
+        "question": "Each quarter, Craig Anderson, who owns a chain of auto repair shops, does a detailed analysis \nof his firm's competitors. This analysis is called ________ analysis.",
+        "answer": "A",
+        "options": {
+            "A": "competitor",
+            "B": "challenger",
+            "C": "strategic",
+            "D": "participant",
+            "E": "industry"
+        }
+    },
+    "6": {
+        "question": "In various studies, researchers have found that from ________ percent of the variation in firm \nprofitability is directly attributable to the industry in which a firm competes.",
+        "answer": "B",
+        "options": {
+            "A": "4 to 12",
+            "B": "8 to 30",
+            "C": "18 to 42",
+            "D": "22 to 56",
+            "E": "34 to 70"
+        }
+    },
+    "7": {
+        "question": "Industries that sell products to seniors, such as the eyeglass industry and the hearing aid \nindustry, are benefiting from the aging of the population, which is an important ________ trend.",
+        "answer": "A",
+        "options": {
+            "A": "environmental",
+            "B": "business",
+            "C": "commerce",
+            "D": "statutory",
+            "E": "competitive"
+        }
+    },
+    "8": {
+        "question": "Many firms benefit from an increasing ability to outsource manufacturing or service functions \nto lower-cost foreign countries. This trend is referred to in the textbook as a(n) ________ trend.",
+        "answer": "A",
+        "options": {
+            "A": "business",
+            "B": "environmental",
+            "C": "commerce",
+            "D": "statutory",
+            "E": "economic"
+        }
+    },
+    "9": {
+        "question": "The Partnering for Success feature in Chapter 5 focuses on three things that are important for \nstartups to become active in to learn the ins and outs of their industries. The three items  focused \non in the feature are ________.",
+        "answer": "C",
+        "options": {
+            "A": "local Chambers of Commerce, trade journals, and networking events",
+            "B": "Facebook, industry-related e-mail listservs, and trade shows",
+            "C": "trade associations, trade shows, and trade journals",
+            "D": "networking events, blogs, and Facebook",
+            "E": "local Chambers of Commerce, city or university-sponsored incubators, and trade associations"
+        }
+    },
+    "10": {
+        "question": "Industry analysis is business research that focuses on the potential of an industry.",
+        "answer": "T"
+    },
+    "11": {
+        "question": "A comparison analysis is a detailed evaluation of a firm's competitors.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "An industry is a group of firms producing a similar product or service, such as tires, life \ninsurance, or smartphone apps.",
+        "answer": "T"
+    },
+    "13": {
+        "question": "The two trends that are most important to focus on in an industry analysis are business and \nenvironmental trends.",
+        "answer": "T"
+    },
+    "14": {
+        "question": "Business trends include economic trends, social trends, technological advances, and political  \nand regulatory changes.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "What is industry analysis? Why is it important for a new venture to complete a thorough \nanalysis of the industry it is entering?",
+        "answer": "I"
+    },
+    "16": {
+        "question": "According to the textbook, the five competitive forces included in the Five Forces model \ndetermine the average ________.",
+        "answer": "C",
+        "options": {
+            "A": "rate of new business starts in an industry",
+            "B": "growth rate for the firms in an industry",
+            "C": "rate of return for the firms in an industry",
+            "D": "sales for the firms in an industry",
+            "E": "failure rate for the firms in an industry"
+        }
+    },
+    "17": {
+        "question": "According to the textbook, how do well-managed firms respond to the five forces that \ndetermine industry profitability?",
+        "answer": "E",
+        "options": {
+            "A": "They switch industries if the forces are too compelling.",
+            "B": "They focus on one force intently and excel by overcoming that force.",
+            "C": "They overcome each of the forces.",
+            "D": "They ignore the forces.",
+            "E": "They try to position their firms in a way that avoids or diminishes the forces."
+        }
+    },
+    "18": {
+        "question": "In general, industries are more attractive when the ________.",
+        "answer": "E",
+        "options": {
+            "A": "majority of the threats are high",
+            "B": "majority of the threats are low",
+            "C": "threat of each of the forces is neutral-neither low nor high",
+            "D": "threat of each of the five forces is high",
+            "E": "threat of each of the five forces is low"
+        }
+    },
+    "19": {
+        "question": "Generally, industries are more attractive when the threat of substitutes is ________.",
+        "answer": "B",
+        "options": {
+            "A": "high",
+            "B": "low",
+            "C": "neutral (neither high or low)",
+            "D": "high for manufacturing firms and low for service firms",
+            "E": "high for service firms and low for manufacturing firms"
+        }
+    },
+    "20": {
+        "question": "The price of prescription medicine is high, partly because when someone is sick there is no \nreal alternative to buying medicine if they want to get better. Which of Porter's five forces \nexplains how this aspect of the prescription medicine industry helps keep profitability high?",
+        "answer": "C",
+        "options": {
+            "A": "Rivalry Among Existing Firms",
+            "B": "Threat of New Entrants",
+            "C": "Threat of Substitutes",
+            "D": "Bargaining Power of Buyers",
+            "E": "Bargaining Power of Suppliers"
+        }
+    },
+    "21": {
+        "question": "Which of Porter's five forces is most closely associated with the concept \"barrier to e ntry\"?",
+        "answer": "C",
+        "options": {
+            "A": "Bargaining Power of Suppliers",
+            "B": "Rivalry Among Existing Firms",
+            "C": "Threat of New Entrants",
+            "D": "Bargaining Power of Buyers",
+            "E": "Threat of Substitutes"
+        }
+    },
+    "22": {
+        "question": "Which of the following is NOT  one of the major sources of barriers to entry?",
+        "answer": "C",
+        "options": {
+            "A": "Product Differentiation",
+            "B": "Capital Requirements",
+            "C": "Buyer Group Concentration",
+            "D": "Access to Distribution Channels",
+            "E": "Government and Legal Barriers"
+        }
+    },
+    "23": {
+        "question": "Shelly Brunner owns a sports-themed restaurant which is located in an upscale business \ndistrict in Chicago. One advantage that Shelly has is that she bought the lot she built her \nrestaurant on 25 years ago when lots in the area were selling for $50,000. Shelly knows that \nseveral potential competitors have looked at bare lots near her business but haven't been willi ng \nto pay the asking prices, which are as high as $500,000. Which of the six major sources of \nbarriers to entry is causing a disincentive for new firms to enter Shelly's industry?",
+        "answer": "E",
+        "options": {
+            "A": "Capital Requirements",
+            "B": "Economies of Scale",
+            "C": "Product Differentiation",
+            "D": "Government and Legal Barriers",
+            "E": "Cost Advantage Independent of Size"
+        }
+    },
+    "24": {
+        "question": "Some industries, like the athletic shoe industry, are dominated by a small number of firms \nwith strong brands. These industries are difficult to break into without spending heavily on \nadvertising. The barrier to entry that the firms in these types of industries have erected is  referred\nto as ________.",
+        "answer": "C",
+        "options": {
+            "A": "government and legal barriers",
+            "B": "capital requirements",
+            "C": "product differentiation",
+            "D": "cost advantages independent of size",
+            "E": "access to distribution channels"
+        }
+    },
+    "25": {
+        "question": "Which of Porter's five forces is most directly influenced by the number and balance of \ncompetitors, degree of difference between products, growth rate of an industry, and level of fixed\ncosts?",
+        "answer": "B",
+        "options": {
+            "A": "Threat of New Entrants",
+            "B": "Rivalry Among Existing Firms",
+            "C": "Threat of Substitutes",
+            "D": "Bargaining Power of Buyers",
+            "E": "Bargaining Power of Suppliers"
+        }
+    },
+    "26": {
+        "question": "If a startup pioneers an industry or a new concept within an industry, the name recognition \nthe startup establishes may create a formidable nontraditional barrier to entry referred to as  a(n) \n________.",
+        "answer": "D",
+        "options": {
+            "A": "unique business model",
+            "B": "aggressive supremacy",
+            "C": "competitive superiority",
+            "D": "first-mover advantage",
+            "E": "aggressive tactical advantage"
+        }
+    },
+    "27": {
+        "question": "According to the example provided in Chapter 5, www.1800contacts.com possesses a \nnontraditional barrier to entry referred to as ________.",
+        "answer": "D",
+        "options": {
+            "A": "unique business model",
+            "B": "strength of management team",
+            "C": "access to distribution channels",
+            "D": "Internet domain name",
+            "E": "first-mover advantage"
+        }
+    },
+    "28": {
+        "question": "Which of the following was NOT  identified in the textbook as a nontraditional barrier to \nentry?",
+        "answer": "D",
+        "options": {
+            "A": "Strength of management team",
+            "B": "First-mover advantage",
+            "C": "Unique business model",
+            "D": "Product differentiation",
+            "E": "Internet domain name"
+        }
+    },
+    "29": {
+        "question": "Supplier concentration, switching costs, attractiveness of substitutes, and threat  of forward \nintegration are factors that have a direct impact on ________.",
+        "answer": "E",
+        "options": {
+            "A": "threat of new entrants",
+            "B": "bargaining power of buyers",
+            "C": "rivalry among existing firms",
+            "D": "threat of substitutes",
+            "E": "bargaining power of suppliers"
+        }
+    },
+    "30": {
+        "question": "Tim Rutherford is thinking about starting a firm in the medical equipment industry. In the \nindustry analysis Tim has been conducting, one thing he has noticed is that the medical \nequipment industry is characterized by buyer group concentration. This factor concerns Tim \nbecause it tells him that the profitability of the medical equipment industry is potential ly \nsuppressed by the ________.",
+        "answer": "B",
+        "options": {
+            "A": "threat of substitutes",
+            "B": "bargaining power of buyers",
+            "C": "rivalry among existing firms",
+            "D": "bargaining power of suppliers",
+            "E": "threat of new entrants"
+        }
+    },
+    "31": {
+        "question": "The five competitive forces model is a framework for understanding the structure of an \nindustry.",
+        "answer": "T"
+    },
+    "32": {
+        "question": "The best industry to enter is an industry where the threat of each of Porter's five forces is \nhigh.",
+        "answer": "F"
+    },
+    "33": {
+        "question": "There are four factors that determine the threat of new entrants: number and balance of \ncompetitors, degree of difference between products, growth rate of an industry, and level of fixed\ncosts.",
+        "answer": "F"
+    },
+    "34": {
+        "question": "In most industries, the major determinant of industry profitability is the level of competition \namong the firms already competing in the industry.",
+        "answer": "T"
+    },
+    "35": {
+        "question": "If the buyers are concentrated and they buy from a large number of suppliers, then the \nbargaining power of buyers is increased.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "Identify the five competitive forces that determine industry profitably. Explain the purpose of\nanalyzing these forces.",
+        "answer": "T"
+    },
+    "37": {
+        "question": "Discuss the nontraditional barriers to entry identified in the chapter. Why is it important t hat \nentrepreneurial firms utilize one or more of these forms of barriers to entry?",
+        "answer": "T"
+    },
+    "38": {
+        "question": "According to the textbook, the Five Forces model can be used in the following two ways: \n________.\n\nconservative manner, and second, to help a firm determine whether to compete in international \nmarkets in that industry.\n\nsecond, to help a firm determine whether it can be competitive in that industry\n\nhelp a firm determine whether to compete in international markets in that industry\n\nfirm determine whether it can be competitive in that industry\n\na firm discern whether it can carve out an attractive position in that industry",
+        "answer": "E",
+        "options": {
+            "A": "first, to help a firm determine whether it should enter an industry in an aggressive or a",
+            "B": "first, to help a firm determine if it should enter a single or multiple niches in an industry , and",
+            "C": "first, to help a firm determine what industry it is best equipped to compete in, and second, to",
+            "D": "first, to help a firm determine what niche to enter within an industry, and second, to help a",
+            "E": "first, to help a firm determine whether it should enter a particular industry, and second, to he lp"
+        }
+    },
+    "39": {
+        "question": "Brain Sentry is starting a firm in the small industry that helps football teams discern whe ther \na player has suffered a concussion. This industry is still so new that no standard operating \nprocedures have been developed. The industry Brain Sentry is entering is an example of a(n) \n________ industry.",
+        "answer": "C",
+        "options": {
+            "A": "mature",
+            "B": "declining",
+            "C": "emerging",
+            "D": "global",
+            "E": "fragmented"
+        }
+    },
+    "40": {
+        "question": "The primary opportunity existing for startups in emerging industries is to ________.\n\n\n\nencouraged to grow through product or process innovation\n\n\nindustry incumbents through process innovation",
+        "answer": "D",
+        "options": {
+            "A": "consolidate the industry and establish industry leadership as a result of doing so",
+            "B": "win customers by placing an emphasis on service and process innovation",
+            "C": "pursue a niche strategy, which focuses on a narrow segment of the industry that might be",
+            "D": "capture a first-mover advantage",
+            "E": "pursue a cost reduction strategy, which is accomplished through achieving lower costs  than"
+        }
+    },
+    "41": {
+        "question": "A(n) ________ industry is one that is characterized by a large number of firms of \napproximately equal size.",
+        "answer": "A",
+        "options": {
+            "A": "fragmented",
+            "B": "mature",
+            "C": "declining",
+            "D": "emerging",
+            "E": "global"
+        }
+    },
+    "42": {
+        "question": "The primary opportunity existing for startups in fragmented industries is to ________.\n\nencouraged to grow through product or process innovation\n\n\n\nindustry incumbents through process innovation",
+        "answer": "E",
+        "options": {
+            "A": "pursue a niche strategy, which focuses on a narrow segment of the industry that might be",
+            "B": "win customers by placing an emphasis on service and process innovation",
+            "C": "capture a first-mover advantage",
+            "D": "pursue a cost reduction strategy, which is accomplished through achieving lower costs t han",
+            "E": "consolidate the industry and establish industry leadership as a result of doing so"
+        }
+    },
+    "43": {
+        "question": "A(n) ________ industry is an industry that is experiencing slow or no increase in demand.",
+        "answer": "C",
+        "options": {
+            "A": "declining",
+            "B": "global",
+            "C": "mature",
+            "D": "emerging",
+            "E": "fragmented"
+        }
+    },
+    "44": {
+        "question": "According to the textbook, Justin's in peanut butter, Rover.com in dog care, and Zagster in \nbike sharing are examples of entrepreneurial firms who are exploiting opportunities in ________ \nindustries.",
+        "answer": "D",
+        "options": {
+            "A": "emerging",
+            "B": "fragmented",
+            "C": "declining",
+            "D": "mature",
+            "E": "consolidated"
+        }
+    },
+    "45": {
+        "question": "According to the textbook, Chipotle Mexican Grill in fast-casual restaurants and 1-800-\nGOT_JUNK? in junk removal are examples of entrepreneurial firms who are exploiting \nopportunities in ________ industries.",
+        "answer": "E",
+        "options": {
+            "A": "global",
+            "B": "declining",
+            "C": "mature",
+            "D": "emerging",
+            "E": "fragmented"
+        }
+    },
+    "46": {
+        "question": "According to the textbook, Nucor in steel, JetBlue in airlines, and Cirque du Soleil in \ncircuses are examples of entrepreneurial firms who are exploiting opportunities in ________ \nindustries.",
+        "answer": "C",
+        "options": {
+            "A": "fragmented",
+            "B": "emerging",
+            "C": "declining",
+            "D": "global",
+            "E": "mature"
+        }
+    },
+    "47": {
+        "question": "Opportunities for leadership, niche, harvest and divestment are associated with ________ \nindustries.",
+        "answer": "C",
+        "options": {
+            "A": "mature",
+            "B": "emerging",
+            "C": "declining",
+            "D": "fragmented",
+            "E": "global"
+        }
+    },
+    "48": {
+        "question": "A(n) ________ industry is an industry that is experiencing significant international sales.",
+        "answer": "A",
+        "options": {
+            "A": "global",
+            "B": "mature",
+            "C": "fragmented",
+            "D": "declining",
+            "E": "emerging"
+        }
+    },
+    "49": {
+        "question": "The two most common strategies pursued by firms in global industries are the ________ \nstrategy and the ________ strategy.",
+        "answer": "B",
+        "options": {
+            "A": "inclusive; multidomestic",
+            "B": "multidomestic; global",
+            "C": "multidomestic; worldwide",
+            "D": "inclusive; global",
+            "E": "home; worldwide"
+        }
+    },
+    "50": {
+        "question": "Firms that pursue a(n) ________ strategy compete for market share on a country-by-country \nbasis and vary their product or service offerings to meet the demands of the local market.",
+        "answer": "C",
+        "options": {
+            "A": "inclusive",
+            "B": "universal",
+            "C": "multidomestic",
+            "D": "contemporary",
+            "E": "worldwide"
+        }
+    },
+    "51": {
+        "question": "Kellen West recently launched a firm in the fruit drink industry, and has already exported his  \nfruit drinks to 11 different countries. One thing that Kellen's firm is doing is that it is varying the \ntastes of the fruit drinks it sells on a country-by-country basis to meet the demands of the local \nmarkets. Kellen's firm is pursuing a ________ strategy.",
+        "answer": "E",
+        "options": {
+            "A": "global",
+            "B": "home",
+            "C": "universal",
+            "D": "contemporary",
+            "E": "multidomestic"
+        }
+    },
+    "52": {
+        "question": "Katherine Chapman recently launched a firm in the clothing industry, targeting 13-17 year \nolds. One thing Katherine thinks she has accomplished is producing products that have universal \nappeal, so she will not vary her approach from country to country. Katherine is pursuing a \n________ strategy.",
+        "answer": "D",
+        "options": {
+            "A": "universal",
+            "B": "multidomestic",
+            "C": "contemporary",
+            "D": "global",
+            "E": "home"
+        }
+    },
+    "53": {
+        "question": "A fragmented industry is a new industry in which standard operating procedures have yet to \nbe developed.",
+        "answer": "F"
+    },
+    "54": {
+        "question": "An emerging industry is one that is characterized by a large number of firms of \napproximately equal size.",
+        "answer": "F"
+    },
+    "55": {
+        "question": "The primary opportunity available to firms in fragmented industries is consolidation. The \nmost common way to do this is through a geographic roll-up strategy, in which one firm starts \nacquiring similar firms that are located in different geographic areas.",
+        "answer": "T"
+    },
+    "56": {
+        "question": "A fragmented industry is an industry that is experiencing slow increases in demand, \nnumerous repeat customers, and limited product innovation.",
+        "answer": "F"
+    },
+    "57": {
+        "question": "Firms that pursue a multidomestic strategy use the same basic approach in all foreign  \nmarkets.",
+        "answer": "F"
+    },
+    "58": {
+        "question": "What is an emerging industry? What is the primary opportunity available to entrepreneurial \nfirms in emerging industries? Name three examples of firms in emerging industries.",
+        "answer": "A"
+    },
+    "59": {
+        "question": "According to the textbook, the first step in a competitor analysis is to ________.",
+        "answer": "E",
+        "options": {
+            "A": "develop a marketing plan",
+            "B": "develop the strategic plan",
+            "C": "study the strength of the industry",
+            "D": "study the external environment",
+            "E": "determine who the competition is"
+        }
+    },
+    "60": {
+        "question": "According to the textbook, the three different types of competitors a business will face are \n________.",
+        "answer": "D",
+        "options": {
+            "A": "potential, direct, and upcoming",
+            "B": "indirect, fleeting, and future",
+            "C": "serious, cautious, and future",
+            "D": "direct, indirect, and future",
+            "E": "potential, fleeting, and indirect"
+        }
+    },
+    "61": {
+        "question": "In the context of competitor analysis, businesses that offer identical or similar products are \nreferred to as ________ competitors.",
+        "answer": "B",
+        "options": {
+            "A": "immediate",
+            "B": "direct",
+            "C": "indirect",
+            "D": "straight",
+            "E": "urgent"
+        }
+    },
+    "62": {
+        "question": "Aquafina operates in the bottled water industry. The companies that offer identical or s imilar \nproducts and go after the same customers that Aquafina does are Dasani and Zephyrhills. Dasani \nand Zephyrhills are Aquafina's ________ competitors.",
+        "answer": "A",
+        "options": {
+            "A": "direct",
+            "B": "indirect",
+            "C": "future",
+            "D": "impending",
+            "E": "potential"
+        }
+    },
+    "63": {
+        "question": "In the context of competitor analysis, ________ competitors offer close substitutes to the \nproduct sold by the firm completing the analysis.",
+        "answer": "C",
+        "options": {
+            "A": "potential",
+            "B": "direct",
+            "C": "indirect",
+            "D": "impending",
+            "E": "future"
+        }
+    },
+    "64": {
+        "question": "In the beverage industry, soda, fruit juice, and sports drinks are ________ competitors of \nbottled water.",
+        "answer": "C",
+        "options": {
+            "A": "occasional",
+            "B": "infrequent",
+            "C": "indirect",
+            "D": "direct",
+            "E": "future"
+        }
+    },
+    "65": {
+        "question": "In the context of competitor analysis, ________ competitors are companies that are not yet \ndirect or indirect competitors but could move into one of these roles at any time.",
+        "answer": "E",
+        "options": {
+            "A": "stable",
+            "B": "roundabout",
+            "C": "impending",
+            "D": "approximate",
+            "E": "future"
+        }
+    },
+    "66": {
+        "question": "The information that is gathered by a firm to learn about its competitors is referred to as \n________.",
+        "answer": "E",
+        "options": {
+            "A": "a feasibility appraisal",
+            "B": "a workable appraisal",
+            "C": "a practical assessment",
+            "D": "a viable assessment",
+            "E": "competitive intelligence"
+        }
+    },
+    "67": {
+        "question": "The Savvy Entrepreneurial Firm feature in Chapter 5 focuses on three firms that are doing \nwell in crowded industries as ________.\n\nfirst-mover advantage\n\n\n\nfrom their competitors",
+        "answer": "D",
+        "options": {
+            "A": "they have effectively differentiated themselves from their competitors and have capt ured a",
+            "B": "they have passionate leaders and run savvy promotional campaigns",
+            "C": "they have captured a first-mover advantage and have unique business models",
+            "D": "they create meaningful value for customers at a fair price and have differentiated themselve s",
+            "E": "they are low-cost leaders and run savvy promotional campaigns"
+        }
+    },
+    "68": {
+        "question": "Amy has just launched a firm in the sports drink industry. She has decided to complete a grid \nto see how she stacks up against her competitors. Along the horizontal axis of the grid she li sts \nher firm along with her major competitors. Along the vertical axis of the grid she lists the  main \ncompetitive factors in her industry. Amy is completing a ________.",
+        "answer": "C",
+        "options": {
+            "A": "strategic analysis spreadsheet",
+            "B": "tactical analysis framework",
+            "C": "competitive analysis grid",
+            "D": "strategic analysis grid",
+            "E": "behavioral analysis spreadsheet"
+        }
+    },
+    "69": {
+        "question": "One of the firms profiled in the Savvy Entrepreneurial Firm feature is The Muse. The Muse \nis in the ________ industry.",
+        "answer": "C",
+        "options": {
+            "A": "education",
+            "B": "literary writing",
+            "C": "competitive recruitment and placement",
+            "D": "music",
+            "E": "book publishing"
+        }
+    },
+    "70": {
+        "question": "The first step in a competitor analysis is to determine who the competition is.",
+        "answer": "T"
+    },
+    "71": {
+        "question": "A firm's future competitors are its most important ones.",
+        "answer": "F"
+    },
+    "72": {
+        "question": "The three types of competitors a business will face are direct competitors, indirect \ncompetitors, and future competitors.",
+        "answer": "T"
+    },
+    "73": {
+        "question": "The information that is gathered by a firm to learn about its competitors is referred to as \ntactical intelligence.",
+        "answer": "F"
+    },
+    "74": {
+        "question": "A competitive analysis grid is a tool for organizing the information a firm collects about it s \ncompetitors.",
+        "answer": "T"
+    },
+    "75": {
+        "question": "What is competitive intelligence? What are some of the ways that a firm can ethica lly obtain \ninformation about its competitors?",
+        "answer": "T"
     }
-  },
-  "2": {
-    "question": "Terry Washington recently started a new firm in the financial services industry. Prior to  \nstarting his firm, he spent considerable time doing research on the potential of the industry. The  \nresearch that Terry was doing is called ________ analysis.",
-    "answer": "A",
-    "options": {
-      "A": "industry",
-      "B": "sector",
-      "C": "commercial",
-      "D": "business",
-      "E": "target market"
-    }
-  },
-  "3": {
-    "question": "A(n) ________ is a group of firms producing a similar product or service, such as soft drinks, \nairlines, or smartphone apps.",
-    "answer": "D",
-    "options": {
-      "A": "cluster",
-      "B": "division",
-      "C": "sector",
-      "D": "industry",
-      "E": "network"
-    }
-  },
-  "4": {
-    "question": "Once a firm decides to enter an industry and chooses a market in which to compete, it must \ngain an understanding of its competitive environment. This challenge can be undertaken by \ncompleting a(n) ________ analysis.",
-    "answer": "C",
-    "options": {
-      "A": "business",
-      "B": "industry",
-      "C": "competitor",
-      "D": "strategic",
-      "E": "market"
-    }
-  },
-  "5": {
-    "question": "Each quarter, Craig Anderson, who owns a chain of auto repair shops, does a detailed analysis \nof his firm's competitors. This analysis is called ________ analysis.",
-    "answer": "A",
-    "options": {
-      "A": "competitor",
-      "B": "challenger",
-      "C": "strategic",
-      "D": "participant",
-      "E": "industry"
-    }
-  },
-  "6": {
-    "question": "In various studies, researchers have found that from ________ percent of the variation in firm \nprofitability is directly attributable to the industry in which a firm competes.",
-    "answer": "B",
-    "options": {
-      "A": "4 to 12",
-      "B": "8 to 30",
-      "C": "18 to 42",
-      "D": "22 to 56",
-      "E": "34 to 70"
-    }
-  },
-  "7": {
-    "question": "Industries that sell products to seniors, such as the eyeglass industry and the hearing aid \nindustry, are benefiting from the aging of the population, which is an important ________ trend.",
-    "answer": "A",
-    "options": {
-      "A": "environmental",
-      "B": "business",
-      "C": "commerce",
-      "D": "statutory",
-      "E": "competitive"
-    }
-  },
-  "8": {
-    "question": "Many firms benefit from an increasing ability to outsource manufacturing or service functions \nto lower-cost foreign countries. This trend is referred to in the textbook as a(n) ________ trend.",
-    "answer": "A",
-    "options": {
-      "A": "business",
-      "B": "environmental",
-      "C": "commerce",
-      "D": "statutory",
-      "E": "economic"
-    }
-  },
-  "9": {
-    "question": "The Partnering for Success feature in Chapter 5 focuses on three things that are important for \nstartups to become active in to learn the ins and outs of their industries. The three items  focused \non in the feature are ________.",
-    "answer": "C",
-    "options": {
-      "A": "local Chambers of Commerce, trade journals, and networking events",
-      "B": "Facebook, industry-related e-mail listservs, and trade shows",
-      "C": "trade associations, trade shows, and trade journals",
-      "D": "networking events, blogs, and Facebook",
-      "E": "local Chambers of Commerce, city or university-sponsored incubators, and trade associations"
-    }
-  },
-  "10": {
-    "question": "Industry analysis is business research that focuses on the potential of an industry.",
-    "answer": "T"
-  },
-  "11": {
-    "question": "A comparison analysis is a detailed evaluation of a firm's competitors.",
-    "answer": "F"
-  },
-  "12": {
-    "question": "An industry is a group of firms producing a similar product or service, such as tires, life \ninsurance, or smartphone apps.",
-    "answer": "T"
-  },
-  "13": {
-    "question": "The two trends that are most important to focus on in an industry analysis are business and \nenvironmental trends.",
-    "answer": "T"
-  },
-  "14": {
-    "question": "Business trends include economic trends, social trends, technological advances, and political  \nand regulatory changes.",
-    "answer": "F"
-  },
-  "15": {
-    "question": "What is industry analysis? Why is it important for a new venture to complete a thorough \nanalysis of the industry it is entering?",
-    "answer": "I"
-  },
-  "16": {
-    "question": "According to the textbook, the five competitive forces included in the Five Forces model \ndetermine the average ________.",
-    "answer": "C",
-    "options": {
-      "A": "rate of new business starts in an industry",
-      "B": "growth rate for the firms in an industry",
-      "C": "rate of return for the firms in an industry",
-      "D": "sales for the firms in an industry",
-      "E": "failure rate for the firms in an industry"
-    }
-  },
-  "17": {
-    "question": "According to the textbook, how do well-managed firms respond to the five forces that \ndetermine industry profitability?",
-    "answer": "E",
-    "options": {
-      "A": "They switch industries if the forces are too compelling.",
-      "B": "They focus on one force intently and excel by overcoming that force.",
-      "C": "They overcome each of the forces.",
-      "D": "They ignore the forces.",
-      "E": "They try to position their firms in a way that avoids or diminishes the forces."
-    }
-  },
-  "18": {
-    "question": "In general, industries are more attractive when the ________.",
-    "answer": "E",
-    "options": {
-      "A": "majority of the threats are high",
-      "B": "majority of the threats are low",
-      "C": "threat of each of the forces is neutral-neither low nor high",
-      "D": "threat of each of the five forces is high",
-      "E": "threat of each of the five forces is low"
-    }
-  },
-  "19": {
-    "question": "Generally, industries are more attractive when the threat of substitutes is ________.",
-    "answer": "B",
-    "options": {
-      "A": "high",
-      "B": "low",
-      "C": "neutral (neither high or low)",
-      "D": "high for manufacturing firms and low for service firms",
-      "E": "high for service firms and low for manufacturing firms"
-    }
-  },
-  "20": {
-    "question": "The price of prescription medicine is high, partly because when someone is sick there is no \nreal alternative to buying medicine if they want to get better. Which of Porter's five forces \nexplains how this aspect of the prescription medicine industry helps keep profitability high?",
-    "answer": "C",
-    "options": {
-      "A": "Rivalry Among Existing Firms",
-      "B": "Threat of New Entrants",
-      "C": "Threat of Substitutes",
-      "D": "Bargaining Power of Buyers",
-      "E": "Bargaining Power of Suppliers"
-    }
-  },
-  "21": {
-    "question": "Which of Porter's five forces is most closely associated with the concept \"barrier to e ntry\"?",
-    "answer": "C",
-    "options": {
-      "A": "Bargaining Power of Suppliers",
-      "B": "Rivalry Among Existing Firms",
-      "C": "Threat of New Entrants",
-      "D": "Bargaining Power of Buyers",
-      "E": "Threat of Substitutes"
-    }
-  },
-  "22": {
-    "question": "Which of the following is NOT  one of the major sources of barriers to entry?",
-    "answer": "C",
-    "options": {
-      "A": "Product Differentiation",
-      "B": "Capital Requirements",
-      "C": "Buyer Group Concentration",
-      "D": "Access to Distribution Channels",
-      "E": "Government and Legal Barriers"
-    }
-  },
-  "23": {
-    "question": "Shelly Brunner owns a sports-themed restaurant which is located in an upscale business \ndistrict in Chicago. One advantage that Shelly has is that she bought the lot she built her \nrestaurant on 25 years ago when lots in the area were selling for $50,000. Shelly knows that \nseveral potential competitors have looked at bare lots near her business but haven't been willi ng \nto pay the asking prices, which are as high as $500,000. Which of the six major sources of \nbarriers to entry is causing a disincentive for new firms to enter Shelly's industry?",
-    "answer": "E",
-    "options": {
-      "A": "Capital Requirements",
-      "B": "Economies of Scale",
-      "C": "Product Differentiation",
-      "D": "Government and Legal Barriers",
-      "E": "Cost Advantage Independent of Size"
-    }
-  },
-  "24": {
-    "question": "Some industries, like the athletic shoe industry, are dominated by a small number of firms \nwith strong brands. These industries are difficult to break into without spending heavily on \nadvertising. The barrier to entry that the firms in these types of industries have erected is  referred\nto as ________.",
-    "answer": "C",
-    "options": {
-      "A": "government and legal barriers",
-      "B": "capital requirements",
-      "C": "product differentiation",
-      "D": "cost advantages independent of size",
-      "E": "access to distribution channels"
-    }
-  },
-  "25": {
-    "question": "Which of Porter's five forces is most directly influenced by the number and balance of \ncompetitors, degree of difference between products, growth rate of an industry, and level of fixed\ncosts?",
-    "answer": "B",
-    "options": {
-      "A": "Threat of New Entrants",
-      "B": "Rivalry Among Existing Firms",
-      "C": "Threat of Substitutes",
-      "D": "Bargaining Power of Buyers",
-      "E": "Bargaining Power of Suppliers"
-    }
-  },
-  "26": {
-    "question": "If a startup pioneers an industry or a new concept within an industry, the name recognition \nthe startup establishes may create a formidable nontraditional barrier to entry referred to as  a(n) \n________.",
-    "answer": "D",
-    "options": {
-      "A": "unique business model",
-      "B": "aggressive supremacy",
-      "C": "competitive superiority",
-      "D": "first-mover advantage",
-      "E": "aggressive tactical advantage"
-    }
-  },
-  "27": {
-    "question": "According to the example provided in Chapter 5, www.1800contacts.com possesses a \nnontraditional barrier to entry referred to as ________.",
-    "answer": "D",
-    "options": {
-      "A": "unique business model",
-      "B": "strength of management team",
-      "C": "access to distribution channels",
-      "D": "Internet domain name",
-      "E": "first-mover advantage"
-    }
-  },
-  "28": {
-    "question": "Which of the following was NOT  identified in the textbook as a nontraditional barrier to \nentry?",
-    "answer": "D",
-    "options": {
-      "A": "Strength of management team",
-      "B": "First-mover advantage",
-      "C": "Unique business model",
-      "D": "Product differentiation",
-      "E": "Internet domain name"
-    }
-  },
-  "29": {
-    "question": "Supplier concentration, switching costs, attractiveness of substitutes, and threat  of forward \nintegration are factors that have a direct impact on ________.",
-    "answer": "E",
-    "options": {
-      "A": "threat of new entrants",
-      "B": "bargaining power of buyers",
-      "C": "rivalry among existing firms",
-      "D": "threat of substitutes",
-      "E": "bargaining power of suppliers"
-    }
-  },
-  "30": {
-    "question": "Tim Rutherford is thinking about starting a firm in the medical equipment industry. In the \nindustry analysis Tim has been conducting, one thing he has noticed is that the medical \nequipment industry is characterized by buyer group concentration. This factor concerns Tim \nbecause it tells him that the profitability of the medical equipment industry is potential ly \nsuppressed by the ________.",
-    "answer": "B",
-    "options": {
-      "A": "threat of substitutes",
-      "B": "bargaining power of buyers",
-      "C": "rivalry among existing firms",
-      "D": "bargaining power of suppliers",
-      "E": "threat of new entrants"
-    }
-  },
-  "31": {
-    "question": "The five competitive forces model is a framework for understanding the structure of an \nindustry.",
-    "answer": "T"
-  },
-  "32": {
-    "question": "The best industry to enter is an industry where the threat of each of Porter's five forces is \nhigh.",
-    "answer": "F"
-  },
-  "33": {
-    "question": "There are four factors that determine the threat of new entrants: number and balance of \ncompetitors, degree of difference between products, growth rate of an industry, and level of fixed\ncosts.",
-    "answer": "F"
-  },
-  "34": {
-    "question": "In most industries, the major determinant of industry profitability is the level of competition \namong the firms already competing in the industry.",
-    "answer": "T"
-  },
-  "35": {
-    "question": "If the buyers are concentrated and they buy from a large number of suppliers, then the \nbargaining power of buyers is increased.",
-    "answer": "T"
-  },
-  "36": {
-    "question": "Identify the five competitive forces that determine industry profitably. Explain the purpose of\nanalyzing these forces.",
-    "answer": "T"
-  },
-  "37": {
-    "question": "Discuss the nontraditional barriers to entry identified in the chapter. Why is it important t hat \nentrepreneurial firms utilize one or more of these forms of barriers to entry?",
-    "answer": "T"
-  },
-  "38": {
-    "question": "According to the textbook, the Five Forces model can be used in the following two ways: \n________.\n\nconservative manner, and second, to help a firm determine whether to compete in international \nmarkets in that industry.\n\nsecond, to help a firm determine whether it can be competitive in that industry\n\nhelp a firm determine whether to compete in international markets in that industry\n\nfirm determine whether it can be competitive in that industry\n\na firm discern whether it can carve out an attractive position in that industry",
-    "answer": "E",
-    "options": {
-      "A": "first, to help a firm determine whether it should enter an industry in an aggressive or a",
-      "B": "first, to help a firm determine if it should enter a single or multiple niches in an industry , and",
-      "C": "first, to help a firm determine what industry it is best equipped to compete in, and second, to",
-      "D": "first, to help a firm determine what niche to enter within an industry, and second, to help a",
-      "E": "first, to help a firm determine whether it should enter a particular industry, and second, to he lp"
-    }
-  },
-  "39": {
-    "question": "Brain Sentry is starting a firm in the small industry that helps football teams discern whe ther \na player has suffered a concussion. This industry is still so new that no standard operating \nprocedures have been developed. The industry Brain Sentry is entering is an example of a(n) \n________ industry.",
-    "answer": "C",
-    "options": {
-      "A": "mature",
-      "B": "declining",
-      "C": "emerging",
-      "D": "global",
-      "E": "fragmented"
-    }
-  },
-  "40": {
-    "question": "The primary opportunity existing for startups in emerging industries is to ________.\n\n\n\nencouraged to grow through product or process innovation\n\n\nindustry incumbents through process innovation",
-    "answer": "D",
-    "options": {
-      "A": "consolidate the industry and establish industry leadership as a result of doing so",
-      "B": "win customers by placing an emphasis on service and process innovation",
-      "C": "pursue a niche strategy, which focuses on a narrow segment of the industry that might be",
-      "D": "capture a first-mover advantage",
-      "E": "pursue a cost reduction strategy, which is accomplished through achieving lower costs  than"
-    }
-  },
-  "41": {
-    "question": "A(n) ________ industry is one that is characterized by a large number of firms of \napproximately equal size.",
-    "answer": "A",
-    "options": {
-      "A": "fragmented",
-      "B": "mature",
-      "C": "declining",
-      "D": "emerging",
-      "E": "global"
-    }
-  },
-  "42": {
-    "question": "The primary opportunity existing for startups in fragmented industries is to ________.\n\nencouraged to grow through product or process innovation\n\n\n\nindustry incumbents through process innovation",
-    "answer": "E",
-    "options": {
-      "A": "pursue a niche strategy, which focuses on a narrow segment of the industry that might be",
-      "B": "win customers by placing an emphasis on service and process innovation",
-      "C": "capture a first-mover advantage",
-      "D": "pursue a cost reduction strategy, which is accomplished through achieving lower costs t han",
-      "E": "consolidate the industry and establish industry leadership as a result of doing so"
-    }
-  },
-  "43": {
-    "question": "A(n) ________ industry is an industry that is experiencing slow or no increase in demand.",
-    "answer": "C",
-    "options": {
-      "A": "declining",
-      "B": "global",
-      "C": "mature",
-      "D": "emerging",
-      "E": "fragmented"
-    }
-  },
-  "44": {
-    "question": "According to the textbook, Justin's in peanut butter, Rover.com in dog care, and Zagster in \nbike sharing are examples of entrepreneurial firms who are exploiting opportunities in ________ \nindustries.",
-    "answer": "D",
-    "options": {
-      "A": "emerging",
-      "B": "fragmented",
-      "C": "declining",
-      "D": "mature",
-      "E": "consolidated"
-    }
-  },
-  "45": {
-    "question": "According to the textbook, Chipotle Mexican Grill in fast-casual restaurants and 1-800-\nGOT_JUNK? in junk removal are examples of entrepreneurial firms who are exploiting \nopportunities in ________ industries.",
-    "answer": "E",
-    "options": {
-      "A": "global",
-      "B": "declining",
-      "C": "mature",
-      "D": "emerging",
-      "E": "fragmented"
-    }
-  },
-  "46": {
-    "question": "According to the textbook, Nucor in steel, JetBlue in airlines, and Cirque du Soleil in \ncircuses are examples of entrepreneurial firms who are exploiting opportunities in ________ \nindustries.",
-    "answer": "C",
-    "options": {
-      "A": "fragmented",
-      "B": "emerging",
-      "C": "declining",
-      "D": "global",
-      "E": "mature"
-    }
-  },
-  "47": {
-    "question": "Opportunities for leadership, niche, harvest and divestment are associated with ________ \nindustries.",
-    "answer": "C",
-    "options": {
-      "A": "mature",
-      "B": "emerging",
-      "C": "declining",
-      "D": "fragmented",
-      "E": "global"
-    }
-  },
-  "48": {
-    "question": "A(n) ________ industry is an industry that is experiencing significant international sales.",
-    "answer": "A",
-    "options": {
-      "A": "global",
-      "B": "mature",
-      "C": "fragmented",
-      "D": "declining",
-      "E": "emerging"
-    }
-  },
-  "49": {
-    "question": "The two most common strategies pursued by firms in global industries are the ________ \nstrategy and the ________ strategy.",
-    "answer": "B",
-    "options": {
-      "A": "inclusive; multidomestic",
-      "B": "multidomestic; global",
-      "C": "multidomestic; worldwide",
-      "D": "inclusive; global",
-      "E": "home; worldwide"
-    }
-  },
-  "50": {
-    "question": "Firms that pursue a(n) ________ strategy compete for market share on a country-by-country \nbasis and vary their product or service offerings to meet the demands of the local market.",
-    "answer": "C",
-    "options": {
-      "A": "inclusive",
-      "B": "universal",
-      "C": "multidomestic",
-      "D": "contemporary",
-      "E": "worldwide"
-    }
-  },
-  "51": {
-    "question": "Kellen West recently launched a firm in the fruit drink industry, and has already exported his  \nfruit drinks to 11 different countries. One thing that Kellen's firm is doing is that it is varying the \ntastes of the fruit drinks it sells on a country-by-country basis to meet the demands of the local \nmarkets. Kellen's firm is pursuing a ________ strategy.",
-    "answer": "E",
-    "options": {
-      "A": "global",
-      "B": "home",
-      "C": "universal",
-      "D": "contemporary",
-      "E": "multidomestic"
-    }
-  },
-  "52": {
-    "question": "Katherine Chapman recently launched a firm in the clothing industry, targeting 13-17 year \nolds. One thing Katherine thinks she has accomplished is producing products that have universal \nappeal, so she will not vary her approach from country to country. Katherine is pursuing a \n________ strategy.",
-    "answer": "D",
-    "options": {
-      "A": "universal",
-      "B": "multidomestic",
-      "C": "contemporary",
-      "D": "global",
-      "E": "home"
-    }
-  },
-  "53": {
-    "question": "A fragmented industry is a new industry in which standard operating procedures have yet to \nbe developed.",
-    "answer": "F"
-  },
-  "54": {
-    "question": "An emerging industry is one that is characterized by a large number of firms of \napproximately equal size.",
-    "answer": "F"
-  },
-  "55": {
-    "question": "The primary opportunity available to firms in fragmented industries is consolidation. The \nmost common way to do this is through a geographic roll-up strategy, in which one firm starts \nacquiring similar firms that are located in different geographic areas.",
-    "answer": "T"
-  },
-  "56": {
-    "question": "A fragmented industry is an industry that is experiencing slow increases in demand, \nnumerous repeat customers, and limited product innovation.",
-    "answer": "F"
-  },
-  "57": {
-    "question": "Firms that pursue a multidomestic strategy use the same basic approach in all foreign  \nmarkets.",
-    "answer": "F"
-  },
-  "58": {
-    "question": "What is an emerging industry? What is the primary opportunity available to entrepreneurial \nfirms in emerging industries? Name three examples of firms in emerging industries.",
-    "answer": "A"
-  },
-  "59": {
-    "question": "According to the textbook, the first step in a competitor analysis is to ________.",
-    "answer": "E",
-    "options": {
-      "A": "develop a marketing plan",
-      "B": "develop the strategic plan",
-      "C": "study the strength of the industry",
-      "D": "study the external environment",
-      "E": "determine who the competition is"
-    }
-  },
-  "60": {
-    "question": "According to the textbook, the three different types of competitors a business will face are \n________.",
-    "answer": "D",
-    "options": {
-      "A": "potential, direct, and upcoming",
-      "B": "indirect, fleeting, and future",
-      "C": "serious, cautious, and future",
-      "D": "direct, indirect, and future",
-      "E": "potential, fleeting, and indirect"
-    }
-  },
-  "61": {
-    "question": "In the context of competitor analysis, businesses that offer identical or similar products are \nreferred to as ________ competitors.",
-    "answer": "B",
-    "options": {
-      "A": "immediate",
-      "B": "direct",
-      "C": "indirect",
-      "D": "straight",
-      "E": "urgent"
-    }
-  },
-  "62": {
-    "question": "Aquafina operates in the bottled water industry. The companies that offer identical or s imilar \nproducts and go after the same customers that Aquafina does are Dasani and Zephyrhills. Dasani \nand Zephyrhills are Aquafina's ________ competitors.",
-    "answer": "A",
-    "options": {
-      "A": "direct",
-      "B": "indirect",
-      "C": "future",
-      "D": "impending",
-      "E": "potential"
-    }
-  },
-  "63": {
-    "question": "In the context of competitor analysis, ________ competitors offer close substitutes to the \nproduct sold by the firm completing the analysis.",
-    "answer": "C",
-    "options": {
-      "A": "potential",
-      "B": "direct",
-      "C": "indirect",
-      "D": "impending",
-      "E": "future"
-    }
-  },
-  "64": {
-    "question": "In the beverage industry, soda, fruit juice, and sports drinks are ________ competitors of \nbottled water.",
-    "answer": "C",
-    "options": {
-      "A": "occasional",
-      "B": "infrequent",
-      "C": "indirect",
-      "D": "direct",
-      "E": "future"
-    }
-  },
-  "65": {
-    "question": "In the context of competitor analysis, ________ competitors are companies that are not yet \ndirect or indirect competitors but could move into one of these roles at any time.",
-    "answer": "E",
-    "options": {
-      "A": "stable",
-      "B": "roundabout",
-      "C": "impending",
-      "D": "approximate",
-      "E": "future"
-    }
-  },
-  "66": {
-    "question": "The information that is gathered by a firm to learn about its competitors is referred to as \n________.",
-    "answer": "E",
-    "options": {
-      "A": "a feasibility appraisal",
-      "B": "a workable appraisal",
-      "C": "a practical assessment",
-      "D": "a viable assessment",
-      "E": "competitive intelligence"
-    }
-  },
-  "67": {
-    "question": "The Savvy Entrepreneurial Firm feature in Chapter 5 focuses on three firms that are doing \nwell in crowded industries as ________.\n\nfirst-mover advantage\n\n\n\nfrom their competitors",
-    "answer": "D",
-    "options": {
-      "A": "they have effectively differentiated themselves from their competitors and have capt ured a",
-      "B": "they have passionate leaders and run savvy promotional campaigns",
-      "C": "they have captured a first-mover advantage and have unique business models",
-      "D": "they create meaningful value for customers at a fair price and have differentiated themselve s",
-      "E": "they are low-cost leaders and run savvy promotional campaigns"
-    }
-  },
-  "68": {
-    "question": "Amy has just launched a firm in the sports drink industry. She has decided to complete a grid \nto see how she stacks up against her competitors. Along the horizontal axis of the grid she li sts \nher firm along with her major competitors. Along the vertical axis of the grid she lists the  main \ncompetitive factors in her industry. Amy is completing a ________.",
-    "answer": "C",
-    "options": {
-      "A": "strategic analysis spreadsheet",
-      "B": "tactical analysis framework",
-      "C": "competitive analysis grid",
-      "D": "strategic analysis grid",
-      "E": "behavioral analysis spreadsheet"
-    }
-  },
-  "69": {
-    "question": "One of the firms profiled in the Savvy Entrepreneurial Firm feature is The Muse. The Muse \nis in the ________ industry.",
-    "answer": "C",
-    "options": {
-      "A": "education",
-      "B": "literary writing",
-      "C": "competitive recruitment and placement",
-      "D": "music",
-      "E": "book publishing"
-    }
-  },
-  "70": {
-    "question": "The first step in a competitor analysis is to determine who the competition is.",
-    "answer": "T"
-  },
-  "71": {
-    "question": "A firm's future competitors are its most important ones.",
-    "answer": "F"
-  },
-  "72": {
-    "question": "The three types of competitors a business will face are direct competitors, indirect \ncompetitors, and future competitors.",
-    "answer": "T"
-  },
-  "73": {
-    "question": "The information that is gathered by a firm to learn about its competitors is referred to as \ntactical intelligence.",
-    "answer": "F"
-  },
-  "74": {
-    "question": "A competitive analysis grid is a tool for organizing the information a firm collects about it s \ncompetitors.",
-    "answer": "T"
-  },
-  "75": {
-    "question": "What is competitive intelligence? What are some of the ways that a firm can ethica lly obtain \ninformation about its competitors?",
-    "answer": "T"
-  }
 }
