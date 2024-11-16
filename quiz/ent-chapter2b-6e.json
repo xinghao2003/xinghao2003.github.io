@@ -1,652 +1,636 @@
 {
-  "1": {
-    "question": "Owlet Baby Care, the company profiled in the opening feature of Chapter 3, produces a \n\"smart sock\" that can be used to monitor a baby via an app. The feature describes how Owlet Baby Care's founders accidentally validated their business idea when ________. \n\n\ngot out",
-    "answer": "D",
-    "options": {
-      "A": "they went on Kickstarter to raise funds",
-      "C": "they were featured on CNBC's Shark Tank",
-      "B": "they won a business plan competition",
-      "D": "parents beg an inquiring about the product after a video of a mockup of the product somehow",
-      "E": "a big company made a pitch to acquire them"
+    "1": {
+        "question": "Owlet Baby Care, the company profiled in the opening feature of Chapter 3, produces a \"smart sock\" that monitors babies via an app.  The feature describes how Owlet Baby Care's founders accidentally validated their business idea when parents inquired about the product after seeing a video of a product mockup.",
+        "answer": "D",
+        "options": {
+            "A": "they went on Kickstarter to raise funds",
+            "B": "they won a business plan competition",
+            "C": "they were featured on CNBC's Shark Tank",
+            "D": "parents inquired about the product after seeing a video of a product mockup",
+            "E": "a big company made a pitch to acquire them"
+        }
+    },
+    "2": {
+        "question": "________ is the process of determining whether a business idea is viable.",
+        "answer": "A",
+        "options": {
+            "A": "Feasibility analysis",
+            "B": "Opportunity recognition",
+            "C": "Viability analysis",
+            "D": "Achievability analysis",
+            "E": "Scenario analysis"
+        }
+    },
+    "3": {
+        "question": "________ research is research collected by the analyst. ________ research probes already collected data.",
+        "answer": "C",
+        "options": {
+            "A": "Primary, Derivative",
+            "B": "Secondary, Primary",
+            "C": "Primary, Secondary",
+            "D": "Indirect, Direct",
+            "E": "Direct, Indirect"
+        }
+    },
+    "4": {
+        "question": "Cynthia Jones surveyed 200 classmates to gauge demand for a new software product.  Collecting data via a self-administered survey is called ________ research.",
+        "answer": "C",
+        "options": {
+            "A": "direct",
+            "B": "derivative",
+            "C": "primary",
+            "D": "secondary",
+            "E": "initial"
+        }
+    },
+    "5": {
+        "question": "Talking to industry experts, obtaining customer feedback, and administering surveys are examples of ________ research.",
+        "answer": "A",
+        "options": {
+            "A": "primary",
+            "B": "secondary",
+            "C": "derivative",
+            "D": "principal",
+            "E": "fundamental"
+        }
+    },
+    "6": {
+        "question": "Trade journals, industry publications, government statistics, and competitor websites are examples of ________ research.",
+        "answer": "A",
+        "options": {
+            "A": "secondary",
+            "B": "action",
+            "C": "principal",
+            "D": "legacy",
+            "E": "vertical"
+        }
+    },
+    "7": {
+        "question": "Jennifer Burroughs is considering a firm in the upscale women's fashion industry. To understand the competitive landscape and product positioning, she researched industry publications, Hoover's Online, and ABI/Inform. Jennifer is conducting ________ research.",
+        "answer": "B",
+        "options": {
+            "A": "primary",
+            "B": "secondary",
+            "C": "action",
+            "D": "temporary",
+            "E": "purposeful"
+        }
+    },
+    "8": {
+        "question": "Which of the following is NOT one of the four areas of feasibility analysis discussed in the textbook?",
+        "answer": "C",
+        "options": {
+            "A": "Product/service feasibility",
+            "B": "Financial feasibility",
+            "C": "Societal feasibility",
+            "D": "Organizational feasibility",
+            "E": "Industry/market feasibility"
+        }
+    },
+    "9": {
+        "question": "Feasibility analysis is the process of determining if a business idea is viable.",
+        "answer": "T"
+    },
+    "10": {
+        "question": "A feasibility analysis assesses a potential product or service idea, not a potential business.",
+        "answer": "F"
+    },
+    "11": {
+        "question": "The four forms of feasibility analysis include: product/service feasibility, industry/target market feasibility, organizational feasibility, and financial feasibility.",
+        "answer": "T"
+    },
+    "12": {
+        "question": "Primary research probes data that is already collected.",
+        "answer": "F"
+    },
+    "13": {
+        "question": "Census Bureau data, analyst forecasts, and other information from library and Internet research are examples of primary research.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "________ feasibility assesses the overall appeal of the proposed product or service.",
+        "answer": "D",
+        "options": {
+            "A": "Consumer",
+            "B": "Industry/market segment",
+            "C": "Industry/market",
+            "D": "Product/service",
+            "E": "Purchaser/end-user"
+        }
+    },
+    "16": {
+        "question": "The two components of product/service feasibility analysis are product/service ________ and product/service ________.",
+        "answer": "E",
+        "options": {
+            "A": "value; affordability",
+            "B": "demand; timeliness",
+            "C": "timeliness; value",
+            "D": "durability; value",
+            "E": "desirability; demand"
+        }
+    },
+    "17": {
+        "question": "Questions like \"Does it make sense? Is it reasonable? Will consumers be excited? Does it solve a problem?\" are asked during the ________ feasibility component.",
+        "answer": "E",
+        "options": {
+            "A": "financial",
+            "B": "industry/target market",
+            "C": "organizational",
+            "D": "concept",
+            "E": "product/service"
+        }
+    },
+    "18": {
+        "question": "Which is NOT part of assessing a business idea's product/service feasibility?",
+        "answer": "D",
+        "options": {
+            "A": "Talking to potential customers",
+            "B": "Surveying potential customers",
+            "C": "Library research",
+            "D": "Analyzing industry attractiveness",
+            "E": "Concept test"
+        }
+    },
+    "19": {
+        "question": "A(n) ________ shows a preliminary product or service description to gauge customer interest, desirability, and purchase intent.",
+        "answer": "A",
+        "options": {
+            "A": "concept test",
+            "B": "product/service statement",
+            "C": "impression test",
+            "D": "idea prospectus",
+            "E": "idea test"
+        }
+    },
+    "20": {
+        "question": "What is typically NOT included in a concept statement?",
+        "answer": "C",
+        "options": {
+            "A": "Description of the management team",
+            "B": "Description of sales and distribution",
+            "C": "Amount of funding needed",
+            "D": "Benefits of the product/service",
+            "E": "Intended target market"
+        }
+    },
+    "21": {
+        "question": "Tracy Brady is developing a smartphone product and wants to solicit feedback from experts and customers.  She should distribute a(n) ________ statement.",
+        "answer": "D",
+        "options": {
+            "A": "perception",
+            "B": "usability",
+            "C": "early adopter",
+            "D": "concept",
+            "E": "adoption risk-reward"
+        }
+    },
+    "22": {
+        "question": "Which is an incorrect approach to administering a concept test?",
+        "answer": "C",
+        "options": {
+            "A": "The concept statement shouldn't exceed one page.",
+            "B": "Show the concept statement to at least 10 people.",
+            "C": "Family and friends are the best candidates.",
+            "D": "Use an iterative approach with multiple groups.",
+            "E": "Include a short survey to solicit feedback."
+        }
+    },
+    "23": {
+        "question": "A/B split testing, landing pages, prototyping services, and website usability testing are online tools for the ________ stage of business idea development.",
+        "answer": "B",
+        "options": {
+            "A": "opportunity recognition",
+            "B": "feasibility analysis",
+            "C": "business model",
+            "D": "business plan",
+            "E": "growth plan"
+        }
+    },
+    "24": {
+        "question": "3 Minute Optimizer and Optimizely provide access to ________.",
+        "answer": "D",
+        "options": {
+            "A": "3D printing services",
+            "B": "Web site usability testing",
+            "C": "online whiteboarding services",
+            "D": "A/B split testing services",
+            "E": "feedback on business ideas"
+        }
+    },
+    "25": {
+        "question": "Growth Hackers, Meetup, and Reddit provide access to ________.",
+        "answer": "A",
+        "options": {
+            "A": "feedback on business ideas",
+            "B": "landing pages",
+            "C": "surveys",
+            "D": "prototyping services",
+            "E": "market research"
+        }
+    },
+    "26": {
+        "question": "Three common methods for determining product/service demand are:",
+        "answer": "E",
+        "options": {
+            "A": "Assessing financial attractiveness, face-to-face conversations",
+            "B": "Analyzing financial performance, talking to potential customers",
+            "C": "Assessing target market attractiveness, using online tools, calculating startup costs",
+            "D": "Assessing industry attractiveness, library/internet research, face-to-face conversations",
+            "E": "Face-to-face conversations, using online tools like Google AdWords and landing pages"
+        }
+    },
+    "27": {
+        "question": "Katlin Smith is investigating the feasibility of an iPhone math app for high school students.  To assess demand, she volunteered as a math tutor. Katlin is conducting ________ research.",
+        "answer": "C",
+        "options": {
+            "A": "parallel",
+            "B": "derivative",
+            "C": "gumshoe",
+            "D": "secondary",
+            "E": "on-the-ground"
+        }
+    },
+    "28": {
+        "question": "Conner Bradshaw is investigating an electronic game for middle and high school boys. Which is an example of \"gumshoe research\"?",
+        "answer": "E",
+        "options": {
+            "A": "Downloading industry reports.",
+            "B": "Administering a buying intentions survey.",
+            "C": "Administering a concept test.",
+            "D": "Looking at competitor websites.",
+            "E": "Observing game types popular in arcades and stores."
+        }
+    },
+    "29": {
+        "question": "The only way to know if your product or service meets customer needs is by ________.",
+        "answer": "D",
+        "options": {
+            "A": "interviewing industry experts",
+            "B": "library, Internet, and gumshoe research",
+            "C": "conducting brainstorming sessions",
+            "D": "talking to them",
+            "E": "surveying them"
+        }
+    },
+    "30": {
+        "question": "A ________ is a single webpage with direct sales copy (e.g., \"click here to buy\").",
+        "answer": "E",
+        "options": {
+            "A": "sales page",
+            "B": "marketing page",
+            "C": "destination page",
+            "D": "call for action page",
+            "E": "landing page"
+        }
+    },
+    "31": {
+        "question": "According to the Savvy Entrepreneurial Firm feature, a prototype is ________.",
+        "answer": "D",
+        "options": {
+            "A": "observing customer buying behavior",
+            "B": "studying industry trends",
+            "C": "conducting Internet research",
+            "D": "an early sample or model to test a concept or process",
+            "E": "hiring consultants for advice"
+        }
+    },
+    "32": {
+        "question": "Product/service feasibility analysis assesses the overall appeal of the proposed product or service.",
+        "answer": "T"
+    },
+    "33": {
+        "question": "The two components of product/service feasibility analysis are product/service desirability and total startup funds needed.",
+        "answer": "F"
+    },
+    "34": {
+        "question": "A concept statement should be two to three pages long.",
+        "answer": "F"
+    },
+    "35": {
+        "question": "Avoid showing a concept statement to friends and family; they are predisposed to give positive feedback.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "Unassumer is a website where you can submit product ideas for community feedback.",
+        "answer": "T"
+    },
+    "39": {
+        "question": "A(n) ________ is a group of firms producing similar products or services. A firm's ________ is the specific portion of the industry it targets.",
+        "answer": "E",
+        "options": {
+            "A": "target market; industry",
+            "B": "trade group; industry",
+            "C": "industry; trade group",
+            "D": "competitive group; target market",
+            "E": "industry; target market"
+        }
+    },
+    "40": {
+        "question": "The two components of industry/target market feasibility analysis are industry ________.",
+        "answer": "B",
+        "options": {
+            "A": "status and target market status",
+            "B": "attractiveness and target market attractiveness",
+            "C": "sufficiency and target market demand",
+            "D": "attractiveness and product/service demand",
+            "E": "evolution and target market attractiveness"
+        }
+    },
+    "41": {
+        "question": "________ feasibility analysis assesses the overall appeal of the industry and market for the proposed product or service.",
+        "answer": "E",
+        "options": {
+            "A": "Institutional",
+            "B": "Financial",
+            "C": "Organizational",
+            "D": "Product/service",
+            "E": "Industry/target market"
+        }
+    },
+    "42": {
+        "question": "Which should be considered in industry/target market feasibility analysis?",
+        "answer": "D",
+        "options": {
+            "A": "Gaps in the marketplace",
+            "B": "Financial performance of similar businesses",
+            "C": "Resource sufficiency",
+            "D": "Industry attractiveness",
+            "E": "Management prowess"
+        }
+    },
+    "43": {
+        "question": "Which is NOT an attribute of an attractive industry?",
+        "answer": "C",
+        "options": {
+            "A": "Is young rather than old",
+            "B": "Is not crowded",
+            "C": "Is late rather than early in its life cycle",
+            "D": "Is important to the customer",
+            "E": "Is fragmented rather than concentrated"
+        }
+    },
+    "44": {
+        "question": "Mintel, IBISWorld, and Bizminer are databases used during the ________ feasibility stage.",
+        "answer": "D",
+        "options": {
+            "A": "organizational",
+            "B": "economic",
+            "C": "political/legal",
+            "D": "industry/target market",
+            "E": "product/service"
+        }
+    },
+    "45": {
+        "question": "Which statement about target markets is incorrect?",
+        "answer": "E",
+        "options": {
+            "A": "A firm's industry and target market are distinct.",
+            "B": "An attractive target market is large enough but small enough to avoid larger competitors.",
+            "C": "Focusing on a target market avoids head-to-head competition.",
+            "D": "A target market is a narrower group within a larger market segment.",
+            "E": "It's easier to find information about a target market than an industry."
+        }
+    },
+    "46": {
+        "question": "________ feasibility analysis determines if a business has sufficient management expertise, organizational competence, and resources.",
+        "answer": "D",
+        "options": {
+            "A": "Industry/market",
+            "B": "Institutional",
+            "C": "Financial",
+            "D": "Organizational",
+            "E": "Product/service"
+        }
+    },
+    "47": {
+        "question": "Industry/target market feasibility assesses the overall appeal of the industry and target market for the proposed product or service.",
+        "answer": "T"
+    },
+    "49": {
+        "question": "The two primary issues in organizational feasibility analysis are ________.",
+        "answer": "B",
+        "options": {
+            "A": "target market attractiveness and financial rate of return",
+            "B": "management prowess and resource sufficiency",
+            "C": "capital requirements and industry attractiveness",
+            "D": "concept testing and financial rate of return",
+            "E": "industry attractiveness and overall attractiveness of the investment"
+        }
+    },
+    "50": {
+        "question": "The two primary issues in organizational feasibility analysis are management prowess and ________.",
+        "answer": "C",
+        "options": {
+            "A": "market timeliness",
+            "B": "concept testing",
+            "C": "resource sufficiency",
+            "D": "target market attractiveness",
+            "E": "total startup cash needed"
+        }
+    },
+    "51": {
+        "question": "A(n) ________ team manages or helps manage a new business in its startup years.",
+        "answer": "E",
+        "options": {
+            "A": "opening",
+            "B": "entrepreneurial",
+            "C": "scout",
+            "D": "launch",
+            "E": "new venture"
+        }
+    },
+    "52": {
+        "question": "Two important factors regarding \"management prowess\" are the team's passion and their understanding of ________.",
+        "answer": "A",
+        "options": {
+            "A": "the passion the sole entrepreneur or the management te am has for the business idea and the extent to which the management team or sole entrepreneur understands the markets in which the firm will participate",
+            "B": "whether the members of the management team have worked successfully together before and the passion the sole entrepreneur or the management team has for the business idea",
+            "C": "whether the members of the management team are good \"networkers\" and the extent to which the management team or sole entrepreneur understands the markets in which the firm will participate",
+            "D": "the educational and functional backgrounds of the management team or sole entrepreneur",
+            "E": "whether the members of the management team are good \"networkers\" and the passion the sole entrepreneur or the management team has for the business idea"
+        }
+    },
+    "53": {
+        "question": "Organizational feasibility analysis focuses on ________.",
+        "answer": "D",
+        "options": {
+            "A": "financial resources for manufacturing firms and nonfinancial resources for service firms",
+            "B": "financial resources for service firms and nonfinancial resources for manufacturing firms",
+            "C": "nonfinancial and financial resources equally",
+            "D": "nonfinancial resources",
+            "E": "financial resources"
+        }
+    },
+    "54": {
+        "question": "An excellent resource for a quick trademark search is ________.",
+        "answer": "A",
+        "options": {
+            "A": "Trademarkia",
+            "B": "Trademarkepedia",
+            "C": "Wikitrademarks",
+            "D": "Trademarkdata",
+            "E": "GlobalTrademarks"
+        }
+    },
+    "55": {
+        "question": "Which is an incorrect rule of thumb for finding a business partner?",
+        "answer": "D",
+        "options": {
+            "A": "Know the skills and experiences you need.",
+            "B": "Ensure compatible work habits.",
+            "C": "Ensure common goals and aspirations.",
+            "D": "Pick a similar partner in skills and background.",
+            "E": "Hire a lawyer to negotiate the agreement."
+        }
+    },
+    "56": {
+        "question": "Which resource is NOT typically evaluated in the \"resource sufficiency\" stage of organizational feasibility analysis?",
+        "answer": "B",
+        "options": {
+            "A": "Ability to form partnerships",
+            "B": "Financial resources",
+            "C": "Affordable office space",
+            "D": "Key equipment",
+            "E": "Key support personnel"
+        }
+    },
+    "57": {
+        "question": "To test resource sufficiency, list the ________ most critical non-financial resources and determine their availability.",
+        "answer": "C",
+        "options": {
+            "A": "1 to 2",
+            "B": "3 to 5",
+            "C": "6 to 12",
+            "D": "10 to 16",
+            "E": "15 to 25"
+        }
+    },
+    "58": {
+        "question": "Organizational feasibility analysis determines if a venture has sufficient management expertise, organizational competence, and resources.",
+        "answer": "T"
+    },
+    "59": {
+        "question": "Organizational feasibility analysis focuses on financial resources.",
+        "answer": "F"
+    },
+    "60": {
+        "question": "The two primary areas in organizational feasibility analysis are management prowess and resource sufficiency.",
+        "answer": "T"
+    },
+    "61": {
+        "question": "A new venture team manages or helps manage a new business in its startup years.",
+        "answer": "T"
+    },
+    "62": {
+        "question": "Regarding management prowess, two important factors are the team's passion and their understanding of the markets.",
+        "answer": "T"
+    },
+    "63": {
+        "question": "________ feasibility analysis is a quick financial assessment of a business idea's viability.",
+        "answer": "D",
+        "options": {
+            "A": "Organizational",
+            "B": "Institutional",
+            "C": "Product/service",
+            "D": "Financial",
+            "E": "Industry/market"
+        }
+    },
+    "64": {
+        "question": "The most important issues in financial feasibility analysis are:",
+        "answer": "B",
+        "options": {
+            "A": "resource sufficiency, industry attractiveness, and total startup cash needed",
+            "B": "total startup cash needed, financial performance of similar businesses, and overall financial attractiveness",
+            "C": "target market attractiveness, resource sufficiency, and product/service demand",
+            "D": "total startup cash needed, management prowess, and product/service demand",
+            "E": "concept testing, total startup cash needed, and financial performance of similar businesses"
+        }
+    },
+    "65": {
+        "question": "The most important issues in financial feasibility analysis are: financial performance of similar businesses, total cash needed, and ________.",
+        "answer": "D",
+        "options": {
+            "A": "projected internal rate of return",
+            "B": "projected years to IPO or acquisition",
+            "C": "management prowess",
+            "D": "overall attractiveness of the venture",
+            "E": "projected borrowing power"
+        }
+    },
+    "66": {
+        "question": "Which is incorrect regarding \"total startup cash needed\"?",
+        "answer": "A",
+        "options": {
+            "A": "A detailed budget of startup expenses isn't necessary.",
+            "B": "Avoid vague explanations like \"I'll get investors\" or \"I'll borrow money.\"",
+            "C": "Online worksheets help determine startup costs.",
+            "D": "Include an explanation of funding sources.",
+            "E": "If using friends/family funds, stipulate a repayment plan."
+        }
+    },
+    "67": {
+        "question": "Which factor is negative regarding a business venture's financial feasibility?",
+        "answer": "C",
+        "options": {
+            "A": "Steady, rapid sales growth in a defined niche",
+            "B": "High percentage of recurring revenue",
+            "C": "Inability to accurately forecast income and expenses",
+            "D": "Internally generated funds for growth",
+            "E": "Availability of an exit opportunity for investors"
+        }
+    },
+    "68": {
+        "question": "Which factor is positive regarding a business venture's financial feasibility?",
+        "answer": "B",
+        "options": {
+            "A": "Inconsistent, slow sales growth",
+            "B": "High percentage of recurring revenue",
+            "C": "Inaccurate income/expense forecasting",
+            "D": "Reliance on external funding",
+            "E": "Absence of an exit opportunity for investors"
+        }
+    },
+    "69": {
+        "question": "For financial feasibility analysis, a very detailed and comprehensive financial analysis is required.",
+        "answer": "F"
+    },
+    "70": {
+        "question": "The most important issues in financial feasibility analysis are total startup cash needed, financial performance of similar businesses, and overall financial attractiveness of the proposed venture.",
+        "answer": "T"
+    },
+    "71": {
+        "question": "The Chapter 3 feasibility analysis template is called the ________ analysis.",
+        "answer": "D",
+        "options": {
+            "A": "First Evaluation",
+            "B": "Initial Screen",
+            "C": "First Pass",
+            "D": "First Screen",
+            "E": "Flash Screen"
+        }
+    },
+    "72": {
+        "question": "The \"First Screen\" feasibility analysis template is called that because ________.",
+        "answer": "D",
+        "options": {
+            "A": "it is the first feasibility analysis template created",
+            "B": "it is the first and most important step in the opportunity recognition process",
+            "C": "it is the first step in a sequence of several steps that must be completed before a business idea is deemed to be feasible",
+            "D": "feasibility analysis is an entrepreneur's initial or first pass at determining the feasibility of a business idea",
+            "E": "it is the first of several \"screens\" that a business idea must pass through before it is considered to be feasible"
+        }
+    },
+    "73": {
+        "question": "The mechanics for filling out a First Screen worksheet are complicated.",
+        "answer": "F"
+    },
+    "74": {
+        "question": "First Screen is a template for completing industry analysis.",
+        "answer": "F"
+    },
+    "75": {
+        "question": "Briefly describe the purpose of the First Screen and how it's used.",
+        "answer": "T"
     }
-  },
-  "2": {
-    "question": "________ is the process of determining whether a business idea is viable.",
-    "answer": "A",
-    "options": {
-      "A": "Feasibility analysis",
-      "C": "Viability analysis",
-      "B": "Opportunity recognition",
-      "D": "Achievability analysis",
-      "E": "Scenario analysis"
-    }
-  },
-  "3": {
-    "question": "________ research is research that is collected by the person or persons completing the analysis. ________ research probes data  that is already collected.",
-    "answer": "C",
-    "options": {
-      "A": "Primary, Derivative",
-      "B": "Secondary, Primary",
-      "C": "Primary, Secondary",
-      "D": "Indirect, Direct",
-      "E": "Direct, Indirect"
-    }
-  },
-  "4": {
-    "question": "Cynthia Jones recently surveyed 200 of her classmates to get a sense of the demand for a new \nsoftware product she is working on. Collecting data via a survey you administer yourself is referred to as ________ research.",
-    "answer": "C",
-    "options": {
-      "A": "direct",
-      "B": "derivative",
-      "C": "primary",
-      "D": "secondary",
-      "E": "initial"
-    }
-  },
-  "5": {
-    "question": "Talking to industry experts, obtaining feedback from prospective customers, and administering surveys are examples of ________ research.",
-    "answer": "A",
-    "options": {
-      "A": "primary",
-      "B": "secondary",
-      "C": "derivative",
-      "D": "principal",
-      "E": "fundamental"
-    }
-  },
-  "6": {
-    "question": "Trade journals, industry -related publications, government statistics, and competitors' Web \nsites are examples of ________ research.",
-    "answer": "A",
-    "options": {
-      "A": "secondary",
-      "B": "action",
-      "C": "principal",
-      "E": "ver tical",
-      "D": "legacy"
-    }
-  },
-  "7": {
-    "question": "Jennifer Burroughs is thinking about starting a firm in the upscale women's fashion indust ry. \nTo get a full appreciation of the competitive nature of the industry, and how she might position \nher products, Jennifer has spent considerable time looking at industry -related publications, \nHoover's Online, and ABI -Inform, which is a database that provides access to articles covering a \nwide -variety of business and industry related issues. Jennifer is conducting ________ research.",
-    "answer": "B",
-    "options": {
-      "A": "primary",
-      "B": "secondary",
-      "C": "action",
-      "D": "temporary",
-      "E": "purposeful"
-    }
-  },
-  "8": {
-    "question": "Which of the following is NOT  one of the four areas of feasibility analysis discussed in the \ntextbook?",
-    "answer": "C",
-    "options": {
-      "A": "Product/service feasibility",
-      "B": "Financial feasibility",
-      "C": "Societal feasibility",
-      "D": "Organizational feasibility",
-      "E": "Industry/market feasibility"
-    }
-  },
-  "9": {
-    "question": "Feasibility analysis is the process of determining if a business idea is viable.",
-    "answer": "T"
-  },
-  "10": {
-    "question": "A feasibility analysis is an assessment of a potential product or service idea rather than a potential business.",
-    "answer": "F"
-  },
-  "11": {
-    "question": "The four forms of feasibility analysis include: product/service feasibility, industry/target \nmarket feasibility, organizational feasibility, and financial feasibility.",
-    "answer": "T"
-  },
-  "12": {
-    "question": "Primary research probes data that is already collected.",
-    "answer": "F"
-  },
-  "13": {
-    "question": "Census Bureau data, analyst forecasts, and other pertinent information gleaned through library and Internet research are examples of primary research.",
-    "answer": "F"
-  },
-  "14": {
-    "question": "Describe the purpose of feasibility analysis. When should a feasibility analysis be conducted relative to opportunity recognition and the development of a business plan?",
-    "answer": "F"
-  },
-  "15": {
-    "question": "________ feasibility is an assessment of the overall appeal of the product or service being \nproposed.",
-    "answer": "D",
-    "options": {
-      "A": "Consumer",
-      "B": "Industry/market segment",
-      "C": "Industry/market",
-      "D": "Product/service",
-      "E": "Purchaser/end -user"
-    }
-  },
-  "16": {
-    "question": "The two components of product/service feasibility analysis are product/service ________ and product/service ________.",
-    "answer": "E",
-    "options": {
-      "A": "value; affordability",
-      "B": "demand; timeliness",
-      "C": "timeliness; value",
-      "D": "durability; value",
-      "E": "desirability; demand"
-    }
-  },
-  "17": {
-    "question": "Does it make sense? Is it reasonable? Is it something consumers will get excited about? Does \nit take advantage of an environmental trend, solve a problem, or fill a gap in the marketplace? These are the types of questions asked during the ________ feasibility component of a complete feasibilit y analysis.",
-    "answer": "E",
-    "options": {
-      "A": "financial",
-      "B": "industry/target market",
-      "C": "organizational",
-      "D": "concept",
-      "E": "product/service"
-    }
-  },
-  "18": {
-    "question": "Which of the following is NOT  a part of assessing the product/service feasibility of a \nbusiness idea?",
-    "answer": "D",
-    "options": {
-      "A": "\"Get out of the building\" and talk to potential customer s",
-      "B": "Surveying potential customers",
-      "C": "Library research",
-      "D": "Analyzing industry attractiveness",
-      "E": "Concept test"
-    }
-  },
-  "19": {
-    "question": "A(n) ________ involves showing a preliminary description of a product or service idea to prospective customers to gauge customer interest, desirabi lity, and purchase intent.",
-    "answer": "A",
-    "options": {
-      "A": "concept test",
-      "B": "product/service statement",
-      "D": "idea prospectus",
-      "C": "impression test",
-      "E": "idea test"
-    }
-  },
-  "20": {
-    "question": "Which of the following items is typically NOT  included in a concept statement?",
-    "answer": "C",
-    "options": {
-      "A": "A brief description of the company's management t eam",
-      "C": "A description of how much money the new venture needs",
-      "B": "A description of how the product or service will be sold and distributed",
-      "D": "The benefits of the product or service",
-      "E": "The intended target market"
-    }
-  },
-  "21": {
-    "question": "Tracy Brady is in the process of developing an exci ting new product in the smartphone \nindustry. She'd like to show a preliminary description of the product to industry experts and \nprospective customers to solicit their feedback. Tracy should complete and distribute a(n) ________ statement.",
-    "answer": "D",
-    "options": {
-      "A": "perception",
-      "B": "usability",
-      "C": "early adopter",
-      "D": "concept",
-      "E": "adoption risk- reward"
-    }
-  },
-  "22": {
-    "question": "Which of the following is an incorrect approach to administering a concept test?",
-    "answer": "C",
-    "options": {
-      "A": "The concept statement shouldn't exceed one page.",
-      "B": "After the concept statement is developed, it should be s hown to at least 10 people.",
-      "C": "The best candidates to distribute a concept statement to are family and friends.",
-      "D": "If time permits, a concept statement should be used in an iterative manner and distributed to several groups of people.",
-      "E": "A short survey should be attached to the concept statement to solicit feedback."
-    }
-  },
-  "23": {
-    "question": "A/B split testing, landing pages, prototyping services, and Web site usability testing are all online tools available to assist in the ________ stage of developing a business idea.",
-    "answer": "B",
-    "options": {
-      "A": "opportunity recognition",
-      "B": "feasibility analysis",
-      "C": "business model",
-      "D": "business plan",
-      "E": "growth plan"
-    }
-  },
-  "24": {
-    "question": "3 Minute Optimizer and Optimizely are Web sites that provide access to ________.",
-    "answer": "D",
-    "options": {
-      "A": "3D printing services",
-      "B": "Web site usability testing",
-      "C": "online whiteboarding services",
-      "D": "A/B split testing services",
-      "E": "feedback on business ideas"
-    }
-  },
-  "25": {
-    "question": "Growth Hackers, Meetup and Reddit are Web sites that provide access to ________.",
-    "answer": "A",
-    "options": {
-      "A": "feedback on business ideas",
-      "B": "landing pages",
-      "C": "surveys",
-      "D": "prototyping services",
-      "E": "market research"
-    }
-  },
-  "26": {
-    "question": "Three commonly utilized methods for determining product/service demand are ________.  \n\nwith potential customers, and assessing industry attractiveness  \n\ncustomers, and assessing target market attractiveness  \n\n\nface with friends and family  \n\nand landing pages; and library, Internet and gumshoe research",
-    "answer": "E",
-    "options": {
-      "A": "assessing the overall financial attractiveness of the proposed venture, talking face -to-face",
-      "B": "analyzing the financial performance of other businesses, talking face -to-face with potential",
-      "C": "assessing target market attractiveness; utilizing online tools, such as Google AdWords and landing pages; and calculating total startup cash needed",
-      "D": "assessing industry attractiveness; library, Internet and gumshoe research; and talking face- to-",
-      "E": "talking face -to-face with potential customers; utilizing online tools, such as Google AdWords"
-    }
-  },
-  "27": {
-    "question": "Katlin Smith is investigating the feasibility of developing an iPhone app to help high school \nstudents with math. To get a good handle on the potential demand for her service, Katlin is scrounging around for information wherever she can find it. She even spent two weeks volunteering as a math tutor at a local high school to see how students responded to her methods. Katlin is conducting ________ research.",
-    "answer": "C",
-    "options": {
-      "A": "parallel",
-      "B": "derivative",
-      "C": "gumshoe",
-      "D": "se condary",
-      "E": "on -the-ground"
-    }
-  },
-  "28": {
-    "question": "Conner Brandshaw is investigating the feasibility of a new type of electronic game targeting middle school and high school -age boys. Which of the following is an example of \"gumshoe \nresearch\" that Conner could conduct to get a se nse of the likely demand for his game?  \n\n\n\n\n\nattract the interest of middle school age and high school age boys.",
-    "answer": "E",
-    "options": {
-      "A": "Download electronic games industry reports from the Internet.",
-      "B": "Administer a buying intentions survey.",
-      "C": "Administer a concept test.",
-      "D": "Look at the Web sites of a number of companies that sell electronic games.",
-      "E": "Spend several days in electronic games arcades and stores to observe the types of games that"
-    }
-  },
-  "29": {
-    "question": "According to the textbook, the only way to know if your product or service is what people want and need is by ________.",
-    "answer": "D",
-    "options": {
-      "A": "interviewing industry experts",
-      "B": "library, Internet and gumshoe research",
-      "C": "conducting brainstorming sessions",
-      "D": "talking to them",
-      "E": "surveying them"
-    }
-  },
-  "30": {
-    "question": "A ________ is a single Web page that typically provides direct sales copy, like \"click here to \nbuy a Hawaiian vacation.\"",
-    "answer": "E",
-    "options": {
-      "A": "sales page",
-      "B": "marketing page",
-      "C": "destination page",
-      "D": "call for action page",
-      "E": "landing page"
-    }
-  },
-  "31": {
-    "question": "The Savvy Entrepreneurial Firm feature in Chapter 3 focuses prototyping. According to the feature, a prototype is ________.",
-    "answer": "D",
-    "options": {
-      "A": "observing how customers acted when buying their product",
-      "B": "studying industry trends",
-      "C": "conducting Internet research",
-      "D": "an early sample, model, or release of a product that is built to test a concept or a process",
-      "E": "hiring consultants to provide the m advice"
-    }
-  },
-  "32": {
-    "question": "Product/service feasibility analysis is an assessment of the overall appeal of the product or service being proposed.",
-    "answer": "T"
-  },
-  "33": {
-    "question": "The two components to product/service feasibility analysis are product/service desirability and total startup funds needed.",
-    "answer": "F"
-  },
-  "34": {
-    "question": "A concept statement should be two to three pages long.",
-    "answer": "F"
-  },
-  "35": {
-    "question": "The temptation to show a concept statement to friends and family members should be avoided because they are predisposed to give positive feedback.",
-    "answer": "T"
-  },
-  "36": {
-    "question": "Unassumer is a Web site that allows  you to submit product ideas to a community that vets \nand provides feedback on the ideas.",
-    "answer": "T"
-  },
-  "37": {
-    "question": "Describe what a concept statement is, and what it should include.",
-    "answer": "A"
-  },
-  "38": {
-    "question": "What is gumshoe research and why is it important?",
-    "answer": "G"
-  },
-  "39": {
-    "question": "A(n) ________ is a group of firms producing a similar product or service. A firm's ________ is the limited portion of the industry that it goes after or to which it wants to appeal.",
-    "answer": "E",
-    "options": {
-      "A": "target market; industry",
-      "B": "trade group; industry",
-      "C": "industry; trade group",
-      "D": "competitive group; target market",
-      "E": "industry; target market"
-    }
-  },
-  "40": {
-    "question": "The two components of industry/target market feasibility analysis are industry ________.",
-    "answer": "B",
-    "options": {
-      "A": "status and target market status",
-      "B": "attractiveness and target market attractiveness",
-      "C": "sufficiency and target market demand",
-      "D": "attrac tiveness and product/service demand",
-      "E": "evolution and target market attractiveness"
-    }
-  },
-  "41": {
-    "question": "________ feasibility analysis is an assessment of the overall appeal of the industry and \nmarket for the product or service being proposed.",
-    "answer": "E",
-    "options": {
-      "B": "Financial",
-      "A": "Institutional",
-      "C": "Organizatio nal",
-      "D": "Product/service",
-      "E": "Industry/target market"
-    }
-  },
-  "42": {
-    "question": "Which of the following issues should be considered in industry/target market feasibility analysis?",
-    "answer": "D",
-    "options": {
-      "A": "Gaps in the marketplace",
-      "B": "Financial performance of similar businesses",
-      "C": "Resource sufficiency",
-      "D": "Industry attract iveness",
-      "E": "Management prowess"
-    }
-  },
-  "43": {
-    "question": "Which of the following is NOT  an attribute of an attractive industry?",
-    "answer": "C",
-    "options": {
-      "B": "Is not crowded",
-      "A": "Is young rather than old",
-      "C": "Is late rather than early in its life cycle",
-      "D": "Is important to the customer",
-      "E": "Is fragmented rather than concentrated"
-    }
-  },
-  "44": {
-    "question": "Mintel, IBISWorld, and Bizminer are databases most likely to be used during the ________ \nfeasibility stage of the feasibility analysis process.",
-    "answer": "D",
-    "options": {
-      "A": "organizational",
-      "B": "economic",
-      "C": "political/legal",
-      "D": "industry/target market",
-      "E": "product/service"
-    }
-  },
-  "45": {
-    "question": "Which of the following statements about target markets is incorrect?  \n\n\n\nindustry leaders and can focus on serving a specialized market very well.  \n\ncustomers with similar needs.",
-    "answer": "E",
-    "options": {
-      "A": "There is a distinct difference between a firm's industry and its target market.",
-      "B": "The challenge in identifying an attractive target market is to find a market that's large enough for the proposed business but is yet s mall enough to avoid attracting larger competitors.",
-      "C": "By focusing on a target market, a firm can usually avoid head -to-head competition with",
-      "D": "A target market is a place within a l arger market segment that represents a narrower group of",
-      "E": "It's generally easier to find good information about a target market than an industry as a whole."
-    }
-  },
-  "46": {
-    "question": "________ feasibility analysis is conducted to determine whether a proposed business has sufficient management expertise, organizational competence, and resources to successfully launch its business.",
-    "answer": "D",
-    "options": {
-      "A": "Industry/market",
-      "C": "Financial",
-      "B": "Institutional",
-      "D": "Organizational",
-      "E": "Product/service"
-    }
-  },
-  "47": {
-    "question": "Industry/target market feasibility is an assessment of th e overall appeal of the industry and \nthe target market for the product or service being proposed.",
-    "answer": "T"
-  },
-  "48": {
-    "question": "Describe the purpose of industry/target market feasibility analysis, and identify the two primary issues that should be considered. What is the difference between a  firm's industry and its \ntarget market?",
-    "answer": "I"
-  },
-  "49": {
-    "question": "The two primary issues to consider in organizational feasibility analysis are ________.",
-    "answer": "B",
-    "options": {
-      "A": "target market attractiveness and financial rate of return",
-      "B": "management prowess and resource sufficiency",
-      "C": "capital requirements and industry attractiveness",
-      "D": "concept testing and financial rate of return",
-      "E": "industry attractiveness and overall attractiveness of the investment"
-    }
-  },
-  "50": {
-    "question": "The two primary issues to consider in organizational feasibility analysis are management \nprowess and ________.",
-    "answer": "C",
-    "options": {
-      "A": "market timeliness",
-      "B": "concept testing",
-      "C": "resource sufficiency",
-      "D": "target market attractiveness",
-      "E": "total startup cash needed"
-    }
-  },
-  "51": {
-    "question": "A(n) ________ team is the group of founders, key employees, and advisers that either manage or help manage a new business in its startup years.",
-    "answer": "E",
-    "options": {
-      "B": "entrepreneurial",
-      "A": "opening",
-      "C": "scout",
-      "D": "launch",
-      "E": "new venture"
-    }
-  },
-  "52": {
-    "question": "According to the textbook, two of the most important factors to consider regarding \"management prowess\" are ________.  \n\nextent to which the management team or sole entrepreneur understands the markets in which the firm will participate",
-    "answer": "A",
-    "options": {
-      "A": "the passion the sole entrepreneur or the management te am has for the business idea and the",
-      "B": "whether the members of the management team have worked successfully together before and the passion the sole entrepreneur or the management team has for the business idea",
-      "C": "whether the members of the management team are good \"networkers\" and the extent to which the management team or sole entrepreneur understands the markets in which the firm will participate",
-      "D": "the educational and functional backgrounds of the management team or sole entrepreneur",
-      "E": "whether the members of the management team are good \"networkers\" and the passion the sole entrepreneur or the management team has for the business idea"
-    }
-  },
-  "53": {
-    "question": "The focus in organizational feasibility analysis is on ________.",
-    "answer": "D",
-    "options": {
-      "A": "financial resources for manufacturing firms and nonfinancial resources for service firms",
-      "B": "financial resources for service firms and nonfinancial resources for manufacturing firms",
-      "C": "nonfinancial and financial resources equally",
-      "D": "nonfinancial resources",
-      "E": "financial resources"
-    }
-  },
-  "54": {
-    "question": "An excellent resource for doing a quick trademark search is ________.",
-    "answer": "A",
-    "options": {
-      "A": "Trademarkia",
-      "B": "Trademarkepedia",
-      "C": "Wikitrademarks",
-      "D": "Trademarkdata",
-      "E": "GlobalTrademarks"
-    }
-  },
-  "55": {
-    "question": "The Partnering for Success feature in C hapter 3 focuses on the task of finding the right \nbusiness partner. According to the feature, which of the following is an incorrect rule -of-thumb \nin finding a business partner?",
-    "answer": "D",
-    "options": {
-      "A": "Know the skills and experiences you need in a partner.",
-      "B": "Make sure you and  your partner's work habits are compatible.",
-      "C": "Make sure you and your partner have common goals and aspirations.",
-      "D": "Pick a partner that is similar rather than different from you in terms of skills, abilities, and functional background.",
-      "E": "Hire a lawyer to negotiate the partnership agreement."
-    }
-  },
-  "56": {
-    "question": "Which of the following is an example of a resource that normally would not be evaluated as \npart of the \"resource sufficiency\" stage of organizational feasibility analysis?",
-    "answer": "B",
-    "options": {
-      "A": "Ability to form favorable business partnerships",
-      "B": "Financial resources",
-      "C": "Affordable office space",
-      "D": "Key equipment needed to operate the business",
-      "E": "Key support personnel"
-    }
-  },
-  "57": {
-    "question": "To test resource sufficiency, a firm should list the ________ most critical non- financial \nresources that it will need to move its business idea for ward and determine if those resources are \navailable.",
-    "answer": "C",
-    "options": {
-      "B": "3 to 5",
-      "A": "1 to 2",
-      "E": "15 to 25",
-      "D": "10 to 16",
-      "C": "6 to 12"
-    }
-  },
-  "58": {
-    "question": "Organizational feasibility analysis is conducted to determine whether a proposed business venture has sufficient management expertise, organizational compete nce, and resources to \nsuccessfully launch its business.",
-    "answer": "T"
-  },
-  "59": {
-    "question": "The focus in organizational feasibility analysis is on financial resources.",
-    "answer": "F"
-  },
-  "60": {
-    "question": "The two primary areas to consider in organizational feasibility analysis are management \nprowess and resource sufficiency.",
-    "answer": "T"
-  },
-  "61": {
-    "question": "A new venture team is the group of founders, key employees, and advisers that either manage or help manage a new business in its startup years.",
-    "answer": "T"
-  },
-  "62": {
-    "question": "In regard to management prowess, two of the most important factors in this area are the passion that the solo entrepreneur or the manageme nt team has for the business idea and the \nextent to which the management team or solo entrepreneur understands the markets in which the firm will participate.",
-    "answer": "T"
-  },
-  "63": {
-    "question": "________ feasibility analysis is a quick financial assessment of the viability of a business idea.",
-    "answer": "D",
-    "options": {
-      "A": "O rganizational",
-      "C": "Product/service",
-      "B": "Institutional",
-      "D": "Financial",
-      "E": "Industry/market"
-    }
-  },
-  "64": {
-    "question": "The most important issues to consider in financial feasibility analysis are ________. \n\n\nfinancial attractiveness of the proposed venture",
-    "answer": "B",
-    "options": {
-      "A": "resource sufficiency, industry attractiveness, and total startup cash needed",
-      "B": "total s tartup cash needed, financial performance of similar businesses, and the overall",
-      "C": "target market attractiveness, resource sufficiency, and product/service demand",
-      "D": "total startup cash needed, management pro wess, and product/service demand",
-      "E": "concept testing, total startup cash needed, and financial performance of similar businesses"
-    }
-  },
-  "65": {
-    "question": "The most important issues to consider in financial feasibility analysis are: financial performance of similar businesses, total cas h needed, and ________.",
-    "answer": "D",
-    "options": {
-      "A": "the projected internal rate of return of the proposed venture",
-      "B": "the projected years to an IPO or an acquisition for the proposed venture",
-      "C": "management prowess",
-      "D": "overall attractiveness of the proposed venture",
-      "E": "the projected borrowing power of the proposed business"
-    }
-  },
-  "66": {
-    "question": "Which of the following is incorrect regarding the \"total startup cash needed\" component of financial feasibility analysis?  \n\n\n\"I plan to bring investors on board\" or \"I'll borrow the money.\"",
-    "answer": "A",
-    "options": {
-      "A": "It's not necessary to complete an actual budget of startup expenses.",
-      "B": "When explaining where t he startup funds will come from, avoid cursory explanations such as",
-      "C": "There are worksheets posted online that help entrepreneurs determine the startup costs to launch their venture.",
-      "D": "An ex planation of where the startup funds will come from should be included.",
-      "E": "If the money will come from friends and family or is raised through other means, a reasonable plan should be stipulated to repay the money."
-    }
-  },
-  "67": {
-    "question": "Which of the following factors is a negative as it pertains to the financial feasibility of a \nbusiness venture?  \n\n\nprovide recurring sources of revenue",
-    "answer": "C",
-    "options": {
-      "A": "Steady and rapid growth in sales during the first five to seven years in a clearly defined market niche",
-      "B": "High percentage of recurring revenue \u00e2\u20ac\u201dmeaning that once a firm wins a client, the client will",
-      "C": "Inability to forecast income and expenses with a reasonable degree of accuracy",
-      "D": "Internally generated funds to finance and sustain growth",
-      "E": "Availability of an exit opportunity for investors to conve rt equity into cash"
-    }
-  },
-  "68": {
-    "question": "Which of the following factors is a positive as it pertains to the financial feasibility of a business venture?",
-    "answer": "B",
-    "options": {
-      "A": "Inconsistent and slow growth in sales during the first five to seven years in a clearly defined market niche",
-      "B": "High percent age of recurring revenue",
-      "C": "Inability to forecast income and expenses with a reasonable degree of accuracy",
-      "E": "Absence of an existing opportunity for investors to convert equity into ca sh",
-      "D": "Reliance on externally generated funds to finance and sustain growth"
-    }
-  },
-  "69": {
-    "question": "F or financial feasibility analysis, a very detailed and comprehensive financial analysis is \nrequired.",
-    "answer": "F"
-  },
-  "70": {
-    "question": "The most important issues to consider in financial feasibility analysis are total startup cash \nneeded, financial performance of similar businesses, and overall financial attractiveness of the proposed venture.",
-    "answer": "T"
-  },
-  "71": {
-    "question": "The template for completing a feasibility analysis included in Appendix 3.2 of the book is called the ________ analysis.",
-    "answer": "D",
-    "options": {
-      "A": "First Evaluation",
-      "B": "Initial Screen",
-      "C": "First Pass",
-      "D": "First Screen",
-      "E": "Flash S creen"
-    }
-  },
-  "72": {
-    "question": "The First Screen feasibility analysis t emplate included in Chapter 3 is called \"First Screen\" \nbecause ________.  \n\n\n\nis deemed to be feasible  \n\n\nto be feasible",
-    "answer": "D",
-    "options": {
-      "A": "it is the first feasibility analysis template created",
-      "B": "it is the first and most important step in the opportunity recognition process",
-      "C": "it is the first step in a sequence of sev eral steps that must be completed before a business idea",
-      "D": "feasibility analysis is an entrepreneur's initial or first pass at determining the feasibility of a business idea",
-      "E": "it is the first of several \"screens\" that a business i dea must pass through before it is considered"
-    }
-  },
-  "73": {
-    "question": "The mechanics for filling out a First Screen worksheet are complicated.",
-    "answer": "F"
-  },
-  "74": {
-    "question": "First Screen is a template for completing industry analysis.",
-    "answer": "F"
-  },
-  "75": {
-    "question": "Briefly describe the purpose of the First Screen and how it's used.",
-    "answer": "T"
-  }
 }

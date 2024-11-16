@@ -40,6 +40,10 @@
         "file": "ent-past-test-c1-c5.json"
     },
     {
+        "name": "Enterpreneurship Past Test - C6 to C10",
+        "file": "ent-past-test-c6-c10.json"
+    },
+    {
         "name": "Fundamental of Investement - Test 1",
         "file": "foi-test1.json"
     }
