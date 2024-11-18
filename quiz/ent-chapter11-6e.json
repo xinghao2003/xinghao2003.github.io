@@ -199,31 +199,31 @@
     },
     "19": {
         "question": "Franchising is a form of business organization in which a firm that already has a successful product or service licenses its trademark and method of doing business to other businesses in exchange for an initial franchise fee and an ongoing royalty.",
-        "answer": "true"
+        "answer": "T"
     },
     "20": {
         "question": "A product and trademark franchise typically connects a single manufacturer with a network of dealers or distributors.",
-        "answer": "true"
+        "answer": "T"
     },
     "21": {
         "question": "A Pepsi Cola bottling dealership is an example of a business format franchise.",
-        "answer": "false"
+        "answer": "F"
     },
     "22": {
         "question": "In a business format franchise, the franchisor provides a formula for doing business to the franchisee along with training, advertising, and other forms of assistance.",
-        "answer": "true"
+        "answer": "T"
     },
     "23": {
         "question": "Business format franchises typically allow franchisees substantial flexibility in how they run their individual franchise units.",
-        "answer": "false"
+        "answer": "F"
     },
     "24": {
         "question": "An area franchise agreement allows a franchisee to own and operate a specific number of outlets in a particular geographic area.",
-        "answer": "true"
+        "answer": "T"
     },
     "25": {
         "question": "The people who buy franchises from master franchisees are typically called employee-franchisees.",
-        "answer": "false"
+        "answer": "F"
     },
     "26": {
         "question": "From the franchisor's point of view, which of the following is incorrect regarding franchising?",
@@ -282,15 +282,15 @@
     },
     "31": {
         "question": "Franchising is a popular form of business growth.",
-        "answer": "true"
+        "answer": "T"
     },
     "32": {
         "question": "Home Depot is an example of an organization that is perfectly suited for franchising.",
-        "answer": "false"
+        "answer": "F"
     },
     "33": {
         "question": "An individual who is team oriented and has experience in the industry in which the franchise competes is a good candidate to be a franchisee.",
-        "answer": "true"
+        "answer": "T"
     },
     "34": {
         "question": "According to a concept called ____ theory, it is more effective for the units of a growing chain to be run by franchisees than by managers because managers are usually paid a salary and may not be as committed to the success of their individual units as franchisees, who are in effect the owners of the units they manage.",
@@ -338,11 +338,11 @@
     },
     "38": {
         "question": "An advantage of franchising, from the franchisors point of view, is that franchising helps a venture grow because the franchisees provide the majority of the capital.",
-        "answer": "true"
+        "answer": "T"
     },
     "39": {
         "question": "A management concept called agency theory refutes the value of franchising for organizations with multiple units, like restaurant chains.",
-        "answer": "false"
+        "answer": "F"
     },
     "40": {
         "question": "The What Went Wrong feature in Chapter 15 focuses on Sbarro's, the pizza chain. One of the main reasons for Sbarro's failure was the",
@@ -445,19 +445,19 @@
     },
     "49": {
         "question": "In the majority of cases, a franchisee pays a royalty based on a percentage of weekly or monthly net income.",
-        "answer": "false"
+        "answer": "F"
     },
     "50": {
         "question": "Franchisees are often required to pay into a national or regional advertising fund, even if the advertisements are directed at goals other than promoting the franchisor's product or service.",
-        "answer": "true"
+        "answer": "T"
     },
     "51": {
         "question": "The royalty fees a franchisee pays are usually around four to five percent of gross income.",
-        "answer": "true"
+        "answer": "T"
     },
     "52": {
         "question": "One of the most important questions a prospective franchisor should consider is whether the fees and royalties charged by a franchisor are consistent with the franchise's value or worth.",
-        "answer": "true"
+        "answer": "T"
     },
     "53": {
         "question": "According to the textbook, the first rule of buying a franchise is",
@@ -560,15 +560,15 @@
     },
     "62": {
         "question": "The Franchise Disclosure Document contains a total of 23 categories of information that give a prospective franchisee a broad base of information about the background and financial health of the franchisor.",
-        "answer": "true"
+        "answer": "T"
     },
     "63": {
         "question": "A prospective franchisee should fully understand all the information contained in the Franchise Disclosure Document before a franchise agreement is signed.",
-        "answer": "true"
+        "answer": "T"
     },
     "64": {
         "question": "The Franchise Disclosure Document is the document that consummates the sale of a franchise.",
-        "answer": "false"
+        "answer": "F"
     },
     "65": {
         "question": "According to a recent FTC report, instances of problems between franchisors and their franchisees tend to be",
@@ -627,6 +627,6 @@
     },
     "70": {
         "question": "The majority of franchisors are highly ethical individuals who are interested only in making a fair return on their investment.",
-        "answer": "true"
+        "answer": "T"
     }
 }
