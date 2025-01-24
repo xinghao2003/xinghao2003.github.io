@@ -650,10 +650,10 @@
         "question": "Which of the following symbols is the copyright symbol?",
         "answer": "C",
         "options": {
-            "A": "\u00a7",
-            "B": "\u00a3",
-            "C": "\u00a9",
-            "D": "TM"
+            "A": "¢",
+            "B": "₠",
+            "C": "©",
+            "D": "™"
         }
     },
     "67": {
