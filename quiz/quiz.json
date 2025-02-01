@@ -1,5 +1,25 @@
 [
     {
+        "name": "Big Data Analytics Topic 1 - Understanding Big Data",
+        "file": "bda-topic1.json"
+    },
+    {
+        "name": "Big Data Analytics Topic 1 - Big Data Issues Challenges",
+        "file": "bda-topic2.json"
+    },
+    {
+        "name": "Big Data Analytics Topic 1 - Big Data Modelling n Technique",
+        "file": "bda-topic3.json"
+    },
+    {
+        "name": "Big Data Analytics - Hadoop",
+        "file": "bda-hadoop.json"
+    },
+    {
+        "name": "Big Data Analytics - Data Quality",
+        "file": "bda-data-quality.json"
+    },
+    {
         "name": "Enterpreneurship Chapter 1 - 3e",
         "file": "ent-chapter1-3e.json"
     },
