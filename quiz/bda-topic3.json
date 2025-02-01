@@ -1,0 +1,1612 @@
+{
+  "1": {
+    "question": "Who originally proposed the 3Vs of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Microsoft",
+      "B": "IBM",
+      "C": "Douglas Laney",
+      "D": "Yuri Demchenko"
+    }
+  },
+  "2": {
+    "question": "Which 'V' did Yuri Demchenko add to the IBM 4Vs definition?",
+    "answer": "D",
+    "options": {
+      "A": "Volume",
+      "B": "Visibility",
+      "C": "Veracity",
+      "D": "Value"
+    }
+  },
+  "3": {
+    "question": "Which of the following is NOT one of the original 3 Vs of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Veracity",
+      "B": "Variety",
+      "C": "Volume",
+      "D": "Velocity"
+    }
+  },
+  "4": {
+    "question": "Which of the following best describes the aim of different 'Vs' definitions for Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "To articulate BDA in relation to its essence.",
+      "B": "To emphasize the technological capacity limitations of data.",
+      "C": "To articulate the aspect of data using its characteristics.",
+      "D": "To provide a comprehensive overview of data."
+    }
+  },
+  "5": {
+    "question": "What is the main purpose of data modeling?",
+    "answer": "C",
+    "options": {
+      "A": "To store data efficiently",
+      "B": "To create a database",
+      "C": "To use abstraction to represent and understand data flow",
+      "D": "To visualize business needs"
+    }
+  },
+  "6": {
+    "question": "Data models are primarily built around:",
+    "answer": "D",
+    "options": {
+      "A": "The available technology",
+      "B": "Technical requirements",
+      "C": "Data storage capacity",
+      "D": "Business needs"
+    }
+  },
+  "7": {
+    "question": "What does data modeling aim to illustrate?",
+    "answer": "C",
+    "options": {
+      "A": "The speed at which the data is processed.",
+      "B": "The cost of processing the data",
+      "C": "Types of data used, relationships, and attributes.",
+      "D": "The technological limits of data."
+    }
+  },
+  "8": {
+    "question": "Which type of data model is used to gather initial project requirements?",
+    "answer": "C",
+    "options": {
+      "A": "Logical data model",
+      "B": "Physical data model",
+      "C": "Conceptual data model",
+      "D": "Relational data model"
+    }
+  },
+  "9": {
+    "question": "Which data model specifies how the data will be physically stored within a database?",
+    "answer": "B",
+    "options": {
+      "A": "Logical data model",
+      "B": "Physical data model",
+      "C": "Conceptual data model",
+      "D": "Relational data model"
+    }
+  },
+  "10": {
+    "question": "Which type of data model does NOT specify technical system requirements?",
+    "answer": "B",
+    "options": {
+      "A": "Conceptual data model",
+      "B": "Logical data model",
+      "C": "Physical data model",
+      "D": "Relational data model"
+    }
+  },
+  "11": {
+    "question": "What is the first step in the data modeling process?",
+    "answer": "C",
+    "options": {
+      "A": "Finalizing the model",
+      "B": "Translating business rules",
+      "C": "Collecting business requirements",
+      "D": "Formulating a database design"
+    }
+  },
+  "12": {
+    "question": "What is a good analogy for a data model?",
+    "answer": "C",
+    "options": {
+      "A": "An algorithm",
+      "B": "A database",
+      "C": "A roadmap",
+      "D": "A blueprint"
+    }
+  },
+  "13": {
+    "question": "Which of the following is a key step in the data modeling process?",
+    "answer": "C",
+    "options": {
+      "A": "Maintaining a static, unchanging model.",
+      "B": "Ignoring end-user feedback.",
+      "C": "Identifying key properties of each entity.",
+      "D": "Relying only on initial business requirements."
+    }
+  },
+  "14": {
+    "question": "Which of the following is NOT a benefit of data modeling?",
+    "answer": "C",
+    "options": {
+      "A": "Reduces errors in database development.",
+      "B": "Improves application performance",
+      "C": "Increases data redundancy",
+      "D": "Increases consistency in system design."
+    }
+  },
+  "15": {
+    "question": "Data modeling helps improve communication between:",
+    "answer": "B",
+    "options": {
+      "A": "Managers and employees",
+      "B": "Developers and business intelligence teams",
+      "C": "Data analysts and researchers",
+      "D": "Database administrators and users"
+    }
+  },
+  "16": {
+    "question": "Which of the following aspects of database design is improved by data modeling?",
+    "answer": "A",
+    "options": {
+      "A": "Speed at conceptual, logical, and physical levels",
+      "B": "Database backup frequency",
+      "C": "Data input speed",
+      "D": "Database hardware costs."
+    }
+  },
+  "17": {
+    "question": "Which of the following is the first step in a typical predictive analytics workflow?",
+    "answer": "D",
+    "options": {
+      "A": "Preprocess Data",
+      "B": "Integrate Analytics with Systems",
+      "C": "Develop Predictive Models",
+      "D": "Access and Explore Data"
+    }
+  },
+  "18": {
+    "question": "Which step in the predictive analytics workflow involves handling messy data and data transformation?",
+    "answer": "A",
+    "options": {
+      "A": "Preprocess data",
+      "B": "Develop predictive models",
+      "C": "Integrate analytics with systems",
+      "D": "Access and explore data"
+    }
+  },
+  "19": {
+    "question": "In predictive analytics, what is 'model creation' typically associated with?",
+    "answer": "A",
+    "options": {
+      "A": "Machine learning",
+      "B": "Parameter optimization",
+      "C": "System integration",
+      "D": "Data transformation"
+    }
+  },
+  "20": {
+    "question": "According to the document, what does machine learning enable computers to do?",
+    "answer": "B",
+    "options": {
+      "A": "Follow pre-programmed rules strictly.",
+      "B": "Learn from data without explicit programming.",
+      "C": "Store data efficiently.",
+      "D": "Process data very quickly."
+    }
+  },
+  "21": {
+    "question": "Which type of machine learning involves learning from labelled data?",
+    "answer": "C",
+    "options": {
+      "A": "Reinforcement learning",
+      "B": "Batch learning",
+      "C": "Supervised learning",
+      "D": "Unsupervised learning"
+    }
+  },
+  "22": {
+    "question": "Which of the following is a key characteristic of online learning?",
+    "answer": "C",
+    "options": {
+      "A": "Learning with no human supervision.",
+      "B": "Learning from the entire dataset at once.",
+      "C": "Learning from incremental data samples.",
+      "D": "Using a predefined model"
+    }
+  },
+  "23": {
+    "question": "What is the primary goal of Machine Learning?",
+    "answer": "C",
+    "options": {
+      "A": "To solve problems using traditional methods.",
+      "B": "To create static rules for data.",
+      "C": "To learn from data and improve performance.",
+      "D": "To write better code."
+    }
+  },
+  "24": {
+    "question": "Which of the following applications involves classifying movie reviews?",
+    "answer": "A",
+    "options": {
+      "A": "Sentiment analysis",
+      "B": "Spam filtering",
+      "C": "Fraud detection",
+      "D": "Image classification"
+    }
+  },
+  "25": {
+    "question": "Self-driving cars are a typical example of:",
+    "answer": "D",
+    "options": {
+      "A": "Diagnostic medicine",
+      "B": "Anomaly detection",
+      "C": "Recommender system",
+      "D": "Machine Learning"
+    }
+  },
+  "26": {
+    "question": "Which of the following is a common application of machine learning in business?",
+    "answer": "D",
+    "options": {
+      "A": "Identifying tumors and diseases",
+      "B": "Predicting the winner of a soccer match",
+      "C": "Predicting the weather",
+      "D": "Detecting patterns in data"
+    }
+  },
+  "27": {
+    "question": "Identifying profitable customers is an application of Machine learning based on:",
+    "answer": "A",
+    "options": {
+      "A": "Both Regression and Classification",
+      "B": "Regression",
+      "C": "Classification",
+      "D": "Clustering"
+    }
+  },
+  "28": {
+    "question": "What is the primary purpose of data modeling in BI tools?",
+    "answer": "B",
+    "options": {
+      "A": "Creating backups",
+      "B": "Managing data relations for analysis",
+      "C": "Improving data entry speed",
+      "D": "Controlling user access"
+    }
+  },
+  "29": {
+    "question": "In the context of BI, what does 'Autodetect' typically refer to?",
+    "answer": "D",
+    "options": {
+      "A": "Automatic data cleaning",
+      "B": "Automatic data backup",
+      "C": "Automatic data transformation",
+      "D": "Automatic identification of relationships between data tables"
+    }
+  },
+  "30": {
+    "question": "What is the next step in data modelling in BI, after selecting tables and columns?",
+    "answer": "C",
+    "options": {
+      "A": "Creating report",
+      "B": "Applying security filter",
+      "C": "Managing relationships",
+      "D": "Importing data"
+    }
+  },
+  "31": {
+    "question": "Who initially proposed the 3Vs definition of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "IBM",
+      "B": "Microsoft",
+      "C": "Douglas Laney",
+      "D": "Yuri Demchenko"
+    }
+  },
+  "32": {
+    "question": "Which of the following is NOT one of the original 3Vs of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Veracity",
+      "B": "Volume",
+      "C": "Variety",
+      "D": "Velocity"
+    }
+  },
+  "33": {
+    "question": "What dimension did Yuri Demchenko add to the IBM 4Vs definition to create the 5Vs of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Value",
+      "B": "Validity",
+      "C": "Variability",
+      "D": "Visibility"
+    }
+  },
+  "34": {
+    "question": "According to Yuri Demchenko's 5Vs model, which of the following is considered under 'Volume'?",
+    "answer": "D",
+    "options": {
+      "A": "Structured data",
+      "B": "Trustworthiness",
+      "C": "Stream data",
+      "D": "Records/achieved"
+    }
+  },
+  "35": {
+    "question": "Which 'V' is added in Microsoft's 6Vs definition compared to Yuri Demchenko's 5Vs?",
+    "answer": "D",
+    "options": {
+      "A": "Volatility",
+      "B": "Validity",
+      "C": "Vulnerability",
+      "D": "Visibility"
+    }
+  },
+  "36": {
+    "question": "According to the document, what is the main goal of capturing Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "To increase data variety",
+      "B": "To store large volumes of data",
+      "C": "To find better solutions and actionable intelligence",
+      "D": "To utilize technological capacity"
+    }
+  },
+  "37": {
+    "question": "What potential negative outcome of pure data-driven analysis is mentioned in the document?",
+    "answer": "B",
+    "options": {
+      "A": "It may always add significant value",
+      "B": "It may only add burden for costs or resources",
+      "C": "It is always easy for decision-makers",
+      "D": "It always leads to actionable intelligence"
+    }
+  },
+  "38": {
+    "question": "What is the primary purpose of data modeling?",
+    "answer": "B",
+    "options": {
+      "A": "To complicate data representation",
+      "B": "To use abstraction to represent data flow",
+      "C": "To create physical databases directly",
+      "D": "To avoid understanding data nature"
+    }
+  },
+  "39": {
+    "question": "Data modeling primarily focuses on:",
+    "answer": "C",
+    "options": {
+      "A": "Hardware configurations for data systems",
+      "B": "Specific database technologies",
+      "C": "Visual representation of data and its connections",
+      "D": "Physical storage of data"
+    }
+  },
+  "40": {
+    "question": "Which of the following is NOT a goal of data modeling?",
+    "answer": "B",
+    "options": {
+      "A": "Organizing and grouping data",
+      "B": "Specifying hardware requirements",
+      "C": "Defining relationships among data types",
+      "D": "Illustrating data types used"
+    }
+  },
+  "41": {
+    "question": "Data models are primarily built around:",
+    "answer": "B",
+    "options": {
+      "A": "Technological limitations",
+      "B": "Business needs",
+      "C": "Database constraints",
+      "D": "Software capabilities"
+    }
+  },
+  "42": {
+    "question": "What is the first step in the data modeling process?",
+    "answer": "B",
+    "options": {
+      "A": "Choosing a database technology",
+      "B": "Collecting business requirements",
+      "C": "Defining data attributes",
+      "D": "Designing the database schema"
+    }
+  },
+  "43": {
+    "question": "Business rules in data modeling are translated into:",
+    "answer": "A",
+    "options": {
+      "A": "Data structures",
+      "B": "Programming code",
+      "C": "Hardware specifications",
+      "D": "User interfaces"
+    }
+  },
+  "44": {
+    "question": "A data model is likened to which of the following in the document?",
+    "answer": "D",
+    "options": {
+      "A": "A software code repository",
+      "B": "A financial statement",
+      "C": "A legal contract",
+      "D": "A roadmap or blueprint"
+    }
+  },
+  "45": {
+    "question": "According to the document, ideal data models are:",
+    "answer": "A",
+    "options": {
+      "A": "Living documents that evolve",
+      "B": "Fixed after initial design",
+      "C": "Independent of business needs",
+      "D": "Static documents"
+    }
+  },
+  "46": {
+    "question": "How are data models categorized according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "By database technology",
+      "B": "By degree of abstraction",
+      "C": "By development team size",
+      "D": "By data volume, velocity, and variety"
+    }
+  },
+  "47": {
+    "question": "Which of the following is NOT a type of data model mentioned in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Logical data model",
+      "B": "Physical data model",
+      "C": "Operational data model",
+      "D": "Conceptual data model"
+    }
+  },
+  "48": {
+    "question": "When are conceptual data models typically created?",
+    "answer": "A",
+    "options": {
+      "A": "As part of initial project requirements gathering",
+      "B": "During physical database design",
+      "C": "During database implementation",
+      "D": "After logical data modeling"
+    }
+  },
+  "49": {
+    "question": "What is characteristic of the notation used in conceptual data models?",
+    "answer": "B",
+    "options": {
+      "A": "Complex and detailed",
+      "B": "Typically simple",
+      "C": "Highly technical",
+      "D": "Database-specific"
+    }
+  },
+  "50": {
+    "question": "Compared to conceptual models, logical data models are:",
+    "answer": "B",
+    "options": {
+      "A": "More abstract",
+      "B": "Less abstract and more detailed",
+      "C": "Equally abstract",
+      "D": "Less detailed"
+    }
+  },
+  "51": {
+    "question": "What do logical data models specify regarding technical system requirements?",
+    "answer": "C",
+    "options": {
+      "A": "They partially specify technical system requirements",
+      "B": "They fully specify technical system requirements",
+      "C": "They don't specify any technical system requirements",
+      "D": "They only specify hardware requirements"
+    }
+  },
+  "52": {
+    "question": "Which type of data model is the least abstract?",
+    "answer": "A",
+    "options": {
+      "A": "Physical data model",
+      "B": "Relational data model",
+      "C": "Logical data model",
+      "D": "Conceptual data model"
+    }
+  },
+  "53": {
+    "question": "Physical data models are finalized designs that can be implemented as:",
+    "answer": "B",
+    "options": {
+      "A": "Logical databases",
+      "B": "Relational databases",
+      "C": "Conceptual databases",
+      "D": "NoSQL databases"
+    }
+  },
+  "54": {
+    "question": "Is the data modeling process described as iterative or linear?",
+    "answer": "B",
+    "options": {
+      "A": "Random",
+      "B": "Iterative",
+      "C": "Linear",
+      "D": "Chaotic"
+    }
+  },
+  "55": {
+    "question": "Which of the following is a step in the data modeling process?",
+    "answer": "A",
+    "options": {
+      "A": "Identifying entities",
+      "B": "Hardware procurement",
+      "C": "Writing code",
+      "D": "Software installation"
+    }
+  },
+  "56": {
+    "question": "Which of the following is a benefit of data modeling?",
+    "answer": "A",
+    "options": {
+      "A": "Easier understanding of data relationships",
+      "B": "Increased software complexity",
+      "C": "Reduced database performance",
+      "D": "Slower database design process"
+    }
+  },
+  "57": {
+    "question": "Data modeling can help reduce:",
+    "answer": "D",
+    "options": {
+      "A": "Project timelines",
+      "B": "Hardware costs",
+      "C": "Data volume",
+      "D": "Software errors"
+    }
+  },
+  "58": {
+    "question": "What is the first step mentioned in data modeling for predictive analytics?",
+    "answer": "A",
+    "options": {
+      "A": "Selecting a modeling technique",
+      "B": "Building a model",
+      "C": "Validating the model",
+      "D": "Generating test data"
+    }
+  },
+  "59": {
+    "question": "After building a predictive model, what is the next step in the process?",
+    "answer": "B",
+    "options": {
+      "A": "Collecting more data",
+      "B": "Validating/assessing the model",
+      "C": "Retraining the model",
+      "D": "Deploying the model"
+    }
+  },
+  "60": {
+    "question": "What is the first stage in the predictive analytics workflow?",
+    "answer": "D",
+    "options": {
+      "A": "Developing predictive models",
+      "B": "Preprocessing data",
+      "C": "Integrating analytics with systems",
+      "D": "Access and explore data"
+    }
+  },
+  "61": {
+    "question": "Which stage in the predictive analytics workflow involves 'Model Creation' and 'Parameter Optimization'?",
+    "answer": "A",
+    "options": {
+      "A": "Develop predictive models",
+      "B": "Preprocessing data",
+      "C": "Integrate analytics with systems",
+      "D": "Access and explore data"
+    }
+  },
+  "62": {
+    "question": "Into how many sets is a dataset typically split for machine learning model development?",
+    "answer": "B",
+    "options": {
+      "A": "Four sets (training, validation, testing, and deployment)",
+      "B": "Three sets (training, validation, and testing)",
+      "C": "Two sets (training and testing)",
+      "D": "Single set (training only)"
+    }
+  },
+  "63": {
+    "question": "What is the typical initial split size percentage for the validation dataset?",
+    "answer": "A",
+    "options": {
+      "A": "30%",
+      "B": "10%",
+      "C": "40%",
+      "D": "20%"
+    }
+  },
+  "64": {
+    "question": "How is the appropriate split size for training, validation, and test datasets determined?",
+    "answer": "A",
+    "options": {
+      "A": "By continuously retraining with various split sizes",
+      "B": "By fixed percentages",
+      "C": "Based on hardware limitations",
+      "D": "By random selection"
+    }
+  },
+  "65": {
+    "question": "What is the primary purpose of the validation dataset?",
+    "answer": "D",
+    "options": {
+      "A": "To deploy the final model",
+      "B": "To store the raw data",
+      "C": "To derive the final accuracy score",
+      "D": "To guide accuracy adjustments during training"
+    }
+  },
+  "66": {
+    "question": "For what type of analytics is data modeling in Power BI primarily used?",
+    "answer": "B",
+    "options": {
+      "A": "Prescriptive analytics",
+      "B": "Descriptive analytics",
+      "C": "Diagnostic analytics",
+      "D": "Predictive analytics"
+    }
+  },
+  "67": {
+    "question": "How can relationships between tables be managed in Power BI for data modeling?",
+    "answer": "D",
+    "options": {
+      "A": "Only using 'Autodetect'",
+      "B": "Only manually",
+      "C": "Power BI does not support relationship management",
+      "D": "Using either 'Autodetect' or manual creation"
+    }
+  },
+  "68": {
+    "question": "Which of the following is a significant benefit of data modeling?",
+    "answer": "B",
+    "options": {
+      "A": "Reduced model reusability",
+      "B": "Improved data quality",
+      "C": "Increased complexity in design",
+      "D": "Higher maintenance costs"
+    }
+  },
+  "69": {
+    "question": "Data modeling contributes to which aspect of project management?",
+    "answer": "D",
+    "options": {
+      "A": "Higher software error rates",
+      "B": "Reduced consistency across projects",
+      "C": "Increased project timelines",
+      "D": "Quality management"
+    }
+  },
+  "70": {
+    "question": "According to Arthur Samuel's definition, machine learning gives computers the:",
+    "answer": "A",
+    "options": {
+      "A": "Ability to learn without explicit programming",
+      "B": "Ability to store large amounts of data",
+      "C": "Ability to execute pre-defined programs",
+      "D": "Ability to replace human programmers"
+    }
+  },
+  "71": {
+    "question": "Tom Mitchell's engineering-oriented definition of machine learning emphasizes:",
+    "answer": "A",
+    "options": {
+      "A": "Improving performance with experience",
+      "B": "Creating complex algorithms",
+      "C": "Replacing traditional programming",
+      "D": "Learning from data alone"
+    }
+  },
+  "72": {
+    "question": "Machine learning is particularly useful for problems where existing solutions require:",
+    "answer": "B",
+    "options": {
+      "A": "Simple rule sets",
+      "B": "A lot of hand-tuning or long lists of rules",
+      "C": "Static environments",
+      "D": "Minimal data"
+    }
+  },
+  "73": {
+    "question": "For which type of environments is machine learning well-suited?",
+    "answer": "C",
+    "options": {
+      "A": "Simple environments",
+      "B": "Static environments",
+      "C": "Fluctuating environments",
+      "D": "Predictable environments"
+    }
+  },
+  "74": {
+    "question": "Based on human supervision, which of the following is NOT a major type of machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "Supervised learning",
+      "B": "Reinforcement learning",
+      "C": "Unsupervised learning",
+      "D": "Descriptive learning"
+    }
+  },
+  "75": {
+    "question": "Batch learning and Online learning are classified based on:",
+    "answer": "B",
+    "options": {
+      "A": "Algorithm complexity",
+      "B": "Ability to learn from incremental data",
+      "C": "Generalization approach",
+      "D": "Human supervision"
+    }
+  },
+  "76": {
+    "question": "Which type of machine learning is typically used for 'Image Classification'?",
+    "answer": "B",
+    "options": {
+      "A": "Reinforcement Learning",
+      "B": "Supervised Learning",
+      "C": "Unsupervised Learning",
+      "D": "Batch Learning"
+    }
+  },
+  "77": {
+    "question": "'Customer Segmentation' is a typical application of which type of machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "Online Learning",
+      "B": "Reinforcement Learning",
+      "C": "Supervised Learning",
+      "D": "Unsupervised Learning"
+    }
+  },
+  "78": {
+    "question": "What is the first step in the practical machine learning workflow depicted in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Selecting data",
+      "B": "Deploying the model",
+      "C": "Pre-processing data",
+      "D": "Choosing a learning algorithm"
+    }
+  },
+  "79": {
+    "question": "In the machine learning practice workflow, the process of improving the model is described as:",
+    "answer": "C",
+    "options": {
+      "A": "One-time",
+      "B": "Linear",
+      "C": "Iterative",
+      "D": "Static"
+    }
+  },
+  "80": {
+    "question": "What is a key difference in the practical application of Machine Learning and Deep Learning, as highlighted in the document?",
+    "answer": "D",
+    "options": {
+      "A": "Machine Learning is always more accurate",
+      "B": "Deep Learning is simpler to implement",
+      "C": "Deep Learning always requires more data",
+      "D": "Feature extraction is integrated within Deep Learning models"
+    }
+  },
+  "81": {
+    "question": "In traditional Machine Learning, feature extraction is typically:",
+    "answer": "B",
+    "options": {
+      "A": "Not required",
+      "B": "A preceding step before classification",
+      "C": "Performed after model training",
+      "D": "Integrated within the model"
+    }
+  },
+  "82": {
+    "question": "Which of the following is listed as an example of a Finance and Risk application of Machine Learning?",
+    "answer": "A",
+    "options": {
+      "A": "Fraud detection",
+      "B": "User segmentation",
+      "C": "Warehouse efficiency",
+      "D": "Sales forecasting"
+    }
+  },
+  "83": {
+    "question": "'Sales forecasting' falls under which category of Machine Learning applications in the example use cases?",
+    "answer": "B",
+    "options": {
+      "A": "Operations and workforce",
+      "B": "Sales and marketing",
+      "C": "Finance and risk",
+      "D": "Customer and channel"
+    }
+  },
+  "84": {
+    "question": "Which application uses machine learning for identifying unusual patterns or events?",
+    "answer": "D",
+    "options": {
+      "A": "Recommender systems",
+      "B": "Chatbots",
+      "C": "Spam filtering",
+      "D": "Anomaly detection"
+    }
+  },
+  "85": {
+    "question": "Machine learning is used in 'Self-Driving cars' for:",
+    "answer": "D",
+    "options": {
+      "A": "Fraud detection",
+      "B": "Data compression",
+      "C": "Spam filtering",
+      "D": "Autonomous vehicle operation"
+    }
+  },
+  "86": {
+    "question": "Predicting health insurance needs is given as an example of using:",
+    "answer": "B",
+    "options": {
+      "A": "Descriptive analytics",
+      "B": "Machine learning",
+      "C": "Big Data",
+      "D": "Data modelling"
+    }
+  },
+  "87": {
+    "question": "Which of the following is NOT given as an example of using Machine Learning?",
+    "answer": "B",
+    "options": {
+      "A": "Mortgage Applications",
+      "B": "Data Warehousing",
+      "C": "Fraud Detection",
+      "D": "Web Search Page result"
+    }
+  },
+  "88": {
+    "question": "Which machine learning method was highlighted for predicting Crohn's disease progression?",
+    "answer": "C",
+    "options": {
+      "A": "Logistic Regression",
+      "B": "Linear Regression",
+      "C": "Gradient Boosting Machines",
+      "D": "Regularized Regression"
+    }
+  },
+  "89": {
+    "question": "Predicting disease progression in Crohn's disease aims to:",
+    "answer": "B",
+    "options": {
+      "A": "Reduce healthcare costs",
+      "B": "Enable timely medical intervention",
+      "C": "Replace doctors",
+      "D": "Simplify diagnosis"
+    }
+  },
+  "90": {
+    "question": "Predictive analytics-based DSS for drug courts is used to predict:",
+    "answer": "A",
+    "options": {
+      "A": "Offender success in drug courts",
+      "B": "Drug prices",
+      "C": "Crime rates",
+      "D": "Court case outcomes"
+    }
+  },
+  "91": {
+    "question": "Compared to traditional methods, machine learning methods in drug courts can provide:",
+    "answer": "A",
+    "options": {
+      "A": "More reliable predictive results",
+      "B": "Similar results",
+      "C": "Only descriptive results",
+      "D": "Less accurate predictions"
+    }
+  },
+  "92": {
+    "question": "What is the primary purpose of a data model?",
+    "answer": "B",
+    "options": {
+      "A": "To list all tables in a database",
+      "B": "To visualize database structure and relationships",
+      "C": "To create SQL scripts",
+      "D": "To design user interfaces"
+    }
+  },
+  "93": {
+    "question": "What does a data model display in a diagram?",
+    "answer": "D",
+    "options": {
+      "A": "Only the data itself.",
+      "B": "Only the constraints of the database",
+      "C": "Only the column names.",
+      "D": "Tables and the relationships between the tables"
+    }
+  },
+  "94": {
+    "question": "In which type of systems are data models applicable?",
+    "answer": "C",
+    "options": {
+      "A": "Only data warehouse systems",
+      "B": "Only transactional systems",
+      "C": "Both transactional and data warehouse systems",
+      "D": "Only reporting systems"
+    }
+  },
+  "95": {
+    "question": "What are the three main stages of data modeling in the correct order?",
+    "answer": "A",
+    "options": {
+      "A": "Conceptual, logical, physical",
+      "B": "Logical, conceptual, physical",
+      "C": "Physical, conceptual, logical",
+      "D": "Physical, logical, conceptual"
+    }
+  },
+  "96": {
+    "question": "In a conceptual data model, what do square shapes and lines represent, respectively?",
+    "answer": "B",
+    "options": {
+      "A": "Tables and columns",
+      "B": "Entities and relationships",
+      "C": "Attributes and entities",
+      "D": "Columns and tables"
+    }
+  },
+  "97": {
+    "question": "Which of the following best describes a conceptual data model?",
+    "answer": "D",
+    "options": {
+      "A": "Only for technical users",
+      "B": "Highly detailed and database specific",
+      "C": "Complex with specific data types",
+      "D": "Highly abstract and easily understood"
+    }
+  },
+  "98": {
+    "question": "Which of the following is true about the conceptual data model?",
+    "answer": "C",
+    "options": {
+      "A": "It is detailed with attributes",
+      "B": "It is hard to change",
+      "C": "It does not need any database.",
+      "D": "It must be in digital document"
+    }
+  },
+  "99": {
+    "question": "What does a logical data model include that is not in a conceptual data model?",
+    "answer": "C",
+    "options": {
+      "A": "Only the relationships between tables.",
+      "B": "Only the entity names.",
+      "C": "Attributes and their types",
+      "D": "Physical storage locations."
+    }
+  },
+  "100": {
+    "question": "A logical data model shows",
+    "answer": "C",
+    "options": {
+      "A": "The primary and foreign keys",
+      "B": "Only the attributes for each entity",
+      "C": "All of the above",
+      "D": "Only the relationships between tables"
+    }
+  },
+  "101": {
+    "question": "What does it mean when a logical data model is called database agnostic?",
+    "answer": "A",
+    "options": {
+      "A": "It is not dependent on any specific database.",
+      "B": "It cannot be created with software.",
+      "C": "It can be created manually without tools.",
+      "D": "It is specific to one database."
+    }
+  },
+  "102": {
+    "question": "What is the name given to entities in a physical data model?",
+    "answer": "A",
+    "options": {
+      "A": "Tables",
+      "B": "Relationships",
+      "C": "Columns",
+      "D": "Attributes"
+    }
+  },
+  "103": {
+    "question": "What does a Physical Data model use instead of attributes?",
+    "answer": "C",
+    "options": {
+      "A": "Indexes",
+      "B": "Constraints",
+      "C": "Columns",
+      "D": "Triggers"
+    }
+  },
+  "104": {
+    "question": "What does the term \u2018database specific data types\u2019 refer to in the context of a physical data model?",
+    "answer": "B",
+    "options": {
+      "A": "Data types are user-defined.",
+      "B": "Data types compatible only with specific databases like SQL server or oracle.",
+      "C": "Data types that are interchangeable across databases.",
+      "D": "Data types that do not vary across database types."
+    }
+  },
+  "105": {
+    "question": "Why is a physical data model difficult for users to understand?",
+    "answer": "D",
+    "options": {
+      "A": "Due to its abstract nature.",
+      "B": "Due to the use of relationship lines.",
+      "C": "Due to its lack of tables and columns.",
+      "D": "Due to its use of database specific terminology."
+    }
+  },
+  "106": {
+    "question": "What database objects are included in the physical data model?",
+    "answer": "D",
+    "options": {
+      "A": "Tables, constraints, views.",
+      "B": "Attributes, Indexes, triggers",
+      "C": "Indexes, constraints, views.",
+      "D": "Tables, constraints, triggers, indexes and other DB objects."
+    }
+  },
+  "107": {
+    "question": "What can be used for creating logical and physical models?",
+    "answer": "B",
+    "options": {
+      "A": "SQL tools only",
+      "B": "ERwin or Power Designer",
+      "C": "Microsoft Word and Excel",
+      "D": "Power BI and Tableau"
+    }
+  },
+  "108": {
+    "question": "What is the primary purpose of a data model?",
+    "answer": "D",
+    "options": {
+      "A": "To write SQL queries.",
+      "B": "To list all tables in a database.",
+      "C": "To manage database security.",
+      "D": "To display relationships between tables in a diagram."
+    }
+  },
+  "109": {
+    "question": "Which of the following best describes a data model?",
+    "answer": "B",
+    "options": {
+      "A": "A backup of a database.",
+      "B": "A diagram showing tables and their relationships.",
+      "C": "A collection of SQL scripts.",
+      "D": "A textual description of data."
+    }
+  },
+  "110": {
+    "question": "In which types of systems are data models applicable?",
+    "answer": "D",
+    "options": {
+      "A": "Only in transactional systems.",
+      "B": "Only in data warehouse systems.",
+      "C": "Neither transactional nor data warehouse systems.",
+      "D": "In both transactional and data warehouse systems."
+    }
+  },
+  "111": {
+    "question": "For what purpose are data models used in software development?",
+    "answer": "D",
+    "options": {
+      "A": "To write application code.",
+      "B": "To manage network configurations.",
+      "C": "To design user interfaces.",
+      "D": "To design database objects for data storage and manipulation."
+    }
+  },
+  "112": {
+    "question": "What are the three main stages in designing a data model, in the correct order?",
+    "answer": "D",
+    "options": {
+      "A": "Conceptual, Physical, Logical",
+      "B": "Logical, Physical, Conceptual",
+      "C": "Physical, Logical, Conceptual",
+      "D": "Conceptual, Logical, Physical"
+    }
+  },
+  "113": {
+    "question": "How many main stages are involved in designing a data model according to the transcript?",
+    "answer": "C",
+    "options": {
+      "A": "Four",
+      "B": "Five",
+      "C": "Three",
+      "D": "Two"
+    }
+  },
+  "114": {
+    "question": "What shapes and lines are used to represent a conceptual data model?",
+    "answer": "B",
+    "options": {
+      "A": "Circles and arrows",
+      "B": "Square shapes and lines",
+      "C": "Triangles and dotted lines",
+      "D": "Rectangles and curves"
+    }
+  },
+  "115": {
+    "question": "Where can a conceptual data model be easily drawn?",
+    "answer": "C",
+    "options": {
+      "A": "Using complex diagramming tools.",
+      "B": "Only as a digital document.",
+      "C": "On a whiteboard or a piece of paper.",
+      "D": "Only using specialized software."
+    }
+  },
+  "116": {
+    "question": "What does 'highly abstract' mean in the context of a conceptual data model?",
+    "answer": "B",
+    "options": {
+      "A": "Very detailed and complex.",
+      "B": "Lacking in detail and high-level.",
+      "C": "Specific to a particular database.",
+      "D": "Difficult to understand."
+    }
+  },
+  "117": {
+    "question": "Which level of detail is characteristic of a conceptual data model?",
+    "answer": "A",
+    "options": {
+      "A": "High-level overview.",
+      "B": "Database-specific details.",
+      "C": "Very granular detail.",
+      "D": "Implementation specifics."
+    }
+  },
+  "118": {
+    "question": "Who can easily understand a conceptual data model?",
+    "answer": "B",
+    "options": {
+      "A": "Only non-technical users.",
+      "B": "Both technical and non-technical users.",
+      "C": "Only technical experts.",
+      "D": "Neither technical nor non-technical users."
+    }
+  },
+  "119": {
+    "question": "What makes a conceptual data model easily understandable?",
+    "answer": "B",
+    "options": {
+      "A": "Its use of technical jargon.",
+      "B": "Its simplicity and focus on main entities.",
+      "C": "Its database-specific terminology.",
+      "D": "Its complexity and detail."
+    }
+  },
+  "120": {
+    "question": "Why is a conceptual data model easy to enhance?",
+    "answer": "B",
+    "options": {
+      "A": "Because it is highly detailed.",
+      "B": "Because it is simple and abstract.",
+      "C": "Because it is a digital document.",
+      "D": "Because it requires specialized software."
+    }
+  },
+  "121": {
+    "question": "What characteristic of conceptual data models facilitates rapid updates?",
+    "answer": "B",
+    "options": {
+      "A": "Its complexity.",
+      "B": "Its abstract nature and simplicity.",
+      "C": "Its database specificity.",
+      "D": "Its digital format."
+    }
+  },
+  "122": {
+    "question": "What is primarily visible in a conceptual data model diagram?",
+    "answer": "A",
+    "options": {
+      "A": "Entities and relationships.",
+      "B": "Tables and columns.",
+      "C": "Indexes and constraints.",
+      "D": "Attributes and data types."
+    }
+  },
+  "123": {
+    "question": "Are attributes visible in a conceptual data model?",
+    "answer": "B",
+    "options": {
+      "A": "Yes, but only key attributes.",
+      "B": "No, they are not visible.",
+      "C": "Yes, they are the primary focus.",
+      "D": "Yes, they are visible with data types."
+    }
+  },
+  "124": {
+    "question": "What does 'abstract relationship' mean in a conceptual data model?",
+    "answer": "A",
+    "options": {
+      "A": "Relationships are high-level and do not specify column details.",
+      "B": "Relationships are very detailed.",
+      "C": "Relationships are not defined.",
+      "D": "Relationships are database-specific."
+    }
+  },
+  "125": {
+    "question": "Is the column on which a relationship is established specified in a conceptual data model?",
+    "answer": "D",
+    "options": {
+      "A": "Yes, but only for key relationships.",
+      "B": "Yes, it is specified with data types.",
+      "C": "Yes, it is always clearly specified.",
+      "D": "No, it is not specified at this stage."
+    }
+  },
+  "126": {
+    "question": "Is specialized software required to create a conceptual data model?",
+    "answer": "D",
+    "options": {
+      "A": "Yes, specialized software is mandatory.",
+      "B": "Only for digital documentation.",
+      "C": "Only for complex models.",
+      "D": "No, it can be created without specialized software."
+    }
+  },
+  "127": {
+    "question": "Which tools are sufficient for creating a conceptual data model?",
+    "answer": "C",
+    "options": {
+      "A": "Only advanced modeling software.",
+      "B": "Only digital drawing tools.",
+      "C": "Pen and paper or a whiteboard.",
+      "D": "Complex database design tools."
+    }
+  },
+  "128": {
+    "question": "How does a logical data model relate to a conceptual data model?",
+    "answer": "B",
+    "options": {
+      "A": "It replaces the conceptual data model.",
+      "B": "It expands upon the conceptual data model with more details.",
+      "C": "It is completely independent of the conceptual data model.",
+      "D": "It is created before the conceptual data model."
+    }
+  },
+  "129": {
+    "question": "What is the main purpose of a logical data model in relation to a conceptual model?",
+    "answer": "C",
+    "options": {
+      "A": "To simplify the conceptual model.",
+      "B": "To abstract away details from the conceptual model.",
+      "C": "To add more detail to the conceptual model.",
+      "D": "To replace the conceptual model with a physical implementation."
+    }
+  },
+  "130": {
+    "question": "What new element is introduced in a logical data model compared to a conceptual data model?",
+    "answer": "A",
+    "options": {
+      "A": "Attributes.",
+      "B": "Tables.",
+      "C": "Database names.",
+      "D": "Data types."
+    }
+  },
+  "131": {
+    "question": "What are the two types of attributes defined in a logical data model?",
+    "answer": "D",
+    "options": {
+      "A": "Simple and complex attributes.",
+      "B": "Primary and foreign attributes.",
+      "C": "Technical and non-technical attributes.",
+      "D": "Key and non-key attributes."
+    }
+  },
+  "132": {
+    "question": "What is the primary role of key attributes in a logical data model?",
+    "answer": "C",
+    "options": {
+      "A": "To describe the entity.",
+      "B": "To establish relationships between entities.",
+      "C": "To uniquely identify records within an entity.",
+      "D": "To store descriptive data."
+    }
+  },
+  "133": {
+    "question": "Which of the following is an example of a key attribute?",
+    "answer": "C",
+    "options": {
+      "A": "Product Description.",
+      "B": "Product Category.",
+      "C": "Product ID.",
+      "D": "Store Location."
+    }
+  },
+  "134": {
+    "question": "What is the characteristic of a non-key attribute?",
+    "answer": "A",
+    "options": {
+      "A": "It does not uniquely identify a record and can be repeated.",
+      "B": "It uniquely identifies a record.",
+      "C": "It is always numeric.",
+      "D": "It is used as a primary key."
+    }
+  },
+  "135": {
+    "question": "Which of these is likely a non-key attribute?",
+    "answer": "D",
+    "options": {
+      "A": "Order ID.",
+      "B": "Customer ID.",
+      "C": "Employee ID.",
+      "D": "Product Name."
+    }
+  },
+  "136": {
+    "question": "What type of relationships are clearly defined in a logical data model?",
+    "answer": "B",
+    "options": {
+      "A": "Physical relationships.",
+      "B": "Primary key - foreign key relationships.",
+      "C": "Conceptual relationships.",
+      "D": "Abstract relationships."
+    }
+  },
+  "137": {
+    "question": "How are primary keys from one entity referenced in a related entity within a logical data model?",
+    "answer": "C",
+    "options": {
+      "A": "As primary keys again.",
+      "B": "As non-key attributes.",
+      "C": "As foreign keys.",
+      "D": "They are not referenced."
+    }
+  },
+  "138": {
+    "question": "What kind of attribute names are preferred in a logical data model?",
+    "answer": "D",
+    "options": {
+      "A": "Database-compatible names.",
+      "B": "Technical jargon names.",
+      "C": "Short and abbreviated names.",
+      "D": "User-friendly and easily readable names."
+    }
+  },
+  "139": {
+    "question": "Why are user-friendly attribute names used in logical data models?",
+    "answer": "C",
+    "options": {
+      "A": "For database efficiency.",
+      "B": "To save space in the model.",
+      "C": "For easier understanding by a wide range of users.",
+      "D": "To comply with database naming conventions."
+    }
+  },
+  "140": {
+    "question": "What does 'database agnostic' mean in the context of a logical data model?",
+    "answer": "C",
+    "options": {
+      "A": "Compatible with all database types.",
+      "B": "Dependent on the latest database technology.",
+      "C": "Independent of any specific database.",
+      "D": "Specific to a single database."
+    }
+  },
+  "141": {
+    "question": "Can a logical data model be implemented in different types of databases?",
+    "answer": "B",
+    "options": {
+      "A": "No, it is designed for one specific database only.",
+      "B": "Yes, it can be implemented in various database types.",
+      "C": "Only in relational databases.",
+      "D": "Only in NoSQL databases."
+    }
+  },
+  "142": {
+    "question": "What type of tools are commonly used to create logical data models?",
+    "answer": "B",
+    "options": {
+      "A": "Spreadsheet software.",
+      "B": "Specialized software tools like Erwin or Power Designer.",
+      "C": "Simple drawing tools.",
+      "D": "Text editors."
+    }
+  },
+  "143": {
+    "question": "What is the benefit of using tools like Erwin or Power Designer for logical data modeling?",
+    "answer": "C",
+    "options": {
+      "A": "They are not necessary for logical data modeling.",
+      "B": "They make the model less detailed.",
+      "C": "They facilitate design, sharing, and conversion to physical models.",
+      "D": "They make the model database-specific."
+    }
+  },
+  "144": {
+    "question": "Compared to conceptual data models, how difficult are logical data models to enhance?",
+    "answer": "A",
+    "options": {
+      "A": "Slightly more difficult to enhance.",
+      "B": "Easier to enhance.",
+      "C": "Equally easy to enhance.",
+      "D": "Much more difficult to enhance."
+    }
+  },
+  "145": {
+    "question": "What makes logical data models more challenging to enhance than conceptual models?",
+    "answer": "D",
+    "options": {
+      "A": "Their tool independence.",
+      "B": "Their lack of detail.",
+      "C": "Their abstract nature.",
+      "D": "The added details of attributes and relationships."
+    }
+  },
+  "146": {
+    "question": "In a physical data model, what are entities and attributes called?",
+    "answer": "B",
+    "options": {
+      "A": "Entities and attributes.",
+      "B": "Tables and columns.",
+      "C": "Objects and properties.",
+      "D": "Records and fields."
+    }
+  },
+  "147": {
+    "question": "Why is the terminology changed to 'tables' and 'columns' in a physical data model?",
+    "answer": "B",
+    "options": {
+      "A": "To make it user-friendly.",
+      "B": "To align with database implementation terminology.",
+      "C": "To make it more abstract.",
+      "D": "To simplify the model."
+    }
+  },
+  "148": {
+    "question": "What type of column names are used in a physical data model?",
+    "answer": "B",
+    "options": {
+      "A": "User-friendly names with spaces.",
+      "B": "Database compatible names without spaces or special characters.",
+      "C": "Names exactly matching logical model attributes.",
+      "D": "Long and descriptive names."
+    }
+  },
+  "149": {
+    "question": "Why are column names in physical data models often abbreviated and without spaces?",
+    "answer": "A",
+    "options": {
+      "A": "To improve database compatibility and query efficiency.",
+      "B": "To simplify understanding for non-technical users.",
+      "C": "To make the model more abstract.",
+      "D": "To make them user-friendly."
+    }
+  },
+  "150": {
+    "question": "What new element is introduced in a physical data model regarding data?",
+    "answer": "B",
+    "options": {
+      "A": "Entities.",
+      "B": "Data types.",
+      "C": "User-friendly names.",
+      "D": "Abstract relationships."
+    }
+  },
+  "151": {
+    "question": "Are data types in a physical data model database-specific or database-agnostic?",
+    "answer": "A",
+    "options": {
+      "A": "Database-specific.",
+      "B": "Database-agnostic.",
+      "C": "Abstract.",
+      "D": "User-defined."
+    }
+  },
+  "152": {
+    "question": "Is a physical data model database-specific or database-agnostic?",
+    "answer": "C",
+    "options": {
+      "A": "Neither database-specific nor agnostic.",
+      "B": "Database-agnostic.",
+      "C": "Database-specific.",
+      "D": "Both database-specific and agnostic."
+    }
+  },
+  "153": {
+    "question": "What makes a physical data model database-specific?",
+    "answer": "C",
+    "options": {
+      "A": "Abstract relationships.",
+      "B": "User-friendly names.",
+      "C": "Data types and sometimes naming conventions tailored to a database.",
+      "D": "Entities and attributes."
+    }
+  },
+  "154": {
+    "question": "Are physical data models recommended for sharing with non-technical users?",
+    "answer": "C",
+    "options": {
+      "A": "No, only conceptual models should be shared.",
+      "B": "Yes, they are very user-friendly.",
+      "C": "No, logical models are preferred for sharing with users.",
+      "D": "Yes, they are easier to understand than logical models."
+    }
+  },
+  "155": {
+    "question": "Why are physical data models less understandable for non-technical users?",
+    "answer": "C",
+    "options": {
+      "A": "They lack detail.",
+      "B": "They use user-friendly names.",
+      "C": "They include database-specific terminology and abbreviations.",
+      "D": "They are too abstract."
+    }
+  },
+  "156": {
+    "question": "Compared to logical data models, how difficult are physical data models to enhance?",
+    "answer": "B",
+    "options": {
+      "A": "Less database-specific.",
+      "B": "More difficult to enhance.",
+      "C": "Equally difficult to enhance.",
+      "D": "Easier to enhance."
+    }
+  },
+  "157": {
+    "question": "What adds to the complexity of enhancing a physical data model?",
+    "answer": "D",
+    "options": {
+      "A": "Its user-friendly names.",
+      "B": "Its tool independence.",
+      "C": "Its abstract nature.",
+      "D": "Its database specificity and added details."
+    }
+  },
+  "158": {
+    "question": "What additional database objects are typically included in a physical data model beyond tables and columns?",
+    "answer": "C",
+    "options": {
+      "A": "Entities and attributes.",
+      "B": "Abstract relationships.",
+      "C": "Indexes, constraints, triggers, stored procedures, functions.",
+      "D": "User-friendly names."
+    }
+  },
+  "159": {
+    "question": "Why are objects like indexes and triggers included in a physical data model?",
+    "answer": "D",
+    "options": {
+      "A": "To make the model more abstract.",
+      "B": "To simplify the model.",
+      "C": "To make it database-agnostic.",
+      "D": "To ensure a complete database implementation."
+    }
+  },
+  "160": {
+    "question": "Which stage of data modeling is the most abstract?",
+    "answer": "A",
+    "options": {
+      "A": "Conceptual Data Model.",
+      "B": "Logical Data Model.",
+      "C": "All stages are equally abstract.",
+      "D": "Physical Data Model."
+    }
+  },
+  "161": {
+    "question": "Which stage of data modeling is database-specific?",
+    "answer": "C",
+    "options": {
+      "A": "Conceptual Data Model.",
+      "B": "Logical Data Model.",
+      "C": "Physical Data Model.",
+      "D": "All stages are database-specific."
+    }
+  }
+}

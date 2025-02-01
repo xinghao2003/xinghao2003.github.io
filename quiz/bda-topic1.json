@@ -1,0 +1,1382 @@
+{
+  "1": {
+    "question": "Which of the following best describes Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Data that requires advanced analytics techniques and specialized processing.",
+      "B": "Data that is always static and doesn't stream.",
+      "C": "Data that can be easily stored in a single unit.",
+      "D": "Data that only comes in structured format."
+    }
+  },
+  "2": {
+    "question": "What are some typical forms of data in Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "Only unstructured data.",
+      "B": "Only structured data.",
+      "C": "Only streaming data.",
+      "D": "Structured, unstructured, or streaming data."
+    }
+  },
+  "3": {
+    "question": "What is the primary purpose of analytics?",
+    "answer": "C",
+    "options": {
+      "A": "To store data efficiently.",
+      "B": "To present data in a visually appealing format.",
+      "C": "To develop actionable decisions based on data.",
+      "D": "To create complex algorithms."
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT a component of analytics?",
+    "answer": "D",
+    "options": {
+      "A": "Computer Technology",
+      "B": "Management Science Techniques",
+      "C": "Statistics",
+      "D": "Pure mathematics"
+    }
+  },
+  "5": {
+    "question": "What is the main goal of data analysis?",
+    "answer": "D",
+    "options": {
+      "A": "To clean and store data",
+      "B": "To develop new software tools.",
+      "C": "To present data visually",
+      "D": "To find facts and trends in data to support better decisions."
+    }
+  },
+  "6": {
+    "question": "What is one example of a simple data analysis mentioned in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Analyzing stock market prices.",
+      "B": "Analyzing ice cream sales data in relation to daily temperature.",
+      "C": "Analyzing customer reviews.",
+      "D": "Analyzing traffic patterns."
+    }
+  },
+  "7": {
+    "question": "How is Data Analytics (DA) different from Data Analysis?",
+    "answer": "B",
+    "options": {
+      "A": "DA is more specific than data analysis.",
+      "B": "DA is a broader term, encompassing the entire data lifecycle.",
+      "C": "DA only focuses on analysis, not other parts of lifecycle.",
+      "D": "DA only uses traditional tools, not scalable technology."
+    }
+  },
+  "8": {
+    "question": "What does the data lifecycle, managed by DA, include?",
+    "answer": "B",
+    "options": {
+      "A": "Only data storage and governance.",
+      "B": "Collecting, cleansing, organizing, storing, analyzing and governing data.",
+      "C": "Only data collection and analysis.",
+      "D": "Only data visualization."
+    }
+  },
+  "9": {
+    "question": "How many general categories of analytics are there?",
+    "answer": "A",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "5",
+      "D": "2"
+    }
+  },
+  "10": {
+    "question": "Which of the following is NOT a general category of analytics?",
+    "answer": "B",
+    "options": {
+      "A": "Diagnostic analytics",
+      "B": "Inferential analytics",
+      "C": "Descriptive analytics",
+      "D": "Prescriptive analytics"
+    }
+  },
+  "11": {
+    "question": "What is the main focus of descriptive analytics?",
+    "answer": "D",
+    "options": {
+      "A": "Predicting future outcomes",
+      "B": "Discovering hidden patterns.",
+      "C": "Recommending actions",
+      "D": "Understanding past and current business performance."
+    }
+  },
+  "12": {
+    "question": "What tools are typically used in descriptive analytics?",
+    "answer": "A",
+    "options": {
+      "A": "Common statistics and data visualization techniques.",
+      "B": "Advanced programming languages.",
+      "C": "Complex data mining techniques.",
+      "D": "Machine learning models"
+    }
+  },
+  "13": {
+    "question": "Which techniques are commonly used in diagnostic analytics?",
+    "answer": "A",
+    "options": {
+      "A": "Data discovery and data mining techniques.",
+      "B": "Linear regression.",
+      "C": "Machine learning",
+      "D": "Simple summarization of data"
+    }
+  },
+  "14": {
+    "question": "What type of analysis is frequently used in Diagnostic Analytics?",
+    "answer": "C",
+    "options": {
+      "A": "A/B Testing.",
+      "B": "Forecasting",
+      "C": "Drill-down and roll-up analysis",
+      "D": "Trend analysis."
+    }
+  },
+  "15": {
+    "question": "What is the primary function of predictive analytics?",
+    "answer": "B",
+    "options": {
+      "A": "Describing historical events.",
+      "B": "Predicting future outcomes.",
+      "C": "Analyzing past data only.",
+      "D": "Understanding current performance."
+    }
+  },
+  "16": {
+    "question": "What is used to train the model in predictive analytics?",
+    "answer": "B",
+    "options": {
+      "A": "External market data",
+      "B": "Training data set",
+      "C": "Randomly generated data.",
+      "D": "Test data set."
+    }
+  },
+  "17": {
+    "question": "What does prescriptive analytics aim to do?",
+    "answer": "D",
+    "options": {
+      "A": "Predict future outcomes.",
+      "B": "Analyze past data.",
+      "C": "Visualize data.",
+      "D": "Recommend actions to achieve specific results"
+    }
+  },
+  "18": {
+    "question": "After performing data analysis, where are the results sent in prescriptive analysis?",
+    "answer": "A",
+    "options": {
+      "A": "To medical or other experts",
+      "B": "To a database",
+      "C": "To the cloud",
+      "D": "To a dashboard"
+    }
+  },
+  "19": {
+    "question": "What does Business Intelligence (BI) primarily help organizations achieve?",
+    "answer": "B",
+    "options": {
+      "A": "To create data visualizations.",
+      "B": "To gain insights into their performance.",
+      "C": "To manage data storage.",
+      "D": "To develop new products"
+    }
+  },
+  "20": {
+    "question": "How does BI surface its output?",
+    "answer": "B",
+    "options": {
+      "A": "Using command-line interfaces.",
+      "B": "Via a dashboard for managers.",
+      "C": "Via complex reports",
+      "D": "Through data warehouses"
+    }
+  },
+  "21": {
+    "question": "What is the purpose of Key Performance Indicators (KPIs)?",
+    "answer": "A",
+    "options": {
+      "A": "To gauge success within a business context.",
+      "B": "To develop new algorithms.",
+      "C": "To clean data.",
+      "D": "To store data."
+    }
+  },
+  "22": {
+    "question": "Where are KPIs often displayed?",
+    "answer": "B",
+    "options": {
+      "A": "On a command line interface.",
+      "B": "Via a KPI dashboard.",
+      "C": "In detailed text reports.",
+      "D": "In data warehouses."
+    }
+  },
+  "23": {
+    "question": "What does 'volume' refer to in Big Data characteristics?",
+    "answer": "A",
+    "options": {
+      "A": "The large amount of data.",
+      "B": "The speed at which data is processed.",
+      "C": "The variety of data formats.",
+      "D": "The uncertainty in data."
+    }
+  },
+  "24": {
+    "question": "How is volume in big data typically measured?",
+    "answer": "D",
+    "options": {
+      "A": "In percentages and ratios.",
+      "B": "In lines and characters.",
+      "C": "In seconds or milliseconds.",
+      "D": "In terabytes, petabytes and beyond."
+    }
+  },
+  "25": {
+    "question": "What does 'velocity' represent in the context of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "The speed at which data is generated and processed.",
+      "B": "The formats and types of data.",
+      "C": "The accuracy and reliability of data.",
+      "D": "The amount of storage space data consumes."
+    }
+  },
+  "26": {
+    "question": "What does the velocity of data translate to from an enterprise point of view?",
+    "answer": "B",
+    "options": {
+      "A": "How frequently the data is updated",
+      "B": "The time it takes for the data to be processed.",
+      "C": "The data structure.",
+      "D": "How much the storage costs."
+    }
+  },
+  "27": {
+    "question": "What does 'variety' in Big Data refer to?",
+    "answer": "A",
+    "options": {
+      "A": "The different formats and types of data.",
+      "B": "The large volume of data.",
+      "C": "The quality and accuracy of data.",
+      "D": "The speed of data generation."
+    }
+  },
+  "28": {
+    "question": "Which of the following data types represent the variety of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Only binary data.",
+      "B": "Only structured data.",
+      "C": "Structured, unstructured and semi-structured data.",
+      "D": "Only unstructured data."
+    }
+  },
+  "29": {
+    "question": "What does 'veracity' mean in the context of Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "The speed at which data is processed.",
+      "B": "The quality and reliability of data.",
+      "C": "The amount of data.",
+      "D": "The formats and types of data"
+    }
+  },
+  "30": {
+    "question": "What does a high signal-to-noise ratio in data indicate?",
+    "answer": "D",
+    "options": {
+      "A": "Lower veracity of data",
+      "B": "Low volume of data.",
+      "C": "High speed of data processing.",
+      "D": "Higher veracity of data."
+    }
+  },
+  "31": {
+    "question": "What does 'value' in the 5Vs of Big Data represent?",
+    "answer": "A",
+    "options": {
+      "A": "The usefulness of the data for an enterprise.",
+      "B": "The variability of data formats.",
+      "C": "The amount of storage data occupies.",
+      "D": "The speed of processing data."
+    }
+  },
+  "32": {
+    "question": "How is the value of data related to its veracity?",
+    "answer": "C",
+    "options": {
+      "A": "Data fidelity and data value are always inversely proportional.",
+      "B": "Higher the data fidelity, lower the value.",
+      "C": "Higher the data fidelity, higher the value.",
+      "D": "There is no relation between data fidelity and its value."
+    }
+  },
+  "33": {
+    "question": "What is an example of human-generated data?",
+    "answer": "A",
+    "options": {
+      "A": "Social media posts.",
+      "B": "Telemetry data.",
+      "C": "Smart meter data.",
+      "D": "Sensor data from a machine."
+    }
+  },
+  "34": {
+    "question": "Which of the following represents an example of machine-generated data?",
+    "answer": "A",
+    "options": {
+      "A": "Web logs.",
+      "B": "Blog posts",
+      "C": "Photo sharing",
+      "D": "Emails"
+    }
+  },
+  "35": {
+    "question": "How is structured data typically stored?",
+    "answer": "A",
+    "options": {
+      "A": "In relational databases.",
+      "B": "In a hierarchical format.",
+      "C": "In text files.",
+      "D": "In self-contained binary files."
+    }
+  },
+  "36": {
+    "question": "What characterizes structured data?",
+    "answer": "A",
+    "options": {
+      "A": "It conforms to a data model or schema.",
+      "B": "It is always in text form.",
+      "C": "It is stored in a non-relational format.",
+      "D": "It does not conform to any schema."
+    }
+  },
+  "37": {
+    "question": "Which of the following describes unstructured data?",
+    "answer": "D",
+    "options": {
+      "A": "Data that is always in tabular form.",
+      "B": "Data that has a defined structure.",
+      "C": "Data that is stored in a relational database.",
+      "D": "Data that does not conform to a data model."
+    }
+  },
+  "38": {
+    "question": "How is unstructured data typically conveyed?",
+    "answer": "B",
+    "options": {
+      "A": "Through a hierarchical format.",
+      "B": "Via self-contained files, either textual or binary.",
+      "C": "Via structured tables",
+      "D": "Using relational schemas."
+    }
+  },
+  "39": {
+    "question": "What is a characteristic of semi-structured data?",
+    "answer": "A",
+    "options": {
+      "A": "It has a defined level of structure but is not relational.",
+      "B": "It is always unstructured.",
+      "C": "It is always tabular.",
+      "D": "It does not contain text."
+    }
+  },
+  "40": {
+    "question": "How is semi-structured data commonly stored?",
+    "answer": "D",
+    "options": {
+      "A": "In tabular form.",
+      "B": "In binary files",
+      "C": "In relational databases",
+      "D": "In files that contain text."
+    }
+  },
+  "41": {
+    "question": "What does metadata provide information about?",
+    "answer": "D",
+    "options": {
+      "A": "The content of a dataset.",
+      "B": "The analysis of data",
+      "C": "The structure of algorithms",
+      "D": "A dataset's characteristics and structure."
+    }
+  },
+  "42": {
+    "question": "Why is the tracking of metadata crucial for Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "To provide encryption for data.",
+      "B": "To manage the display of data.",
+      "C": "To ensure data is never modified",
+      "D": "To provide information about the pedigree of the data and its provenance during processing"
+    }
+  },
+  "43": {
+    "question": "What is the primary goal of analytics?",
+    "answer": "A",
+    "options": {
+      "A": "To develop actionable decisions based on historical data insights.",
+      "B": "To replace traditional databases.",
+      "C": "To store large volumes of data.",
+      "D": "To create complex statistical models."
+    }
+  },
+  "44": {
+    "question": "Analytics is a combination of which of the following?",
+    "answer": "A",
+    "options": {
+      "A": "Computer technology, management science techniques, and statistics.",
+      "B": "Only management science and historical data.",
+      "C": "Statistical models and data visualization tools.",
+      "D": "Only computer technology and statistics."
+    }
+  },
+  "45": {
+    "question": "Which of the following best describes Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Data that is too large and complex for traditional processing.",
+      "B": "Data that is only structured and numerical.",
+      "C": "Data that can be easily stored in a single storage unit.",
+      "D": "Data that is processed in batch mode only."
+    }
+  },
+  "46": {
+    "question": "According to the document, Big Data is NOT just about being 'big', but also about:",
+    "answer": "D",
+    "options": {
+      "A": "Having a single data type.",
+      "B": "Being processed by traditional systems.",
+      "C": "Being easily manageable.",
+      "D": "Including diverse data types and streaming data."
+    }
+  },
+  "47": {
+    "question": "What is a dataset?",
+    "answer": "C",
+    "options": {
+      "A": "A single piece of information.",
+      "B": "A collection of unrelated data points.",
+      "C": "A collection or group of related data.",
+      "D": "A type of data analysis technique."
+    }
+  },
+  "48": {
+    "question": "Which of the following is an example of a dataset format?",
+    "answer": "C",
+    "options": {
+      "A": "Dashboard",
+      "B": "Predictive model",
+      "C": "CSV file",
+      "D": "Algorithm"
+    }
+  },
+  "49": {
+    "question": "What is the primary purpose of data analysis?",
+    "answer": "B",
+    "options": {
+      "A": "To clean and organize raw data.",
+      "B": "To find facts, relationships, and patterns in data to support decision-making.",
+      "C": "To store data efficiently.",
+      "D": "To visualize data in charts."
+    }
+  },
+  "50": {
+    "question": "Analyzing ice cream sales data in relation to daily temperature is an example of:",
+    "answer": "A",
+    "options": {
+      "A": "Data analysis.",
+      "B": "Data storage.",
+      "C": "Big Data processing.",
+      "D": "Predictive analytics."
+    }
+  },
+  "51": {
+    "question": "How is Data Analytics (DA) different from Data Analysis?",
+    "answer": "D",
+    "options": {
+      "A": "DA only deals with structured data.",
+      "B": "Data Analysis is more comprehensive than DA.",
+      "C": "DA is a narrower term focused only on analysis.",
+      "D": "DA is a broader discipline that includes the entire data lifecycle management."
+    }
+  },
+  "52": {
+    "question": "In Big Data environments, Data Analytics utilizes:",
+    "answer": "C",
+    "options": {
+      "A": "Small datasets for analysis.",
+      "B": "Traditional single-server databases.",
+      "C": "Highly scalable distributed technologies and frameworks.",
+      "D": "Manual data processing techniques."
+    }
+  },
+  "53": {
+    "question": "What are the four general categories of analytics discussed in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Descriptive, Diagnostic, Predictive, Prescriptive.",
+      "B": "Data Mining, Machine Learning, Statistics, Visualization.",
+      "C": "Structured, Unstructured, Semi-structured, Metadata.",
+      "D": "Real-time, Batch, Stream, Historical."
+    }
+  },
+  "54": {
+    "question": "In terms of value and complexity, how are the four categories of analytics ordered?",
+    "answer": "B",
+    "options": {
+      "A": "Descriptive < Prescriptive < Diagnostic < Predictive",
+      "B": "Descriptive < Diagnostic < Predictive < Prescriptive",
+      "C": "Prescriptive < Predictive < Diagnostic < Descriptive",
+      "D": "Diagnostic < Descriptive < Prescriptive < Predictive"
+    }
+  },
+  "55": {
+    "question": "What is the main focus of descriptive analytics?",
+    "answer": "B",
+    "options": {
+      "A": "Identifying the causes of past events.",
+      "B": "Understanding past and current performance.",
+      "C": "Prescribing actions for the future.",
+      "D": "Predicting future outcomes."
+    }
+  },
+  "56": {
+    "question": "Which question does descriptive analytics primarily answer?",
+    "answer": "A",
+    "options": {
+      "A": "What happened?",
+      "B": "Why did it happen?",
+      "C": "What will happen?",
+      "D": "What should we do?"
+    }
+  },
+  "57": {
+    "question": "What is the main goal of diagnostic analytics?",
+    "answer": "B",
+    "options": {
+      "A": "To predict future trends.",
+      "B": "To understand why something happened.",
+      "C": "To describe what is happening.",
+      "D": "To recommend future actions."
+    }
+  },
+  "58": {
+    "question": "Diagnostic analytics primarily answers which question?",
+    "answer": "B",
+    "options": {
+      "A": "What will happen next?",
+      "B": "Why did this happen?",
+      "C": "What is currently happening?",
+      "D": "What is the best course of action?"
+    }
+  },
+  "59": {
+    "question": "What is the primary purpose of predictive analytics?",
+    "answer": "C",
+    "options": {
+      "A": "To describe historical data.",
+      "B": "To analyze current performance.",
+      "C": "To forecast future outcomes.",
+      "D": "To explain past events."
+    }
+  },
+  "60": {
+    "question": "Predictive analytics is mainly concerned with answering which question?",
+    "answer": "B",
+    "options": {
+      "A": "What is the current sales volume?",
+      "B": "What will happen in the future?",
+      "C": "What happened in the past?",
+      "D": "Why are sales declining?"
+    }
+  },
+  "61": {
+    "question": "What is the main objective of prescriptive analytics?",
+    "answer": "A",
+    "options": {
+      "A": "To recommend the best course of action.",
+      "B": "To predict future trends.",
+      "C": "To describe past performance.",
+      "D": "To understand the causes of events."
+    }
+  },
+  "62": {
+    "question": "Prescriptive analytics is primarily focused on answering the question:",
+    "answer": "C",
+    "options": {
+      "A": "What will happen if we do this?",
+      "B": "Why is this happening?",
+      "C": "What should we do?",
+      "D": "What happened last quarter?"
+    }
+  },
+  "63": {
+    "question": "What is the purpose of Business Intelligence (BI)?",
+    "answer": "D",
+    "options": {
+      "A": "To manage IT infrastructure.",
+      "B": "To collect raw data.",
+      "C": "To automate business processes.",
+      "D": "To gain insight into business performance for better decision-making."
+    }
+  },
+  "64": {
+    "question": "How is the output of Business Intelligence typically presented?",
+    "answer": "B",
+    "options": {
+      "A": "In complex statistical reports.",
+      "B": "On dashboards for easy access and analysis.",
+      "C": "As raw data tables.",
+      "D": "Through command-line interfaces."
+    }
+  },
+  "65": {
+    "question": "What is a Key Performance Indicator (KPI)?",
+    "answer": "A",
+    "options": {
+      "A": "A metric to gauge business success.",
+      "B": "A method of data analysis.",
+      "C": "A software for data visualization.",
+      "D": "A type of data storage."
+    }
+  },
+  "66": {
+    "question": "KPIs are primarily used for which of the following?",
+    "answer": "C",
+    "options": {
+      "A": "Predicting future market trends.",
+      "B": "Automating customer service interactions.",
+      "C": "Identifying business performance problems and demonstrating compliance.",
+      "D": "Data collection."
+    }
+  },
+  "67": {
+    "question": "What are the '5 Vs' of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Validity, Variability, Visualization, Volume, Veracity.",
+      "B": "Volatility, Volume, Variety, Velocity, Virtuality.",
+      "C": "Volume, Velocity, Variety, Veracity, Value.",
+      "D": "Value, Volume, Visualization, Veracity, Velocity."
+    }
+  },
+  "68": {
+    "question": "Which 'V' of Big Data refers to the speed at which data is generated and processed?",
+    "answer": "B",
+    "options": {
+      "A": "Veracity",
+      "B": "Velocity",
+      "C": "Volume",
+      "D": "Variety"
+    }
+  },
+  "69": {
+    "question": "What does 'Volume' refer to in the context of Big Data characteristics?",
+    "answer": "D",
+    "options": {
+      "A": "The speed of data processing.",
+      "B": "The different types of data.",
+      "C": "The quality of data.",
+      "D": "The amount of data."
+    }
+  },
+  "70": {
+    "question": "Which of these units is typically associated with Big Data volume?",
+    "answer": "C",
+    "options": {
+      "A": "Bytes",
+      "B": "Kilobytes",
+      "C": "Terabytes",
+      "D": "Megabytes"
+    }
+  },
+  "71": {
+    "question": "What does 'Velocity' represent in Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "The variety of data sources.",
+      "B": "The validity of data.",
+      "C": "The volume of data.",
+      "D": "The speed of data generation and processing."
+    }
+  },
+  "72": {
+    "question": "Handling high 'Velocity' in Big Data often requires:",
+    "answer": "C",
+    "options": {
+      "A": "Manual data entry.",
+      "B": "Batch processing systems.",
+      "C": "Elastic data processing solutions.",
+      "D": "Traditional database systems."
+    }
+  },
+  "73": {
+    "question": "What does 'Variety' signify within the context of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "The speed of data arrival.",
+      "B": "The volume of data.",
+      "C": "The different types and formats of data.",
+      "D": "The truthfulness of data."
+    }
+  },
+  "74": {
+    "question": "Which of the following is an example of 'Variety' in Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Text, images, and video data.",
+      "B": "Slow data streams.",
+      "C": "Only structured data.",
+      "D": "Consistent data formats."
+    }
+  },
+  "75": {
+    "question": "What aspect of Big Data does 'Veracity' address?",
+    "answer": "B",
+    "options": {
+      "A": "The different formats of data.",
+      "B": "The quality and reliability of data.",
+      "C": "The amount of data.",
+      "D": "The speed of data processing."
+    }
+  },
+  "76": {
+    "question": "Data with high 'Veracity' typically has:",
+    "answer": "C",
+    "options": {
+      "A": "Inconsistent formats.",
+      "B": "Low signal-to-noise ratio.",
+      "C": "High signal-to-noise ratio.",
+      "D": "Slow processing speed."
+    }
+  },
+  "77": {
+    "question": "What does 'Value' represent in the context of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "The usefulness of data for an enterprise.",
+      "B": "The speed of data processing.",
+      "C": "The volume of data.",
+      "D": "The variety of data types."
+    }
+  },
+  "78": {
+    "question": "According to the document, 'Value' in Big Data is closely related to which other 'V'?",
+    "answer": "C",
+    "options": {
+      "A": "Volume",
+      "B": "Velocity",
+      "C": "Veracity",
+      "D": "Variety"
+    }
+  },
+  "79": {
+    "question": "Which of the following is characteristic of structured data?",
+    "answer": "D",
+    "options": {
+      "A": "It is typically stored in non-tabular formats.",
+      "B": "It does not conform to a predefined model.",
+      "C": "It is mainly composed of images and videos.",
+      "D": "It conforms to a data model or schema and is often stored in tabular form."
+    }
+  },
+  "80": {
+    "question": "Structured data is most often stored in:",
+    "answer": "D",
+    "options": {
+      "A": "Text files.",
+      "B": "Image files.",
+      "C": "NoSQL databases.",
+      "D": "Relational databases."
+    }
+  },
+  "81": {
+    "question": "What is a defining characteristic of unstructured data?",
+    "answer": "A",
+    "options": {
+      "A": "It does not conform to a data model or schema.",
+      "B": "It conforms to a predefined data model.",
+      "C": "It is always numerical.",
+      "D": "It is easily stored in relational databases."
+    }
+  },
+  "82": {
+    "question": "Which of the following is an example of unstructured data?",
+    "answer": "D",
+    "options": {
+      "A": "Database table",
+      "B": "Spreadsheet",
+      "C": "CSV file",
+      "D": "Image file"
+    }
+  },
+  "83": {
+    "question": "How does semi-structured data differ from structured data?",
+    "answer": "A",
+    "options": {
+      "A": "Semi-structured data has some organizational properties but not a rigid schema.",
+      "B": "Semi-structured data conforms to a rigid schema.",
+      "C": "Semi-structured data is always numerical.",
+      "D": "Semi-structured data is purely random and unorganized."
+    }
+  },
+  "84": {
+    "question": "Which of the following file formats is commonly used for semi-structured data?",
+    "answer": "A",
+    "options": {
+      "A": "JSON",
+      "B": "XLSX",
+      "C": "CSV",
+      "D": "SQL"
+    }
+  },
+  "85": {
+    "question": "What is metadata?",
+    "answer": "C",
+    "options": {
+      "A": "Raw data that has not been processed.",
+      "B": "A type of unstructured data.",
+      "C": "Data about data, describing its characteristics.",
+      "D": "Data used for visualization."
+    }
+  },
+  "86": {
+    "question": "Why is metadata crucial for Big Data processing?",
+    "answer": "D",
+    "options": {
+      "A": "It is not crucial for Big Data processing.",
+      "B": "It is used for storing large volumes of data.",
+      "C": "It helps in data visualization only.",
+      "D": "It provides information about data's pedigree and provenance."
+    }
+  },
+  "87": {
+    "question": "What is the source of human-generated data?",
+    "answer": "B",
+    "options": {
+      "A": "Hardware devices.",
+      "B": "Human interaction with systems.",
+      "C": "Environmental sensors.",
+      "D": "Software programs."
+    }
+  },
+  "88": {
+    "question": "Which of the following is an example of human-generated data?",
+    "answer": "A",
+    "options": {
+      "A": "Social media posts",
+      "B": "Web logs",
+      "C": "Sensor data",
+      "D": "Telemetry data"
+    }
+  },
+  "89": {
+    "question": "How is machine-generated data created?",
+    "answer": "D",
+    "options": {
+      "A": "From social media interactions.",
+      "B": "Through direct human input.",
+      "C": "Through manual data entry.",
+      "D": "By software programs and hardware devices."
+    }
+  },
+  "90": {
+    "question": "Which of these is an example of machine-generated data?",
+    "answer": "A",
+    "options": {
+      "A": "Sensor data",
+      "B": "Photo sharing",
+      "C": "Emails",
+      "D": "Blog posts"
+    }
+  },
+  "91": {
+    "question": "Which of the following is NOT a way smartphones generate data?",
+    "answer": "C",
+    "options": {
+      "A": "SMS messages",
+      "B": "Video consumption",
+      "C": "Physical mail",
+      "D": "Phone calls"
+    }
+  },
+  "92": {
+    "question": "Approximately how much data is generated per month by a single smartphone user?",
+    "answer": "B",
+    "options": {
+      "A": "4 Exabytes",
+      "B": "40 Exabytes",
+      "C": "4 Terabytes",
+      "D": "400 Exabytes"
+    }
+  },
+  "93": {
+    "question": "What term describes the large amount of data that is difficult for traditional systems to manage?",
+    "answer": "C",
+    "options": {
+      "A": "Small Data",
+      "B": "Tiny Data",
+      "C": "Big Data",
+      "D": "Medium Data"
+    }
+  },
+  "94": {
+    "question": "How many snaps are shared per minute on Snapchat, according to the video?",
+    "answer": "C",
+    "options": {
+      "A": "4.1 Million",
+      "B": "1.1 Million",
+      "C": "2.1 Million",
+      "D": "3.1 Million"
+    }
+  },
+  "95": {
+    "question": "Approximately how many search queries are made on Google per minute according to the video?",
+    "answer": "D",
+    "options": {
+      "A": "2.8 Million",
+      "B": "1.8 Million",
+      "C": "4.8 Million",
+      "D": "3.8 Million"
+    }
+  },
+  "96": {
+    "question": "Which of the following is NOT one of the 5 V's of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Visibility",
+      "B": "Value",
+      "C": "Veracity",
+      "D": "Volume"
+    }
+  },
+  "97": {
+    "question": "What does 'Veracity' refer to in the context of Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "The size of data",
+      "B": "The accuracy and trustworthiness of the data",
+      "C": "The speed of data generation",
+      "D": "The different types of data"
+    }
+  },
+  "98": {
+    "question": "How much data is collected annually in the form of patient records and test results, according to the video?",
+    "answer": "B",
+    "options": {
+      "A": "2,314 Megabytes",
+      "B": "2,314 Exabytes",
+      "C": "2,314 Terabytes",
+      "D": "2,314 Gigabytes"
+    }
+  },
+  "99": {
+    "question": "Which of the following is an example of structured data?",
+    "answer": "D",
+    "options": {
+      "A": "Emails",
+      "B": "X-ray images",
+      "C": "Log files",
+      "D": "Excel records"
+    }
+  },
+  "100": {
+    "question": "Which of the following is an example of Unstructured data?",
+    "answer": "B",
+    "options": {
+      "A": "Patient records",
+      "B": "X-ray images",
+      "C": "Excel files",
+      "D": "Log files"
+    }
+  },
+  "101": {
+    "question": "What are the benefits of analyzing big data in the medical field?",
+    "answer": "C",
+    "options": {
+      "A": "Cost increase",
+      "B": "None of the above",
+      "C": "Better treatment and reduced costs",
+      "D": "Slower disease detection"
+    }
+  },
+  "102": {
+    "question": "According to the video, which of the following is a framework used to store and process Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "Android",
+      "B": "Hadoop",
+      "C": "Python",
+      "D": "JavaScript"
+    }
+  },
+  "103": {
+    "question": "What is the Hadoop Distributed File System (HDFS) used for?",
+    "answer": "A",
+    "options": {
+      "A": "Storing data",
+      "B": "All of the above",
+      "C": "Analyzing data",
+      "D": "Processing data"
+    }
+  },
+  "104": {
+    "question": "How does HDFS store large data files?",
+    "answer": "B",
+    "options": {
+      "A": "By compressing the data",
+      "B": "By breaking them into smaller chunks across multiple machines",
+      "C": "By encrypting them",
+      "D": "By storing them in a single large block"
+    }
+  },
+  "105": {
+    "question": "What is the role of map reduce technique when processing Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "To process the big data in a parallel manner",
+      "B": "To compress the big data",
+      "C": "None of the above",
+      "D": "To process the big data in a sequential manner"
+    }
+  },
+  "106": {
+    "question": "How is big data used in games such as Halo 3 and Call of Duty?",
+    "answer": "B",
+    "options": {
+      "A": "To increase the cost",
+      "B": "To improve user experience by analyzing player behavior",
+      "C": "None of the above",
+      "D": "To predict the weather"
+    }
+  },
+  "107": {
+    "question": "What was the importance of big data analysis in the 2012 Hurricane Sandy?",
+    "answer": "C",
+    "options": {
+      "A": "None of the above",
+      "B": "To increase the intensity of the hurricane",
+      "C": "To be able to predict the hurricane's landfall in advance",
+      "D": "To reduce the impact of the hurricane on east coast"
+    }
+  },
+  "108": {
+    "question": "What is the primary characteristic that defines 'big data'?",
+    "answer": "D",
+    "options": {
+      "A": "Data that is generated slowly.",
+      "B": "Data that can be easily processed by traditional systems.",
+      "C": "Data that is stored in small files.",
+      "D": "Massive volume of data that traditional systems struggle to handle."
+    }
+  },
+  "109": {
+    "question": "According to the document, what makes data 'big data'?",
+    "answer": "C",
+    "options": {
+      "A": "Its ability to be processed by any computer.",
+      "B": "The speed at which it is accessed by users.",
+      "C": "The sheer volume of data generated and its complexity.",
+      "D": "The type of software used to create it."
+    }
+  },
+  "110": {
+    "question": "Approximately how much data is generated by a single smartphone user every month, as mentioned in the document?",
+    "answer": "B",
+    "options": {
+      "A": "40 terabytes",
+      "B": "40 exabytes",
+      "C": "40 megabytes",
+      "D": "40 gigabytes"
+    }
+  },
+  "111": {
+    "question": "Which of the following activities on a smartphone contributes to data generation, according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "Only listening to music and browsing the internet.",
+      "B": "Only phone calls and text messages.",
+      "C": "Only taking photos and videos.",
+      "D": "Texts, phone calls, emails, photos, videos, searches, and music."
+    }
+  },
+  "112": {
+    "question": "According to the document, approximately how many search queries are made on Google per minute?",
+    "answer": "B",
+    "options": {
+      "A": "2.1 million",
+      "B": "3.8 million",
+      "C": "4.5 million",
+      "D": "1 million"
+    }
+  },
+  "113": {
+    "question": "Which social media platform sees approximately 1 million logins per minute, as stated in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Instagram",
+      "B": "Facebook",
+      "C": "Snapchat",
+      "D": "YouTube"
+    }
+  },
+  "114": {
+    "question": "How many emails are estimated to be sent per minute across the internet, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "1.88 billion",
+      "B": "188 million",
+      "C": "18.8 million",
+      "D": "1.88 million"
+    }
+  },
+  "115": {
+    "question": "What are the five V's used to classify big data?",
+    "answer": "A",
+    "options": {
+      "A": "Volume, Velocity, Variety, Veracity, Value",
+      "B": "Volume, Velocity, Validity, Volatility, Value",
+      "C": "Validity, Variety, Volatility, Veracity, Virtue",
+      "D": "Virtue, Validity, Velocity, Volume, Variety"
+    }
+  },
+  "116": {
+    "question": "Which of the five V's of big data refers to the accuracy and trustworthiness of the data?",
+    "answer": "A",
+    "options": {
+      "A": "Veracity",
+      "B": "Volume",
+      "C": "Velocity",
+      "D": "Variety"
+    }
+  },
+  "117": {
+    "question": "Which of the five V's of big data is characterized by the different types of data, such as structured, semi-structured, and unstructured?",
+    "answer": "A",
+    "options": {
+      "A": "Variety",
+      "B": "Volume",
+      "C": "Velocity",
+      "D": "Value"
+    }
+  },
+  "118": {
+    "question": "What does 'Velocity' refer to in the context of the five V's of big data?",
+    "answer": "C",
+    "options": {
+      "A": "The usefulness of data for decision-making.",
+      "B": "The amount of storage space data occupies.",
+      "C": "The speed at which data is generated and processed.",
+      "D": "The different formats of data."
+    }
+  },
+  "119": {
+    "question": "In the context of the five V's of big data, what does 'Volume' signify?",
+    "answer": "D",
+    "options": {
+      "A": "The speed of data processing.",
+      "B": "The variety of data types.",
+      "C": "The accuracy of data.",
+      "D": "The sheer amount of data."
+    }
+  },
+  "120": {
+    "question": "How much data is approximately collected annually in the healthcare sector, as per the document?",
+    "answer": "D",
+    "options": {
+      "A": "2 petabytes",
+      "B": "2 zettabytes",
+      "C": "2 terabytes",
+      "D": "2 exabytes"
+    }
+  },
+  "121": {
+    "question": "What are some examples of data types found in the healthcare industry, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Only unstructured data like X-ray images.",
+      "B": "Structured, semi-structured, and unstructured data such as Excel records, log files, and X-ray images.",
+      "C": "Only structured data like Excel records.",
+      "D": "Only numerical data from test results."
+    }
+  },
+  "122": {
+    "question": "According to the document, what is the 'value' of big data in the medical sector?",
+    "answer": "D",
+    "options": {
+      "A": "Generating data at a faster rate.",
+      "B": "Increasing the variety of medical data.",
+      "C": "Storing data in larger databases.",
+      "D": "Enabling faster disease detection, better treatment, and reduced cost."
+    }
+  },
+  "123": {
+    "question": "Which of the following frameworks is mentioned in the document as being used for storing and processing big data?",
+    "answer": "C",
+    "options": {
+      "A": "SQL",
+      "B": "Java",
+      "C": "Hadoop",
+      "D": "Python"
+    }
+  },
+  "124": {
+    "question": "Besides Hadoop, which other frameworks are mentioned as examples for big data processing in the document?",
+    "answer": "C",
+    "options": {
+      "A": "C++ and C#",
+      "B": "TensorFlow and PyTorch",
+      "C": "Cassandra and Spark",
+      "D": "MySQL and Oracle"
+    }
+  },
+  "125": {
+    "question": "What is the distributed file system used by Hadoop for storing big data?",
+    "answer": "C",
+    "options": {
+      "A": "ext4",
+      "B": "FAT32",
+      "C": "HDFS",
+      "D": "NTFS"
+    }
+  },
+  "126": {
+    "question": "How does HDFS handle large files?",
+    "answer": "A",
+    "options": {
+      "A": "Breaks them into smaller chunks and stores them across multiple machines.",
+      "B": "Compresses them to fit into a single machine.",
+      "C": "Deletes redundant parts of the file to reduce size.",
+      "D": "Stores them as single large blocks on one machine."
+    }
+  },
+  "127": {
+    "question": "What mechanism does HDFS use to ensure data safety and prevent data loss in case of machine failure?",
+    "answer": "B",
+    "options": {
+      "A": "Data compression",
+      "B": "Data redundancy by making copies on different nodes",
+      "C": "Data encryption",
+      "D": "Regular data backups to a central server"
+    }
+  },
+  "128": {
+    "question": "What is the MapReduce technique used for in the context of big data processing?",
+    "answer": "D",
+    "options": {
+      "A": "Data encryption",
+      "B": "Data compression",
+      "C": "Data storage",
+      "D": "Parallel processing of data"
+    }
+  },
+  "129": {
+    "question": "How does MapReduce process a large task?",
+    "answer": "A",
+    "options": {
+      "A": "By dividing it into smaller tasks and processing them in parallel across multiple machines.",
+      "B": "By processing it sequentially on a single powerful machine.",
+      "C": "By compressing the task to reduce its size and processing time.",
+      "D": "By ignoring parts of the task to speed up processing."
+    }
+  },
+  "130": {
+    "question": "What is the primary benefit of using MapReduce for processing big data?",
+    "answer": "C",
+    "options": {
+      "A": "Simplified data analysis",
+      "B": "Reduced storage space",
+      "C": "Faster and more efficient processing",
+      "D": "Increased data security"
+    }
+  },
+  "131": {
+    "question": "How is big data used in games like Halo 3 and Call of Duty, according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "To increase game difficulty.",
+      "B": "To improve game graphics.",
+      "C": "To reduce the size of game files.",
+      "D": "To analyze user gameplay data and improve user experience."
+    }
+  },
+  "132": {
+    "question": "Analyzing user data in games helps designers understand which user behaviors?",
+    "answer": "B",
+    "options": {
+      "A": "User's hardware specifications.",
+      "B": "Stages where users pause, restart, or quit playing.",
+      "C": "User's geographical location.",
+      "D": "User's preferred game characters."
+    }
+  },
+  "133": {
+    "question": "What is the ultimate goal of using big data analytics to improve user experience in games?",
+    "answer": "C",
+    "options": {
+      "A": "To make games easier to play.",
+      "B": "To increase game sales immediately.",
+      "C": "To reduce customer churn rate.",
+      "D": "To shorten game development time."
+    }
+  },
+  "134": {
+    "question": "In which disaster was big data used to improve management, as mentioned in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Tsunami in Japan",
+      "B": "Hurricane Sandy",
+      "C": "Earthquake in Haiti",
+      "D": "Hurricane Katrina"
+    }
+  },
+  "135": {
+    "question": "What advancement did big data enable in predicting Hurricane Sandy?",
+    "answer": "D",
+    "options": {
+      "A": "Predicting the hurricane's intensity.",
+      "B": "Predicting the hurricane's duration.",
+      "C": "Predicting the hurricane's speed.",
+      "D": "Predicting the hurricane landfall five days in advance."
+    }
+  },
+  "136": {
+    "question": "What was the benefit of using big data during Hurricane Sandy?",
+    "answer": "D",
+    "options": {
+      "A": "To control the hurricane's path.",
+      "B": "To provide immediate financial aid to victims.",
+      "C": "To reduce the hurricane's strength.",
+      "D": "To understand the storm's effect and enable better preparedness."
+    }
+  },
+  "137": {
+    "question": "According to the quiz question in the document, which statement is NOT correct about Hadoop Distributed File System (HDFS)?",
+    "answer": "C",
+    "options": {
+      "A": "HDFS is the storage layer of Hadoop.",
+      "B": "Smaller chunks of data are stored on multiple data nodes in HDFS.",
+      "C": "HDFS performs parallel processing of data.",
+      "D": "Data gets stored in a distributed manner in HDFS."
+    }
+  },
+  "138": {
+    "question": "Why is the statement 'HDFS performs parallel processing of data' incorrect?",
+    "answer": "C",
+    "options": {
+      "A": "HDFS only processes data sequentially.",
+      "B": "HDFS is only used for metadata management.",
+      "C": "Parallel processing is performed by MapReduce, not HDFS.",
+      "D": "HDFS is not related to data processing at all."
+    }
+  }
+}

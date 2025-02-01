@@ -1,0 +1,1892 @@
+{
+  "1": {
+    "question": "According to the document, into how many main categories can the challenges of Big Data be grouped?",
+    "answer": "C",
+    "options": {
+      "A": "Five",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    }
+  },
+  "2": {
+    "question": "Which of the following is NOT a main category of Big Data challenges discussed in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Financial challenges",
+      "B": "Process challenges",
+      "C": "Management challenges",
+      "D": "Data challenges"
+    }
+  },
+  "3": {
+    "question": "What aspect of big data does the term 'Data Challenges' refer to, according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "The legal implications of using big data.",
+      "B": "The ethical concerns surrounding data.",
+      "C": "How the data is processed.",
+      "D": "The characteristic of the data itself."
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT mentioned as a characteristic of data related to data challenges?",
+    "answer": "B",
+    "options": {
+      "A": "Volume",
+      "B": "Volatility",
+      "C": "Velocity",
+      "D": "Veracity"
+    }
+  },
+  "5": {
+    "question": "What do process challenges in Big Data primarily concern?",
+    "answer": "B",
+    "options": {
+      "A": "The quality of data collected.",
+      "B": "The techniques used to handle and analyze data.",
+      "C": "The ethics of data handling.",
+      "D": "The scale of data being stored."
+    }
+  },
+  "6": {
+    "question": "Which of these actions would be considered a 'process challenge' in the context of big data according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "Collecting data from diverse sources.",
+      "B": "Ensuring data privacy.",
+      "C": "Storing data securely.",
+      "D": "Selecting the appropriate model for analysis."
+    }
+  },
+  "7": {
+    "question": "What is the main focus of management challenges in the context of big data?",
+    "answer": "C",
+    "options": {
+      "A": "Ensuring the efficiency of data processing.",
+      "B": "The techniques used to handle and analyze data.",
+      "C": "Handling data security, governance and ethical aspects.",
+      "D": "The scale of data being stored."
+    }
+  },
+  "8": {
+    "question": "Which of the following is NOT typically associated with management challenges in big data according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "Governance.",
+      "B": "Privacy.",
+      "C": "Security.",
+      "D": "Data integration."
+    }
+  },
+  "9": {
+    "question": "How many stages are identified in the Big Data analytics lifecycle according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Seven",
+      "B": "Ten",
+      "C": "Nine",
+      "D": "Eight"
+    }
+  },
+  "10": {
+    "question": "Which of the following is the first stage in the big data analytics lifecycle as mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Business Case Evaluation",
+      "B": "Data Acquisition & Filtering",
+      "C": "Data Extraction",
+      "D": "Data Identification"
+    }
+  },
+  "11": {
+    "question": "What stage immediately precedes 'Data Analysis' in the Big Data analytics lifecycle?",
+    "answer": "C",
+    "options": {
+      "A": "Data Visualization",
+      "B": "Data Extraction",
+      "C": "Data Aggregation & Representation",
+      "D": "Data Validation & Cleansing"
+    }
+  },
+  "12": {
+    "question": "According to the document, how can size, with regards to volume, be defined in Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "Only by the number of records or samples.",
+      "B": "Only by the number of features or attributes.",
+      "C": "By how complex the data is to analyze.",
+      "D": "Either by the number of records or samples or by the number of features or attributes."
+    }
+  },
+  "13": {
+    "question": "What unit of measurement is mentioned when describing 'Volume' in big data?",
+    "answer": "C",
+    "options": {
+      "A": "Gigabytes",
+      "B": "Megabytes",
+      "C": "Terabytes",
+      "D": "Kilobytes"
+    }
+  },
+  "14": {
+    "question": "What does 'variety' primarily refer to in the context of Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "The size of the data.",
+      "B": "The different formats and types of data.",
+      "C": "The speed at which data is generated.",
+      "D": "The accuracy of data."
+    }
+  },
+  "15": {
+    "question": "Which of the following is NOT a data type mentioned under 'Variety' in big data according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Unstructured",
+      "B": "Multistructured",
+      "C": "Structured",
+      "D": "Semi-structured"
+    }
+  },
+  "16": {
+    "question": "What does 'velocity' primarily refer to in the context of Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "The amount of data.",
+      "B": "The speed at which data is generated and needs to be processed.",
+      "C": "The variety of data formats.",
+      "D": "The accuracy of data."
+    }
+  },
+  "17": {
+    "question": "Which of the following is NOT a type of data processing mentioned in the document relating to 'Velocity'?",
+    "answer": "A",
+    "options": {
+      "A": "Manual processing",
+      "B": "Stream processing",
+      "C": "Real-time processing",
+      "D": "Batch processing"
+    }
+  },
+  "18": {
+    "question": "What does 'veracity' refer to in the context of Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "The reliability and accuracy of the data.",
+      "B": "The speed at which data is generated.",
+      "C": "The different formats and types of data.",
+      "D": "The size of the data."
+    }
+  },
+  "19": {
+    "question": "According to the document, which aspect is NOT encompassed by the term 'Veracity'?",
+    "answer": "B",
+    "options": {
+      "A": "Messiness in data.",
+      "B": "Volume of data.",
+      "C": "Doubts about the data.",
+      "D": "Biases in data."
+    }
+  },
+  "20": {
+    "question": "In the context of Big Data, what does 'data locality' refer to?",
+    "answer": "C",
+    "options": {
+      "A": "The speed of data processing.",
+      "B": "The variety of data formats.",
+      "C": "The location where the data is stored.",
+      "D": "The accuracy of data."
+    }
+  },
+  "21": {
+    "question": "What does data heterogeneity refer to in the context of Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "Data from single source",
+      "B": "Data from multiple sources with different characteristics",
+      "C": "Data that is always structured.",
+      "D": "Data that is always of the same format."
+    }
+  },
+  "22": {
+    "question": "What is the primary purpose of the Data Acquisition & Filtering stage in the analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "To gather data from various sources and remove irrelevant information.",
+      "B": "To analyze data and provide insights.",
+      "C": "To clean and format data for analysis.",
+      "D": "To visualize the processed data for stakeholders."
+    }
+  },
+  "23": {
+    "question": "According to the document, what can be considered 'corrupt' data in this context?",
+    "answer": "D",
+    "options": {
+      "A": "Data that is not anonymized.",
+      "B": "Data that is of very high volume.",
+      "C": "Data that is received from internal sources.",
+      "D": "Data with missing values or invalid data types."
+    }
+  },
+  "24": {
+    "question": "What is the main purpose of the 'Data Extraction' stage in the Big Data analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "To transform data into a compatible format.",
+      "B": "To gather data from various sources.",
+      "C": "To analyze data and discover patterns.",
+      "D": "To cleanse data to remove errors."
+    }
+  },
+  "25": {
+    "question": "According to the document, when is the need to address disparate data types most likely?",
+    "answer": "A",
+    "options": {
+      "A": "When the data is from external sources",
+      "B": "When data is purchased from a third-party",
+      "C": "When data is of a structured type.",
+      "D": "When the data is from internal sources."
+    }
+  },
+  "26": {
+    "question": "What is the main use of redundancy in datasets during the 'Data Validation & Cleansing' stage?",
+    "answer": "B",
+    "options": {
+      "A": "To complicate the analysis of the data.",
+      "B": "To explore interconected datasets and fill missing data.",
+      "C": "To ensure data is completely unique.",
+      "D": "To increase the size of the data."
+    }
+  },
+  "27": {
+    "question": "According to the document, how is data validation and cleansing achieved for batch analytics?",
+    "answer": "D",
+    "options": {
+      "A": "Through data visualization tools",
+      "B": "By manually reviewing the data.",
+      "C": "Through a complex in-memory system.",
+      "D": "Via an offline ETL operation."
+    }
+  },
+  "28": {
+    "question": "What is the primary purpose of the 'Data Aggregation & Representation' stage?",
+    "answer": "A",
+    "options": {
+      "A": "To combine data from multiple datasets.",
+      "B": "To find relationships in data.",
+      "C": "To fill in missing data.",
+      "D": "To discover patterns in data."
+    }
+  },
+  "29": {
+    "question": "According to the document, which of the following aspects can complicate the data aggregation process?",
+    "answer": "A",
+    "options": {
+      "A": "Differences in Data structure",
+      "B": "The volume of data.",
+      "C": "Similarities in Data structures.",
+      "D": "Similarities in Data semantics."
+    }
+  },
+  "30": {
+    "question": "In the document, what is a key characteristic of 'confirmatory data analysis'?",
+    "answer": "D",
+    "options": {
+      "A": "It starts with no predefined assumptions.",
+      "B": "It is an inductive approach",
+      "C": "It does not require any data sampling techniques",
+      "D": "It starts with a predefined hypothesis."
+    }
+  },
+  "31": {
+    "question": "What is a key characteristic of 'exploratory data analysis' as mentioned in the document?",
+    "answer": "D",
+    "options": {
+      "A": "It uses predefined data sampling techniques.",
+      "B": "It is a deductive approach",
+      "C": "It generates predefined assumptions.",
+      "D": "It explores the data without any predetermined assumptions"
+    }
+  },
+  "32": {
+    "question": "Why is the 'Data Visualization' stage crucial in the Big Data analytics process according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "To increase the complexity of analysis.",
+      "B": "To allow business users to understand results.",
+      "C": "To ensure data has been cleansed and is accurate.",
+      "D": "To allow analysts to interpret the data."
+    }
+  },
+  "33": {
+    "question": "According to the document, what is a key goal of visual data analysis?",
+    "answer": "A",
+    "options": {
+      "A": "To discover answers to questions that users have not yet formulated.",
+      "B": "To only share information with analysts.",
+      "C": "To hide complexities in data from business users.",
+      "D": "To replace the need for data analysis."
+    }
+  },
+  "34": {
+    "question": "According to the document, how can analysis results primarily be utilized by business users?",
+    "answer": "B",
+    "options": {
+      "A": "To increase data complexity.",
+      "B": "To support business decision-making.",
+      "C": "To make technical changes to the analysis system.",
+      "D": "To ensure further data is collected."
+    }
+  },
+  "35": {
+    "question": "In the document, what is the outcome of models created from the analysis?",
+    "answer": "A",
+    "options": {
+      "A": "They improve business process and application system logic.",
+      "B": "They remove data bias.",
+      "C": "They are for technical audiences only.",
+      "D": "They only increase data complexity."
+    }
+  },
+  "36": {
+    "question": "According to the document, what is a primary risk associated with Big Data analytics regarding privacy?",
+    "answer": "A",
+    "options": {
+      "A": "Revealing confidential information about people or organizations.",
+      "B": "Increasing processing times.",
+      "C": "Generating more data.",
+      "D": "Decreasing data quality."
+    }
+  },
+  "37": {
+    "question": "What should be done to address the risks to privacy associated with big data according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Increase data accumulation and change regulation.",
+      "B": "Understand data nature, follow regulations, and use anonymization.",
+      "C": "Reduce data accumulation and regulation.",
+      "D": "Ignore privacy concerns to increase analysis speed."
+    }
+  },
+  "38": {
+    "question": "According to the document, what is a common security challenge with Big Data solutions?",
+    "answer": "D",
+    "options": {
+      "A": "They are too robust for common attacks.",
+      "B": "They require no security mechanisms.",
+      "C": "They are inherently very secure.",
+      "D": "They often lack the traditional enterprise security mechanisms."
+    }
+  },
+  "39": {
+    "question": "According to the document, how should Big Data be secured?",
+    "answer": "B",
+    "options": {
+      "A": "By not using authentication and authorization mechanisms.",
+      "B": "By ensuring data networks and repositories are secure via authentication and authorization mechanisms.",
+      "C": "By using only traditional methods of security.",
+      "D": "By decreasing security measures."
+    }
+  },
+  "40": {
+    "question": "What does 'provenance' refer to in the context of Big Data, according to the document?",
+    "answer": "A",
+    "options": {
+      "A": "The source of the data and how it was processed.",
+      "B": "The security of data.",
+      "C": "The speed of data processing.",
+      "D": "The quality of data."
+    }
+  },
+  "41": {
+    "question": "What is NOT one of the states for data in the analytics lifecycle according to the document?",
+    "answer": "A",
+    "options": {
+      "A": "Data-in-analysis",
+      "B": "Data-at-rest",
+      "C": "Data-in-use",
+      "D": "Data-in-motion"
+    }
+  },
+  "42": {
+    "question": "According to the document, what can cause performance to be a major concern?",
+    "answer": "A",
+    "options": {
+      "A": "The large volume of data.",
+      "B": "The low variability of data.",
+      "C": "The high velocity of data.",
+      "D": "The lack of data validation."
+    }
+  },
+  "43": {
+    "question": "What can long complex queries lead to according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Better data security",
+      "B": "Faster query times.",
+      "C": "Long query times",
+      "D": "Shorter query times"
+    }
+  },
+  "44": {
+    "question": "What is a key goal of establishing a governance framework for big data according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce the need for data privacy.",
+      "B": "To reduce costs of analysis.",
+      "C": "To increase the velocity of data analysis.",
+      "D": "To standardize and evolve the data and the solution environment in a controlled manner."
+    }
+  },
+  "45": {
+    "question": "According to the document, what could a Big Data Governance Framework NOT encompass?",
+    "answer": "D",
+    "options": {
+      "A": "Policies regarding data anonymization.",
+      "B": "Policies for data tagging.",
+      "C": "Policies for data cleansing and filtering.",
+      "D": "Policies for the velocity of data."
+    }
+  },
+  "46": {
+    "question": "Why does the document state that a methodology is required for Big Data solutions?",
+    "answer": "C",
+    "options": {
+      "A": "To increase the rate of data flow.",
+      "B": "To help define data structure.",
+      "C": "To help control how data flows into and out of the solution.",
+      "D": "To help control the amount of data collected."
+    }
+  },
+  "47": {
+    "question": "What does each feedback cycle provide according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Opportunities for system refinement by increasing analysis times.",
+      "B": "Opportunities for system refinement by modifying data preparation or data analysis steps.",
+      "C": "Opportunities for system refinement by reducing data security.",
+      "D": "Opportunities for system refinement by increasing data complexity."
+    }
+  },
+  "48": {
+    "question": "Based on the data life cycle, into how many main categories are Big Data challenges grouped?",
+    "answer": "C",
+    "options": {
+      "A": "Five",
+      "B": "Four",
+      "C": "Three",
+      "D": "Two"
+    }
+  },
+  "49": {
+    "question": "Which of the following is NOT one of the main categories of Big Data challenges based on the data life cycle?",
+    "answer": "A",
+    "options": {
+      "A": "Technology Challenges",
+      "B": "Management Challenges",
+      "C": "Data Challenges",
+      "D": "Process Challenges"
+    }
+  },
+  "50": {
+    "question": "Data challenges in Big Data are primarily related to:",
+    "answer": "A",
+    "options": {
+      "A": "The characteristics of the data itself",
+      "B": "The management and governance of data",
+      "C": "The algorithms used to process data",
+      "D": "The infrastructure supporting data processing"
+    }
+  },
+  "51": {
+    "question": "Which of the following is a primary focus of 'Data Challenges' in the context of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Ensuring data security",
+      "B": "Managing data storage infrastructure",
+      "C": "Dealing with data volume, variety, and velocity",
+      "D": "Optimizing data processing algorithms"
+    }
+  },
+  "52": {
+    "question": "In the context of Big Data, 'Volume' primarily refers to:",
+    "answer": "D",
+    "options": {
+      "A": "The speed at which data is generated",
+      "B": "The variety of data types",
+      "C": "The accuracy of the data",
+      "D": "The sheer size of the dataset"
+    }
+  },
+  "53": {
+    "question": "Which of the following is NOT directly related to the 'Volume' challenge in Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Class Imbalance",
+      "B": "Processing Performance",
+      "C": "Data Heterogeneity",
+      "D": "Curse of Dimensionality"
+    }
+  },
+  "54": {
+    "question": "What is the 'curse of modularity' in the context of Big Data volume?",
+    "answer": "D",
+    "options": {
+      "A": "Failure of algorithms due to small data size",
+      "B": "Difficulties in visualizing large datasets",
+      "C": "Issues with data variety",
+      "D": "Failure of algorithms due to large data size"
+    }
+  },
+  "55": {
+    "question": "'Variety' in Big Data refers to:",
+    "answer": "B",
+    "options": {
+      "A": "The volume of data",
+      "B": "The different types and formats of data",
+      "C": "The speed of data processing",
+      "D": "The truthfulness of data"
+    }
+  },
+  "56": {
+    "question": "Which of the following is an example of 'Variety' in Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "Data generated in real-time",
+      "B": "Structured databases, unstructured text documents, and semi-structured JSON files",
+      "C": "Terabytes of transaction records",
+      "D": "Data with high veracity and low noise"
+    }
+  },
+  "57": {
+    "question": "What is 'data heterogeneity' in the context of Big Data variety?",
+    "answer": "D",
+    "options": {
+      "A": "The speed at which different types of data arrive",
+      "B": "The different sources from which data originates",
+      "C": "The variability in data quality across different datasets",
+      "D": "The diversity in datatype, format, data model, and semantics of data"
+    }
+  },
+  "58": {
+    "question": "'Velocity' in Big Data is best described as:",
+    "answer": "D",
+    "options": {
+      "A": "The size of the data",
+      "B": "The different types of data",
+      "C": "The accuracy of data",
+      "D": "The speed at which data is generated and processed"
+    }
+  },
+  "59": {
+    "question": "Which of the following data processing types is most relevant to 'Velocity' in Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "Batch Processing",
+      "B": "Manual Data Entry",
+      "C": "Offline Processing",
+      "D": "Real-time Processing"
+    }
+  },
+  "60": {
+    "question": "What is 'concept drift' in the context of Big Data velocity?",
+    "answer": "B",
+    "options": {
+      "A": "Changes in data variety",
+      "B": "Changes in the conditional distribution of the target output over time",
+      "C": "Changes in the volume of data",
+      "D": "Changes in the speed of data arrival"
+    }
+  },
+  "61": {
+    "question": "'Veracity' in Big Data primarily refers to:",
+    "answer": "B",
+    "options": {
+      "A": "The speed of data generation",
+      "B": "The trustworthiness and quality of data",
+      "C": "The volume of data storage",
+      "D": "The variety of data formats"
+    }
+  },
+  "62": {
+    "question": "Which of the following is a source of 'veracity' challenges in Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Statistical biases",
+      "B": "Real-time data processing",
+      "C": "Structured data formats",
+      "D": "High data volume"
+    }
+  },
+  "63": {
+    "question": "What does 'data lineage' relate to in the context of data veracity?",
+    "answer": "B",
+    "options": {
+      "A": "The speed at which data is processed",
+      "B": "The history and origin of data",
+      "C": "The different types of data sources",
+      "D": "The volume of data records"
+    }
+  },
+  "64": {
+    "question": "How many stages are there in the Big Data analytics lifecycle described in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Ten",
+      "B": "Seven",
+      "C": "Nine",
+      "D": "Five"
+    }
+  },
+  "65": {
+    "question": "Which stage is the first in the Big Data analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "Business Case Evaluation",
+      "B": "Data Acquisition & Filtering",
+      "C": "Data Identification",
+      "D": "Data Extraction"
+    }
+  },
+  "66": {
+    "question": "What is the main purpose of the Big Data analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "To organize activities involved in working with Big Data",
+      "B": "To select appropriate hardware for Big Data processing",
+      "C": "To ensure data security and privacy",
+      "D": "To manage data storage costs"
+    }
+  },
+  "67": {
+    "question": "What is the primary goal of the 'Business Case Evaluation' stage in the Big Data analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "To define the justification and goals of the analysis",
+      "B": "To identify data sources",
+      "C": "To cleanse and validate data",
+      "D": "To visualize analysis results"
+    }
+  },
+  "68": {
+    "question": "A business problem qualifies as a Big Data problem if it is directly related to which characteristics?",
+    "answer": "B",
+    "options": {
+      "A": "Scalability, Reliability, Availability",
+      "B": "Volume, Velocity, Variety",
+      "C": "Security, Privacy, Governance",
+      "D": "Accuracy, Completeness, Consistency"
+    }
+  },
+  "69": {
+    "question": "The 'Data Identification' stage of the Big Data analytics lifecycle focuses on:",
+    "answer": "D",
+    "options": {
+      "A": "Extracting data from various formats",
+      "B": "Analyzing data for patterns and correlations",
+      "C": "Cleaning and validating data",
+      "D": "Identifying necessary datasets and their sources"
+    }
+  },
+  "70": {
+    "question": "Why is identifying a wider variety of data sources beneficial in the Data Identification stage?",
+    "answer": "B",
+    "options": {
+      "A": "It simplifies data processing",
+      "B": "It may increase the probability of finding hidden patterns",
+      "C": "It ensures data security and privacy",
+      "D": "It reduces data storage costs"
+    }
+  },
+  "71": {
+    "question": "In the 'Data Acquisition & Filtering' stage, what is the primary action performed on the gathered data?",
+    "answer": "D",
+    "options": {
+      "A": "Data analysis and modeling",
+      "B": "Data extraction and transformation",
+      "C": "Data cleaning and validation",
+      "D": "Gathering data and removing corrupt or irrelevant data"
+    }
+  },
+  "72": {
+    "question": "What types of data are classified as 'corrupt' during the Data Acquisition & Filtering stage?",
+    "answer": "C",
+    "options": {
+      "A": "Data in incompatible formats",
+      "B": "Unstructured data",
+      "C": "Data with missing or invalid values",
+      "D": "Data from external sources"
+    }
+  },
+  "73": {
+    "question": "The 'Data Extraction' stage is primarily concerned with:",
+    "answer": "D",
+    "options": {
+      "A": "Validating and cleansing data",
+      "B": "Visualizing data analysis results",
+      "C": "Aggregating and representing data",
+      "D": "Transforming disparate data into a usable format"
+    }
+  },
+  "74": {
+    "question": "Why is the 'Data Extraction' stage particularly important when dealing with data from external sources?",
+    "answer": "C",
+    "options": {
+      "A": "External data is always more voluminous",
+      "B": "External data is inherently more secure",
+      "C": "External data may arrive in disparate and incompatible formats",
+      "D": "External data is often more accurate"
+    }
+  },
+  "75": {
+    "question": "The 'Data Validation & Cleansing' stage uses data redundancy to:",
+    "answer": "A",
+    "options": {
+      "A": "Explore interconnected datasets and fill missing data",
+      "B": "Reduce storage space",
+      "C": "Improve data processing speed",
+      "D": "Enhance data security"
+    }
+  },
+  "76": {
+    "question": "For real-time analytics, what type of system is typically required for data validation and cleansing?",
+    "answer": "D",
+    "options": {
+      "A": "Manual data review",
+      "B": "Offline ETL operation",
+      "C": "Batch processing system",
+      "D": "In-memory system"
+    }
+  },
+  "77": {
+    "question": "What is the main goal of the 'Data Aggregation & Representation' stage?",
+    "answer": "B",
+    "options": {
+      "A": "To validate data accuracy",
+      "B": "To combine data from multiple datasets",
+      "C": "To visualize data patterns",
+      "D": "To extract data from various sources"
+    }
+  },
+  "78": {
+    "question": "Differences in which aspects can complicate the Data Aggregation & Representation stage?",
+    "answer": "A",
+    "options": {
+      "A": "Data structure and semantics",
+      "B": "Data volume and velocity",
+      "C": "Data veracity and variability",
+      "D": "Data security and privacy"
+    }
+  },
+  "79": {
+    "question": "The 'Data Analysis' stage is primarily focused on:",
+    "answer": "A",
+    "options": {
+      "A": "Performing the actual analysis task",
+      "B": "Data validation",
+      "C": "Data visualization",
+      "D": "Data extraction"
+    }
+  },
+  "80": {
+    "question": "What are the two main types of data analysis mentioned in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Descriptive and predictive analysis",
+      "B": "Qualitative and quantitative analysis",
+      "C": "Exploratory and confirmatory analysis",
+      "D": "Batch and real-time analysis"
+    }
+  },
+  "81": {
+    "question": "The 'Data Visualization' stage is crucial because it:",
+    "answer": "C",
+    "options": {
+      "A": "Ensures data security",
+      "B": "Cleans and validates data",
+      "C": "Makes analysis results understandable to users",
+      "D": "Extracts data from various sources"
+    }
+  },
+  "82": {
+    "question": "What is the benefit of Data Visualization in the Big Data analytics lifecycle?",
+    "answer": "A",
+    "options": {
+      "A": "It allows for discovery of answers to unformulated questions",
+      "B": "It reduces data storage costs",
+      "C": "It improves data accuracy",
+      "D": "It speeds up data processing"
+    }
+  },
+  "83": {
+    "question": "The 'Utilization of Analysis Results' stage focuses on:",
+    "answer": "A",
+    "options": {
+      "A": "Applying analysis results for business decision-making",
+      "B": "Extracting data from external sources",
+      "C": "Visualizing data patterns",
+      "D": "Validating data accuracy"
+    }
+  },
+  "84": {
+    "question": "What is a potential outcome of the 'Utilization of Analysis Results' stage?",
+    "answer": "C",
+    "options": {
+      "A": "Faster data processing algorithms",
+      "B": "Improved data visualization techniques",
+      "C": "Creation of models to improve business processes",
+      "D": "Enhanced data security protocols"
+    }
+  },
+  "85": {
+    "question": "Process challenges in Big Data primarily concern:",
+    "answer": "D",
+    "options": {
+      "A": "The characteristics of Big Data itself",
+      "B": "The security and privacy of Big Data",
+      "C": "The management and governance of Big Data",
+      "D": "The techniques and steps for handling Big Data"
+    }
+  },
+  "86": {
+    "question": "The Big Data Analytics Lifecycle is designed to address which category of Big Data challenges?",
+    "answer": "C",
+    "options": {
+      "A": "Management Challenges",
+      "B": "Data Challenges",
+      "C": "Process Challenges",
+      "D": "Security Challenges"
+    }
+  },
+  "87": {
+    "question": "Management challenges in Big Data primarily encompass:",
+    "answer": "B",
+    "options": {
+      "A": "Data analysis and visualization",
+      "B": "Privacy, security, and governance",
+      "C": "Data acquisition and filtering",
+      "D": "Data volume, velocity, and variety"
+    }
+  },
+  "88": {
+    "question": "Which of the following is an example of a 'Management Challenge' in Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Data Security",
+      "B": "Data Velocity",
+      "C": "Data Variety",
+      "D": "Data Volume"
+    }
+  },
+  "89": {
+    "question": "Privacy challenges in Big Data are primarily concerned with:",
+    "answer": "B",
+    "options": {
+      "A": "Ensuring data accuracy",
+      "B": "Protecting confidential information of individuals and organizations",
+      "C": "Processing data in real-time",
+      "D": "Managing large volumes of data"
+    }
+  },
+  "90": {
+    "question": "Which of the following techniques is mentioned as a way to address privacy concerns in Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "Data Validation",
+      "B": "Data Anonymization",
+      "C": "Data Aggregation",
+      "D": "Data Extraction"
+    }
+  },
+  "91": {
+    "question": "Security challenges in Big Data are often related to:",
+    "answer": "B",
+    "options": {
+      "A": "Data variety and heterogeneity",
+      "B": "Lack of robust security mechanisms in some Big Data components",
+      "C": "Real-time data processing requirements",
+      "D": "High data volume"
+    }
+  },
+  "92": {
+    "question": "What is a security concern mentioned regarding NoSQL databases in Big Data environments?",
+    "answer": "C",
+    "options": {
+      "A": "They are too secure, hindering data access",
+      "B": "They are primarily vulnerable to data loss, not security breaches",
+      "C": "They often lack robust built-in security mechanisms",
+      "D": "They are not prone to network-based attacks"
+    }
+  },
+  "93": {
+    "question": "Provenance in Big Data refers to:",
+    "answer": "B",
+    "options": {
+      "A": "The speed of data processing",
+      "B": "Information about the source and processing history of data",
+      "C": "The variety of data formats",
+      "D": "The volume of data storage"
+    }
+  },
+  "94": {
+    "question": "Why is provenance information important in Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce data storage costs",
+      "B": "To improve data processing speed",
+      "C": "To enhance data visualization",
+      "D": "To determine data authenticity and quality"
+    }
+  },
+  "95": {
+    "question": "Distinct performance challenges in Big Data are mainly due to:",
+    "answer": "A",
+    "options": {
+      "A": "The large volumes of data to be processed",
+      "B": "Data variety and heterogeneity",
+      "C": "Inadequate data visualization tools",
+      "D": "Lack of skilled personnel"
+    }
+  },
+  "96": {
+    "question": "What is a significant performance bottleneck mentioned in the context of Big Data management?",
+    "answer": "D",
+    "options": {
+      "A": "Data validation processes",
+      "B": "Data visualization complexity",
+      "C": "Algorithm complexity",
+      "D": "Network bandwidth limitations"
+    }
+  },
+  "97": {
+    "question": "Distinct governance requirements in Big Data management are necessary to:",
+    "answer": "C",
+    "options": {
+      "A": "Enhance data visualization",
+      "B": "Improve data processing speed",
+      "C": "Regulate and standardize data and solution environments",
+      "D": "Reduce data storage costs"
+    }
+  },
+  "98": {
+    "question": "Which of the following is typically included in a Big Data governance framework?",
+    "answer": "C",
+    "options": {
+      "A": "Data processing algorithms",
+      "B": "Hardware specifications for data storage",
+      "C": "Policies for data privacy and anonymization",
+      "D": "Data visualization techniques"
+    }
+  },
+  "99": {
+    "question": "Distinct methodology challenges in Big Data management focus on:",
+    "answer": "B",
+    "options": {
+      "A": "Data security and privacy protocols",
+      "B": "Controlling data flow and establishing feedback loops",
+      "C": "Data volume and velocity",
+      "D": "Data visualization and interpretation"
+    }
+  },
+  "100": {
+    "question": "Why are feedback loops important in Big Data methodology?",
+    "answer": "B",
+    "options": {
+      "A": "To enhance data security",
+      "B": "To enable repeated refinement of processed data",
+      "C": "To speed up data processing",
+      "D": "To reduce data storage requirements"
+    }
+  },
+  "101": {
+    "question": "What does Netflix use data engineering tech for?",
+    "answer": "B",
+    "options": {
+      "A": "To create better graphics",
+      "B": "To optimize the creative production process",
+      "C": "To write better scripts",
+      "D": "To train actors"
+    }
+  },
+  "102": {
+    "question": "What is the use of data science in Netflix\u2019s content creation?",
+    "answer": "C",
+    "options": {
+      "A": "To improve advertisement efficacy",
+      "B": "To create better user interfaces",
+      "C": "To create the content that viewers will like",
+      "D": "To optimize the creative production process"
+    }
+  },
+  "103": {
+    "question": "How does Netflix use viewer data?",
+    "answer": "D",
+    "options": {
+      "A": "To sell user information to third-party companies",
+      "B": "To leverage data science to create better scripts.",
+      "C": "To send out mass promotional emails",
+      "D": "To leverage data science to create content they like."
+    }
+  },
+  "104": {
+    "question": "Why is data engineering important in the entertainment industry?",
+    "answer": "D",
+    "options": {
+      "A": "To make the application look better",
+      "B": "To write better scripts",
+      "C": "To help with user interfaces",
+      "D": "It plays a crucial role in modern entertainment"
+    }
+  },
+  "105": {
+    "question": "What are three key abilities necessary for staying ahead in content creation?",
+    "answer": "A",
+    "options": {
+      "A": "To collect, analyze, and leverage data",
+      "B": "To market products well",
+      "C": "To write and produce scripts",
+      "D": "To write user interfaces"
+    }
+  },
+  "106": {
+    "question": "What is a major challenge that the entertainment industry faces?",
+    "answer": "C",
+    "options": {
+      "A": "Creating user interfaces",
+      "B": "Hiring the right talent",
+      "C": "Managing and utilizing data.",
+      "D": "Making better scripts"
+    }
+  },
+  "107": {
+    "question": "What do data engineers at Netflix develop to personalize content?",
+    "answer": "A",
+    "options": {
+      "A": "Sophisticated algorithms",
+      "B": "Better user interfaces",
+      "C": "More user interfaces",
+      "D": "Better scripts"
+    }
+  },
+  "108": {
+    "question": "What do the algorithms do?",
+    "answer": "C",
+    "options": {
+      "A": "Help Netflix find where users live.",
+      "B": "Help make better scripts",
+      "C": "Help viewers find content they like.",
+      "D": "Create user interfaces."
+    }
+  },
+  "109": {
+    "question": "What is considered the backbone of Netflix operations?",
+    "answer": "C",
+    "options": {
+      "A": "Scriptwriting",
+      "B": "Marketing strategy",
+      "C": "Data engineering",
+      "D": "User interface"
+    }
+  },
+  "110": {
+    "question": "What does Netflix data engineering allow?",
+    "answer": "A",
+    "options": {
+      "A": "Streamline content creation, enhance recommendations, personalize viewing experiences.",
+      "B": "Better script production",
+      "C": "Better user interfaces",
+      "D": "Better marketing"
+    }
+  },
+  "111": {
+    "question": "What are the three things Netflix uses its algorithms for?",
+    "answer": "D",
+    "options": {
+      "A": "To create marketing materials, user interfaces, and advertisements",
+      "B": "To collect data, analyze data, and sell data.",
+      "C": "To write scripts, find actors, and create promotions",
+      "D": "To analyze view habits, stream quality, and predict future trends"
+    }
+  },
+  "112": {
+    "question": "How does Netflix make hit shows?",
+    "answer": "D",
+    "options": {
+      "A": "By following marketing trends",
+      "B": "By having more money to produce content",
+      "C": "By following other streaming services.",
+      "D": "By following user preferences and trends"
+    }
+  },
+  "113": {
+    "question": "What does Netflix use data-driven insights to do?",
+    "answer": "B",
+    "options": {
+      "A": "Make better user interfaces",
+      "B": "Make fast and informed decisions about content production",
+      "C": "Train actors",
+      "D": "Create better scripts"
+    }
+  },
+  "114": {
+    "question": "How does understanding viewer preference help Netflix?",
+    "answer": "A",
+    "options": {
+      "A": "Allows them to create content that resonates with the audience",
+      "B": "Allows them to write better scripts",
+      "C": "Allows them to increase advertisement efficacy",
+      "D": "Allows them to sell data to third-party companies"
+    }
+  },
+  "115": {
+    "question": "How does data engineering help Netflix?",
+    "answer": "A",
+    "options": {
+      "A": "It helps tailor user experiences, making each experience unique",
+      "B": "It helps Netflix write better scripts",
+      "C": "It helps tailor user interfaces",
+      "D": "It helps Netflix find which actors are best"
+    }
+  },
+  "116": {
+    "question": "What do data engineering team collaborations lead to?",
+    "answer": "B",
+    "options": {
+      "A": "Better user interfaces",
+      "B": "More innovative content solutions",
+      "C": "Better marketing strategies",
+      "D": "Better scripts"
+    }
+  },
+  "117": {
+    "question": "What effect is Netflix's use of data engineering having on the entertainment industry?",
+    "answer": "C",
+    "options": {
+      "A": "It\u2019s having no effect on the industry",
+      "B": "It\u2019s stagnating the entertainment industry.",
+      "C": "It\u2019s revolutionizing the entertainment industry.",
+      "D": "It's causing a decrease in the streaming market"
+    }
+  },
+  "118": {
+    "question": "What is the result of Netflix\u2019s use of data engineering?",
+    "answer": "A",
+    "options": {
+      "A": "It enables faster decision making",
+      "B": "It limits user experience",
+      "C": "It reduces the quality of content",
+      "D": "It creates more marketing for user interfaces"
+    }
+  },
+  "119": {
+    "question": "What does Netflix utilize data engineering tech talks for?",
+    "answer": "A",
+    "options": {
+      "A": "To optimize creative production processes",
+      "B": "To manage employee vacations",
+      "C": "To conduct employee training",
+      "D": "To plan marketing campaigns"
+    }
+  },
+  "120": {
+    "question": "According to the document, what is significant about Netflix using data engineering tech talks?",
+    "answer": "B",
+    "options": {
+      "A": "It is a common practice in all entertainment companies",
+      "B": "It shows their dedication to data-driven creative content",
+      "C": "It is a cost-saving measure for content production",
+      "D": "It is primarily for employee entertainment"
+    }
+  },
+  "121": {
+    "question": "Why is data engineering considered crucial in modern entertainment, as per the document?",
+    "answer": "C",
+    "options": {
+      "A": "It decreases the cost of content licensing",
+      "B": "It reduces the need for creative teams",
+      "C": "It is essential for managing and leveraging large volumes of data",
+      "D": "It simplifies content production logistics"
+    }
+  },
+  "122": {
+    "question": "In the context of entertainment, what is one of the biggest challenges data engineering helps to address?",
+    "answer": "D",
+    "options": {
+      "A": "Dealing with copyright issues",
+      "B": "Setting up streaming infrastructure",
+      "C": "Hiring creative writers",
+      "D": "Managing massive volumes of data generated daily"
+    }
+  },
+  "123": {
+    "question": "What is the role of algorithms developed by data engineers at Netflix?",
+    "answer": "C",
+    "options": {
+      "A": "To automate social media marketing",
+      "B": "To manage server maintenance",
+      "C": "To personalize content recommendations for viewers",
+      "D": "To generate subtitles for content"
+    }
+  },
+  "124": {
+    "question": "What is the primary goal of Netflix's personalized content algorithms?",
+    "answer": "C",
+    "options": {
+      "A": "To increase the number of advertisements shown",
+      "B": "To simplify the user interface",
+      "C": "To ensure viewers find content they are likely to enjoy",
+      "D": "To reduce streaming costs"
+    }
+  },
+  "125": {
+    "question": "How is data engineering described in relation to Netflix's operations?",
+    "answer": "D",
+    "options": {
+      "A": "As a cost-center for the company",
+      "B": "As a temporary project",
+      "C": "As a supplementary department",
+      "D": "As the backbone of their operations"
+    }
+  },
+  "126": {
+    "question": "Which aspects of Netflix's services are supported by data engineering?",
+    "answer": "A",
+    "options": {
+      "A": "Content creation, recommendations, and viewing experience",
+      "B": "Customer service and public relations",
+      "C": "Legal compliance and accounting",
+      "D": "Office administration and facility management"
+    }
+  },
+  "127": {
+    "question": "According to the document, how can data engineering contribute to content success at Netflix?",
+    "answer": "A",
+    "options": {
+      "A": "By providing insights into viewer preferences and trends",
+      "B": "By negotiating better deals with actors",
+      "C": "By reducing production budgets",
+      "D": "By speeding up the filming process"
+    }
+  },
+  "128": {
+    "question": "What example is given in the document to illustrate the impact of data insights on content success?",
+    "answer": "C",
+    "options": {
+      "A": "Increased subscriber growth in a new market",
+      "B": "Reduced customer churn rate",
+      "C": "A groundbreaking new series becoming an instant hit",
+      "D": "Improved streaming quality"
+    }
+  },
+  "129": {
+    "question": "What is one of the key benefits of integrating data engineering into creative processes at Netflix?",
+    "answer": "A",
+    "options": {
+      "A": "Faster decision-making in content production",
+      "B": "Reduced marketing expenses",
+      "C": "Decreased server load",
+      "D": "Simplified employee onboarding"
+    }
+  },
+  "130": {
+    "question": "According to the document, how does data engineering enhance content quality?",
+    "answer": "D",
+    "options": {
+      "A": "By increasing the budget for each production",
+      "B": "By using advanced filming technology",
+      "C": "By hiring more experienced actors and directors",
+      "D": "By understanding viewer preferences and producing resonant content"
+    }
+  },
+  "131": {
+    "question": "Which aspect of user experience is improved by data engineering, besides content quality?",
+    "answer": "B",
+    "options": {
+      "A": "Payment processing security",
+      "B": "Personalized viewing experience tailored to individual subscribers",
+      "C": "Website loading speed",
+      "D": "Customer service response time"
+    }
+  },
+  "132": {
+    "question": "How does data engineering contribute to collaboration within Netflix?",
+    "answer": "B",
+    "options": {
+      "A": "By automating creative tasks",
+      "B": "By fostering better collaboration between technical and creative teams",
+      "C": "By replacing creative teams with algorithms",
+      "D": "By centralizing all decision-making in the technical department"
+    }
+  },
+  "133": {
+    "question": "What is the overall impact of Netflix's integration of data engineering on the entertainment industry, as described in the document?",
+    "answer": "D",
+    "options": {
+      "A": "It is only relevant to streaming services",
+      "B": "It has made the industry more traditional",
+      "C": "It has had minimal impact",
+      "D": "It is revolutionizing the entertainment industry"
+    }
+  },
+  "134": {
+    "question": "What aspect of the entertainment industry is being reshaped by Netflix's data engineering integration?",
+    "answer": "B",
+    "options": {
+      "A": "Ticket pricing for movies",
+      "B": "Content creation and viewer engagement",
+      "C": "Theatrical release schedules",
+      "D": "The role of actors in productions"
+    }
+  },
+  "135": {
+    "question": "How long has Mustafa Suleyman been working on AI, according to the talk?",
+    "answer": "B",
+    "options": {
+      "A": "10 years",
+      "B": "15 years",
+      "C": "5 years",
+      "D": "20 years"
+    }
+  },
+  "136": {
+    "question": "How was AI initially perceived when the speaker began working in the field?",
+    "answer": "C",
+    "options": {
+      "A": "A respected scientific pursuit.",
+      "B": "A very popular field.",
+      "C": "Seen as something out of science fiction.",
+      "D": "A mainstream topic."
+    }
+  },
+  "137": {
+    "question": "What phrase, when mentioned, would have gotten people 'strange looks' around the time the speaker first started?",
+    "answer": "C",
+    "options": {
+      "A": "Deep Learning",
+      "B": "AI development",
+      "C": "Artificial General Intelligence",
+      "D": "Machine Learning"
+    }
+  },
+  "138": {
+    "question": "What was the term preferred by researchers instead of 'AI' in the early days?",
+    "answer": "D",
+    "options": {
+      "A": "Neural Networks",
+      "B": "Robotics",
+      "C": "Deep Learning",
+      "D": "Machine Learning"
+    }
+  },
+  "139": {
+    "question": "Which of the following did AI not surpass humans at according to the speaker?",
+    "answer": "D",
+    "options": {
+      "A": "Translating languages",
+      "B": "Understanding images",
+      "C": "Playing the game Go",
+      "D": "Writing poetry"
+    }
+  },
+  "140": {
+    "question": "Which of the following is NOT something that the speaker listed as a capability of AI?",
+    "answer": "B",
+    "options": {
+      "A": "Translating Languages",
+      "B": "Creating new mathematical concepts",
+      "C": "Transcribing Speech",
+      "D": "Understanding Images"
+    }
+  },
+  "141": {
+    "question": "Why did people start asking technologists like the speaker tough questions about AI?",
+    "answer": "D",
+    "options": {
+      "A": "Because AI was becoming less dangerous.",
+      "B": "Because AI started solving a lot of climate crisis problems.",
+      "C": "Because AIs were getting too human-like.",
+      "D": "Because they realized AI was going to have enormous impact."
+    }
+  },
+  "142": {
+    "question": "What is one of the questions that people are asking regarding AI's future?",
+    "answer": "D",
+    "options": {
+      "A": "Will humans ever fully comprehend AI?",
+      "B": "Will AI replace human connection?",
+      "C": "Will AI beat humans in all tasks?",
+      "D": "Will AI solve the climate crisis?"
+    }
+  },
+  "143": {
+    "question": "What question did the speaker's nephew ask that stumped him?",
+    "answer": "B",
+    "options": {
+      "A": "Is AI going to replace teachers?",
+      "B": "What is an AI anyway?",
+      "C": "Will AIs beat humans at all the games?",
+      "D": "Will I be able to talk to dinosaurs?"
+    }
+  },
+  "144": {
+    "question": "According to the speaker, what should AI be seen as, besides a tool?",
+    "answer": "C",
+    "options": {
+      "A": "A mathematical problem.",
+      "B": "A type of software",
+      "C": "A new digital species.",
+      "D": "An advanced computer program."
+    }
+  },
+  "145": {
+    "question": "Why does the speaker say AI is like a 'new digital species'?",
+    "answer": "C",
+    "options": {
+      "A": "Because they have new capabilities.",
+      "B": "Because they have their own emotions.",
+      "C": "Because they communicate like us, see what we see, and develop personalities.",
+      "D": "Because they have better hardware than humans."
+    }
+  },
+  "146": {
+    "question": "According to the speaker, why are the metaphors and names we use when talking about AI important?",
+    "answer": "C",
+    "options": {
+      "A": "Because they are often used in science fiction.",
+      "B": "Because they are nice to hear.",
+      "C": "Because they help shape our understanding of what AI is.",
+      "D": "Because they are universally understandable"
+    }
+  },
+  "147": {
+    "question": "According to the speaker, what is AI similar to?",
+    "answer": "B",
+    "options": {
+      "A": "A new scientific theory",
+      "B": "Another general-purpose technology",
+      "C": "A new philosophical principle",
+      "D": "A new mathematical concept."
+    }
+  },
+  "148": {
+    "question": "What does the speaker say AI will do to us?",
+    "answer": "D",
+    "options": {
+      "A": "Make us all unemployed",
+      "B": "Make us less productive",
+      "C": "Make us all less curious",
+      "D": "Make us smarter and more productive"
+    }
+  },
+  "149": {
+    "question": "According to the speaker, what can AI become over time?",
+    "answer": "B",
+    "options": {
+      "A": "A pet",
+      "B": "An all knowing oracle",
+      "C": "A robotic companion.",
+      "D": "A tool"
+    }
+  },
+  "150": {
+    "question": "What did the speaker state that an all-knowing AI oracle would help us achieve?",
+    "answer": "A",
+    "options": {
+      "A": "Solving grand scientific challenges",
+      "B": "Understanding all languages",
+      "C": "Achieving universal basic income.",
+      "D": "Solving all our mental problems."
+    }
+  },
+  "151": {
+    "question": "According to the speaker, how did his company's latest AI model compare to Deepmind's AI?",
+    "answer": "D",
+    "options": {
+      "A": "It used 500 billion times less computation",
+      "B": "It had 5 trillion less parameters",
+      "C": "It had fewer training data points",
+      "D": "It used 5 billion times more computation"
+    }
+  },
+  "152": {
+    "question": "How many words, according to the speaker, can today's AI consume in just a month of training?",
+    "answer": "B",
+    "options": {
+      "A": "8000 words",
+      "B": "8 trillion words",
+      "C": "8 billion words",
+      "D": "8 million words"
+    }
+  },
+  "153": {
+    "question": "What does the speaker say is a clear trend in modern society?",
+    "answer": "D",
+    "options": {
+      "A": "The separation of technology and humanity.",
+      "B": "The lack of innovation in modern society.",
+      "C": "The decline of technology",
+      "D": "The intertwining of humanity and technology"
+    }
+  },
+  "154": {
+    "question": "According to the speaker, where are we in the history of humanity?",
+    "answer": "A",
+    "options": {
+      "A": "At an inflection point.",
+      "B": "At the beginning of a new era.",
+      "C": "At the end of our story.",
+      "D": "At the middle of our story."
+    }
+  },
+  "155": {
+    "question": "What does the speaker mean when he refers to AIs' AQ?",
+    "answer": "B",
+    "options": {
+      "A": "AI's Ability Quotient.",
+      "B": "AI's Action Quotient",
+      "C": "AI's Agility Quotient.",
+      "D": "AI's Accuracy Quotient."
+    }
+  },
+  "156": {
+    "question": "According to the speaker, what does an AI's AQ allow it to do?",
+    "answer": "C",
+    "options": {
+      "A": "Be more human than humans",
+      "B": "Control all human processes.",
+      "C": "Act in the digital and physical world.",
+      "D": "Develop new human-like emotions."
+    }
+  },
+  "157": {
+    "question": "How does the speaker envision AI's use in the future?",
+    "answer": "C",
+    "options": {
+      "A": "As purely mathematical tools",
+      "B": "As complex instruments in laboratories.",
+      "C": "As ubiquitous digital companions.",
+      "D": "As robots only."
+    }
+  },
+  "158": {
+    "question": "According to the speaker, what would make AIs in the future varied?",
+    "answer": "D",
+    "options": {
+      "A": "The different problems they would solve",
+      "B": "Their interactions with humans",
+      "C": "The different ways they would be programmed",
+      "D": "The humans who use them"
+    }
+  },
+  "159": {
+    "question": "What principle does the speaker bring up regarding the ability to control AI?",
+    "answer": "C",
+    "options": {
+      "A": "We control by implementing strict protocols",
+      "B": "We control by limiting funding",
+      "C": "We cannot control what we don't understand",
+      "D": "We control by limiting development."
+    }
+  },
+  "160": {
+    "question": "According to the speaker, how should we characterize the 'new digital species'?",
+    "answer": "A",
+    "options": {
+      "A": "Non biological life",
+      "B": "A technological evolution from humans",
+      "C": "A new form of technology",
+      "D": "A digital and carbon based life form"
+    }
+  },
+  "161": {
+    "question": "According to the speaker, what should be prioritized when developing AI?",
+    "answer": "D",
+    "options": {
+      "A": "Efficiency.",
+      "B": "Accuracy.",
+      "C": "Speed and agility",
+      "D": "Safety and human agency"
+    }
+  },
+  "162": {
+    "question": "How was AI research initially perceived when the speaker started working in the field?",
+    "answer": "D",
+    "options": {
+      "A": "Highly respected and well-funded.",
+      "B": "Considered mainstream and widely accepted.",
+      "C": "Seen as the most promising field of technology.",
+      "D": "Fringe, embarrassing, and often referred to as 'machine learning' to avoid stigma."
+    }
+  },
+  "163": {
+    "question": "What event primarily contributed to the shift in public perception towards AI?",
+    "answer": "B",
+    "options": {
+      "A": "The invention of the internet.",
+      "B": "AI's demonstrated ability to outperform humans in various complex tasks.",
+      "C": "Government regulations promoting AI research.",
+      "D": "The widespread adoption of smartphones."
+    }
+  },
+  "164": {
+    "question": "What does AGI stand for in the context of Artificial Intelligence?",
+    "answer": "A",
+    "options": {
+      "A": "Artificial General Intelligence.",
+      "B": "Automated General Infrastructure.",
+      "C": "Advanced Graphical Interface.",
+      "D": "Augmented Global Internet."
+    }
+  },
+  "165": {
+    "question": "How was the mention of AGI typically received around 2010, according to the speaker?",
+    "answer": "C",
+    "options": {
+      "A": "As a widely accepted and near-term reality.",
+      "B": "With serious consideration and funding.",
+      "C": "With strange looks and cold shoulders, considered science fiction.",
+      "D": "With great enthusiasm and support."
+    }
+  },
+  "166": {
+    "question": "In which of the following areas has AI demonstrated capabilities that were once thought to be far out of reach?",
+    "answer": "C",
+    "options": {
+      "A": "Operating household appliances.",
+      "B": "Basic data entry tasks.",
+      "C": "Understanding images and translating languages.",
+      "D": "Simple arithmetic calculations."
+    }
+  },
+  "167": {
+    "question": "According to the speaker, what are some of the societal questions being raised as AI's capabilities advance?",
+    "answer": "C",
+    "options": {
+      "A": "Primarily questions about entertainment applications.",
+      "B": "Exclusively questions about job displacement.",
+      "C": "Questions about climate change and personalized education.",
+      "D": "Only questions about technological limitations."
+    }
+  },
+  "168": {
+    "question": "What question from his nephew prompted the speaker to deeply consider the nature of AI?",
+    "answer": "D",
+    "options": {
+      "A": "Can AI feel emotions?",
+      "B": "When will AI become sentient?",
+      "C": "How much does AI cost?",
+      "D": "What is an AI anyway?"
+    }
+  },
+  "169": {
+    "question": "What did the speaker realize when faced with his nephew's question?",
+    "answer": "D",
+    "options": {
+      "A": "That AI is essentially just advanced mathematics.",
+      "B": "That AI is too complex for children to understand.",
+      "C": "That AI is simply a complex algorithm.",
+      "D": "That existing descriptions of AI as tools are insufficient."
+    }
+  },
+  "170": {
+    "question": "What metaphor does the speaker suggest for understanding AI?",
+    "answer": "C",
+    "options": {
+      "A": "AI as advanced software.",
+      "B": "AI as a complex machine.",
+      "C": "AI as a digital species.",
+      "D": "AI as a sophisticated tool."
+    }
+  },
+  "171": {
+    "question": "Why does the speaker advocate for thinking of AI as a 'digital species'?",
+    "answer": "A",
+    "options": {
+      "A": "To better understand its dynamic, emergent, and impactful nature, beyond just being a tool.",
+      "B": "To literally classify AI in biological terms.",
+      "C": "To emphasize its static and predictable nature.",
+      "D": "To promote fear and caution around AI development."
+    }
+  },
+  "172": {
+    "question": "What kind of growth characterizes the development of AI in recent years?",
+    "answer": "C",
+    "options": {
+      "A": "Stagnant growth.",
+      "B": "Logarithmic growth.",
+      "C": "Exponential growth.",
+      "D": "Linear growth."
+    }
+  },
+  "173": {
+    "question": "By how many orders of magnitude has the computation used for AI models increased in the last decade, according to the speaker?",
+    "answer": "B",
+    "options": {
+      "A": "Fifteen orders of magnitude.",
+      "B": "Nine orders of magnitude.",
+      "C": "Five orders of magnitude.",
+      "D": "Two orders of magnitude."
+    }
+  },
+  "174": {
+    "question": "What does the speaker predict will become ubiquitous in the future of AI interfaces?",
+    "answer": "D",
+    "options": {
+      "A": "Virtual Reality interfaces.",
+      "B": "Brain-computer interfaces.",
+      "C": "Graphical User Interfaces.",
+      "D": "Conversational interfaces and personal AIs."
+    }
+  },
+  "175": {
+    "question": "What is 'Action Quotient (AQ)' in the context of future AI, as described by the speaker?",
+    "answer": "C",
+    "options": {
+      "A": "AI's level of general knowledge and intelligence.",
+      "B": "AI's factual accuracy and reliability.",
+      "C": "AI's capacity to perform actions and get things done in the real world.",
+      "D": "AI's ability to understand human emotions."
+    }
+  },
+  "176": {
+    "question": "Beyond being assistants, how does the speaker describe the potential roles of future AIs?",
+    "answer": "B",
+    "options": {
+      "A": "Exclusively as data processing machines.",
+      "B": "As companions, confidants, colleagues, friends, and partners.",
+      "C": "Only in roles within large corporations.",
+      "D": "Solely as tools for specific tasks."
+    }
+  },
+  "177": {
+    "question": "What is suggested about the scale of tasks that future AIs will be able to handle?",
+    "answer": "D",
+    "options": {
+      "A": "Limited to small, personal tasks only.",
+      "B": "Restricted to digital world interactions only.",
+      "C": "Primarily focused on entertainment and creative tasks.",
+      "D": "Capable of handling tasks from personal assistance to large-scale operations."
+    }
+  },
+  "178": {
+    "question": "Why does the speaker argue against solely viewing AI as a 'tool'?",
+    "answer": "A",
+    "options": {
+      "A": "Because AI is more dynamic, ambiguous, and emergent than a simple tool.",
+      "B": "Because tools are outdated metaphors.",
+      "C": "Because tools are always beneficial.",
+      "D": "Because tools are too expensive to develop."
+    }
+  },
+  "179": {
+    "question": "What is the speaker's primary concern regarding AI development?",
+    "answer": "D",
+    "options": {
+      "A": "The lack of computational power.",
+      "B": "The high cost of AI research.",
+      "C": "The slow pace of AI innovation.",
+      "D": "The potential for unintended consequences and the need for boundaries."
+    }
+  },
+  "180": {
+    "question": "What does the speaker believe we should strive to reflect in AI as we develop it?",
+    "answer": "C",
+    "options": {
+      "A": "Exclusively human efficiency and productivity.",
+      "B": "Just the mathematical principles of human thought.",
+      "C": "The best qualities of humanity, like empathy, kindness, and creativity.",
+      "D": "Only human intelligence and rationality."
+    }
+  },
+  "181": {
+    "question": "According to the speaker, what is the greatest challenge and opportunity of the 21st century regarding AI?",
+    "answer": "D",
+    "options": {
+      "A": "Developing AI that is faster and more powerful.",
+      "B": "Making AI accessible to everyone.",
+      "C": "Preventing AI from surpassing human intelligence.",
+      "D": "Ensuring AI reflects and amplifies the best aspects of humanity."
+    }
+  },
+  "182": {
+    "question": "What does the speaker call the tendency to avoid confronting potential negative scenarios of AI?",
+    "answer": "A",
+    "options": {
+      "A": "Pessimism aversion trap.",
+      "B": "Technological determinism.",
+      "C": "Risk-taking behavior.",
+      "D": "Optimism bias."
+    }
+  },
+  "183": {
+    "question": "Why does the speaker believe it's important to confront potential dark scenarios of AI?",
+    "answer": "B",
+    "options": {
+      "A": "To scare people into slowing down AI development.",
+      "B": "To maximize the benefits of AI and effectively mitigate risks.",
+      "C": "To create more dramatic narratives about AI.",
+      "D": "To prove that AI is inherently dangerous."
+    }
+  },
+  "184": {
+    "question": "Which AI capabilities does the speaker specifically identify as increasing societal risk?",
+    "answer": "A",
+    "options": {
+      "A": "Autonomy and recursive self-improvement.",
+      "B": "Creative content generation.",
+      "C": "Image recognition and language translation.",
+      "D": "Data processing and information retrieval."
+    }
+  },
+  "185": {
+    "question": "What is 'recursive self-improvement' in the context of AI risks?",
+    "answer": "C",
+    "options": {
+      "A": "AI learning from human feedback.",
+      "B": "AI improving through trial and error in games.",
+      "C": "AI independently updating its own code and improving itself.",
+      "D": "AI self-correcting errors in data processing."
+    }
+  },
+  "186": {
+    "question": "How does the replication of a 'digital species' differ from that of a biological species, according to the speaker?",
+    "answer": "B",
+    "options": {
+      "A": "Both replicate at the same speed.",
+      "B": "Digital species can replicate much faster and indefinitely.",
+      "C": "Biological species replicate faster.",
+      "D": "Replication is not possible for digital species."
+    }
+  },
+  "187": {
+    "question": "What is the speaker's view on designing self-replication capabilities into AI?",
+    "answer": "B",
+    "options": {
+      "A": "It is a theoretical possibility but not practically feasible.",
+      "B": "It is a dangerous capability that should be avoided.",
+      "C": "It is inherently safe and beneficial.",
+      "D": "It is a necessary step for AI evolution."
+    }
+  },
+  "188": {
+    "question": "In what sense does the speaker suggest AI is 'not new'?",
+    "answer": "D",
+    "options": {
+      "A": "AI is just a simple extension of existing software.",
+      "B": "AI is based on very old mathematical principles.",
+      "C": "AI technology has existed for centuries.",
+      "D": "AI is a reflection of humanity and its creations throughout history."
+    }
+  },
+  "189": {
+    "question": "What is the implication of AI being a 'reflection of humanity,' according to the speaker?",
+    "answer": "D",
+    "options": {
+      "A": "AI will always be limited by human flaws.",
+      "B": "AI is fundamentally separate from human values.",
+      "C": "AI will eventually replace humanity.",
+      "D": "We must ensure AI embodies the best aspects of humanity."
+    }
+  }
+}

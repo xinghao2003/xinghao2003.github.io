@@ -1,0 +1,1222 @@
+{
+  "1": {
+    "question": "What does 'Accuracy' in data quality mean?",
+    "answer": "D",
+    "options": {
+      "A": "Data is not duplicated.",
+      "B": "Data conforms to the required format.",
+      "C": "Data is available when needed.",
+      "D": "Data matches the real-world value."
+    }
+  },
+  "2": {
+    "question": "Which of the following is an example of inaccurate data?",
+    "answer": "B",
+    "options": {
+      "A": "A customer record including all contact details.",
+      "B": "A customer's address recorded incorrectly.",
+      "C": "A customer's birthdate being the same across all systems.",
+      "D": "Inventory data updated daily."
+    }
+  },
+  "3": {
+    "question": "What does 'Completeness' in data quality mean?",
+    "answer": "C",
+    "options": {
+      "A": "Data is consistent across systems.",
+      "B": "Data is in the correct format.",
+      "C": "All required data is present.",
+      "D": "Data is up-to-date."
+    }
+  },
+  "4": {
+    "question": "Which of the following is an example of incomplete data?",
+    "answer": "A",
+    "options": {
+      "A": "A customer record missing the phone number.",
+      "B": "A customer's email recorded correctly with a valid format.",
+      "C": "A customer's information is entered only once in the database.",
+      "D": "A customer's birthdate recorded inconsistently across two systems."
+    }
+  },
+  "5": {
+    "question": "What does 'Consistency' in data quality mean?",
+    "answer": "C",
+    "options": {
+      "A": "Data reflects real-world values.",
+      "B": "Data is available on time.",
+      "C": "Data is the same across different systems.",
+      "D": "Data is free from duplicates."
+    }
+  },
+  "6": {
+    "question": "Which of the following is an example of inconsistent data?",
+    "answer": "B",
+    "options": {
+      "A": "Inventory data updated daily.",
+      "B": "A customer's address is recorded accurately in one database, and another different address in other database.",
+      "C": "A customer's information is entered only once in the database.",
+      "D": "A customer's phone number is recorded correctly in the database."
+    }
+  },
+  "7": {
+    "question": "What does 'Timeliness' in data quality mean?",
+    "answer": "C",
+    "options": {
+      "A": "Data is in the correct format.",
+      "B": "Data reflects the real-world value.",
+      "C": "Data is available when needed and up-to-date.",
+      "D": "Data is consistent across systems."
+    }
+  },
+  "8": {
+    "question": "Which of the following is an example of untimely data?",
+    "answer": "C",
+    "options": {
+      "A": "A customer record including all contact details.",
+      "B": "Inventory data updated daily.",
+      "C": "Inventory data updated once a month.",
+      "D": "A customer's information is entered only once in the database."
+    }
+  },
+  "9": {
+    "question": "What does 'Validity' in data quality mean?",
+    "answer": "C",
+    "options": {
+      "A": "Data is up-to-date.",
+      "B": "Data is correct in the database.",
+      "C": "Data conforms to the required format or rules.",
+      "D": "Data is not duplicated."
+    }
+  },
+  "10": {
+    "question": "Which of the following is an example of invalid data?",
+    "answer": "C",
+    "options": {
+      "A": "A customer record that includes all information.",
+      "B": "An email address with a valid format like 'example@domain.com'",
+      "C": "An email address without the '@' symbol.",
+      "D": "A customer's information that is not duplicated"
+    }
+  },
+  "11": {
+    "question": "What does 'Uniqueness' in data quality mean?",
+    "answer": "D",
+    "options": {
+      "A": "Data should be up-to-date.",
+      "B": "Data should reflect real world values.",
+      "C": "Data should be in the correct format.",
+      "D": "Data should not be duplicated."
+    }
+  },
+  "12": {
+    "question": "Which of the following is an example of non-unique data?",
+    "answer": "C",
+    "options": {
+      "A": "A customer's information that is entered only once in the database.",
+      "B": "A customer record including all contact details.",
+      "C": "A customer's information is entered twice in the database.",
+      "D": "A customer's address is recorded correctly."
+    }
+  },
+  "13": {
+    "question": "What data quality dimension is concerned with data correctly representing real-world facts?",
+    "answer": "D",
+    "options": {
+      "A": "Consistency",
+      "B": "Timeliness",
+      "C": "Completeness",
+      "D": "Accuracy"
+    }
+  },
+  "14": {
+    "question": "If a product's price is listed as $25.00 in a database, but its actual price is $20.00, which data quality dimension is violated?",
+    "answer": "B",
+    "options": {
+      "A": "Consistency",
+      "B": "Accuracy",
+      "C": "Validity",
+      "D": "Completeness"
+    }
+  },
+  "15": {
+    "question": "Which data quality dimension is violated when some expected data is missing from a record?",
+    "answer": "D",
+    "options": {
+      "A": "Accuracy",
+      "B": "Consistency",
+      "C": "Validity",
+      "D": "Completeness"
+    }
+  },
+  "16": {
+    "question": "A database table for employees is missing salary information for some employees. This is a problem of:",
+    "answer": "B",
+    "options": {
+      "A": "Accuracy",
+      "B": "Completeness",
+      "C": "Uniqueness",
+      "D": "Timeliness"
+    }
+  },
+  "17": {
+    "question": "What data quality dimension ensures that the same piece of data is the same across different locations or systems?",
+    "answer": "A",
+    "options": {
+      "A": "Consistency",
+      "B": "Validity",
+      "C": "Timeliness",
+      "D": "Accuracy"
+    }
+  },
+  "18": {
+    "question": "Having different spellings of the same city name in two different databases violates which data quality dimension?",
+    "answer": "B",
+    "options": {
+      "A": "Accuracy",
+      "B": "Consistency",
+      "C": "Completeness",
+      "D": "Validity"
+    }
+  },
+  "19": {
+    "question": "Which data quality dimension emphasizes that data should be current and available when required?",
+    "answer": "C",
+    "options": {
+      "A": "Accuracy",
+      "B": "Validity",
+      "C": "Timeliness",
+      "D": "Consistency"
+    }
+  },
+  "20": {
+    "question": "Using month-old stock prices to make investment decisions would primarily violate which data quality dimension?",
+    "answer": "C",
+    "options": {
+      "A": "Accuracy",
+      "B": "Uniqueness",
+      "C": "Timeliness",
+      "D": "Completeness"
+    }
+  },
+  "21": {
+    "question": "What data quality dimension ensures that data conforms to specified formats and rules?",
+    "answer": "B",
+    "options": {
+      "A": "Timeliness",
+      "B": "Validity",
+      "C": "Consistency",
+      "D": "Completeness"
+    }
+  },
+  "22": {
+    "question": "Entering a text value into a field that is defined as an integer in a database violates which data quality dimension?",
+    "answer": "B",
+    "options": {
+      "A": "Accuracy",
+      "B": "Validity",
+      "C": "Consistency",
+      "D": "Completeness"
+    }
+  },
+  "23": {
+    "question": "Which data quality dimension is concerned with ensuring that there are no duplicate records in a dataset?",
+    "answer": "D",
+    "options": {
+      "A": "Timeliness",
+      "B": "Validity",
+      "C": "Accuracy",
+      "D": "Uniqueness"
+    }
+  },
+  "24": {
+    "question": "Having the same customer listed twice with identical information in a customer database violates:",
+    "answer": "D",
+    "options": {
+      "A": "Accuracy",
+      "B": "Completeness",
+      "C": "Consistency",
+      "D": "Uniqueness"
+    }
+  },
+  "25": {
+    "question": "What does the holistic approach discussed in the webinar combine?",
+    "answer": "D",
+    "options": {
+      "A": "Training, Certification, Experience",
+      "B": "Analysis, Reporting, Visualization",
+      "C": "Hardware, Software, Data",
+      "D": "People, Process, Technology"
+    }
+  },
+  "26": {
+    "question": "According to the introduction, what type of approach is needed to address data quality problems?",
+    "answer": "B",
+    "options": {
+      "A": "Tactical, one-off improvements",
+      "B": "Holistic, combining people, process and technology",
+      "C": "Continuous, technology driven",
+      "D": "Single-project improvements"
+    }
+  },
+  "27": {
+    "question": "According to the introduction,  where can data quality problems extend?",
+    "answer": "C",
+    "options": {
+      "A": "Beyond an organization",
+      "B": "Across the organization",
+      "C": "All of the above",
+      "D": "Within a single department"
+    }
+  },
+  "28": {
+    "question": "What term describes data that is demonstrably fit for purpose?",
+    "answer": "D",
+    "options": {
+      "A": "Data availability",
+      "B": "Data consistency",
+      "C": "Data reliability",
+      "D": "Data quality"
+    }
+  },
+  "29": {
+    "question": "According to the definition presented, what aspects should data quality meet?",
+    "answer": "A",
+    "options": {
+      "A": "Accuracy, Completeness, Reliability, Accessibility, Timeliness",
+      "B": "Completeness, Reliability, Accessibility, Timeliness",
+      "C": "Accuracy, Completeness, Consistency, Availability",
+      "D": "Consistency, Accuracy, Availability, and Reliability"
+    }
+  },
+  "30": {
+    "question": "What causes the need for Data Quality to be more complex than it appears?",
+    "answer": "B",
+    "options": {
+      "A": "Lack of proper training",
+      "B": "The data world has become more complex and diffused",
+      "C": "Not having enough techincal staff",
+      "D": "The use of older data standards"
+    }
+  },
+  "31": {
+    "question": "According to the webinar, what is a key contributor to bad data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Unskilled professionals",
+      "B": "Poor training",
+      "C": "Lack of budget",
+      "D": "Lack of accountability for improving data"
+    }
+  },
+  "32": {
+    "question": "According to Nigel Turner, what is a simple definition of data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Data that is collected and stored efficiently.",
+      "B": "Data that is 100% accurate and complete.",
+      "C": "Data that is managed by IT departments.",
+      "D": "Data that is demonstrably fit for purpose."
+    }
+  },
+  "33": {
+    "question": "What does 'demonstrably' imply in the context of data quality according to the webinar?",
+    "answer": "A",
+    "options": {
+      "A": "Data quality should be measured and quantified.",
+      "B": "Data quality is a subjective feeling.",
+      "C": "Data quality is only important for critical systems.",
+      "D": "Data quality needs to be intuitively understood."
+    }
+  },
+  "34": {
+    "question": "Which of the following is NOT mentioned as a key dimension of data quality in the webinar?",
+    "answer": "B",
+    "options": {
+      "A": "Reliability",
+      "B": "Security",
+      "C": "Accuracy",
+      "D": "Completeness"
+    }
+  },
+  "35": {
+    "question": "What does 'completeness' refer to as a dimension of data quality?",
+    "answer": "C",
+    "options": {
+      "A": "Ensuring data is up-to-date.",
+      "B": "Ensuring data is consistent across systems.",
+      "C": "Having all the data that is required for a specific purpose.",
+      "D": "Having data that accurately reflects reality."
+    }
+  },
+  "36": {
+    "question": "In data quality, 'reliability' primarily refers to:",
+    "answer": "D",
+    "options": {
+      "A": "The speed at which data can be accessed.",
+      "B": "The degree to which data is protected from unauthorized access.",
+      "C": "The accuracy of data in reflecting the real world.",
+      "D": "The consistency of data across different sources."
+    }
+  },
+  "37": {
+    "question": "According to the webinar, how can poor data quality affect revenue?",
+    "answer": "D",
+    "options": {
+      "A": "By leading to more efficient marketing campaigns.",
+      "B": "By improving brand reputation.",
+      "C": "By increasing customer satisfaction.",
+      "D": "By decreasing response rates in marketing and sales."
+    }
+  },
+  "38": {
+    "question": "What is meant by 'cost of failure' in the context of poor data quality?",
+    "answer": "B",
+    "options": {
+      "A": "The cost of employee training on data management.",
+      "B": "The costs incurred when errors in data require rework and correction.",
+      "C": "The cost of data storage and infrastructure.",
+      "D": "The cost of implementing data quality tools."
+    }
+  },
+  "39": {
+    "question": "What percentage of revenue can companies with endemic data quality problems potentially lose, as mentioned in the webinar?",
+    "answer": "D",
+    "options": {
+      "A": "Up to 10%",
+      "B": "Up to 50%",
+      "C": "Up to 5%",
+      "D": "Up to 25%"
+    }
+  },
+  "40": {
+    "question": "How does poor data quality affect customer loyalty, as discussed in the webinar?",
+    "answer": "D",
+    "options": {
+      "A": "It has no significant impact on customer perception.",
+      "B": "It enhances customer trust and satisfaction.",
+      "C": "It only affects internal business processes.",
+      "D": "It can damage customer trust and perception of competence."
+    }
+  },
+  "41": {
+    "question": "What example is given to illustrate how basic data errors can impact customer perception?",
+    "answer": "D",
+    "options": {
+      "A": "Complex data analysis mistakes.",
+      "B": "Inefficient data storage practices.",
+      "C": "Lack of data security measures.",
+      "D": "Misspelling a customer's name in communication."
+    }
+  },
+  "42": {
+    "question": "Which regulation is specifically mentioned in the webinar as highlighting the importance of data accuracy?",
+    "answer": "A",
+    "options": {
+      "A": "GDPR",
+      "B": "HIPAA",
+      "C": "CCPA",
+      "D": "SOX"
+    }
+  },
+  "43": {
+    "question": "According to GDPR, what is a key requirement for personal data?",
+    "answer": "D",
+    "options": {
+      "A": "Data should be stored indefinitely.",
+      "B": "Data should be anonymized.",
+      "C": "Data should be encrypted.",
+      "D": "Data should be accurate and kept up to date where necessary."
+    }
+  },
+  "44": {
+    "question": "What was the data quality issue example from Amazon Prime Day 2019?",
+    "answer": "D",
+    "options": {
+      "A": "Data breach exposing customer information.",
+      "B": "Delayed shipping of customer orders.",
+      "C": "Website outage due to high traffic.",
+      "D": "Incorrect product pricing leading to financial loss."
+    }
+  },
+  "45": {
+    "question": "In the NHS example, what type of error occurred due to poor data quality?",
+    "answer": "A",
+    "options": {
+      "A": "Wrong surgical procedure performed due to patient mix-up.",
+      "B": "Loss of patient records.",
+      "C": "Incorrect medication dosage.",
+      "D": "Misdiagnosis of a patient's condition."
+    }
+  },
+  "46": {
+    "question": "Which factor is highlighted as a reason for the increasing complexity of data quality management?",
+    "answer": "A",
+    "options": {
+      "A": "Increased variety, velocity, and volume of data.",
+      "B": "Decreasing volume of data.",
+      "C": "Simplification of data processing technologies.",
+      "D": "Better standardization of data formats."
+    }
+  },
+  "47": {
+    "question": "What is the 'age-old' reason for data quality decay mentioned in the webinar?",
+    "answer": "B",
+    "options": {
+      "A": "Cybersecurity threats.",
+      "B": "The world changes, making data outdated.",
+      "C": "Insufficient data storage capacity.",
+      "D": "Lack of skilled IT professionals."
+    }
+  },
+  "48": {
+    "question": "According to the webinar, what is a common misconception about data quality responsibility?",
+    "answer": "A",
+    "options": {
+      "A": "It is solely the responsibility of the IT department.",
+      "B": "It is not anyone's specific responsibility.",
+      "C": "It is a shared responsibility between business and IT.",
+      "D": "It is primarily the responsibility of business users."
+    }
+  },
+  "49": {
+    "question": "The webinar argues that data quality is primarily whose responsibility?",
+    "answer": "B",
+    "options": {
+      "A": "The IT department.",
+      "B": "A shared responsibility between business and IT.",
+      "C": "The business users.",
+      "D": "External data consultants."
+    }
+  },
+  "50": {
+    "question": "Why is it important for the business to take prime responsibility for data quality?",
+    "answer": "B",
+    "options": {
+      "A": "Because business users create all data quality issues.",
+      "B": "Because data is fundamentally a business asset and problem.",
+      "C": "Because IT should focus only on infrastructure.",
+      "D": "Because IT departments lack the skills to manage data."
+    }
+  },
+  "51": {
+    "question": "What are the three key components of a holistic approach to data quality improvement, as mentioned in the webinar?",
+    "answer": "A",
+    "options": {
+      "A": "People, Process, Technology.",
+      "B": "Hardware, Software, Network.",
+      "C": "Plan, Do, Check, Act.",
+      "D": "Data, Information, Knowledge."
+    }
+  },
+  "52": {
+    "question": "How can technology assist in reducing human error in data entry, according to the webinar?",
+    "answer": "B",
+    "options": {
+      "A": "By relying solely on manual data validation.",
+      "B": "By using dropdowns and auto-defaults to minimize incorrect inputs.",
+      "C": "By providing better training for data entry personnel.",
+      "D": "By eliminating manual data entry entirely."
+    }
+  },
+  "53": {
+    "question": "What role does data governance play in data quality, according to the webinar?",
+    "answer": "C",
+    "options": {
+      "A": "It is only relevant for regulatory compliance.",
+      "B": "It is a minor supporting function to data quality.",
+      "C": "It is essential and intertwined with data quality.",
+      "D": "It is completely separate from data quality."
+    }
+  },
+  "54": {
+    "question": "Which of the following is highlighted as a key aspect of data governance for improving data quality?",
+    "answer": "C",
+    "options": {
+      "A": "Reducing IT department budgets.",
+      "B": "Implementing the latest technology.",
+      "C": "Establishing agreed data standards and processes.",
+      "D": "Outsourcing all data management activities."
+    }
+  },
+  "55": {
+    "question": "What is a common problem in organizations regarding data responsibility?",
+    "answer": "B",
+    "options": {
+      "A": "Everyone is formally responsible for data.",
+      "B": "Nobody is formally responsible for data.",
+      "C": "Only IT is responsible for data.",
+      "D": "Data is automatically fixed."
+    }
+  },
+  "56": {
+    "question": "According to the quote, what happens when everyone is supposed to be responsible for data?",
+    "answer": "C",
+    "options": {
+      "A": "Data quality improves rapidly.",
+      "B": "Everyone takes accountability.",
+      "C": "No one is responsible and nothing changes.",
+      "D": "Data is systematically fixed."
+    }
+  },
+  "57": {
+    "question": "What is the consequence of a lack of formal responsibility for data?",
+    "answer": "A",
+    "options": {
+      "A": "Bad data never gets systematically fixed.",
+      "B": "Bad data becomes less of a problem.",
+      "C": "Bad data is fixed automatically by systems.",
+      "D": "Bad data gets fixed quickly."
+    }
+  },
+  "58": {
+    "question": "Who should be responsible for the rules governing data?",
+    "answer": "B",
+    "options": {
+      "A": "Data analytics team",
+      "B": "Business people",
+      "C": "Data governance team",
+      "D": "The IT department"
+    }
+  },
+  "59": {
+    "question": "What is the problem when data is assumed to be everyone's responsibility?",
+    "answer": "B",
+    "options": {
+      "A": "Data is fixed by many people at once.",
+      "B": "No one is truly responsible for data quality.",
+      "C": "IT is burdened by data issues.",
+      "D": "Data improves automatically."
+    }
+  },
+  "60": {
+    "question": "What does data governance encompass?",
+    "answer": "D",
+    "options": {
+      "A": "Only data quality tools.",
+      "B": "Only systems and technology",
+      "C": "Only the IT team's work",
+      "D": "Processes, people and systems"
+    }
+  },
+  "61": {
+    "question": "Why do IT teams get frustrated when creating business data rules?",
+    "answer": "A",
+    "options": {
+      "A": "It is not within their expertise.",
+      "B": "They have all the business context.",
+      "C": "They love making business rules.",
+      "D": "It requires them to learn business."
+    }
+  },
+  "62": {
+    "question": "Why is a business-led data governance framework important?",
+    "answer": "C",
+    "options": {
+      "A": "To confuse data quality priorities",
+      "B": "To exclude the IT department.",
+      "C": "To ensure clear priorities for data quality improvement.",
+      "D": "To cause a data quality free for all"
+    }
+  },
+  "63": {
+    "question": "What does a business-led data governance framework help to define?",
+    "answer": "A",
+    "options": {
+      "A": "Roles and responsibilities for data stewardship and data quality",
+      "B": "Data access levels",
+      "C": "IT personnel",
+      "D": "Data tools for technology."
+    }
+  },
+  "64": {
+    "question": "What does this document say about data improvement approaches?",
+    "answer": "A",
+    "options": {
+      "A": "Data improvements should be reused.",
+      "B": "Data improvements should be discarded after a single use.",
+      "C": "Data improvements should only be used by IT.",
+      "D": "Data improvement should be done once."
+    }
+  },
+  "65": {
+    "question": "What will happen if data improvement is not reused across an organization?",
+    "answer": "B",
+    "options": {
+      "A": "Data quality will improve on its own.",
+      "B": "Problems will continue to appear and never be solved.",
+      "C": "Other parts of the organization will automatically improve as well",
+      "D": "IT will be overwhelmed with data quality requests."
+    }
+  },
+  "66": {
+    "question": "What is suggested for achieving repeatable data improvement?",
+    "answer": "B",
+    "options": {
+      "A": "Relying on IT for all data cleaning",
+      "B": "Investing in data quality toolkits.",
+      "C": "Avoiding automation due to complexity.",
+      "D": "Manual data cleaning."
+    }
+  },
+  "67": {
+    "question": "What is the effect of automating data quality improvements?",
+    "answer": "D",
+    "options": {
+      "A": "It increases the chance of errors.",
+      "B": "It removes need for data stewards",
+      "C": "It makes data quality more complex.",
+      "D": "It provides a consistent result."
+    }
+  },
+  "68": {
+    "question": "According to the document, where should data quality improvements be built?",
+    "answer": "B",
+    "options": {
+      "A": "Nowhere.",
+      "B": "Into the core of data design and implementation.",
+      "C": "Into reporting and analytics",
+      "D": "In a separate data quality system."
+    }
+  },
+  "69": {
+    "question": "What should guide the focus of data quality improvement work?",
+    "answer": "A",
+    "options": {
+      "A": "The highest value work.",
+      "B": "The biggest data quality issues.",
+      "C": "The easiest data quality issues.",
+      "D": "The most technical data issues."
+    }
+  },
+  "70": {
+    "question": "What should a data improvement initiative use to be managed?",
+    "answer": "D",
+    "options": {
+      "A": "Only a data quality tool.",
+      "B": "A Data steward.",
+      "C": "A project manager.",
+      "D": "A Data Improvement Plan."
+    }
+  },
+  "71": {
+    "question": "What elements does data quality encompass, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Only processes.",
+      "B": "Only technology.",
+      "C": "Processes, people, and policy.",
+      "D": "Processes and people only."
+    }
+  },
+  "72": {
+    "question": "Who should control the business rules related to data?",
+    "answer": "C",
+    "options": {
+      "A": "Data governance team",
+      "B": "Data architects",
+      "C": "Business users",
+      "D": "The IT department"
+    }
+  },
+  "73": {
+    "question": "According to the discussion, who should primarily be held accountable for data quality?",
+    "answer": "C",
+    "options": {
+      "A": "External consultants.",
+      "B": "The IT department.",
+      "C": "Business users and data stewards.",
+      "D": "The Data Governance team."
+    }
+  },
+  "74": {
+    "question": "What is the risk of not defining clear accountability in data governance?",
+    "answer": "C",
+    "options": {
+      "A": "Increased IT workload.",
+      "B": "Lack of business user involvement.",
+      "C": "No one effectively takes responsibility for data quality.",
+      "D": "Data governance initiatives become too complex."
+    }
+  },
+  "75": {
+    "question": "What is the key characteristic of an effective data governance framework?",
+    "answer": "C",
+    "options": {
+      "A": "Automated and tool-centric.",
+      "B": "Consultant-managed and process-oriented.",
+      "C": "Business-led and focused on business needs.",
+      "D": "IT-driven and technology-focused."
+    }
+  },
+  "76": {
+    "question": "Which of the following is NOT a component of a business-led data governance framework, according to the discussion?",
+    "answer": "C",
+    "options": {
+      "A": "Establishing escalation processes.",
+      "B": "Defining roles and responsibilities.",
+      "C": "Solely relying on IT for rule definition.",
+      "D": "Defining data priorities."
+    }
+  },
+  "77": {
+    "question": "Besides technology, what other critical elements contribute to data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Software and hardware.",
+      "B": "Data volume and velocity.",
+      "C": "Budget and resources.",
+      "D": "Processes, people, and policies."
+    }
+  },
+  "78": {
+    "question": "What does addressing data quality issues involve, beyond just implementing technology?",
+    "answer": "A",
+    "options": {
+      "A": "Changing organizational culture, defining processes and policies, and involving the right people.",
+      "B": "Increasing IT staff.",
+      "C": "Purchasing new hardware.",
+      "D": "Outsourcing data management."
+    }
+  },
+  "79": {
+    "question": "Why is it important to reuse data quality rules across an organization?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce IT workload.",
+      "B": "To simplify data governance processes.",
+      "C": "To ensure consistency and avoid fixing issues repeatedly in different silos.",
+      "D": "To reduce the cost of data quality tools."
+    }
+  },
+  "80": {
+    "question": "What kind of system can help in applying data quality rules consistently across an organization?",
+    "answer": "D",
+    "options": {
+      "A": "An ERP system.",
+      "B": "A CRM system.",
+      "C": "A data warehouse.",
+      "D": "A data quality tool or master data management system."
+    }
+  },
+  "81": {
+    "question": "What is a key limitation of solely relying on automation for data quality?",
+    "answer": "C",
+    "options": {
+      "A": "Automation is too complex to implement.",
+      "B": "Automation can only fix batch data.",
+      "C": "Automated tools require correct business rules and process alignment, and don't address root causes.",
+      "D": "Automated tools are too expensive."
+    }
+  },
+  "82": {
+    "question": "What analogy is used to illustrate the limitation of simply automating data cleanup without addressing the source of issues?",
+    "answer": "D",
+    "options": {
+      "A": "Building a house foundation.",
+      "B": "Cleaning a house.",
+      "C": "Fixing a car engine.",
+      "D": "Cleaning a pond polluted by incoming streams."
+    }
+  },
+  "83": {
+    "question": "How does data architecture contribute to data quality?",
+    "answer": "A",
+    "options": {
+      "A": "By defining data models, valid values, and ensuring holistic system integration.",
+      "B": "By automating data cleansing.",
+      "C": "By reducing the need for data governance.",
+      "D": "By simplifying IT infrastructure."
+    }
+  },
+  "84": {
+    "question": "What is a potential consequence of a siloed data architecture on data quality?",
+    "answer": "C",
+    "options": {
+      "A": "Reduced data storage costs.",
+      "B": "Improved data quality within each silo.",
+      "C": "Enterprise-wide data quality problems despite local optimizations.",
+      "D": "Simplified data access for business users."
+    }
+  },
+  "85": {
+    "question": "Why is it important to illustrate the downstream impact of poor data quality?",
+    "answer": "D",
+    "options": {
+      "A": "To simplify data architecture discussions.",
+      "B": "To blame individuals for data entry errors.",
+      "C": "To justify IT budgets.",
+      "D": "To demonstrate the business value of improving data quality and gain buy-in."
+    }
+  },
+  "86": {
+    "question": "What is an example of a business benefit that can be achieved by improving data quality, as mentioned in the transcript?",
+    "answer": "B",
+    "options": {
+      "A": "Faster data processing speeds.",
+      "B": "Improved marketing campaign effectiveness and customer loyalty.",
+      "C": "Simplified data governance structure.",
+      "D": "Reduced IT infrastructure costs."
+    }
+  },
+  "87": {
+    "question": "What is the key to building a successful business case for data quality improvement?",
+    "answer": "B",
+    "options": {
+      "A": "Focusing on all data quality issues simultaneously.",
+      "B": "Quantifying the business impact of data quality issues and demonstrating ROI.",
+      "C": "Requesting a large budget for data quality tools.",
+      "D": "Blaming departments for poor data quality."
+    }
+  },
+  "88": {
+    "question": "What is a recommended approach when starting data quality improvement initiatives, according to the discussion?",
+    "answer": "B",
+    "options": {
+      "A": "Outsourcing data quality management completely.",
+      "B": "Focusing on targeted, high-value data issues to demonstrate quick wins.",
+      "C": "Attempting to fix all data quality issues across the organization.",
+      "D": "Immediately investing in advanced data quality tools."
+    }
+  },
+  "89": {
+    "question": "Why is a data improvement plan essential for data quality initiatives?",
+    "answer": "A",
+    "options": {
+      "A": "To provide a structured approach, measure progress, and demonstrate ROI.",
+      "B": "To justify the existence of the data governance team.",
+      "C": "To simplify data architecture.",
+      "D": "To blame individuals for data errors."
+    }
+  },
+  "90": {
+    "question": "What is a key principle emphasized regarding data improvement?",
+    "answer": "A",
+    "options": {
+      "A": "You can't improve what you can't measure.",
+      "B": "Automate everything.",
+      "C": "Data quality is solely an IT responsibility.",
+      "D": "Focus on reactive data cleansing."
+    }
+  },
+  "91": {
+    "question": "Why is simplicity important when communicating about data governance to business stakeholders?",
+    "answer": "D",
+    "options": {
+      "A": "To speed up the communication process.",
+      "B": "To make data governance sound less important.",
+      "C": "To impress business users with technical expertise.",
+      "D": "To ensure clarity, understanding, and actionability by focusing on business impacts."
+    }
+  },
+  "92": {
+    "question": "What type of language should be used when explaining data quality issues to business users?",
+    "answer": "B",
+    "options": {
+      "A": "Abstract philosophical concepts.",
+      "B": "Simple language focusing on business outcomes and impacts.",
+      "C": "Highly technical jargon.",
+      "D": "Complex data architecture diagrams."
+    }
+  },
+  "93": {
+    "question": "Why is it crucial to involve the 'right people' in data governance initiatives?",
+    "answer": "B",
+    "options": {
+      "A": "To speed up decision-making.",
+      "B": "To ensure all affected departments are represented and their perspectives are considered.",
+      "C": "To reduce the workload on the IT department.",
+      "D": "To simplify the data governance process."
+    }
+  },
+  "94": {
+    "question": "Which departments are mentioned as examples of stakeholders who should be involved in data governance related to email address quality?",
+    "answer": "C",
+    "options": {
+      "A": "Operations and Customer Service.",
+      "B": "Legal and HR.",
+      "C": "Sales, Loyalty Program, Marketing, and Supply Chain.",
+      "D": "IT and Finance."
+    }
+  },
+  "95": {
+    "question": "What should data remediation processes include?",
+    "answer": "D",
+    "options": {
+      "A": "Ignoring minor data quality issues.",
+      "B": "Punishing individuals for data errors.",
+      "C": "Automated data cleansing tools only.",
+      "D": "Workflows for correcting data errors and escalating issues."
+    }
+  },
+  "96": {
+    "question": "Why is it important to have a process for escalating data quality issues?",
+    "answer": "A",
+    "options": {
+      "A": "To ensure issues are addressed by the appropriate governance bodies, even when identified by field staff.",
+      "B": "To increase the workload of the data governance team.",
+      "C": "To simplify data governance reporting.",
+      "D": "To blame individuals for data errors."
+    }
+  },
+  "97": {
+    "question": "What role does culture play in data quality improvement?",
+    "answer": "D",
+    "options": {
+      "A": "Culture change is too difficult and not worth the effort.",
+      "B": "Culture is irrelevant; technology is the key.",
+      "C": "A blame culture is most effective for improving data quality.",
+      "D": "A culture of ownership, responsibility, and open communication is essential."
+    }
+  },
+  "98": {
+    "question": "How can communication help shift mindsets regarding data quality?",
+    "answer": "D",
+    "options": {
+      "A": "By reinforcing the 'you fix it for me' mentality.",
+      "B": "By limiting communication to the data governance team only.",
+      "C": "By using complex technical jargon.",
+      "D": "By educating everyone about their responsibilities and fostering collective ownership."
+    }
+  },
+  "99": {
+    "question": "What is the role of tools and technology in data quality, according to the discussion?",
+    "answer": "A",
+    "options": {
+      "A": "They are enablers that are most effective when foundational elements are in place.",
+      "B": "They are unnecessary if data governance is strong.",
+      "C": "They are the primary solution to data quality problems.",
+      "D": "They should be implemented before defining data governance processes."
+    }
+  },
+  "100": {
+    "question": "What is emphasized as more fundamental to data quality improvement than tools and technology?",
+    "answer": "D",
+    "options": {
+      "A": "Budget and resources.",
+      "B": "The latest software and hardware.",
+      "C": "Outsourcing data management.",
+      "D": "Data governance, architecture, processes, and culture."
+    }
+  },
+  "101": {
+    "question": "What is a major shift in the focus of data quality management?",
+    "answer": "D",
+    "options": {
+      "A": "From real-time to batch processing.",
+      "B": "From proactive to reactive approaches.",
+      "C": "From business-driven to IT-driven approaches.",
+      "D": "From batch processing to real-time and online data quality."
+    }
+  },
+  "102": {
+    "question": "Why is real-time data quality becoming increasingly important?",
+    "answer": "A",
+    "options": {
+      "A": "Digital businesses require immediate data accuracy and cannot afford to wait for batch corrections.",
+      "B": "IT departments prefer real-time data quality management.",
+      "C": "Data warehouses are becoming obsolete.",
+      "D": "Batch processing is becoming more complex."
+    }
+  },
+  "103": {
+    "question": "What is a significant change in who drives data quality initiatives?",
+    "answer": "C",
+    "options": {
+      "A": "From business users to IT departments.",
+      "B": "From data analysts to data scientists.",
+      "C": "From IT departments to business users.",
+      "D": "From consultants to internal teams."
+    }
+  },
+  "104": {
+    "question": "Why is it important for data quality to be business-driven?",
+    "answer": "B",
+    "options": {
+      "A": "IT departments lack the technical skills for data quality.",
+      "B": "Business users are the primary stakeholders and understand business context best.",
+      "C": "IT-driven data quality is always ineffective.",
+      "D": "Business users have more budget for data quality initiatives."
+    }
+  },
+  "105": {
+    "question": "What is a key evolution in data quality approaches regarding scope?",
+    "answer": "D",
+    "options": {
+      "A": "From proactive to reactive.",
+      "B": "From business-driven to IT-driven.",
+      "C": "From enterprise-wide to platform-specific.",
+      "D": "From platform-specific to enterprise-wide."
+    }
+  },
+  "106": {
+    "question": "Why are enterprise-wide data quality approaches necessary today?",
+    "answer": "A",
+    "options": {
+      "A": "To address the horizontal flow of data across and outside organizations and its impact.",
+      "B": "To make data quality solely an IT responsibility.",
+      "C": "To simplify data quality management.",
+      "D": "To reduce the cost of data quality tools."
+    }
+  },
+  "107": {
+    "question": "What is the difference between data cleansing and data re-engineering in data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Data cleansing is proactive; data re-engineering is reactive.",
+      "B": "Data cleansing is business-driven; data re-engineering is IT-driven.",
+      "C": "Data cleansing is enterprise-wide; data re-engineering is platform-specific.",
+      "D": "Data cleansing is a one-time fix; data re-engineering aims for sustained quality by fixing root causes."
+    }
+  },
+  "108": {
+    "question": "What is the goal of data re-engineering?",
+    "answer": "A",
+    "options": {
+      "A": "To fix the systems and processes causing data quality issues for sustained improvement.",
+      "B": "To reduce the cost of data cleansing tools.",
+      "C": "To perform one-time data cleanups.",
+      "D": "To make data cleansing fully automated."
+    }
+  },
+  "109": {
+    "question": "What does 'Data Quality as a Service' imply?",
+    "answer": "B",
+    "options": {
+      "A": "Outsourcing data quality management to external vendors.",
+      "B": "Centrally managed data quality tools and rules applied across the organization.",
+      "C": "Providing data quality tools to end-users for self-service cleansing.",
+      "D": "Charging business users for data quality services."
+    }
+  },
+  "110": {
+    "question": "What is the benefit of treating data quality as a service?",
+    "answer": "D",
+    "options": {
+      "A": "Reduced IT workload.",
+      "B": "Reduced cost of data quality tools.",
+      "C": "Simplified data governance processes.",
+      "D": "Consistent application of rules and a less siloed approach to data quality."
+    }
+  },
+  "111": {
+    "question": "What is the first step in traditional data quality improvement approaches mentioned in the discussion?",
+    "answer": "C",
+    "options": {
+      "A": "Developing data standards.",
+      "B": "Automating data cleansing.",
+      "C": "Data profiling to understand existing data issues.",
+      "D": "Building business rules."
+    }
+  },
+  "112": {
+    "question": "What is the purpose of embedding data standards and rules into systems?",
+    "answer": "B",
+    "options": {
+      "A": "To reduce the need for data governance.",
+      "B": "To ensure data quality improvement becomes a continuous business-as-usual process.",
+      "C": "To simplify IT infrastructure.",
+      "D": "To make data quality a one-time project."
+    }
+  },
+  "113": {
+    "question": "What is a key characteristic of the 'new age' of data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Relying only on traditional data profiling techniques.",
+      "B": "Focusing solely on data cleansing at the backend.",
+      "C": "Making data quality solely an IT responsibility.",
+      "D": "Emphasizing validation and prevention of errors at the data source ('edge')."
+    }
+  },
+  "114": {
+    "question": "How is Artificial Intelligence (AI) being applied to data quality?",
+    "answer": "C",
+    "options": {
+      "A": "To simplify data governance processes.",
+      "B": "To replace human data stewards entirely.",
+      "C": "To develop self-checking data quality tools that learn and flag errors.",
+      "D": "To automate data cleansing without business rules."
+    }
+  },
+  "115": {
+    "question": "What is the recommended balance between human intervention and automation in data quality?",
+    "answer": "A",
+    "options": {
+      "A": "A proper mix of both human intervention and automation is necessary.",
+      "B": "Complete automation is the ideal approach.",
+      "C": "Automation should only be used for data cleansing, not rule definition.",
+      "D": "Data quality should be entirely managed by humans."
+    }
+  },
+  "116": {
+    "question": "Why is human intervention still important in data quality despite advances in automation?",
+    "answer": "C",
+    "options": {
+      "A": "Humans are better at data cleansing than automated tools.",
+      "B": "Humans are cheaper than automation.",
+      "C": "Data quality is 'fit for purpose' for human use, requiring human judgment and context understanding.",
+      "D": "Automation is too complex to implement."
+    }
+  },
+  "117": {
+    "question": "What are the two main types of data quality approaches discussed?",
+    "answer": "B",
+    "options": {
+      "A": "Automated and manual.",
+      "B": "Reactive and proactive.",
+      "C": "Centralized and decentralized.",
+      "D": "IT-driven and business-driven."
+    }
+  },
+  "118": {
+    "question": "What are examples of proactive data quality measures?",
+    "answer": "C",
+    "options": {
+      "A": "Reactive data monitoring dashboards.",
+      "B": "Data cleansing projects.",
+      "C": "Business process changes, policy implementation, and validation at the source.",
+      "D": "Data quality working groups."
+    }
+  },
+  "119": {
+    "question": "How are data governance, data architecture, and data quality related?",
+    "answer": "D",
+    "options": {
+      "A": "Data architecture is a component of data quality.",
+      "B": "They are independent and separate disciplines.",
+      "C": "Data quality is a subset of data governance.",
+      "D": "They form a virtuous cycle where each reinforces the others."
+    }
+  },
+  "120": {
+    "question": "What role does data architecture play in this virtuous cycle?",
+    "answer": "C",
+    "options": {
+      "A": "Provides the people and policies.",
+      "B": "Manages data quality tools.",
+      "C": "Provides the data model and integration framework.",
+      "D": "Focuses on metrics and business quality rules."
+    }
+  },
+  "121": {
+    "question": "What should a data improvement plan typically include?",
+    "answer": "D",
+    "options": {
+      "A": "Justification for IT budget increases.",
+      "B": "Solely focusing on automated data cleansing.",
+      "C": "Blaming departments for data errors.",
+      "D": "Defining scope, identifying issues, prioritizing, and implementing fixes."
+    }
+  },
+  "122": {
+    "question": "Why is a business case crucial for data improvement work?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce the cost of data quality tools.",
+      "B": "To simplify data governance reporting.",
+      "C": "To make data quality solely an IT responsibility.",
+      "D": "To justify actions by showing the business value and ROI of data quality improvements."
+    }
+  }
+}

@@ -1,0 +1,1732 @@
+{
+  "1": {
+    "question": "What is the primary function of HDFS in Hadoop?",
+    "answer": "A",
+    "options": {
+      "A": "Storing and distributing large datasets",
+      "B": "Managing cluster resources",
+      "C": "Processing data in parallel",
+      "D": "Providing common utilities for Hadoop modules"
+    }
+  },
+  "2": {
+    "question": "Which feature of HDFS ensures data availability even if a node fails?",
+    "answer": "C",
+    "options": {
+      "A": "High Throughput",
+      "B": "Parallel Processing",
+      "C": "Fault Tolerance",
+      "D": "Scalability"
+    }
+  },
+  "3": {
+    "question": "What is the role of MapReduce in Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Providing common utilities",
+      "B": "Storing large datasets",
+      "C": "Managing cluster resources",
+      "D": "Processing data in parallel"
+    }
+  },
+  "4": {
+    "question": "How does MapReduce process large datasets?",
+    "answer": "C",
+    "options": {
+      "A": "By providing fault tolerance",
+      "B": "By allocating resources dynamically",
+      "C": "By splitting tasks into map and reduce phases",
+      "D": "By storing them on a single machine"
+    }
+  },
+  "5": {
+    "question": "What is the primary function of YARN in Hadoop?",
+    "answer": "B",
+    "options": {
+      "A": "Storing large datasets",
+      "B": "Managing and allocating cluster resources",
+      "C": "Processing data in parallel",
+      "D": "Providing common utilities"
+    }
+  },
+  "6": {
+    "question": "Which of the following is a key benefit of using YARN in a Hadoop cluster?",
+    "answer": "D",
+    "options": {
+      "A": "Simplicity",
+      "B": "Fault Tolerance",
+      "C": "High Throughput",
+      "D": "Multitenancy"
+    }
+  },
+  "7": {
+    "question": "What is the purpose of Hadoop Common?",
+    "answer": "B",
+    "options": {
+      "A": "Managing cluster resources",
+      "B": "Providing common utilities for Hadoop modules",
+      "C": "Storing data in a distributed manner",
+      "D": "Processing large datasets"
+    }
+  },
+  "8": {
+    "question": "Which of the following best describes Hadoop Common?",
+    "answer": "D",
+    "options": {
+      "A": "A storage layer",
+      "B": "A resource management layer",
+      "C": "A processing engine",
+      "D": "A collection of utilities"
+    }
+  },
+  "9": {
+    "question": "How does HDFS achieve fault tolerance?",
+    "answer": "D",
+    "options": {
+      "A": "By using a single storage location",
+      "B": "By processing data sequentially",
+      "C": "By using high latency connections",
+      "D": "By replicating data across multiple nodes"
+    }
+  },
+  "10": {
+    "question": "Why is fault tolerance important in a distributed system like Hadoop?",
+    "answer": "C",
+    "options": {
+      "A": "To process data faster",
+      "B": "To provide common utilities",
+      "C": "To ensure data availability despite node failures",
+      "D": "To manage resources efficiently"
+    }
+  },
+  "11": {
+    "question": "How can HDFS be scaled?",
+    "answer": "D",
+    "options": {
+      "A": "By limiting the size of the datasets",
+      "B": "By reducing the number of nodes in the cluster",
+      "C": "By using a single machine",
+      "D": "By adding more nodes to the cluster"
+    }
+  },
+  "12": {
+    "question": "What is a key advantage of HDFS's scalability?",
+    "answer": "B",
+    "options": {
+      "A": "Reduced storage capacity",
+      "B": "Ability to handle larger datasets",
+      "C": "Simplified data processing",
+      "D": "Increased processing speed"
+    }
+  },
+  "13": {
+    "question": "What is meant by parallel processing in the context of MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Distributing tasks across the cluster for simultaneous processing",
+      "B": "Processing data with a single thread",
+      "C": "Processing data sequentially",
+      "D": "Processing data on a single node"
+    }
+  },
+  "14": {
+    "question": "How does parallel processing impact data processing speed in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "It speeds up processing considerably",
+      "B": "It has no impact on processing speed",
+      "C": "It reduces processing speed",
+      "D": "It makes processing slower"
+    }
+  },
+  "15": {
+    "question": "How does YARN ensure efficient resource utilization?",
+    "answer": "A",
+    "options": {
+      "A": "By dynamically allocating resources based on application needs",
+      "B": "By allocating resources to only one application",
+      "C": "By avoiding resource allocation",
+      "D": "By statically allocating resources"
+    }
+  },
+  "16": {
+    "question": "What is a key feature of YARN regarding resource allocation?",
+    "answer": "B",
+    "options": {
+      "A": "Limited resource allocation",
+      "B": "Dynamic resource allocation",
+      "C": "Static resource allocation",
+      "D": "Centralized resource management"
+    }
+  },
+  "17": {
+    "question": "Which of the following is NOT a key component of Hadoop as described in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Spark",
+      "B": "MapReduce",
+      "C": "HDFS",
+      "D": "YARN"
+    }
+  },
+  "18": {
+    "question": "How many key components of Hadoop are highlighted in the provided text?",
+    "answer": "A",
+    "options": {
+      "A": "Four",
+      "B": "Five",
+      "C": "Six",
+      "D": "Three"
+    }
+  },
+  "19": {
+    "question": "What is the primary function of HDFS in Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Providing common utilities for Hadoop modules",
+      "B": "Managing cluster resources",
+      "C": "Processing data in parallel",
+      "D": "Storing large datasets in a distributed manner"
+    }
+  },
+  "20": {
+    "question": "Which feature of HDFS ensures data availability even if some nodes fail?",
+    "answer": "B",
+    "options": {
+      "A": "High Throughput",
+      "B": "Fault Tolerance",
+      "C": "Data Locality",
+      "D": "Scalability"
+    }
+  },
+  "21": {
+    "question": "What is meant by 'scalability' in the context of HDFS?",
+    "answer": "B",
+    "options": {
+      "A": "Ability to process data very quickly",
+      "B": "Ability to easily add more machines to the cluster",
+      "C": "Ability to handle different types of data",
+      "D": "Ability to reduce data latency"
+    }
+  },
+  "22": {
+    "question": "What is the main purpose of MapReduce in Hadoop?",
+    "answer": "A",
+    "options": {
+      "A": "To process large datasets in parallel",
+      "B": "To manage resources in the cluster",
+      "C": "To store large datasets",
+      "D": "To provide common utilities"
+    }
+  },
+  "23": {
+    "question": "Which phase of MapReduce involves breaking down a task into smaller sub-tasks for parallel processing?",
+    "answer": "D",
+    "options": {
+      "A": "Reduce Phase",
+      "B": "Combine Phase",
+      "C": "Aggregate Phase",
+      "D": "Map Phase"
+    }
+  },
+  "24": {
+    "question": "What is a key feature of MapReduce that speeds up data processing?",
+    "answer": "C",
+    "options": {
+      "A": "Fault Tolerance",
+      "B": "Resource Management",
+      "C": "Parallel Processing",
+      "D": "Data Replication"
+    }
+  },
+  "25": {
+    "question": "What is the role of YARN in the Hadoop ecosystem?",
+    "answer": "C",
+    "options": {
+      "A": "Providing common utilities",
+      "B": "Data storage",
+      "C": "Resource management and allocation",
+      "D": "Parallel data processing"
+    }
+  },
+  "26": {
+    "question": "What benefit does YARN provide in terms of resource management?",
+    "answer": "A",
+    "options": {
+      "A": "Ensures efficient utilization of cluster resources",
+      "B": "Increases data processing speed",
+      "C": "Reduces data storage space",
+      "D": "Simplifies data access"
+    }
+  },
+  "27": {
+    "question": "What does 'multitenancy' refer to in the context of YARN?",
+    "answer": "A",
+    "options": {
+      "A": "Supporting multiple processing engines on the same cluster",
+      "B": "Supporting multiple users",
+      "C": "Managing multiple data formats",
+      "D": "Handling multiple data types"
+    }
+  },
+  "28": {
+    "question": "What is the primary function of Hadoop Common?",
+    "answer": "A",
+    "options": {
+      "A": "To provide libraries and utilities for other Hadoop modules",
+      "B": "To manage data storage",
+      "C": "To manage cluster resources",
+      "D": "To process data in parallel"
+    }
+  },
+  "29": {
+    "question": "What do the utilities in Hadoop Common facilitate?",
+    "answer": "A",
+    "options": {
+      "A": "Smooth integration of Hadoop components",
+      "B": "Efficient resource allocation",
+      "C": "Faster data processing",
+      "D": "Increased data storage capacity"
+    }
+  },
+  "30": {
+    "question": "Which of the following is not a core aspect of Big Data?",
+    "answer": "C",
+    "options": {
+      "A": "Velocity",
+      "B": "Variety",
+      "C": "Veracity",
+      "D": "Volume"
+    }
+  },
+  "31": {
+    "question": "What does 'veracity' mean in relation to big data?",
+    "answer": "B",
+    "options": {
+      "A": "The variety of types of data",
+      "B": "The accuracy and trustworthiness of the data",
+      "C": "The large size of the data sets",
+      "D": "The speed at which data is created"
+    }
+  },
+  "32": {
+    "question": "How many processors and storage units were used in earlier systems with limited data?",
+    "answer": "A",
+    "options": {
+      "A": "One processor and one storage unit",
+      "B": "Multiple processors and storage units",
+      "C": "Multiple processors and one storage unit",
+      "D": "One processor and multiple storage units"
+    }
+  },
+  "33": {
+    "question": "What was the main limitation of processing limited data with a single processor and storage unit?",
+    "answer": "C",
+    "options": {
+      "A": "Difficulty in data sharing",
+      "B": "Limited storage space",
+      "C": "Inability to process data fast enough",
+      "D": "High cost of operations"
+    }
+  },
+  "34": {
+    "question": "What does Hadoop do?",
+    "answer": "C",
+    "options": {
+      "A": "Manages big data storage in a distributed way and processes it sequentially.",
+      "B": "Manages small data in one place and processes it sequentially.",
+      "C": "Manages big data storage in a distributed way and processes it parallelly.",
+      "D": "Manages big data storage in one place and processes it sequentially."
+    }
+  },
+  "35": {
+    "question": "What is HDFS?",
+    "answer": "D",
+    "options": {
+      "A": "The resource management unit of Hadoop",
+      "B": "The processing unit of Hadoop",
+      "C": "The framework that manages big data storage in a distributed way",
+      "D": "The storage unit within Hadoop"
+    }
+  },
+  "36": {
+    "question": "HDFS is designed for which type of hardware?",
+    "answer": "B",
+    "options": {
+      "A": "Enterprise Hardware",
+      "B": "Commodity Hardware",
+      "C": "Mainframe Hardware",
+      "D": "Specialized Hardware"
+    }
+  },
+  "37": {
+    "question": "Which component of HDFS stores the metadata?",
+    "answer": "B",
+    "options": {
+      "A": "MapReduce",
+      "B": "NameNode",
+      "C": "DataNode",
+      "D": "YARN"
+    }
+  },
+  "38": {
+    "question": "Which component of HDFS stores the actual data?",
+    "answer": "D",
+    "options": {
+      "A": "YARN",
+      "B": "NameNode",
+      "C": "MapReduce",
+      "D": "DataNodes"
+    }
+  },
+  "39": {
+    "question": "How many NameNodes are present in a typical Hadoop Distributed File System (HDFS)?",
+    "answer": "C",
+    "options": {
+      "A": "Zero NameNodes",
+      "B": "Multiple NameNodes",
+      "C": "One NameNode",
+      "D": "Two NameNodes"
+    }
+  },
+  "40": {
+    "question": "How many times is the data usually replicated in HDFS?",
+    "answer": "A",
+    "options": {
+      "A": "Three times",
+      "B": "Four times",
+      "C": "Five times",
+      "D": "Two times"
+    }
+  },
+  "41": {
+    "question": "Which of the following data formats is best represented by a spreadsheet with rows and columns?",
+    "answer": "B",
+    "options": {
+      "A": "Binary data",
+      "B": "Structured data",
+      "C": "Unstructured data",
+      "D": "Semi-structured data"
+    }
+  },
+  "42": {
+    "question": "Which of the following is an example of semi-structured data?",
+    "answer": "B",
+    "options": {
+      "A": "An image",
+      "B": "An HTML document",
+      "C": "An MP3 audio file",
+      "D": "A text document"
+    }
+  },
+  "43": {
+    "question": "Which of the following best describes Hadoop MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "A method to manage storage resources",
+      "B": "A programming technique where huge data is processed sequentially",
+      "C": "A programming technique where huge data is processed parallelly and distributed",
+      "D": "A framework for data analytics"
+    }
+  },
+  "44": {
+    "question": "What is the key benefit of parallel processing in big data systems?",
+    "answer": "C",
+    "options": {
+      "A": "Reducing the size of data",
+      "B": "Improving data security",
+      "C": "Accelerating data processing",
+      "D": "Increasing data volume"
+    }
+  },
+  "45": {
+    "question": "What does YARN stand for in Hadoop?",
+    "answer": "A",
+    "options": {
+      "A": "Yet Another Resource Negotiator",
+      "B": "Yet Another Resource Navigation",
+      "C": "Your Available Resource Negotiator",
+      "D": "Yet Another Resource Node"
+    }
+  },
+  "46": {
+    "question": "Which of the following best describes the role of YARN in Hadoop?",
+    "answer": "B",
+    "options": {
+      "A": "Manages the data storage",
+      "B": "Acts like an OS to Hadoop",
+      "C": "Processes data sequentially",
+      "D": "Provides data security"
+    }
+  },
+  "47": {
+    "question": "In the MapReduce process, what is the purpose of the 'Shuffle and Sort' phase?",
+    "answer": "A",
+    "options": {
+      "A": "To group the key values and prepare it for the reduce phase",
+      "B": "To provide keys and values to the data",
+      "C": "To divide the data into chunks",
+      "D": "To perform the final processing"
+    }
+  },
+  "48": {
+    "question": "Why is Hadoop designed to be highly fault tolerant?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce data storage costs",
+      "B": "To ensure high data security",
+      "C": "To guarantee data accuracy",
+      "D": "To ensure data availability even if nodes fail"
+    }
+  },
+  "49": {
+    "question": "What type of activities is Hadoop used to combat?",
+    "answer": "B",
+    "options": {
+      "A": "Hacking attempts",
+      "B": "Fraudulent activities",
+      "C": "Spam emails",
+      "D": "Server downtime"
+    }
+  },
+  "50": {
+    "question": "What is the advantage of Hadoop using commodity hardware instead of specialized hardware?",
+    "answer": "A",
+    "options": {
+      "A": "Lower costs",
+      "B": "Faster replication",
+      "C": "Increased speed",
+      "D": "Higher reliability"
+    }
+  },
+  "51": {
+    "question": "How is data stored in the Hadoop Distributed File System (HDFS)?",
+    "answer": "D",
+    "options": {
+      "A": "In a binary form on a single server.",
+      "B": "Without any data replication.",
+      "C": "In one place on a single server.",
+      "D": "In multiple places on multiple servers."
+    }
+  },
+  "52": {
+    "question": "In the fruit farm analogy, what does 'hiring more people' represent in the context of Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Increasing storage capacity",
+      "B": "Upgrading to enterprise hardware",
+      "C": "Implementing data replication",
+      "D": "Adding more processors for parallel processing"
+    }
+  },
+  "53": {
+    "question": "What does 'distributing storage sheds' in the fruit farm analogy correspond to in Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Centralized data storage",
+      "B": "Network overhead reduction",
+      "C": "Data backup and recovery",
+      "D": "Distributed data storage across multiple nodes"
+    }
+  },
+  "54": {
+    "question": "Historically, how did organizations initially handle increasing data processing demands?",
+    "answer": "C",
+    "options": {
+      "A": "By outsourcing data processing",
+      "B": "By reducing the volume of data collected",
+      "C": "By upgrading to larger, more powerful single computers (mainframes)",
+      "D": "By using distributed systems from the beginning"
+    }
+  },
+  "55": {
+    "question": "What is the primary reason for the shift from single computer processing to distributed systems like Hadoop?",
+    "answer": "A",
+    "options": {
+      "A": "Increase in data volume and variety that single computers cannot handle efficiently",
+      "B": "Decreasing cost of mainframe computers",
+      "C": "Lack of skilled personnel to manage mainframes",
+      "D": "Government regulations on data storage"
+    }
+  },
+  "56": {
+    "question": "Which type of data is typically organized in rows and columns, fitting neatly into a relational database?",
+    "answer": "D",
+    "options": {
+      "A": "Metadata",
+      "B": "Unstructured data",
+      "C": "Semi-structured data",
+      "D": "Structured data"
+    }
+  },
+  "57": {
+    "question": "Examples of semi-structured data mentioned in the document include:",
+    "answer": "B",
+    "options": {
+      "A": "Photos and videos",
+      "B": "Emails, XML, and HTML",
+      "C": "Spreadsheets and tables",
+      "D": "Relational database entries"
+    }
+  },
+  "58": {
+    "question": "Which of the following is an example of unstructured data?",
+    "answer": "C",
+    "options": {
+      "A": "Database records",
+      "B": "Spreadsheet files",
+      "C": "Text documents and photos",
+      "D": "XML files"
+    }
+  },
+  "59": {
+    "question": "According to the document, what is the primary characteristic that defines 'Big Data'?",
+    "answer": "B",
+    "options": {
+      "A": "Ease of processing with traditional methods",
+      "B": "Massive amount of data that is difficult to process traditionally",
+      "C": "Data stored in a single location",
+      "D": "Small data size"
+    }
+  },
+  "60": {
+    "question": "Which of the '5 Vs' of Big Data refers to the speed at which data is generated?",
+    "answer": "A",
+    "options": {
+      "A": "Velocity",
+      "B": "Volume",
+      "C": "Variety",
+      "D": "Veracity"
+    }
+  },
+  "61": {
+    "question": "What does 'Veracity' refer to in the context of Big Data's 5 Vs?",
+    "answer": "A",
+    "options": {
+      "A": "The uncertainty or inconsistency of data",
+      "B": "The different types of data",
+      "C": "The speed of data processing",
+      "D": "The volume of data"
+    }
+  },
+  "62": {
+    "question": "Which of the following is NOT one of the '5 Vs' of Big Data discussed in the document?",
+    "answer": "D",
+    "options": {
+      "A": "Velocity",
+      "B": "Variety",
+      "C": "Volume",
+      "D": "Visibility"
+    }
+  },
+  "63": {
+    "question": "What is the primary purpose of Hadoop as described in the document?",
+    "answer": "B",
+    "options": {
+      "A": "To replace traditional relational databases",
+      "B": "To manage big data storage in a distributed way and process it parallelly",
+      "C": "To manage small datasets on a single server",
+      "D": "To analyze only structured data"
+    }
+  },
+  "64": {
+    "question": "How does Hadoop address the challenge of storing massive amounts of data?",
+    "answer": "A",
+    "options": {
+      "A": "By distributing storage across multiple commodity hardware (HDFS)",
+      "B": "By deleting old data to make space for new data",
+      "C": "By compressing data to reduce volume",
+      "D": "By using a single, very large storage unit"
+    }
+  },
+  "65": {
+    "question": "What processing approach does Hadoop use to handle large datasets efficiently?",
+    "answer": "C",
+    "options": {
+      "A": "Serial processing on a single server",
+      "B": "Batch processing only",
+      "C": "Parallel processing across multiple nodes (MapReduce)",
+      "D": "Real-time processing only"
+    }
+  },
+  "66": {
+    "question": "What is the role of HDFS in the Hadoop ecosystem?",
+    "answer": "C",
+    "options": {
+      "A": "Negotiating resource allocation",
+      "B": "Managing cluster resources",
+      "C": "Providing distributed storage for large datasets",
+      "D": "Processing data in parallel"
+    }
+  },
+  "67": {
+    "question": "Which component in HDFS acts as the master node and manages metadata?",
+    "answer": "B",
+    "options": {
+      "A": "ResourceManager",
+      "B": "NameNode",
+      "C": "DataNode",
+      "D": "Secondary NameNode"
+    }
+  },
+  "68": {
+    "question": "What is the purpose of using commodity hardware for DataNodes in HDFS?",
+    "answer": "B",
+    "options": {
+      "A": "To reduce storage capacity",
+      "B": "To lower the cost of storage infrastructure",
+      "C": "To increase processing speed",
+      "D": "To improve data security"
+    }
+  },
+  "69": {
+    "question": "What is data replication in HDFS primarily for?",
+    "answer": "C",
+    "options": {
+      "A": "Increasing processing speed",
+      "B": "Reducing storage space",
+      "C": "Fault tolerance and data availability",
+      "D": "Data security"
+    }
+  },
+  "70": {
+    "question": "How many active NameNodes are typically present in an HDFS cluster?",
+    "answer": "A",
+    "options": {
+      "A": "One",
+      "B": "Depends on the cluster size",
+      "C": "Zero",
+      "D": "Multiple"
+    }
+  },
+  "71": {
+    "question": "What is the function of DataNodes in HDFS?",
+    "answer": "B",
+    "options": {
+      "A": "Resource management",
+      "B": "Storing actual data blocks and performing I/O operations",
+      "C": "Managing metadata",
+      "D": "Job scheduling"
+    }
+  },
+  "72": {
+    "question": "What is a 'heartbeat' in the context of HDFS?",
+    "answer": "B",
+    "options": {
+      "A": "A method of data compression",
+      "B": "A signal sent by DataNodes to NameNode to indicate status",
+      "C": "A process for data replication",
+      "D": "A type of data block"
+    }
+  },
+  "73": {
+    "question": "What is the default replication factor for data blocks in HDFS?",
+    "answer": "A",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    }
+  },
+  "74": {
+    "question": "Why is data replication important in HDFS?",
+    "answer": "B",
+    "options": {
+      "A": "To increase processing speed",
+      "B": "To provide fault tolerance and ensure data availability",
+      "C": "To reduce storage space",
+      "D": "To improve data security"
+    }
+  },
+  "75": {
+    "question": "If a DataNode fails in HDFS, how is data availability maintained?",
+    "answer": "B",
+    "options": {
+      "A": "Data is lost if that DataNode was the only copy",
+      "B": "Data is still accessible from the replicated blocks on other DataNodes",
+      "C": "The NameNode takes over the DataNode's functions",
+      "D": "The system becomes unavailable until the DataNode is replaced"
+    }
+  },
+  "76": {
+    "question": "What is the primary function of MapReduce in Hadoop?",
+    "answer": "B",
+    "options": {
+      "A": "Data replication",
+      "B": "Parallel processing of large datasets",
+      "C": "Resource management",
+      "D": "Distributed data storage"
+    }
+  },
+  "77": {
+    "question": "What are the two main phases in the MapReduce programming technique?",
+    "answer": "B",
+    "options": {
+      "A": "Name and Data",
+      "B": "Map and Reduce",
+      "C": "Store and Retrieve",
+      "D": "Input and Output"
+    }
+  },
+  "78": {
+    "question": "In MapReduce, where does the actual processing of data primarily take place?",
+    "answer": "D",
+    "options": {
+      "A": "Master node (NameNode)",
+      "B": "Resource Manager",
+      "C": "Client machine",
+      "D": "Slave nodes (DataNodes)"
+    }
+  },
+  "79": {
+    "question": "What is the role of the 'Shuffle and Sort' phase in MapReduce?",
+    "answer": "D",
+    "options": {
+      "A": "To aggregate and summarize the data",
+      "B": "To store the final output",
+      "C": "To split the input data into chunks",
+      "D": "To group and order key-value pairs generated by the Map phase"
+    }
+  },
+  "80": {
+    "question": "In the word count example, what is generated during the Map phase?",
+    "answer": "B",
+    "options": {
+      "A": "Sorted list of words",
+      "B": "Key-value pairs of (word, 1) for each word occurrence",
+      "C": "A list of unique words",
+      "D": "Total count of each word"
+    }
+  },
+  "81": {
+    "question": "What is the final output of the word count MapReduce example?",
+    "answer": "B",
+    "options": {
+      "A": "A list of all unique words",
+      "B": "The total count of each word in the input data",
+      "C": "The input data itself",
+      "D": "Key-value pairs of (word, 1)"
+    }
+  },
+  "82": {
+    "question": "In the word count example, what operation is performed in the Reduce phase?",
+    "answer": "B",
+    "options": {
+      "A": "Counting words in each line",
+      "B": "Summing up the counts for each word",
+      "C": "Splitting the input data",
+      "D": "Grouping words together"
+    }
+  },
+  "83": {
+    "question": "What is the role of YARN in Hadoop version 2?",
+    "answer": "D",
+    "options": {
+      "A": "Data replication",
+      "B": "Parallel data processing",
+      "C": "Distributed data storage",
+      "D": "Resource management and job scheduling"
+    }
+  },
+  "84": {
+    "question": "Which component in YARN is responsible for resource allocation and management across the cluster?",
+    "answer": "A",
+    "options": {
+      "A": "ResourceManager",
+      "B": "NameNode",
+      "C": "DataNode",
+      "D": "NodeManager"
+    }
+  },
+  "85": {
+    "question": "What is a 'container' in the context of Hadoop YARN?",
+    "answer": "C",
+    "options": {
+      "A": "A unit of code for MapReduce",
+      "B": "A storage unit in HDFS",
+      "C": "A collection of physical resources like RAM, CPU, hard drive",
+      "D": "A type of data block"
+    }
+  },
+  "86": {
+    "question": "What does the NodeManager do in Hadoop YARN?",
+    "answer": "C",
+    "options": {
+      "A": "Manages metadata",
+      "B": "Allocates resources across the cluster",
+      "C": "Manages nodes and monitors resource usage on each node",
+      "D": "Processes data in parallel"
+    }
+  },
+  "87": {
+    "question": "What problem was Zions Bank trying to solve using Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Managing employee data",
+      "B": "Improving customer service",
+      "C": "Optimizing branch operations",
+      "D": "Combating fraudulent activities"
+    }
+  },
+  "88": {
+    "question": "What type of data did Zions Bank analyze using Hadoop to detect fraud?",
+    "answer": "C",
+    "options": {
+      "A": "Only structured transaction data",
+      "B": "Only unstructured email data",
+      "C": "Both structured (transactions) and unstructured data (server logs, emails)",
+      "D": "Only publicly available data"
+    }
+  },
+  "89": {
+    "question": "What benefit did Hadoop provide to Zions Bank in combating fraud?",
+    "answer": "A",
+    "options": {
+      "A": "Ability to store and analyze massive and varied datasets for in-depth fraud detection",
+      "B": "Faster transaction processing",
+      "C": "Reduced data storage costs",
+      "D": "Simplified regulatory compliance"
+    }
+  },
+  "90": {
+    "question": "According to the use case, what were some of the fraudulent activities detected by Zions Bank using Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "ATM malfunctions only",
+      "B": "Employee embezzlement only",
+      "C": "Credit card theft only",
+      "D": "Malware, spear phishing attempts, and account takeovers"
+    }
+  },
+  "91": {
+    "question": "What is 'commodity hardware' in the context of Hadoop?",
+    "answer": "B",
+    "options": {
+      "A": "Hardware with built-in security features",
+      "B": "Inexpensive, off-the-shelf computers",
+      "C": "High-performance, enterprise-grade servers",
+      "D": "Specialized hardware designed for big data"
+    }
+  },
+  "92": {
+    "question": "What is the primary advantage of using commodity hardware in Hadoop?",
+    "answer": "C",
+    "options": {
+      "A": "Enhanced data security",
+      "B": "Increased processing speed",
+      "C": "Reduced infrastructure costs",
+      "D": "Improved energy efficiency"
+    }
+  },
+  "93": {
+    "question": "Which component of HDFS is more likely to be deployed on enterprise-grade hardware rather than commodity hardware?",
+    "answer": "C",
+    "options": {
+      "A": "Neither NameNode nor DataNode",
+      "B": "Both NameNode and DataNode",
+      "C": "NameNode",
+      "D": "DataNode"
+    }
+  },
+  "94": {
+    "question": "Why do e-commerce organizations often tie up with merchants?",
+    "answer": "A",
+    "options": {
+      "A": "Because they do not have their own inventory",
+      "B": "To reduce cost of business",
+      "C": "To handle their inventory",
+      "D": "To provide multiple options of products"
+    }
+  },
+  "95": {
+    "question": "Why are ratings of merchants considered necessary?",
+    "answer": "B",
+    "options": {
+      "A": "To increase profits for the merchants",
+      "B": "To ensure quality and satisfy customers",
+      "C": "To keep the customers entertained",
+      "D": "To reduce shipping times"
+    }
+  },
+  "96": {
+    "question": "What is the primary purpose of the MapReduce framework in Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "To store data across multiple nodes",
+      "B": "To enable the management of the hadoop cluster",
+      "C": "To manage all the resource of cluster",
+      "D": "To process vast amounts of data using smaller tasks in parallel"
+    }
+  },
+  "97": {
+    "question": "What are the two phases in the MapReduce framework of Hadoop?",
+    "answer": "D",
+    "options": {
+      "A": "Gathering and analyzing",
+      "B": "Input and output",
+      "C": "Splitting and mapping",
+      "D": "Mapping and reducing"
+    }
+  },
+  "98": {
+    "question": "Why are input splits created in Hadoop MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "To process data in parallel",
+      "B": "To make it suitable to the local machine",
+      "C": "To avoid large files",
+      "D": "To store different file types"
+    }
+  },
+  "99": {
+    "question": "What is the output of the map phase in MapReduce?",
+    "answer": "B",
+    "options": {
+      "A": "The combined and sorted data",
+      "B": "key-value pairs as the intermediate data",
+      "C": "The final reduced output",
+      "D": "A formatted list of all the input data"
+    }
+  },
+  "100": {
+    "question": "What process follows the map phase in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Partitioning, shuffling and sorting",
+      "B": "Sorting",
+      "C": "Shuffling and merging",
+      "D": "Reducing"
+    }
+  },
+  "101": {
+    "question": "What is the role of reducers in Hadoop MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "To provide local copies of data",
+      "B": "To sort the data before the mapping phase",
+      "C": "To process and aggregate the mapped data",
+      "D": "To break the data for the mapper tasks"
+    }
+  },
+  "102": {
+    "question": "What describes how data is written by MapReduce jobs?",
+    "answer": "B",
+    "options": {
+      "A": "Data format and input format",
+      "B": "Output format",
+      "C": "Data format",
+      "D": "Input format"
+    }
+  },
+  "103": {
+    "question": "What function does the Distributed Cache serve in MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "To store intermediate data",
+      "B": "To manage all the metadata",
+      "C": "To cache frequently accessed files",
+      "D": "To store final output"
+    }
+  },
+  "104": {
+    "question": "Which class is used to convert the data into JSON object?",
+    "answer": "D",
+    "options": {
+      "A": "None of the above",
+      "B": "Transaction class",
+      "C": "AggregateData class",
+      "D": "AggregateWritable class"
+    }
+  },
+  "105": {
+    "question": "What is the AggregateData class used for?",
+    "answer": "B",
+    "options": {
+      "A": "None of the above",
+      "B": "To create the different price ranges for rating",
+      "C": "To provide a class to read/write data",
+      "D": "To aggregate all transaction data"
+    }
+  },
+  "106": {
+    "question": "What is the role of the run method in a Hadoop MapReduce job?",
+    "answer": "D",
+    "options": {
+      "A": "None of the above",
+      "B": "To provide configuration details of the reducer",
+      "C": "To initialize the mapper",
+      "D": "To execute mapper and reducer process"
+    }
+  },
+  "107": {
+    "question": "Which class has to be specified as the output key format in the driver code?",
+    "answer": "D",
+    "options": {
+      "A": "AggregateWritable class",
+      "B": "LongWritable class",
+      "C": "None of the above",
+      "D": "Text class"
+    }
+  },
+  "108": {
+    "question": "Which class has to be specified as the output value format in the driver code?",
+    "answer": "D",
+    "options": {
+      "A": "Text class",
+      "B": "LongWritable class",
+      "C": "None of the above",
+      "D": "AggregateWritable class"
+    }
+  },
+  "109": {
+    "question": "Which class is used to specify the partitioner in the driver code?",
+    "answer": "B",
+    "options": {
+      "A": "AggregateData class",
+      "B": "MerchantPartitioner class",
+      "C": "Reducer class",
+      "D": "Mapper class"
+    }
+  },
+  "110": {
+    "question": "Which of these will be the mapper\u2019s output key for the e-commerce project discussed in the video?",
+    "answer": "C",
+    "options": {
+      "A": "The customer name",
+      "B": "The total sales",
+      "C": "The date of sale combined with the merchant ID",
+      "D": "The category of product"
+    }
+  },
+  "111": {
+    "question": "Which of these will be the mapper\u2019s output value for the e-commerce project discussed in the video?",
+    "answer": "A",
+    "options": {
+      "A": "A value equal to 1",
+      "B": "The category of sale",
+      "C": "The amount of the order",
+      "D": "The date and time of sale"
+    }
+  },
+  "112": {
+    "question": "What is the primary purpose of the reduce phase in the e-commerce project?",
+    "answer": "D",
+    "options": {
+      "A": "To analyze the data based on price",
+      "B": "To sort all transactions",
+      "C": "None of the above",
+      "D": "To count the total sales of each merchant within each price range"
+    }
+  },
+  "113": {
+    "question": "What is the primary goal of the merchant rating system described in the project?",
+    "answer": "C",
+    "options": {
+      "A": "To track customer purchase history.",
+      "B": "To lower the prices of products sold on the platform.",
+      "C": "To display products from the highest-rated merchants by default.",
+      "D": "To increase the number of merchants on the platform."
+    }
+  },
+  "114": {
+    "question": "Why is a merchant rating system important for e-commerce platforms like Amazon?",
+    "answer": "D",
+    "options": {
+      "A": "To increase the complexity of product search algorithms.",
+      "B": "To simplify the process of onboarding new merchants.",
+      "C": "To reduce the storage space required for product inventory.",
+      "D": "To ensure customer satisfaction and product quality by prioritizing better merchants."
+    }
+  },
+  "115": {
+    "question": "In the context of the project, what is the main challenge in merchant selection?",
+    "answer": "C",
+    "options": {
+      "A": "Managing customer complaints about product delivery.",
+      "B": "Ensuring merchants pay taxes correctly.",
+      "C": "Choosing the best merchant among multiple sellers offering the same products.",
+      "D": "Dealing with a large volume of merchant data."
+    }
+  },
+  "116": {
+    "question": "What is the desired outcome of solving the merchant selection problem?",
+    "answer": "A",
+    "options": {
+      "A": "To identify and prioritize merchants who sell the best products.",
+      "B": "To increase the profit margin for all merchants.",
+      "C": "To reduce the number of merchants selling on the platform.",
+      "D": "To simplify the product listing process for sellers."
+    }
+  },
+  "117": {
+    "question": "What are the two main datasets used in this Hadoop project?",
+    "answer": "B",
+    "options": {
+      "A": "Website traffic logs and user demographics.",
+      "B": "Transaction data and merchant data.",
+      "C": "Social media data and marketing campaign results.",
+      "D": "Customer reviews and product descriptions."
+    }
+  },
+  "118": {
+    "question": "Which of the following is typically larger in size in this project scenario?",
+    "answer": "D",
+    "options": {
+      "A": "It depends on the number of merchants.",
+      "B": "Both datasets are of similar size.",
+      "C": "Merchant data.",
+      "D": "Transaction data."
+    }
+  },
+  "119": {
+    "question": "Which of the following pieces of information is NOT likely to be found in the transaction dataset?",
+    "answer": "D",
+    "options": {
+      "A": "Transaction ID",
+      "B": "Customer ID",
+      "C": "Invoice Amount",
+      "D": "Merchant Name"
+    }
+  },
+  "120": {
+    "question": "On what basis are merchants segregated into categories in this project?",
+    "answer": "C",
+    "options": {
+      "A": "Customer reviews and merchant feedback.",
+      "B": "Merchant location and product type.",
+      "C": "Product price and sales volume.",
+      "D": "Merchant registration date and tax ID."
+    }
+  },
+  "121": {
+    "question": "What are the price categories used for merchant segregation in this project?",
+    "answer": "A",
+    "options": {
+      "A": "Less than $5,000, $5,000-$10,000, $10,000-$20,000, Greater than $20,000.",
+      "B": "Low, Medium, High.",
+      "C": "Based on average product price of each merchant.",
+      "D": "Budget, Standard, Premium."
+    }
+  },
+  "122": {
+    "question": "According to the project logic, what does high sales volume for high-priced products indicate about a merchant?",
+    "answer": "C",
+    "options": {
+      "A": "The merchant is using aggressive marketing strategies.",
+      "B": "The merchant is overpricing their products.",
+      "C": "The merchant's products are likely of good quality.",
+      "D": "The merchant is likely offering discounts."
+    }
+  },
+  "123": {
+    "question": "Which technology is chosen for data processing in this project?",
+    "answer": "A",
+    "options": {
+      "A": "Hadoop MapReduce.",
+      "B": "Apache Hive.",
+      "C": "Apache Spark.",
+      "D": "Apache Pig."
+    }
+  },
+  "124": {
+    "question": "Why is Hadoop MapReduce suitable for this project?",
+    "answer": "C",
+    "options": {
+      "A": "It is the only technology capable of processing e-commerce data.",
+      "B": "It is easier to learn than other big data technologies.",
+      "C": "It can process large datasets in parallel, which is needed for transaction data.",
+      "D": "It is a cost-effective solution for small datasets."
+    }
+  },
+  "125": {
+    "question": "Which layer of Hadoop does MapReduce represent?",
+    "answer": "C",
+    "options": {
+      "A": "Storage layer.",
+      "B": "Resource management layer.",
+      "C": "Data processing layer.",
+      "D": "Data ingestion layer."
+    }
+  },
+  "126": {
+    "question": "What are the two main phases of processing in Hadoop MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Map and Reduce.",
+      "B": "Sort and Shuffle.",
+      "C": "Split and Combine.",
+      "D": "Input and Output."
+    }
+  },
+  "127": {
+    "question": "What is the primary purpose of the Map phase in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "To apply complex business logic and rules to the input data.",
+      "B": "To aggregate and summarize data.",
+      "C": "To sort and shuffle intermediate data.",
+      "D": "To write the final output to HDFS."
+    }
+  },
+  "128": {
+    "question": "What is typically performed in the Reduce phase of MapReduce?",
+    "answer": "B",
+    "options": {
+      "A": "Data partitioning and distribution.",
+      "B": "Lightweight processing like aggregation.",
+      "C": "Input data splitting.",
+      "D": "Complex data transformations."
+    }
+  },
+  "129": {
+    "question": "What are the two specific features of MapReduce highlighted as reasons for its choice in this project?",
+    "answer": "B",
+    "options": {
+      "A": "Fault tolerance and scalability.",
+      "B": "Custom input format and distributed cache.",
+      "C": "Data compression and encryption.",
+      "D": "Real-time processing and in-memory computation."
+    }
+  },
+  "130": {
+    "question": "What is the purpose of a custom input format in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "To control how input files are split and read.",
+      "B": "To compress input data for faster processing.",
+      "C": "To define the output data format.",
+      "D": "To encrypt input data for security."
+    }
+  },
+  "131": {
+    "question": "What is the benefit of using distributed cache in MapReduce?",
+    "answer": "B",
+    "options": {
+      "A": "It is used to store temporary output of the Map phase.",
+      "B": "It allows caching files for shared access across nodes, improving efficiency.",
+      "C": "It replaces HDFS for data storage.",
+      "D": "It increases network bandwidth usage."
+    }
+  },
+  "132": {
+    "question": "Which of the following is NOT a stage in the typical MapReduce job execution flow?",
+    "answer": "D",
+    "options": {
+      "A": "Shuffling.",
+      "B": "Mapping.",
+      "C": "Reducing.",
+      "D": "Compiling."
+    }
+  },
+  "133": {
+    "question": "What is the role of the Input Format in MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "To perform data aggregation.",
+      "B": "To distribute tasks across nodes.",
+      "C": "To split input files into splits and read them.",
+      "D": "To define the structure of output data."
+    }
+  },
+  "134": {
+    "question": "In MapReduce, what happens after the Map phase and before the Reduce phase?",
+    "answer": "D",
+    "options": {
+      "A": "Data encryption.",
+      "B": "Data compression.",
+      "C": "Data validation.",
+      "D": "Shuffling and Sorting."
+    }
+  },
+  "135": {
+    "question": "What does 'input split' represent in MapReduce?",
+    "answer": "D",
+    "options": {
+      "A": "A unit of data processed by a reducer.",
+      "B": "A part of the output file.",
+      "C": "A physical block of data in HDFS.",
+      "D": "A logical division of input data processed by a mapper."
+    }
+  },
+  "136": {
+    "question": "How is the number of map tasks determined in MapReduce?",
+    "answer": "B",
+    "options": {
+      "A": "Based on the number of reducer tasks.",
+      "B": "It is equal to the number of input splits.",
+      "C": "It is independent of input data size.",
+      "D": "Based on the size of the output data."
+    }
+  },
+  "137": {
+    "question": "What is the relationship between Input Format and Input Split?",
+    "answer": "B",
+    "options": {
+      "A": "Input Format is created by Input Split.",
+      "B": "Input Split is defined by Input Format.",
+      "C": "They are unrelated concepts.",
+      "D": "They are the same thing."
+    }
+  },
+  "138": {
+    "question": "What is the output of the Mapper in MapReduce?",
+    "answer": "D",
+    "options": {
+      "A": "Final result written to HDFS.",
+      "B": "Processed data in the same format as input.",
+      "C": "Input records for the next Map task.",
+      "D": "Intermediate key-value pairs."
+    }
+  },
+  "139": {
+    "question": "Where is the intermediate output of the Mapper typically stored?",
+    "answer": "D",
+    "options": {
+      "A": "HDFS.",
+      "B": "Memory.",
+      "C": "Distributed Cache.",
+      "D": "Local disk."
+    }
+  },
+  "140": {
+    "question": "Why is the mapper's output not directly stored in HDFS?",
+    "answer": "A",
+    "options": {
+      "A": "Because it is temporary data and writing to HDFS would create unnecessary copies.",
+      "B": "To reduce network traffic.",
+      "C": "Because HDFS is only for final output.",
+      "D": "To improve data security."
+    }
+  },
+  "141": {
+    "question": "What is another name for a Combiner in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Mini-Reducer.",
+      "B": "Partitioner.",
+      "C": "Record Reader.",
+      "D": "Input Formatter."
+    }
+  },
+  "142": {
+    "question": "What is the primary benefit of using a Combiner?",
+    "answer": "B",
+    "options": {
+      "A": "To define input data format.",
+      "B": "To reduce data transfer between mappers and reducers.",
+      "C": "To increase the number of reducer tasks.",
+      "D": "To perform final aggregation of data."
+    }
+  },
+  "143": {
+    "question": "Where does the Combiner operate in the MapReduce flow?",
+    "answer": "A",
+    "options": {
+      "A": "On the mapper's output, before partitioning.",
+      "B": "After the Reduce phase.",
+      "C": "On the reducer's input.",
+      "D": "Before the Map phase."
+    }
+  },
+  "144": {
+    "question": "What is the role of the Partitioner in MapReduce?",
+    "answer": "D",
+    "options": {
+      "A": "To read input records.",
+      "B": "To combine mapper outputs.",
+      "C": "To sort the data within each partition.",
+      "D": "To distribute mapper output to reducers."
+    }
+  },
+  "145": {
+    "question": "On what basis does the Partitioner distribute data to reducers?",
+    "answer": "D",
+    "options": {
+      "A": "Randomly.",
+      "B": "Based on the value of the key-value pair.",
+      "C": "Based on the size of the data.",
+      "D": "Based on the key of the key-value pair."
+    }
+  },
+  "146": {
+    "question": "Why is partitioning important when using multiple reducers?",
+    "answer": "D",
+    "options": {
+      "A": "To ensure data is processed sequentially.",
+      "B": "To compress the data before reduction.",
+      "C": "To reduce the number of map tasks.",
+      "D": "To enable even distribution of map output over reducers and parallel processing."
+    }
+  },
+  "147": {
+    "question": "What is 'shuffling' in the context of MapReduce?",
+    "answer": "B",
+    "options": {
+      "A": "Combining mapper outputs.",
+      "B": "Physical movement of data over the network from mappers to reducers.",
+      "C": "Sorting data within mappers.",
+      "D": "Splitting input data into splits."
+    }
+  },
+  "148": {
+    "question": "Where does the sorting of intermediate data happen in MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "In the Partitioner.",
+      "B": "In the Mapper.",
+      "C": "In the Reducer node, after shuffling.",
+      "D": "Before the Map phase."
+    }
+  },
+  "149": {
+    "question": "What is the purpose of sorting in the shuffling and sorting phase?",
+    "answer": "C",
+    "options": {
+      "A": "To validate the input data.",
+      "B": "To compress the intermediate data.",
+      "C": "To prepare data for the reducer by grouping data by key.",
+      "D": "To reduce network traffic."
+    }
+  },
+  "150": {
+    "question": "What is the input to the Reducer in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Shuffled and sorted intermediate key-value pairs.",
+      "B": "Raw input data.",
+      "C": "Data from the Distributed Cache.",
+      "D": "Output of the Mapper."
+    }
+  },
+  "151": {
+    "question": "Where is the final output of a MapReduce job typically stored?",
+    "answer": "B",
+    "options": {
+      "A": "Memory of the Reducer.",
+      "B": "HDFS.",
+      "C": "Distributed Cache.",
+      "D": "Local disk of the Reducer."
+    }
+  },
+  "152": {
+    "question": "What is the main task of the Reducer?",
+    "answer": "B",
+    "options": {
+      "A": "To read input records.",
+      "B": "To apply the reduce function to aggregate and process data.",
+      "C": "To distribute data to different nodes.",
+      "D": "To split input data."
+    }
+  },
+  "153": {
+    "question": "What type of files can be stored in the Distributed Cache?",
+    "answer": "A",
+    "options": {
+      "A": "Text files, archives, JARs, etc.",
+      "B": "Only JAR files.",
+      "C": "Only configuration files.",
+      "D": "Only text files."
+    }
+  },
+  "154": {
+    "question": "How does Distributed Cache improve the efficiency of MapReduce jobs?",
+    "answer": "B",
+    "options": {
+      "A": "By reducing the number of map tasks.",
+      "B": "By allowing data nodes to access commonly used files locally.",
+      "C": "By replacing HDFS for storage.",
+      "D": "By increasing network bandwidth."
+    }
+  },
+  "155": {
+    "question": "How are files specified for the Distributed Cache?",
+    "answer": "C",
+    "options": {
+      "A": "By manually copying files to each node.",
+      "B": "Through command-line arguments.",
+      "C": "Via URLs in the job configuration.",
+      "D": "Using environment variables."
+    }
+  },
+  "156": {
+    "question": "In what programming language is the Hadoop project code implemented?",
+    "answer": "B",
+    "options": {
+      "A": "Python.",
+      "B": "Java.",
+      "C": "C++.",
+      "D": "Scala."
+    }
+  },
+  "157": {
+    "question": "Which class is responsible for initiating the MapReduce job execution in the project?",
+    "answer": "C",
+    "options": {
+      "A": "MerchantPartitioner.",
+      "B": "TransactionMapper.",
+      "C": "MerchantAnalyticsJob (Driver class).",
+      "D": "MerchantOrderReducer."
+    }
+  },
+  "158": {
+    "question": "What is the role of the 'AggregateWritable' class in the project code?",
+    "answer": "B",
+    "options": {
+      "A": "To define the partitioner logic.",
+      "B": "To represent a custom data type for aggregation.",
+      "C": "To manage distributed cache files.",
+      "D": "To handle input data format."
+    }
+  },
+  "159": {
+    "question": "What is the purpose of ToolRunner in Hadoop?",
+    "answer": "B",
+    "options": {
+      "A": "To compile Hadoop code.",
+      "B": "To run classes implementing the Tool interface and handle command-line arguments.",
+      "C": "To monitor MapReduce job progress.",
+      "D": "To manage HDFS files."
+    }
+  },
+  "160": {
+    "question": "Which interface must a class implement to be run by ToolRunner?",
+    "answer": "A",
+    "options": {
+      "A": "Tool.",
+      "B": "Callable.",
+      "C": "Mapper.",
+      "D": "Runnable."
+    }
+  },
+  "161": {
+    "question": "What does ToolRunner handle in addition to running the Tool?",
+    "answer": "D",
+    "options": {
+      "A": "Network communication.",
+      "B": "Data serialization.",
+      "C": "Data compression.",
+      "D": "Generic Hadoop command-line arguments and job configuration."
+    }
+  },
+  "162": {
+    "question": "What is typically contained within the driver code of a MapReduce job?",
+    "answer": "B",
+    "options": {
+      "A": "Reducer logic.",
+      "B": "Job configuration and setup.",
+      "C": "Partitioner logic.",
+      "D": "Mapper logic."
+    }
+  },
+  "163": {
+    "question": "Which of the following tasks is performed in the driver code?",
+    "answer": "A",
+    "options": {
+      "A": "Setting the output key and value classes for the job.",
+      "B": "Processing each input record.",
+      "C": "Aggregating intermediate results.",
+      "D": "Distributing data to reducers."
+    }
+  },
+  "164": {
+    "question": "What is the role of 'job.addCacheArchive' in the driver code?",
+    "answer": "A",
+    "options": {
+      "A": "To add files to the Distributed Cache.",
+      "B": "To set the number of reducer tasks.",
+      "C": "To define the output directory.",
+      "D": "To specify the input file path."
+    }
+  },
+  "165": {
+    "question": "What is the first step performed in the setup method of the Transaction Mapper?",
+    "answer": "B",
+    "options": {
+      "A": "Initializing aggregate data objects.",
+      "B": "Loading the merchant file from the distributed cache.",
+      "C": "Setting up output key-value pairs.",
+      "D": "Processing transaction data."
+    }
+  },
+  "166": {
+    "question": "What is the output key of the Transaction Mapper?",
+    "answer": "A",
+    "options": {
+      "A": "Combination of Merchant Name and Date of Sale.",
+      "B": "Transaction ID.",
+      "C": "Merchant ID.",
+      "D": "Customer ID."
+    }
+  },
+  "167": {
+    "question": "How does the Transaction Mapper determine the sales category for a transaction?",
+    "answer": "A",
+    "options": {
+      "A": "Based on invoice amount.",
+      "B": "Based on merchant rating.",
+      "C": "Based on customer ID.",
+      "D": "Based on product segment."
+    }
+  },
+  "168": {
+    "question": "What is the purpose of overriding the default partitioner in the Merchant Partitioner class?",
+    "answer": "C",
+    "options": {
+      "A": "To increase the number of reducer tasks.",
+      "B": "To improve data compression.",
+      "C": "To ensure records with the same key are sent to the same reducer.",
+      "D": "To reduce network traffic."
+    }
+  },
+  "169": {
+    "question": "What factor determines the partition in the Merchant Partitioner?",
+    "answer": "D",
+    "options": {
+      "A": "The size of the data.",
+      "B": "Random assignment.",
+      "C": "The value of the key.",
+      "D": "The hash of the key and the number of reducers."
+    }
+  },
+  "170": {
+    "question": "Why is it important to send records with the same key to the same reducer?",
+    "answer": "A",
+    "options": {
+      "A": "To enable aggregation of data by key in the reducer.",
+      "B": "To improve mapper performance.",
+      "C": "To simplify the shuffling process.",
+      "D": "To reduce the number of partitions."
+    }
+  },
+  "171": {
+    "question": "What is the main function of the Merchant Order Reducer class?",
+    "answer": "D",
+    "options": {
+      "A": "To partition data for reducers.",
+      "B": "To load data from distributed cache.",
+      "C": "To split input data.",
+      "D": "To aggregate sales data for each merchant and date."
+    }
+  },
+  "172": {
+    "question": "What type of input does the Merchant Order Reducer receive?",
+    "answer": "B",
+    "options": {
+      "A": "Raw transaction data.",
+      "B": "Key (Merchant Name and Date) and values (sales category counts).",
+      "C": "Merchant data from Distributed Cache.",
+      "D": "Output of the Mapper."
+    }
+  },
+  "173": {
+    "question": "What operation does the Reducer perform on the input values?",
+    "answer": "C",
+    "options": {
+      "A": "Sorting.",
+      "B": "Filtering.",
+      "C": "Summing up the sales counts for each category.",
+      "D": "Splitting."
+    }
+  }
+}
