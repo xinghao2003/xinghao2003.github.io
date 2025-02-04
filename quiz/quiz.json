@@ -1,5 +1,13 @@
 [
     {
+        "name": "Machine Learning Chapter 1 - Introduction",
+        "file": "ml-chapter1.json"
+    },
+    {
+        "name": "Machine Learning Chapter 2 - Machine Learning Pipeline",
+        "file": "ml-chapter2.json"
+    },
+    {
         "name": "Big Data Analytics Topic 1 - Understanding Big Data",
         "file": "bda-topic1.json"
     },
