@@ -1,0 +1,812 @@
+{
+  "1": {
+    "question": "What is the primary objective of machine learning?",
+    "answer": "A",
+    "options": {
+      "A": "To make our lives easier, automate tasks, and take better decisions",
+      "B": "To manually program all tasks",
+      "C": "To complicate existing tasks",
+      "D": "To rely only on human input"
+    }
+  },
+  "2": {
+    "question": "Which of the following best describes the goal of machine learning?",
+    "answer": "C",
+    "options": {
+      "A": "To create rigid systems with fixed rules.",
+      "B": "To replace human decision-making entirely.",
+      "C": "To build systems that can learn from data.",
+      "D": "To use only static data."
+    }
+  },
+  "3": {
+    "question": "Which of the following is NOT a type of machine learning discussed?",
+    "answer": "D",
+    "options": {
+      "A": "Unsupervised learning",
+      "B": "Supervised learning",
+      "C": "Reinforcement learning",
+      "D": "Quantum learning"
+    }
+  },
+  "4": {
+    "question": "Which of the following is a common machine learning framework mentioned?",
+    "answer": "B",
+    "options": {
+      "A": "LEAD",
+      "B": "CRISP-DM",
+      "C": "WATERFALL",
+      "D": "AGILE"
+    }
+  },
+  "5": {
+    "question": "What does CRISP-DM stand for?",
+    "answer": "C",
+    "options": {
+      "A": "Common Industry Standard Practices for Data Mining",
+      "B": "Core Industry Standard Process for Data Management",
+      "C": "Cross-Industry Standard Process for Data Mining",
+      "D": "Cross-Industry Standard Process for Data Management"
+    }
+  },
+  "6": {
+    "question": "Which phase of the CRISP-DM model focuses on defining the problem and objectives from a business perspective?",
+    "answer": "C",
+    "options": {
+      "A": "Data Understanding",
+      "B": "Modeling",
+      "C": "Business Understanding",
+      "D": "Data Preparation"
+    }
+  },
+  "7": {
+    "question": "Which of the following is NOT a typical stage in a machine learning pipeline?",
+    "answer": "C",
+    "options": {
+      "A": "Data preparation",
+      "B": "Data retrieval and extraction",
+      "C": "Hypothesis Formulation",
+      "D": "Model deployment"
+    }
+  },
+  "8": {
+    "question": "In what order is data collection typically placed in the machine learning process?",
+    "answer": "C",
+    "options": {
+      "A": "After data preparation",
+      "B": "After model evaluation",
+      "C": "Parallel with business understanding",
+      "D": "Before business understanding"
+    }
+  },
+  "9": {
+    "question": "Which of these is NOT listed as a commonly occurring data format?",
+    "answer": "A",
+    "options": {
+      "A": "TXT",
+      "B": "SQL",
+      "C": "JSON",
+      "D": "CSV"
+    }
+  },
+  "10": {
+    "question": "What does CSV stand for?",
+    "answer": "D",
+    "options": {
+      "A": "Common System Values",
+      "B": "Complex Structured Values",
+      "C": "Coded Statistical Variables",
+      "D": "Comma Separated Values"
+    }
+  },
+  "11": {
+    "question": "How are attributes separated in a CSV file?",
+    "answer": "B",
+    "options": {
+      "A": "Spaces",
+      "B": "Commas",
+      "C": "Semicolons",
+      "D": "Tabs"
+    }
+  },
+  "12": {
+    "question": "What data structure does JSON primarily use?",
+    "answer": "B",
+    "options": {
+      "A": "Arrays",
+      "B": "Key-value pairs",
+      "C": "Lists",
+      "D": "Tables"
+    }
+  },
+  "13": {
+    "question": "What are the main components of an XML structure?",
+    "answer": "A",
+    "options": {
+      "A": "Tags, Content, Elements, Attributes",
+      "B": "Variables, Constants, Keywords",
+      "C": "Functions, Parameters, Classes",
+      "D": "Tables, Rows, Columns"
+    }
+  },
+  "14": {
+    "question": "What is the primary purpose of HTML?",
+    "answer": "B",
+    "options": {
+      "A": "To create server-side scripts",
+      "B": "To render web pages for consumption",
+      "C": "To manage databases",
+      "D": "To style web pages"
+    }
+  },
+  "15": {
+    "question": "What are the two main steps involved in web scraping?",
+    "answer": "A",
+    "options": {
+      "A": "Crawling and Scraping",
+      "B": "Parsing and Rendering",
+      "C": "Crawling and Analyzing",
+      "D": "Parsing and Styling"
+    }
+  },
+  "16": {
+    "question": "What is the most common use of SQL in machine learning workflows?",
+    "answer": "D",
+    "options": {
+      "A": "To handle data cleaning",
+      "B": "To implement complex machine learning algorithms",
+      "C": "To define data visualization methods",
+      "D": "To access data from databases"
+    }
+  },
+  "17": {
+    "question": "What Python libraries are mentioned for connecting to databases using SQL?",
+    "answer": "D",
+    "options": {
+      "A": "scikit-learn and matplotlib",
+      "B": "seaborn and tensorflow",
+      "C": "pandas and numpy",
+      "D": "sqlalchemy and pyodbc"
+    }
+  },
+  "18": {
+    "question": "Which of the following is NOT a commonly occurring data type used in machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "Numeric",
+      "B": "Text",
+      "C": "Categorical",
+      "D": "Boolean"
+    }
+  },
+  "19": {
+    "question": "What is the main purpose of data wrangling?",
+    "answer": "B",
+    "options": {
+      "A": "To make data difficult to use",
+      "B": "To clean, transform, and map data",
+      "C": "To complicate data analysis",
+      "D": "To hide errors in the data"
+    }
+  },
+  "20": {
+    "question": "What is the first step usually taken when you get a new dataset for wrangling?",
+    "answer": "B",
+    "options": {
+      "A": "Model implementation",
+      "B": "A quick peek at the number of rows, columns and their data types",
+      "C": "Feature Selection",
+      "D": "Data Visualization"
+    }
+  },
+  "21": {
+    "question": "What information is typically included in the initial understanding of a dataset?",
+    "answer": "D",
+    "options": {
+      "A": "Specific algorithms to use",
+      "B": "Statistical significance",
+      "C": "Final model output",
+      "D": "Number of rows, columns, and their data types"
+    }
+  },
+  "22": {
+    "question": "What does it mean to analyze missing values?",
+    "answer": "B",
+    "options": {
+      "A": "To make educated guesses about the missing values.",
+      "B": "To identify attributes, counts and indices containing them.",
+      "C": "To ignore missing values completely",
+      "D": "To remove features from consideration"
+    }
+  },
+  "23": {
+    "question": "What does the info() method in pandas primarily provide?",
+    "answer": "C",
+    "options": {
+      "A": "Statistical significance of the data",
+      "B": "Data filtering criteria",
+      "C": "Non-null rows and memory consumption",
+      "D": "Visualization parameters"
+    }
+  },
+  "24": {
+    "question": "What does the describe() function provide?",
+    "answer": "D",
+    "options": {
+      "A": "Non-null row counts.",
+      "B": "A detailed explanation of the code implementation.",
+      "C": "Specific filtering criteria.",
+      "D": "Basic summary statistics."
+    }
+  },
+  "25": {
+    "question": "What kind of tasks does data filtering typically involve?",
+    "answer": "C",
+    "options": {
+      "A": "Only removing incorrect values",
+      "B": "Only handling outliers.",
+      "C": "Removing/handling incorrect data, outliers and standardization of column names.",
+      "D": "Only renaming columns."
+    }
+  },
+  "26": {
+    "question": "What is the purpose of the rename() utility?",
+    "answer": "B",
+    "options": {
+      "A": "To sort rows",
+      "B": "To modify column names.",
+      "C": "To filter rows",
+      "D": "To delete columns"
+    }
+  },
+  "27": {
+    "question": "Which method is used to perform column selection via column index?",
+    "answer": "C",
+    "options": {
+      "A": "dot notation",
+      "B": "apply()",
+      "C": "iloc",
+      "D": "select_dtypes()"
+    }
+  },
+  "28": {
+    "question": "How can you refer to a column by using dot notation?",
+    "answer": "C",
+    "options": {
+      "A": "data['column_name']",
+      "B": "data>>column_name",
+      "C": "data.column_name",
+      "D": "data('column_name')"
+    }
+  },
+  "29": {
+    "question": "Which method is used to select columns based on their data type?",
+    "answer": "C",
+    "options": {
+      "A": "iloc",
+      "B": "loc",
+      "C": "select_dtypes()",
+      "D": "drop()"
+    }
+  },
+  "30": {
+    "question": "How is a list of specific rows selected from a dataframe?",
+    "answer": "A",
+    "options": {
+      "A": "iloc",
+      "B": "select_dtypes()",
+      "C": "drop()",
+      "D": "tail()"
+    }
+  },
+  "31": {
+    "question": "Which method is used to filter out rows based on a certain condition?",
+    "answer": "B",
+    "options": {
+      "A": "iloc()",
+      "B": "conditional logic filtering",
+      "C": "drop()",
+      "D": "applymap()"
+    }
+  },
+  "32": {
+    "question": "What method allows filtering by offsetting from the bottom of the dataframe?",
+    "answer": "B",
+    "options": {
+      "A": "head()",
+      "B": "tail()",
+      "C": "select_dtypes()",
+      "D": "iloc()"
+    }
+  },
+  "33": {
+    "question": "Why is typecasting important in data wrangling?",
+    "answer": "A",
+    "options": {
+      "A": "To convert data into the correct type.",
+      "B": "To slow down algorithms",
+      "C": "To use wrong data types",
+      "D": "To make the data more complex"
+    }
+  },
+  "34": {
+    "question": "Which pandas function is used to convert a column to datetime data type?",
+    "answer": "D",
+    "options": {
+      "A": "astype()",
+      "B": "to_numeric()",
+      "C": "to_string()",
+      "D": "to_datetime()"
+    }
+  },
+  "35": {
+    "question": "What do data transformation techniques primarily involve?",
+    "answer": "B",
+    "options": {
+      "A": "Complicating the data structure.",
+      "B": "Modifying existing columns or deriving new ones.",
+      "C": "Dropping complete tables.",
+      "D": "Ignoring column values"
+    }
+  },
+  "36": {
+    "question": "Which function is used to apply operations on the whole object based on the axis?",
+    "answer": "C",
+    "options": {
+      "A": "map()",
+      "B": "groupby()",
+      "C": "apply()",
+      "D": "applymap()"
+    }
+  },
+  "37": {
+    "question": "Which functions are primarily used for element wise operations in pandas?",
+    "answer": "C",
+    "options": {
+      "A": "fillna() and dropna()",
+      "B": "iloc() and loc()",
+      "C": "applymap() and map()",
+      "D": "groupby() and agg()"
+    }
+  },
+  "38": {
+    "question": "What is one common way to handle missing values in a dataset?",
+    "answer": "B",
+    "options": {
+      "A": "To convert the entire column into string type",
+      "B": "To remove rows or impute the missing values.",
+      "C": "To guess their values arbitrarily",
+      "D": "To leave them as they are"
+    }
+  },
+  "39": {
+    "question": "What function is used to remove rows with missing values?",
+    "answer": "A",
+    "options": {
+      "A": "dropna()",
+      "B": "fillna()",
+      "C": "groupby()",
+      "D": "drop()"
+    }
+  },
+  "40": {
+    "question": "Which methods copy forward or backward values to fill missing entries?",
+    "answer": "B",
+    "options": {
+      "A": "applymap() and map()",
+      "B": "ffill() and bfill()",
+      "C": "fillna() and dropna()",
+      "D": "groupby() and agg()"
+    }
+  },
+  "41": {
+    "question": "What method is used to identify duplicate rows in a dataframe?",
+    "answer": "B",
+    "options": {
+      "A": "dropna()",
+      "B": "duplicated()",
+      "C": "fillna()",
+      "D": "groupby()"
+    }
+  },
+  "42": {
+    "question": "What method is used to remove duplicate rows in a dataframe?",
+    "answer": "B",
+    "options": {
+      "A": "duplicated()",
+      "B": "drop_duplicates()",
+      "C": "drop()",
+      "D": "apply()"
+    }
+  },
+  "43": {
+    "question": "Which function is used for one-hot encoding of categorical variables?",
+    "answer": "A",
+    "options": {
+      "A": "get_dummies()",
+      "B": "apply()",
+      "C": "map()",
+      "D": "applymap()"
+    }
+  },
+  "44": {
+    "question": "Why is attribute normalization necessary?",
+    "answer": "B",
+    "options": {
+      "A": "To complicate the dataset structure",
+      "B": "To standardize the range of values",
+      "C": "To introduce bias into the data",
+      "D": "To make the calculations more complex"
+    }
+  },
+  "45": {
+    "question": "Which technique splits string data into consituent units?",
+    "answer": "D",
+    "options": {
+      "A": "Stop word removal",
+      "B": "Lemmatization",
+      "C": "Stemming",
+      "D": "Tokenization"
+    }
+  },
+  "46": {
+    "question": "What is the purpose of stemming and lemmatization?",
+    "answer": "A",
+    "options": {
+      "A": "To bring words to their root form.",
+      "B": "To make the dataset more complex.",
+      "C": "To introduce errors into the strings.",
+      "D": "To complicate the code structure."
+    }
+  },
+  "47": {
+    "question": "What is the purpose of stop word removal?",
+    "answer": "D",
+    "options": {
+      "A": "To confuse the system",
+      "B": "To keep high frequency words in the data.",
+      "C": "To complicate text based data.",
+      "D": "To reduce dimensionality and noise."
+    }
+  },
+  "48": {
+    "question": "What is the purpose of data summarization?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce efficiency of computation.",
+      "B": "To visualize complex data.",
+      "C": "To get better insights from data.",
+      "D": "To complicate data processing."
+    }
+  },
+  "49": {
+    "question": "What function is primarily used for grouping and aggregating data?",
+    "answer": "D",
+    "options": {
+      "A": "applymap()",
+      "B": "map()",
+      "C": "apply()",
+      "D": "groupby()"
+    }
+  },
+  "50": {
+    "question": "What is the purpose of data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce efficiency.",
+      "B": "To complicate data analysis",
+      "C": "To represent information visually for better understanding.",
+      "D": "To hide data patterns"
+    }
+  },
+  "51": {
+    "question": "What does CRISP-DM stand for?",
+    "answer": "B",
+    "options": {
+      "A": "Critical Review and Improvement of System Performance - Data Management",
+      "B": "Cross-Industry Standard Process for Data Mining",
+      "C": "Certified Reliability and Integrated System Performance - Data Mining",
+      "D": "Cross-Industry Standard Process for Data Management"
+    }
+  },
+  "52": {
+    "question": "Which of the following is NOT a phase in the CRISP-DM model?",
+    "answer": "D",
+    "options": {
+      "A": "Business Understanding",
+      "B": "Data Preparation",
+      "C": "Model Deployment",
+      "D": "Data Visualization"
+    }
+  },
+  "53": {
+    "question": "Which stage of the Machine Learning pipeline involves cleaning and transforming raw data?",
+    "answer": "C",
+    "options": {
+      "A": "Data Retrieval",
+      "B": "Deployment",
+      "C": "Data Preparation",
+      "D": "Data Modeling"
+    }
+  },
+  "54": {
+    "question": "In a Machine Learning pipeline, what is the purpose of 'Model Evaluation & Tuning'?",
+    "answer": "B",
+    "options": {
+      "A": "To deploy the model to production",
+      "B": "To assess model performance and optimize its parameters",
+      "C": "To collect data from various sources",
+      "D": "To select relevant features for the model"
+    }
+  },
+  "55": {
+    "question": "Which of the following data formats is commonly used for data collection in Machine Learning?",
+    "answer": "C",
+    "options": {
+      "A": "SEMMA",
+      "B": "KDD",
+      "C": "CSV",
+      "D": "CRISP-DM"
+    }
+  },
+  "56": {
+    "question": "Data collection in a Machine Learning project typically happens:",
+    "answer": "C",
+    "options": {
+      "A": "Exclusively before feature engineering",
+      "B": "Primarily after data preparation",
+      "C": "Often in parallel with business understanding and problem definition",
+      "D": "Only after the model deployment phase"
+    }
+  },
+  "57": {
+    "question": "What does CSV stand for in the context of data formats?",
+    "answer": "D",
+    "options": {
+      "A": "Comma Separated Variables",
+      "B": "Computed System Variables",
+      "C": "Character Separated Values",
+      "D": "Comma Separated Values"
+    }
+  },
+  "58": {
+    "question": "Which data format is described as a lightweight alternative to XML and uses key-value pairs?",
+    "answer": "B",
+    "options": {
+      "A": "HTML",
+      "B": "JSON",
+      "C": "CSV",
+      "D": "SQL"
+    }
+  },
+  "59": {
+    "question": "Which markup language is primarily used for encoding documents and defining rules for data sharing?",
+    "answer": "D",
+    "options": {
+      "A": "JSON",
+      "B": "HTML",
+      "C": "CSV",
+      "D": "XML"
+    }
+  },
+  "60": {
+    "question": "HTML is mainly used by:",
+    "answer": "C",
+    "options": {
+      "A": "Operating systems for file management",
+      "B": "Machine learning models for feature encoding",
+      "C": "Web browsers to render web pages",
+      "D": "Databases to store structured data"
+    }
+  },
+  "61": {
+    "question": "What is the primary goal of data wrangling?",
+    "answer": "B",
+    "options": {
+      "A": "To deploy machine learning models",
+      "B": "To clean, transform, and prepare data for analysis",
+      "C": "To evaluate model performance",
+      "D": "To visualize data effectively"
+    }
+  },
+  "62": {
+    "question": "Why is data wrangling considered a critical step in the Machine Learning pipeline?",
+    "answer": "B",
+    "options": {
+      "A": "Because it is the final step before deployment",
+      "B": "Because it directly impacts the performance of downstream tasks",
+      "C": "Because it automates data collection",
+      "D": "Because it is required only for supervised learning"
+    }
+  },
+  "63": {
+    "question": "Which pandas function is used for index-based row selection in a dataframe?",
+    "answer": "A",
+    "options": {
+      "A": "iloc[]",
+      "B": "rename()",
+      "C": "select_dtypes()",
+      "D": "drop()"
+    }
+  },
+  "64": {
+    "question": "How can you select columns of a pandas DataFrame based on their data types?",
+    "answer": "C",
+    "options": {
+      "A": "Using drop()",
+      "B": "Using iloc[]",
+      "C": "Using select_dtypes()",
+      "D": "Using rename()"
+    }
+  },
+  "65": {
+    "question": "Which pandas function is used to convert a column to datetime objects?",
+    "answer": "C",
+    "options": {
+      "A": "astype()",
+      "B": "convert_dtypes()",
+      "C": "to_datetime()",
+      "D": "to_numeric()"
+    }
+  },
+  "66": {
+    "question": "Why is typecasting important in data preprocessing?",
+    "answer": "C",
+    "options": {
+      "A": "To improve data visualization",
+      "B": "To reduce the size of the dataframe",
+      "C": "To ensure data is in the appropriate format for analysis and operations",
+      "D": "To simplify data summarization"
+    }
+  },
+  "67": {
+    "question": "Which pandas function is used for element-wise operations on a DataFrame?",
+    "answer": "D",
+    "options": {
+      "A": "apply()",
+      "B": "map()",
+      "C": "groupby()",
+      "D": "applymap()"
+    }
+  },
+  "68": {
+    "question": "When would you use the `apply()` function in pandas?",
+    "answer": "B",
+    "options": {
+      "A": "For creating dummy variables",
+      "B": "For operations on rows or columns of a DataFrame",
+      "C": "For element-wise operations on a Series",
+      "D": "For operations on the entire DataFrame"
+    }
+  },
+  "69": {
+    "question": "Which pandas function is used to remove rows with missing values?",
+    "answer": "D",
+    "options": {
+      "A": "interpolate()",
+      "B": "fillna()",
+      "C": "replace()",
+      "D": "dropna()"
+    }
+  },
+  "70": {
+    "question": "What is 'forward fill' (`ffill()`) in the context of handling missing values?",
+    "answer": "B",
+    "options": {
+      "A": "Copying the value from the next row to fill missing values",
+      "B": "Copying the value from the previous row to fill missing values",
+      "C": "Filling missing values with the mean",
+      "D": "Filling missing values with the median"
+    }
+  },
+  "71": {
+    "question": "Which pandas function identifies duplicate rows in a DataFrame?",
+    "answer": "C",
+    "options": {
+      "A": "unique()",
+      "B": "nunique()",
+      "C": "duplicated()",
+      "D": "drop_duplicates()"
+    }
+  },
+  "72": {
+    "question": "What does `drop_duplicates()` function in pandas do?",
+    "answer": "D",
+    "options": {
+      "A": "Identifies duplicate values",
+      "B": "Replaces duplicate values with NaN",
+      "C": "Counts the number of duplicates",
+      "D": "Removes duplicate rows from a DataFrame"
+    }
+  },
+  "73": {
+    "question": "Which pandas function is used to perform one-hot encoding on categorical variables?",
+    "answer": "C",
+    "options": {
+      "A": "factorize()",
+      "B": "astype('category')",
+      "C": "get_dummies()",
+      "D": "map()"
+    }
+  },
+  "74": {
+    "question": "What is the purpose of one-hot encoding categorical variables?",
+    "answer": "B",
+    "options": {
+      "A": "To convert numerical data to categorical",
+      "B": "To transform categorical data into a numerical format suitable for ML algorithms",
+      "C": "To normalize categorical data",
+      "D": "To reduce the dimensionality of categorical data"
+    }
+  },
+  "75": {
+    "question": "What is the main purpose of feature scaling or normalization in Machine Learning?",
+    "answer": "D",
+    "options": {
+      "A": "To improve data visualization",
+      "B": "To reduce the number of features",
+      "C": "To handle missing values",
+      "D": "To standardize the range of feature values"
+    }
+  },
+  "76": {
+    "question": "Which of the following is a common technique for feature scaling?",
+    "answer": "A",
+    "options": {
+      "A": "MinMaxScaler",
+      "B": "Frequency Encoding",
+      "C": "Label Encoding",
+      "D": "One-Hot Encoding"
+    }
+  },
+  "77": {
+    "question": "Which pandas function is most commonly used for data summarization and aggregation?",
+    "answer": "D",
+    "options": {
+      "A": "melt()",
+      "B": "pivot_table()",
+      "C": "stack()",
+      "D": "groupby()"
+    }
+  },
+  "78": {
+    "question": "What is the benefit of data summarization?",
+    "answer": "B",
+    "options": {
+      "A": "To remove all outliers from the data",
+      "B": "To prepare a compact representation of raw data and better understand its attributes",
+      "C": "To create more complex data",
+      "D": "To increase the size of the dataset"
+    }
+  },
+  "79": {
+    "question": "Which type of data visualization is best suited for showing trends over time?",
+    "answer": "B",
+    "options": {
+      "A": "Pie chart",
+      "B": "Line chart",
+      "C": "Bar plot",
+      "D": "Histogram"
+    }
+  },
+  "80": {
+    "question": "For comparing quantities across different categories, which visualization type is most appropriate?",
+    "answer": "C",
+    "options": {
+      "A": "Box plot",
+      "B": "Scatter plot",
+      "C": "Bar plot",
+      "D": "Histogram"
+    }
+  },
+  "81": {
+    "question": "A histogram is primarily used to visualize:",
+    "answer": "D",
+    "options": {
+      "A": "Trends over time",
+      "B": "Proportions of different categories",
+      "C": "Relationships between two variables",
+      "D": "Distribution of a single variable"
+    }
+  }
+}

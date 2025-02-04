@@ -1,0 +1,712 @@
+{
+  "1": {
+    "question": "According to the general definition, what does machine learning allow computers to do?",
+    "answer": "D",
+    "options": {
+      "A": "To perform complex calculations.",
+      "B": "To simulate human behavior.",
+      "C": "To execute pre-defined instructions.",
+      "D": "To learn from data without explicit programming."
+    }
+  },
+  "2": {
+    "question": "What does the engineering-oriented definition of machine learning refer to?",
+    "answer": "A",
+    "options": {
+      "A": "A system that improves its performance on a task with experience.",
+      "B": "A method to program computers.",
+      "C": "A set of mathematical equations.",
+      "D": "The process of creating computer hardware."
+    }
+  },
+  "3": {
+    "question": "In the context of machine learning, what does 'T' stand for?",
+    "answer": "D",
+    "options": {
+      "A": "The Training Algorithm.",
+      "B": "Training data.",
+      "C": "The Target output.",
+      "D": "The Task to be performed."
+    }
+  },
+  "4": {
+    "question": "What does 'E' represent in the machine learning definition?",
+    "answer": "A",
+    "options": {
+      "A": "The data used for learning.",
+      "B": "The efficiency of the algorithm.",
+      "C": "The expected error.",
+      "D": "The evaluation metric."
+    }
+  },
+  "5": {
+    "question": "Which of the following describes 'P' in machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "The programming language used",
+      "B": "The potential of the algorithm.",
+      "C": "The parameters of the model.",
+      "D": "A measure of how well an algorithm performs a task."
+    }
+  },
+  "6": {
+    "question": "What is the purpose of a 'classification' task in machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "To predict a continuous numerical value.",
+      "B": "To identify unusual patterns in data.",
+      "C": "To group similar data points.",
+      "D": "To assign data points to specific categories or classes."
+    }
+  },
+  "7": {
+    "question": "What kind of output does a 'regression' task typically produce?",
+    "answer": "C",
+    "options": {
+      "A": "A sequence of translated text.",
+      "B": "A set of clusters.",
+      "C": "A real number.",
+      "D": "A category or class label."
+    }
+  },
+  "8": {
+    "question": "Which machine learning task focuses on finding unusual patterns or events in data?",
+    "answer": "C",
+    "options": {
+      "A": "Classification.",
+      "B": "Regression.",
+      "C": "Anomaly Detection.",
+      "D": "Clustering."
+    }
+  },
+  "9": {
+    "question": "What is the main goal of clustering in machine learning?",
+    "answer": "B",
+    "options": {
+      "A": "To classify data into predefined categories.",
+      "B": "To group similar data points together.",
+      "C": "To translate data into a different format.",
+      "D": "To predict future outcomes based on historical data."
+    }
+  },
+  "10": {
+    "question": "What does a translation task accomplish in the field of machine learning?",
+    "answer": "B",
+    "options": {
+      "A": "To find abnormal patterns in the data.",
+      "B": "To convert data from one representation to another.",
+      "C": "To group data points based on similarity.",
+      "D": "To assign data to pre-defined categories."
+    }
+  },
+  "11": {
+    "question": "Which type of machine learning involves learning from labeled data?",
+    "answer": "C",
+    "options": {
+      "A": "Unsupervised Learning.",
+      "B": "All of the above.",
+      "C": "Supervised Learning.",
+      "D": "Reinforcement Learning."
+    }
+  },
+  "12": {
+    "question": "In which type of machine learning does the system learn without explicit labels?",
+    "answer": "A",
+    "options": {
+      "A": "Unsupervised Learning.",
+      "B": "Reinforcement Learning.",
+      "C": "None of the above.",
+      "D": "Supervised Learning."
+    }
+  },
+  "13": {
+    "question": "What type of learning uses rewards and punishments to train an agent?",
+    "answer": "C",
+    "options": {
+      "A": "None of the above.",
+      "B": "Supervised Learning.",
+      "C": "Reinforcement Learning.",
+      "D": "Unsupervised Learning."
+    }
+  },
+  "14": {
+    "question": "What is a key characteristic of supervised learning?",
+    "answer": "A",
+    "options": {
+      "A": "Learning with predefined output labels.",
+      "B": "Learning through trial and error.",
+      "C": "Learning in a dynamic environment.",
+      "D": "Learning from unlabeled data."
+    }
+  },
+  "15": {
+    "question": "Which of the following tasks is commonly associated with supervised learning?",
+    "answer": "B",
+    "options": {
+      "A": "Clustering.",
+      "B": "Regression.",
+      "C": "Feature Engineering.",
+      "D": "Dimensionality Reduction."
+    }
+  },
+  "16": {
+    "question": "What kind of data is used to train unsupervised learning models?",
+    "answer": "D",
+    "options": {
+      "A": "Data with numerical labels.",
+      "B": "Labeled data.",
+      "C": "Data with textual labels.",
+      "D": "Unlabeled data."
+    }
+  },
+  "17": {
+    "question": "Which of the following is a common task in unsupervised learning?",
+    "answer": "D",
+    "options": {
+      "A": "Classification.",
+      "B": "Regression.",
+      "C": "Prediction.",
+      "D": "Clustering."
+    }
+  },
+  "18": {
+    "question": "What is a key component in Reinforcement Learning?",
+    "answer": "B",
+    "options": {
+      "A": "Predefined Output.",
+      "B": "Rewards and Punishments.",
+      "C": "Labeled data.",
+      "D": "Unlabeled data."
+    }
+  },
+  "19": {
+    "question": "What is the agent trying to achieve in reinforcement learning?",
+    "answer": "C",
+    "options": {
+      "A": "Classify data points.",
+      "B": "Predict future events.",
+      "C": "Maximize rewards.",
+      "D": "Minimize errors."
+    }
+  },
+  "20": {
+    "question": "What type of learning involves training on all available data at once?",
+    "answer": "D",
+    "options": {
+      "A": "Online learning.",
+      "B": "Incremental Learning.",
+      "C": "Reinforcement learning.",
+      "D": "Batch learning."
+    }
+  },
+  "21": {
+    "question": "What type of learning is used for training system incrementally with new data?",
+    "answer": "B",
+    "options": {
+      "A": "Batch learning.",
+      "B": "Online learning.",
+      "C": "Instance based learning.",
+      "D": "Offline learning."
+    }
+  },
+  "22": {
+    "question": "Which learning approach memorizes training data and uses similarity measures to predict new data?",
+    "answer": "C",
+    "options": {
+      "A": "Online learning.",
+      "B": "Model-based learning.",
+      "C": "Instance-based learning.",
+      "D": "Reinforcement learning."
+    }
+  },
+  "23": {
+    "question": "Which approach uses training data to build a model and then uses that model to make predictions?",
+    "answer": "A",
+    "options": {
+      "A": "Model-based learning.",
+      "B": "Instance-based learning.",
+      "C": "Reinforcement learning.",
+      "D": "Online learning."
+    }
+  },
+  "24": {
+    "question": "Which learning algorithm uses online learning techniques to handle large datasets that do not fit into main memory?",
+    "answer": "C",
+    "options": {
+      "A": "Instance-based learning.",
+      "B": "Batch learning.",
+      "C": "Out-of-core learning.",
+      "D": "Model-based learning."
+    }
+  },
+  "25": {
+    "question": "How does out-of-core learning process the data?",
+    "answer": "D",
+    "options": {
+      "A": "By only using labeled data.",
+      "B": "By using a predefined set of patterns.",
+      "C": "By loading the entire dataset into memory.",
+      "D": "By loading the dataset in chunks, and training repeatedly."
+    }
+  },
+  "26": {
+    "question": "In what kind of problem is Machine Learning particularly useful?",
+    "answer": "A",
+    "options": {
+      "A": "Problems with large datasets.",
+      "B": "Problems with simple solutions.",
+      "C": "Problems that can be solved using a set of well defined rules.",
+      "D": "Problems where hand tuning is not required."
+    }
+  },
+  "27": {
+    "question": "When is Machine Learning a better alternative to existing solutions?",
+    "answer": "B",
+    "options": {
+      "A": "When the problem can be easily solved by rule-based algorithms.",
+      "B": "When existing solutions require a lot of hand-tuning or long lists of rules.",
+      "C": "When the existing solution is very efficient.",
+      "D": "When the problem can be solved quickly by a traditional approach."
+    }
+  },
+  "28": {
+    "question": "Which of the following is considered a common challenge in machine learning related to data quality?",
+    "answer": "D",
+    "options": {
+      "A": "Having diverse features.",
+      "B": "Having sufficient training data.",
+      "C": "Having labeled data.",
+      "D": "Having non representative data."
+    }
+  },
+  "29": {
+    "question": "Which of the following is NOT a main challenges related to bad data in machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "Poor quality data.",
+      "B": "Nonrepresentative training data.",
+      "C": "Insufficient quantity of training data.",
+      "D": "Relevant features."
+    }
+  },
+  "30": {
+    "question": "What does overfitting imply in the context of machine learning models?",
+    "answer": "B",
+    "options": {
+      "A": "The model generalizes well to unseen data.",
+      "B": "The model is too complex and memorizes the training data.",
+      "C": "The model requires very large datasets for learning.",
+      "D": "The model is too simple and cannot learn from data."
+    }
+  },
+  "31": {
+    "question": "What does underfitting imply in the context of machine learning models?",
+    "answer": "B",
+    "options": {
+      "A": "The model is trained with a large amount of data.",
+      "B": "The model is too simple and cannot learn the underlying patterns.",
+      "C": "The model is too complex.",
+      "D": "The model performs very well on training data but not new data."
+    }
+  },
+  "32": {
+    "question": "What is the goal of 'feature selection' in feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "To combine existing features.",
+      "B": "To select the most useful features for training.",
+      "C": "To reduce the noise in features.",
+      "D": "To reduce the number of existing features."
+    }
+  },
+  "33": {
+    "question": "What is the purpose of 'feature extraction' in feature engineering?",
+    "answer": "A",
+    "options": {
+      "A": "To create new features from existing features.",
+      "B": "To reduce the dimensionality of data.",
+      "C": "To reduce the noise in data.",
+      "D": "To select the most useful features."
+    }
+  },
+  "34": {
+    "question": "Which of the following is a widely used framework for data mining process?",
+    "answer": "D",
+    "options": {
+      "A": "KDD.",
+      "B": "CRISP-DM.",
+      "C": "SEMMA.",
+      "D": "All of the above."
+    }
+  },
+  "35": {
+    "question": "Which framework includes the step 'Business Understanding'?",
+    "answer": "C",
+    "options": {
+      "A": "None of the above.",
+      "B": "SEMMA.",
+      "C": "CRISP-DM.",
+      "D": "KDD."
+    }
+  },
+  "36": {
+    "question": "Which framework includes the step 'Explore'?",
+    "answer": "C",
+    "options": {
+      "A": "KDD.",
+      "B": "None of the above.",
+      "C": "SEMMA.",
+      "D": "CRISP-DM."
+    }
+  },
+  "37": {
+    "question": "In the KDD framework, what follows the 'Selection' step?",
+    "answer": "C",
+    "options": {
+      "A": "Interpretation/Evaluation",
+      "B": "Transformation",
+      "C": "Preprocessing",
+      "D": "Data Mining"
+    }
+  },
+  "38": {
+    "question": "In the KDD framework, what is the final step?",
+    "answer": "A",
+    "options": {
+      "A": "Interpretation/Evaluation",
+      "B": "Preprocessing",
+      "C": "Transformation",
+      "D": "Data Mining"
+    }
+  },
+  "39": {
+    "question": "Which step of the CRISP-DM framework focuses on converting objectives into data mining problem?",
+    "answer": "B",
+    "options": {
+      "A": "Data Preparation",
+      "B": "Business Understanding",
+      "C": "Evaluation",
+      "D": "Data Understanding"
+    }
+  },
+  "40": {
+    "question": "Which step in CRISP-DM focuses on understanding data gaps and data quality issues?",
+    "answer": "A",
+    "options": {
+      "A": "Data Understanding",
+      "B": "Data Preparation",
+      "C": "Deployment",
+      "D": "Business Understanding"
+    }
+  },
+  "41": {
+    "question": "Which step of the SEMMA framework selects the subset of the data from the large dataset?",
+    "answer": "D",
+    "options": {
+      "A": "Modify",
+      "B": "Assess",
+      "C": "Explore",
+      "D": "Sample"
+    }
+  },
+  "42": {
+    "question": "Which step of the SEMMA framework uses data visualization?",
+    "answer": "A",
+    "options": {
+      "A": "Explore",
+      "B": "Model",
+      "C": "Assess",
+      "D": "Modify"
+    }
+  },
+  "43": {
+    "question": "Which step of the SEMMA framework ensures the reliability and business usefulness?",
+    "answer": "B",
+    "options": {
+      "A": "Modify",
+      "B": "Assess",
+      "C": "Model",
+      "D": "Sample"
+    }
+  },
+  "44": {
+    "question": "According to Arthur Samuel's definition, what is the key characteristic of Machine Learning?",
+    "answer": "B",
+    "options": {
+      "A": "Computers only follow pre-defined algorithms.",
+      "B": "Computers learn from data without explicit programming.",
+      "C": "Computers require human intervention for every task.",
+      "D": "Computers are programmed with explicit instructions."
+    }
+  },
+  "45": {
+    "question": "Tom Mitchell's definition of Machine Learning revolves around which three key elements?",
+    "answer": "A",
+    "options": {
+      "A": "Task, Experience, Performance",
+      "B": "Data, Algorithm, Model",
+      "C": "Theory, Experiment, Practice",
+      "D": "Input, Process, Output"
+    }
+  },
+  "46": {
+    "question": "In Tom Mitchell's definition, what does 'Experience (E)' primarily refer to?",
+    "answer": "B",
+    "options": {
+      "A": "The computational resources used.",
+      "B": "The data the algorithm learns from.",
+      "C": "The complexity of the task being performed.",
+      "D": "Human guidance provided to the algorithm."
+    }
+  },
+  "47": {
+    "question": "In the context of Machine Learning, 'Task (T)' is best described as:",
+    "answer": "A",
+    "options": {
+      "A": "The real-world problem to be solved.",
+      "B": "The performance metric to evaluate the model.",
+      "C": "The algorithm used for learning.",
+      "D": "The data used to train the model."
+    }
+  },
+  "48": {
+    "question": "Which of the following is NOT listed as a popular task in Machine Learning?",
+    "answer": "B",
+    "options": {
+      "A": "Regression",
+      "B": "Data Compression",
+      "C": "Classification",
+      "D": "Clustering"
+    }
+  },
+  "49": {
+    "question": "What type of Machine Learning task involves predicting a continuous numerical value?",
+    "answer": "C",
+    "options": {
+      "A": "Anomaly Detection",
+      "B": "Clustering",
+      "C": "Regression",
+      "D": "Classification"
+    }
+  },
+  "50": {
+    "question": "'Experience (E)' in Machine Learning primarily refers to:",
+    "answer": "A",
+    "options": {
+      "A": "The dataset used for learning.",
+      "B": "The computational time taken for training.",
+      "C": "The algorithm's initial parameters.",
+      "D": "The programmer's expertise."
+    }
+  },
+  "51": {
+    "question": "'Performance (P)' in Machine Learning is typically measured using:",
+    "answer": "B",
+    "options": {
+      "A": "Subjective opinions.",
+      "B": "Quantitative metrics.",
+      "C": "User feedback only.",
+      "D": "Qualitative assessments."
+    }
+  },
+  "52": {
+    "question": "Which type of Machine Learning primarily uses labeled data for training and receives direct feedback?",
+    "answer": "A",
+    "options": {
+      "A": "Supervised Learning",
+      "B": "Batch Learning",
+      "C": "Unsupervised Learning",
+      "D": "Reinforcement Learning"
+    }
+  },
+  "53": {
+    "question": "Supervised learning is typically used to solve which types of problems?",
+    "answer": "A",
+    "options": {
+      "A": "Classification and regression",
+      "B": "Game playing and robotics",
+      "C": "Dimensionality reduction and feature extraction",
+      "D": "Clustering and anomaly detection"
+    }
+  },
+  "54": {
+    "question": "Unsupervised Learning is characterized by:",
+    "answer": "D",
+    "options": {
+      "A": "Training with labeled data and direct feedback.",
+      "B": "Learning through rewards and punishments.",
+      "C": "Explicitly predicting future outcomes.",
+      "D": "Training with unlabeled data to find patterns."
+    }
+  },
+  "55": {
+    "question": "What is a typical application of Unsupervised Learning?",
+    "answer": "A",
+    "options": {
+      "A": "Customer segmentation",
+      "B": "Spam email detection",
+      "C": "Predicting stock prices",
+      "D": "Image classification"
+    }
+  },
+  "56": {
+    "question": "Reinforcement Learning is primarily driven by:",
+    "answer": "A",
+    "options": {
+      "A": "Reward signals",
+      "B": "Explicit programming",
+      "C": "Direct feedback at each step",
+      "D": "Labeled datasets"
+    }
+  },
+  "57": {
+    "question": "In Reinforcement Learning, the learning process typically involves:",
+    "answer": "A",
+    "options": {
+      "A": "An agent interacting with an environment to maximize cumulative reward.",
+      "B": "Classifying data into predefined categories.",
+      "C": "Predicting numerical values based on input features.",
+      "D": "Finding hidden patterns in unlabeled data."
+    }
+  },
+  "58": {
+    "question": "Batch Learning is characterized by:",
+    "answer": "D",
+    "options": {
+      "A": "Continuous model updates.",
+      "B": "Learning in real-time.",
+      "C": "Incremental learning with new data.",
+      "D": "Offline training on all available data."
+    }
+  },
+  "59": {
+    "question": "Online Learning is advantageous when:",
+    "answer": "C",
+    "options": {
+      "A": "High accuracy is not required.",
+      "B": "Data is only available in large batches.",
+      "C": "The system needs to adapt to new data in real-time.",
+      "D": "Computational resources are limited."
+    }
+  },
+  "60": {
+    "question": "Instance-Based Learning is best described as:",
+    "answer": "A",
+    "options": {
+      "A": "Learning by memorizing examples and using similarity measures.",
+      "B": "Learning from explicit rules.",
+      "C": "Learning by building a complex model.",
+      "D": "Learning through trial and error."
+    }
+  },
+  "61": {
+    "question": "Model-Based Learning primarily focuses on:",
+    "answer": "A",
+    "options": {
+      "A": "Building a model to generalize from data.",
+      "B": "Learning without any explicit model.",
+      "C": "Using similarity measures for prediction.",
+      "D": "Memorizing training data."
+    }
+  },
+  "62": {
+    "question": "Overfitting in Machine Learning typically occurs when:",
+    "answer": "D",
+    "options": {
+      "A": "The training data is insufficient.",
+      "B": "The model is too simple.",
+      "C": "The learning rate is too low.",
+      "D": "The model is too complex for the amount of training data."
+    }
+  },
+  "63": {
+    "question": "Which of the following is a common solution to overfitting?",
+    "answer": "C",
+    "options": {
+      "A": "Increasing model complexity.",
+      "B": "Reducing the number of features.",
+      "C": "Both Gathering more training data and Reducing the number of features.",
+      "D": "Gathering more training data."
+    }
+  },
+  "64": {
+    "question": "Underfitting in Machine Learning occurs when:",
+    "answer": "D",
+    "options": {
+      "A": "The learning rate is too high.",
+      "B": "The model is too complex.",
+      "C": "The training data is too noisy.",
+      "D": "The model is too simple to capture data patterns."
+    }
+  },
+  "65": {
+    "question": "Which of the following is a common solution to underfitting?",
+    "answer": "C",
+    "options": {
+      "A": "Simplifying the model.",
+      "B": "Adding more regularization.",
+      "C": "Increasing model complexity.",
+      "D": "Reducing the amount of training data."
+    }
+  },
+  "66": {
+    "question": "Which of the following is the first step in the Knowledge Discovery in Databases (KDD) framework?",
+    "answer": "D",
+    "options": {
+      "A": "Transformation",
+      "B": "Data Mining",
+      "C": "Preprocessing",
+      "D": "Selection"
+    }
+  },
+  "67": {
+    "question": "What is the primary purpose of the 'Transformation' step in the KDD framework?",
+    "answer": "D",
+    "options": {
+      "A": "To apply machine learning algorithms to extract patterns.",
+      "B": "To select relevant data from the database.",
+      "C": "To clean and handle missing values in the data.",
+      "D": "To convert data into a suitable format for mining."
+    }
+  },
+  "68": {
+    "question": "Which phase of the CRISP-DM framework primarily focuses on understanding project objectives and requirements from a business perspective?",
+    "answer": "B",
+    "options": {
+      "A": "Deployment",
+      "B": "Business Understanding",
+      "C": "Data Understanding",
+      "D": "Data Preparation"
+    }
+  },
+  "69": {
+    "question": "'Data Preparation' in the CRISP-DM framework mainly involves:",
+    "answer": "B",
+    "options": {
+      "A": "Understanding the business context.",
+      "B": "Cleaning and transforming the data for modeling.",
+      "C": "Collecting and understanding the data.",
+      "D": "Evaluating the model performance."
+    }
+  },
+  "70": {
+    "question": "What does SEMMA stand for in the context of data mining frameworks?",
+    "answer": "C",
+    "options": {
+      "A": "Select, Explore, Model, Measure, Apply",
+      "B": "Select, Evaluate, Modify, Measure, Assess",
+      "C": "Sample, Explore, Modify, Model, Assess",
+      "D": "Sample, Evaluate, Model, Modify, Apply"
+    }
+  },
+  "71": {
+    "question": "In the SEMMA framework, the 'Explore' phase primarily involves:",
+    "answer": "D",
+    "options": {
+      "A": "Evaluating model accuracy.",
+      "B": "Selecting a subset of data.",
+      "C": "Transforming variables.",
+      "D": "Visualization and basic description of data."
+    }
+  }
+}
