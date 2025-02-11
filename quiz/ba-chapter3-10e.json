@@ -1,0 +1,1182 @@
+{
+    "1": {
+        "question": "Under accrual accounting, transactions are recorded only when cash is received or paid.",
+        "answer": "F"
+    },
+    "2": {
+        "question": "The owner of Recipes.org purchased $2,000 of supplies on account. Under the accrual basis of accounting, no entry is made until the $2,000 is paid.",
+        "answer": "F"
+    },
+    "3": {
+        "question": "In cash basis accounting, revenue is recognized when cash is received and expenses are recognized when they are paid.",
+        "answer": "T"
+    },
+    "4": {
+        "question": "Under accrual basis accounting, revenue is recorded only when cash is received.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "Under cash basis accounting, revenue is recorded when it is earned, regardless of when cash is received.",
+        "answer": "F"
+    },
+    "6": {
+        "question": "Under accrual basis accounting, an expense is recorded only when the cash is paid.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "Under cash basis accounting, an expense is recorded only when cash is paid.",
+        "answer": "T"
+    },
+    "8": {
+        "question": "The Generally Accepted Accounting Principles (GAAP) requires the use of accrual accounting.",
+        "answer": "T"
+    },
+    "9": {
+        "question": "If a company is using the accrual basis accounting method, when should it record its earned revenue?",
+        "options": {
+            "A": "When cash is received, even though services may be rendered at a later date",
+            "B": "When services are rendered, even though cash may be received at a later date",
+            "C": "When services are completely rendered and cash is received",
+            "D": "When cash is received, 30 days after the completion of the services"
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "When does a company account for earned revenue if it follows cash basis accounting?",
+        "options": {
+            "A": "When services are rendered, even though cash may be received at a later date",
+            "B": "When cash is received after the service is completely rendered",
+            "C": "When the services are being rendered",
+            "D": "When cash is received, either prior to the services being rendered or at a time after the services are rendered"
+        },
+        "answer": "D"
+    },
+    "11": {
+        "question": "Which of the following accounts does cash basis accounting ignore?",
+        "options": {
+            "A": "Payables",
+            "B": "Revenue",
+            "C": "Cash",
+            "D": "Expenses"
+        },
+        "answer": "A"
+    },
+    "12": {
+        "question": "Two weeks earlier, a business had rendered services to one of its customers on account for which the payment was received today. Which of the following entries would be recorded if the company uses accrual basis accounting?",
+        "options": {
+            "A": "Cash 1,000 Accounts Receivable 1,000",
+            "B": "Salary Expense 1,000 Cash 1,000",
+            "C": "Cash 1,000 Service Revenue 1,000",
+            "D": "Supplies 1,000 Cash 1,000"
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "Which of the following entries would be recorded if a company uses the cash basis method of accounting?",
+        "options": {
+            "A": "Cash 1,000 Accounts Receivable 1,000",
+            "B": "Salary Expense 1,000 Salary Payable 1,000",
+            "C": "Prepaid rent 1,000 Cash 1,000",
+            "D": "Rent Expense 1,000 Cash 1,000"
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "Which of the following statements is true of accrual basis accounting?",
+        "options": {
+            "A": "Accrual basis accounting is allowed by Generally Accepted Accounting Principles (GAAP).",
+            "B": "Accrual basis accounting records expenses only when cash has been paid for them.",
+            "C": "Accrual basis accounting records revenue only when cash is received.",
+            "D": "It always results in greater net income than cash basis accounting."
+        },
+        "answer": "A"
+    },
+    "15": {
+        "question": "Which of the following would result in an increase in income under the accrual method of accounting, but would not result in an increase in income under the cash basis accounting?",
+        "options": {
+            "A": "Purchase of supplies for cash",
+            "B": "Performance of services on account",
+            "C": "Use of supplies purchased earlier",
+            "D": "Receipt of cash for services that were performed earlier on account"
+        },
+        "answer": "B"
+    },
+    "16": {
+        "question": "Which of the following accounts would be used under the accrual method of accounting, but not under the cash basis accounting?",
+        "options": {
+            "A": "Cash",
+            "B": "Unearned Revenue",
+            "C": "Service Revenue",
+            "D": "Salary Expense"
+        },
+        "answer": "B"
+    },
+    "17": {
+        "question": "The revenue recognition principle is the basis for recording revenues\u2014both when to record revenue and the amount of revenue to record.",
+        "answer": "T"
+    },
+    "18": {
+        "question": "In accounting terms, the calendar year is always called the fiscal year.",
+        "answer": "F"
+    },
+    "19": {
+        "question": "Which of the following is considered a fiscal year?",
+        "options": {
+            "A": "six months",
+            "B": "three months",
+            "C": "twelve months",
+            "D": "four months"
+        },
+        "answer": "C"
+    },
+    "20": {
+        "question": "Revenue is said to be earned when the business has:",
+        "options": {
+            "A": "entered into an agreement with the customer about the goods or services to be delivered.",
+            "B": "passed a journal entry to record revenue.",
+            "C": "received cash from the customer before goods or services are delivered.",
+            "D": "delivered a good or service to the customer."
+        },
+        "answer": "D"
+    },
+    "21": {
+        "question": "The accounting principle that ensures that all expenses are recorded when they are incurred during the period, and compares those expenses against the revenues of the period is called the  principle.",
+        "options": {
+            "A": "comparison",
+            "B": "accrual",
+            "C": "matching",
+            "D": "revenue recognition"
+        },
+        "answer": "C"
+    },
+    "22": {
+        "question": "Which of the following accounting terms assumes that a business's activities can be divided into small segments and financial statements can be prepared for specific periods, such as a month, quarter, or year?",
+        "options": {
+            "A": "adjusting entry concept",
+            "B": "revenue recognition principle",
+            "C": "matching principle",
+            "D": "time period concept"
+        },
+        "answer": "D"
+    },
+    "23": {
+        "question": "The matching principle is also called:",
+        "options": {
+            "A": "adjusting entry concept.",
+            "B": "revenue recognition principle.",
+            "C": "expense recognition principle.",
+            "D": "time period concept."
+        },
+        "answer": "C"
+    },
+    "24": {
+        "question": "Which of the following accounting elements does the matching principle help to match?",
+        "options": {
+            "A": "revenues and liabilities",
+            "B": "expenses and assets",
+            "C": "expenses and revenues",
+            "D": "expenses and liabilities"
+        },
+        "answer": "C"
+    },
+    "25": {
+        "question": "To match expenses against revenues means to:",
+        "options": {
+            "A": "add expenses incurred during one period from revenues earned during that same period.",
+            "B": "subtract expenses incurred during one period from revenues earned during the previous period.",
+            "C": "add expenses incurred during one period from revenues earned during the previous period.",
+            "D": "subtract expenses incurred during one period from revenues earned during that same period."
+        },
+        "answer": "D"
+    },
+    "26": {
+        "question": "The revenue recognition principle guides accountants in:",
+        "options": {
+            "A": "ensuring only revenues received in cash are recorded.",
+            "B": "determining when to record expenses.",
+            "C": "determining when to record revenues.",
+            "D": "ensuring expenses are deducted from revenues."
+        },
+        "answer": "C"
+    },
+    "27": {
+        "question": "The assumption that the financial statements of a business can be prepared for specific periods is made by the:",
+        "options": {
+            "A": "matching principle.",
+            "B": "revenue recognition principle.",
+            "C": "time period concept.",
+            "D": "adjusting entry principle."
+        },
+        "answer": "C"
+    },
+    "28": {
+        "question": "The matching principle states that:",
+        "options": {
+            "A": "financial statements can be prepared for specific periods.",
+            "B": "a business's activities can be sliced into small time segments.",
+            "C": "all expenses should be recorded when they are incurred during the period.",
+            "D": "companies should record revenue when it has been earned."
+        },
+        "answer": "C"
+    },
+    "29": {
+        "question": "The time period concept states that:",
+        "options": {
+            "A": "financial statements can be prepared for specific periods.",
+            "B": "all expenses should be recorded when they are incurred during the period.",
+            "C": "companies should record revenue when it has been earned.",
+            "D": "expenses incurred during a period should be matched against the revenues of the period."
+        },
+        "answer": "A"
+    },
+    "30": {
+        "question": "Which of the following entries would be made as the result of the revenue recognition principle?",
+        "options": {
+            "A": "Service Revenue 1,000 Service Revenue 1,000",
+            "B": "Accounts Receivable 1,000 Service Revenue 1,000",
+            "C": "Salaries Expense 1,000 Accounts Payable 1,000",
+            "D": "Depreciation Expense 1,000 Accumulated Depreciation 1,000"
+        },
+        "answer": "B"
+    },
+    "31": {
+        "question": "Which of the following entries would be made because of the matching principle?",
+        "options": {
+            "A": "Salaries Expense 1,000 Accounts Payable 1,000",
+            "B": "Cash 1,000 Salaries Expense 1,000",
+            "C": "Salaries Expense 1,000 Salaries Payable 1,000",
+            "D": "Cash 1,000 Unearned Revenue 1,000"
+        },
+        "answer": "C"
+    },
+    "32": {
+        "question": "Accrued revenues are the income that has been received but not earned.",
+        "answer": "F"
+    },
+    "33": {
+        "question": "Prepaid insurance is an asset account, and hence it appears on the balance sheet.",
+        "answer": "T"
+    },
+    "34": {
+        "question": "Prepaid rent is an expense account, and hence it appears on the income statement.",
+        "answer": "F"
+    },
+    "35": {
+        "question": "A contra account's normal balance (debit or credit) is the opposite of the normal balance of the related account.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "The sum of all the depreciation expense recorded to date for a depreciable asset is called residual value.",
+        "answer": "F"
+    },
+    "37": {
+        "question": "The depreciation method that allocates an equal amount of depreciation each year is called the straight-line method.",
+        "answer": "T"
+    },
+    "38": {
+        "question": "In the case of a prepaid expense, the adjusting entry required at the end of a period will consist of a debit to the Prepaid Expense account. Assume the prepaid expense was initially recorded as an asset.",
+        "answer": "F"
+    },
+    "39": {
+        "question": "In the case of a prepaid expense, the adjusting entry required at the end of a period will consist of a credit to the Prepaid Expense account. Assume the prepaid expense was initially recorded as an asset.",
+        "answer": "T"
+    },
+    "40": {
+        "question": "In the case of unearned revenue, the cash is received first, and the revenue is earned later.",
+        "answer": "T"
+    },
+    "41": {
+        "question": "In the case of unearned revenue, the adjusting entry at the end of the period includes a debit to Service Revenue. Assume the unearned revenue is initially recorded as a liability.",
+        "answer": "F"
+    },
+    "42": {
+        "question": "In the case of unearned revenue, the adjusting entry at the end of the period includes a credit to Service Revenue. Assume the unearned revenue is initially recorded as a liability.",
+        "answer": "T"
+    },
+    "43": {
+        "question": "The contra asset accounts, like Accumulated Depreciation, always have normal debit balances.",
+        "answer": "F"
+    },
+    "44": {
+        "question": "On January 1, 2014, Smith had a beginning balance in Prepaid Insurance Expense of $1,200. On February 1, 2014, Smith paid an annual insurance premium in the amount of $4,800. On February 28, 2014, the balance in Prepaid Insurance is $2,000. The prepaid expense was initially recorded as an asset.",
+        "answer": "F"
+    },
+    "45": {
+        "question": "On January 1, Smith had $2,000 of supplies on hand. During January, Smith purchased $4,000 worth of new supplies. At the end of the month, a count revealed $1,000 worth of supplies remaining on the shelves. The adjustment entry needed will include a debit to Supplies Expense of $5,000. The supplies were initially recorded as an asset.",
+        "answer": "T"
+    },
+    "46": {
+        "question": "Smith owns manufacturing equipment that was bought for $12,600. It has an estimated useful life of 7 years. Smith should record depreciation expense of $100 per month.",
+        "answer": "F"
+    },
+    "47": {
+        "question": "On January 1, Smith had a beginning balance in Unearned Revenue of $2,000. During January, he earned $1,000 of the unearned revenue. He also collected $6,000 from a new customer for services to be rendered the following month. At the end of January, the Unearned Revenue account had a balance of $6,000.",
+        "answer": "F"
+    },
+    "48": {
+        "question": "Smith borrowed $21,000 on a one year Note payable with an interest rate of 10% per year on June 1. He will repay the principal and interest at the end of the one-year period. Smith makes accrual adjustments at the end of each month. He should record interest expense of $2,100 on June 30.",
+        "answer": "F"
+    },
+    "49": {
+        "question": "Smith signed a contract with a service provider for security services at a rate of $250 per month for the period of January through June. He will pay the service provider the entire amount at the end of June. Smith makes adjusting entries each month. During the month of June, Smith should have recorded total security expense of $500.",
+        "answer": "F"
+    },
+    "50": {
+        "question": "Argyle Designs has entered into a contract to design 20 new dresses for a customer. It will collect a total of $40,000 after the design services are complete. Argyle started design work on June 1. As of June 30, Argyle finished 4 of the 20 designs. Argyle will make an adjusting entry at the end of June to accrue $10,000 of service revenue.",
+        "answer": "F"
+    },
+    "51": {
+        "question": "Unearned Revenue is classified as a(n) account.",
+        "options": {
+            "A": "liability",
+            "B": "asset",
+            "C": "revenue",
+            "D": "equity"
+        },
+        "answer": "A"
+    },
+    "52": {
+        "question": "Robert Rogers, CPA, performed accounting services for a client in December. A bill was mailed to the client on December 30. Roberts received the client's check by mail on January 5. Which of the following accounts should appear on the income statement for the year ended December 31 as per the revenue recognition principle?",
+        "options": {
+            "A": "Service Revenue",
+            "B": "Unearned Revenue",
+            "C": "Accounts Payable",
+            "D": "Prepaid Expense"
+        },
+        "answer": "A"
+    },
+    "53": {
+        "question": "Robert Rogers, CPA, performed accounting services for a client in December. A bill was mailed to the client on December 30. Roberts received a check by mail on January 5. As per the revenue recognition principle, the related account that should appear on the balance sheet as of December 31 is:",
+        "options": {
+            "A": "Prepaid Expense.",
+            "B": "Accounts Receivable.",
+            "C": "Unearned Revenue.",
+            "D": "Accounts Payable."
+        },
+        "answer": "B"
+    },
+    "54": {
+        "question": "Robert Rogers, CPA, owns a computer that is used in his consultancy services. As per the matching principle, the related account that should appear on the income statement for the year ended December 31, 2014 is:",
+        "options": {
+            "A": "Depreciation Expense.",
+            "B": "Service Revenue.",
+            "C": "Accumulated Depreciation.",
+            "D": "Equipment Expense."
+        },
+        "answer": "A"
+    },
+    "55": {
+        "question": "Robert Rogers, CPA, owns a computer that is used in his consultancy services. As per the matching principle, the related account that should appear on the balance sheet as of December 31, 2014 is:",
+        "options": {
+            "A": "Depreciation Expense.",
+            "B": "Service Revenue.",
+            "C": "Accumulated Depreciation.",
+            "D": "Equipment Expense."
+        },
+        "answer": "C"
+    },
+    "56": {
+        "question": "The employees of Robert Rogers, CPA, worked the last two weeks of December. They received their paychecks on January 2. Which of the following accounts should appear on the balance sheet as of December 31 as per the matching principle?",
+        "options": {
+            "A": "Accounts Payable",
+            "B": "Salaries Payable",
+            "C": "Salary Expense",
+            "D": "Prepaid Expense"
+        },
+        "answer": "B"
+    },
+    "57": {
+        "question": "The employees of Robert Rogers, CPA, worked on the last two weeks of December, 2014. They received their paychecks on January 2. Which of the following accounts should appear on the income statement for the year ended December 31, 2014, as per the matching principle?",
+        "options": {
+            "A": "Salary Expense",
+            "B": "Prepaid Expense",
+            "C": "Salaries Payable",
+            "D": "Unearned Revenue"
+        },
+        "answer": "A"
+    },
+    "58": {
+        "question": "Healthy Living, a diet magazine, collected $480,000 in subscription revenue on May 31st. Healthy Living earns a minimum of $351,000 from the buyers who are not the subscribers. Each subscriber will receive an issue of the magazine for each of the next 12 months, beginning with the June issue. The company uses the accrual method of accounting. By the end of December, what is the amount of Subscription Revenue that has been earned?",
+        "options": {
+            "A": "$204,750",
+            "B": "$351,000",
+            "C": "$480,000",
+            "D": "$280,000"
+        },
+        "answer": "D"
+    },
+    "59": {
+        "question": "Healthy Living, a diet magazine, collected $480,000 in subscription revenue on May 31. Healthy Living earns a minimum of $351,000 from the buyers who are not the subscribers. Each subscriber will receive an issue of the magazine for each of the next 12 months, beginning with the June issue. The company uses the accrual method of accounting. What is the balance in the Unearned Revenue account on December 31?",
+        "options": {
+            "A": "$200,000",
+            "B": "$280,000",
+            "C": "$480,000",
+            "D": "$351,000"
+        },
+        "answer": "A"
+    },
+    "60": {
+        "question": "The following information is available for Able Company's Office Supplies account.\n\nBeginning balance $2,000\nOffice Supplies expensed $8,000\nEnding balance $3,000\n\nFrom the above information, calculate the amount of office supplies purchased.",
+        "options": {
+            "A": "$9,000",
+            "B": "$8,000",
+            "C": "$2,000",
+            "D": "$3,000"
+        },
+        "answer": "A"
+    },
+    "61": {
+        "question": "The entry to record depreciation includes a debit to:",
+        "options": {
+            "A": "the Equipment account.",
+            "B": "the Cash account.",
+            "C": "the Accumulated Depreciation account.",
+            "D": "the Depreciation Expense account."
+        },
+        "answer": "D"
+    },
+    "62": {
+        "question": "The entry to record depreciation includes a credit to:",
+        "options": {
+            "A": "the Depreciation Payable account.",
+            "B": "the Cash account.",
+            "C": "the Accumulated Depreciation account.",
+            "D": "the Depreciation Expense account."
+        },
+        "answer": "C"
+    },
+    "63": {
+        "question": "If an adjusting entry includes a debit to Rent Expense, that would indicate that the payment of rent had been previously recorded as a(n):",
+        "options": {
+            "A": "prepaid expense.",
+            "B": "depreciation.",
+            "C": "accrued expense.",
+            "D": "accrued revenue."
+        },
+        "answer": "A"
+    },
+    "64": {
+        "question": "An adjusting entry is completed:",
+        "options": {
+            "A": "at the beginning of the accounting period.",
+            "B": "at the end of the accounting period.",
+            "C": "when the balance sheet is prepared.",
+            "D": "when accounts need to be balanced in the ledger."
+        },
+        "answer": "B"
+    },
+    "65": {
+        "question": "Adjusting entries are needed to correctly measure the:",
+        "options": {
+            "A": "ending balance in the Cash account.",
+            "B": "net income (loss) on the balance sheet.",
+            "C": "net income (loss) on the income statement.",
+            "D": "beginning balance in the Cash account."
+        },
+        "answer": "C"
+    },
+    "66": {
+        "question": "The allocation of a plant asset's cost over its useful life is called:",
+        "options": {
+            "A": "residual value.",
+            "B": "book value.",
+            "C": "accrued revenue.",
+            "D": "depreciation."
+        },
+        "answer": "D"
+    },
+    "67": {
+        "question": "The value of a depreciable asset at the end of its useful life is called:",
+        "options": {
+            "A": "book value.",
+            "B": "residual value.",
+            "C": "accrued revenue.",
+            "D": "accrued expense."
+        },
+        "answer": "B"
+    },
+    "68": {
+        "question": "A depreciable asset's cost minus accumulated depreciation is called:",
+        "options": {
+            "A": "book value.",
+            "B": "residual value.",
+            "C": "accrued revenue.",
+            "D": "accrued expense."
+        },
+        "answer": "A"
+    },
+    "69": {
+        "question": "The liability created when a business collects cash from customers in advance of completing a service or delivering a product is called:",
+        "options": {
+            "A": "accrued revenue.",
+            "B": "accrued expense.",
+            "C": "deferred revenue.",
+            "D": "prepaid expense."
+        },
+        "answer": "C"
+    },
+    "70": {
+        "question": "Which of the following is the correct formula for calculating depreciation under the straight-line method?",
+        "options": {
+            "A": "Straight-line depreciation = (Cost + Residual value) \u00f7 Useful life",
+            "B": "Straight-line depreciation = (Cost - Residual value) \u00f7 Useful life",
+            "C": "Straight-line depreciation = (Cost + Residual value) \u00d7 Useful life",
+            "D": "Straight-line depreciation = (Cost - Residual value) \u00d7 Useful life"
+        },
+        "answer": "B"
+    },
+    "71": {
+        "question": "The sum of all the depreciation expense recorded to date for a depreciable asset is called:",
+        "options": {
+            "A": "book value.",
+            "B": "residual value.",
+            "C": "depreciation expense.",
+            "D": "accumulated depreciation."
+        },
+        "answer": "D"
+    },
+    "72": {
+        "question": "Which of the following is a contra account?",
+        "options": {
+            "A": "Depreciation Expense",
+            "B": "Accumulated Depreciation",
+            "C": "Unearned Revenue",
+            "D": "Earned Revenue"
+        },
+        "answer": "B"
+    },
+    "73": {
+        "question": "Accrued revenue is revenue that:",
+        "options": {
+            "A": "has been collected and earned.",
+            "B": "the business has collected in cash, but not yet earned.",
+            "C": "the business has earned, but not yet collected in cash.",
+            "D": "will be collected and earned in the future."
+        },
+        "answer": "C"
+    },
+    "74": {
+        "question": "Unearned revenue is revenue that:",
+        "options": {
+            "A": "will be collected and earned in the future.",
+            "B": "the business has collected in cash, but not yet earned.",
+            "C": "has been collected and earned.",
+            "D": "the business has earned, but not collected in cash."
+        },
+        "answer": "B"
+    },
+    "75": {
+        "question": "An adjusting entry that credits Salaries Payable is an example of a(n):",
+        "options": {
+            "A": "accrued expense.",
+            "B": "unearned revenue.",
+            "C": "accrued revenue.",
+            "D": "prepaid expense."
+        },
+        "answer": "A"
+    },
+    "76": {
+        "question": "An adjusting entry that debits Accounts Receivable is an example of a(n):",
+        "options": {
+            "A": "prepaid expense.",
+            "B": "accrued revenue.",
+            "C": "accrued expense.",
+            "D": "unearned revenue."
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "An expense that has been incurred but not yet paid is called a(n):",
+        "options": {
+            "A": "accrued revenue.",
+            "B": "prepaid expense.",
+            "C": "unearned revenue.",
+            "D": "accrued expense."
+        },
+        "answer": "D"
+    },
+    "78": {
+        "question": "Revenue that has been earned but not yet collected in cash is called a(n):",
+        "options": {
+            "A": "accrued revenue.",
+            "B": "prepaid expense.",
+            "C": "unearned revenue.",
+            "D": "accrued expense."
+        },
+        "answer": "A"
+    },
+    "79": {
+        "question": "The advance cash receipts of future revenues are called:",
+        "options": {
+            "A": "accrued revenues.",
+            "B": "prepaid expenses.",
+            "C": "unearned revenues.",
+            "D": "accrued expenses."
+        },
+        "answer": "C"
+    },
+    "80": {
+        "question": "The advance cash payments of future expenses are called:",
+        "options": {
+            "A": "accrued revenues.",
+            "B": "prepaid expenses.",
+            "C": "unearned revenues.",
+            "D": "accrued expenses."
+        },
+        "answer": "B"
+    },
+    "81": {
+        "question": "In accounting, depreciation refers to the:",
+        "options": {
+            "A": "method of spreading the cost of an asset over its useful life.",
+            "B": "method of declining the market value of an asset to its book value.",
+            "C": "method of estimation of an asset's current market value.",
+            "D": "process of sale of a used asset."
+        },
+        "answer": "A"
+    },
+    "82": {
+        "question": "The Accumulated Depreciation account is:",
+        "options": {
+            "A": "a record of the sum of all the depreciation expense recorded.",
+            "B": "the price quoted to the buyer of a used asset.",
+            "C": "an expense account.",
+            "D": "the expense account used to expense the cost of an asset."
+        },
+        "answer": "A"
+    },
+    "83": {
+        "question": "On January 1, 2015, the Accounts Receivable of Linda Company had a debit balance of $20,000. During January, the company provided services for $600,000 on account. The company collected $250,000 from its customers on account in January. What was the ending balance in the Accounts Receivable account at the end of January?",
+        "options": {
+            "A": "$350,000",
+            "B": "$620,000",
+            "C": "$370,000",
+            "D": "$600,000"
+        },
+        "answer": "C"
+    },
+    "84": {
+        "question": "Qwerty Inc. prepaid $3,600 on November 1, 2014 for a one-year insurance premium. On January 1, 2015 of the next year (after December 31 adjustments), the Prepaid Insurance account will have a debit balance of:",
+        "options": {
+            "A": "$3,300.",
+            "B": "$3,900.",
+            "C": "$3,600.",
+            "D": "$3,000."
+        },
+        "answer": "D"
+    },
+    "85": {
+        "question": "Education for All sells tickets in advance for their weekly productions and records the proceeds as Unearned Revenue. At the end of each month, Education for All makes an adjusting entry to account for the tickets used during the month (ticket revenue.) On March 1, the Unearned Revenue account had a credit balance of $4,000. During March, they sold 300 tickets at $20 each and 250 tickets were used during the month. What is the balance in Unearned Revenue at the end of March?",
+        "options": {
+            "A": "Credit balance of $5,000",
+            "B": "Debit balance of $4,000",
+            "C": "Credit balance of $1,000",
+            "D": "Debit balance of $5,000"
+        },
+        "answer": "A"
+    },
+    "86": {
+        "question": "Smith Technical Services is working on a six-month job for a client, starting February 1. They will collect $30,000 from their customer when the job is finished. On March 1, their Accounts Receivable account had a debit balance of $5,000. At the end of March, after monthly adjusting entries have been made, what will be the balance in Accounts Receivable?",
+        "options": {
+            "A": "Debit balance of $5,000",
+            "B": "Credit balance of $25,000",
+            "C": "Debit balance of $10,000",
+            "D": "Debit balance of $30,000"
+        },
+        "answer": "C"
+    },
+    "87": {
+        "question": "Classic Artists' Services has hired a maintenance man to maintain a building they use for instruction. He will begin work on February 1 and work through till May 31. Classic Artists' will pay the maintenance man $4,000 at the end of May. It accrues Maintenance Expense at the end of every month. What is the balance in the Accounts Payable account for amounts owed to the maintenance man at the end of March?",
+        "options": {
+            "A": "Debit balance of $4,000",
+            "B": "Credit balance of $2,000",
+            "C": "Debit balance of $2,000",
+            "D": "Credit balance of $4,000"
+        },
+        "answer": "B"
+    },
+    "88": {
+        "question": "On December 31, 2014, the balance in Pinnacle Exploration Company's Unearned Revenue account was a credit of $8,000. In January, 2015, the company received an advance payment of $14,000 from a new customer for services to be performed. By January 31, adjustments had been made to recognize $7,000 of the revenue which had been earned during January. What was the balance in Unearned Revenue on January 31, 2015?",
+        "options": {
+            "A": "$7,000 credit",
+            "B": "$14,000 debit",
+            "C": "$8,000 credit",
+            "D": "$15,000 credit"
+        },
+        "answer": "D"
+    },
+    "89": {
+        "question": "A business acquired equipment for $150,000 on January 1, 2015. The equipment will be depreciated over five years of its useful life using the straight-line depreciation method. The business records depreciation once a year on December 31. Which of the following is the adjusting entry required to record depreciation on equipment for the year 2015? (Assume the salvage value of the acquired equipment to be zero.)",
+        "options": {
+            "A": "Debit $150,000 to Equipment and credit $150,000 to Cash.",
+            "B": "Debit $150,000 to Depreciation Expense and credit $150,000 to Accumulated Depreciation.",
+            "C": "Debit $30,000 to Depreciation Expense and credit $30,000 to Accumulated Depreciation.",
+            "D": "Debit $30,000 to Depreciation Expense and credit $30,000 to Equipment."
+        },
+        "answer": "C"
+    },
+    "90": {
+        "question": "On September 1, 2014, Joy Company paid $8,000 in advance for an 8-month rental space covering the period of September, 2014 through April, 2015. The prepaid expense was initially recorded as an asset. Joy makes adjusting entries once a year at year-end. The adjusting entry on December 31, 2014 would include a:",
+        "options": {
+            "A": "debit of $8,000 to Cash.",
+            "B": "credit of $8,000 to Prepaid Rent.",
+            "C": "debit of $4,000 to Rent Expense.",
+            "D": "credit of $4,000 to Rent Expense."
+        },
+        "answer": "C"
+    },
+    "91": {
+        "question": "ABC Company signed a one-year $12,000 note payable at 8% interest on May 1, 2012. How much interest expense must be accrued on May 31, 2012?",
+        "options": {
+            "A": "$960",
+            "B": "$320",
+            "C": "$80",
+            "D": "$40"
+        },
+        "answer": "C"
+    },
+    "92": {
+        "question": "ABC Company signed a one-year $48,000 note payable at 8% interest on May 1, 2014. If ABC only adjusts their accounts once a year at year-end, how much interest expense was accrued on December 31, 2014?",
+        "options": {
+            "A": "$1,280",
+            "B": "$3,840",
+            "C": "$2,560",
+            "D": "$3,200"
+        },
+        "answer": "C"
+    },
+    "93": {
+        "question": "Accumulated Depreciation is a  account and carries a  normal balance.",
+        "options": {
+            "A": "revenue; debit",
+            "B": "expense; debit",
+            "C": "contra asset; credit",
+            "D": "liability; credit"
+        },
+        "answer": "C"
+    },
+    "94": {
+        "question": "Unearned Revenue is a  account and carries a  normal balance.",
+        "options": {
+            "A": "liability; credit",
+            "B": "asset; credit",
+            "C": "revenue; debit",
+            "D": "asset; debit"
+        },
+        "answer": "A"
+    },
+    "95": {
+        "question": "What type of account is Prepaid Rent and what is its normal balance?",
+        "options": {
+            "A": "expense and debit",
+            "B": "liability and credit",
+            "C": "revenue and credit",
+            "D": "asset and debit"
+        },
+        "answer": "D"
+    },
+    "96": {
+        "question": "What is the term used for the difference between the Equipment account and the Accumulated Depreciation account?",
+        "options": {
+            "A": "contra asset",
+            "B": "market value",
+            "C": "historical cost",
+            "D": "book value"
+        },
+        "answer": "D"
+    },
+    "97": {
+        "question": "A company received $5,000 for 100 one-year subscriptions on July 1. The journal entry to record this cash receipt would include a:",
+        "options": {
+            "A": "credit to Accounts Payable for $5,000.",
+            "B": "debit to Prepaid Expenses for $5,000.",
+            "C": "credit to Unearned Revenue for $5,000.",
+            "D": "debit to Note Payable for $5,000."
+        },
+        "answer": "C"
+    },
+    "98": {
+        "question": "Hank's Tax Planning Service started business in January, 2014. He rented an office for $1,800 a month starting January 1. On January 1, he prepaid the rentals through June 30. He makes accrual adjustments monthly. What is the balance in the Prepaid Rent account as of April 30?",
+        "options": {
+            "A": "$3,600",
+            "B": "$300",
+            "C": "$1,800",
+            "D": "$900"
+        },
+        "answer": "A"
+    },
+    "99": {
+        "question": "Henry Tax Planning Service bought computer equipment for $24,000 on January 1, 2014. It has an estimated useful life of 4 years and zero residual value. Henry uses the straight-line method to calculate depreciation and records depreciation expense in the books at the end of every month. Calculate the amount of Depreciation Expense for the period, January 1, 2014 through September 30, 2014, for this equipment.",
+        "options": {
+            "A": "$6,000",
+            "B": "$4,500",
+            "C": "$6,500",
+            "D": "$5,000"
+        },
+        "answer": "B"
+    },
+    "100": {
+        "question": "Henry Tax Planning Service bought communications equipment for $9,600 on January 1, 2015. It has an estimated useful life of 5 years and zero residual value. Henry uses the straight-line method to calculate depreciation and records depreciation expense in the books at the end of every month. As of June 30, 2015, the balance in the Accumulated Depreciation account for this equipment is:",
+        "options": {
+            "A": "$160.",
+            "B": "$1,920.",
+            "C": "$800.",
+            "D": "$960."
+        },
+        "answer": "D"
+    },
+    "101": {
+        "question": "Henry Tax Planning Service bought production equipment for $9,600 on January 1, 2015. It has an estimated useful life of 5 years and zero residual value. Henry uses the straight-line method to calculate depreciation and records depreciation expense in the books at the end of every month. As of June 30, 2015, the book value of this equipment shown on Henry's balance sheet will be:",
+        "options": {
+            "A": "$8,640.",
+            "B": "$9,600.",
+            "C": "$10,560.",
+            "D": "$9,760."
+        },
+        "answer": "A"
+    },
+    "102": {
+        "question": "Ursula Tax Planning Service has the following plant assets: Communications equipment: Cost, $6,720 with useful life of 8 years; Furniture: Cost, $18,000 with useful life of 12 years; and Computer: Cost, $12,000 with useful life of 4 years.\n\nUrsula's monthly depreciation expense calculated using the straight-line method is: (Assume salvage value of all the assets to be zero)",
+        "options": {
+            "A": "$250.",
+            "B": "$125.",
+            "C": "$70.",
+            "D": "$445."
+        },
+        "answer": "D"
+    },
+    "103": {
+        "question": "Ursula Tax Planning Service has the following plant assets: Communications equipment: Cost, $6,720 with useful life of 8 years; Furniture: Cost, $18,000 with useful life of 12 years; and Computer: Cost, $12,000 with useful life of 4 years. Assume the salvage value of all the assets is zero and the straight-line method is used.\n\nUrsula's monthly depreciation journal entry will include a:",
+        "options": {
+            "A": "debit to Depreciation Expense of $5,340.",
+            "B": "credit to Depreciation Expense of $5,340.",
+            "C": "debit to Accumulated Depreciation of $445.",
+            "D": "credit to Accumulated Depreciation of $445."
+        },
+        "answer": "D"
+    },
+    "104": {
+        "question": "Viva Inc. had bought machine X for $15,500 two years ago. The machine had no residual value and had an estimated useful life of 10 years. If the company uses the straight line depreciation method, calculate the current book value of the machine.",
+        "options": {
+            "A": "$12,400",
+            "B": "$3,100",
+            "C": "$18,600",
+            "D": "$15,500"
+        },
+        "answer": "A"
+    },
+    "105": {
+        "question": "An adjusted trial balance does not list the revenues and expenses of a business.",
+        "answer": "F"
+    },
+    "106": {
+        "question": "The adjusted trial balance helps to identify:",
+        "options": {
+            "A": "account balances after adjustments.",
+            "B": "revenue accounts only.",
+            "C": "account balances before adjustments.",
+            "D": "amounts that are out of balance."
+        },
+        "answer": "D"
+    },
+    "107": {
+        "question": "If a company fails to make an adjusting entry for accrued revenues, the net income will be overstated.",
+        "answer": "F"
+    },
+    "108": {
+        "question": "If a company fails to make an adjusting entry for prepaid expense, the assets will be overstated. Assume the prepaid expense is initially recorded as an asset.",
+        "answer": "T"
+    },
+    "109": {
+        "question": "The accountant for Jones Auto Repair Company failed to make an adjusting entry to record $5,000 of unpaid salaries for the last 2 weeks of the year. Which of the following is an impact of this omission?",
+        "options": {
+            "A": "The net income will be overstated.",
+            "B": "The total assets will be understated.",
+            "C": "The total liabilities will be overstated.",
+            "D": "The total assets will be overstated."
+        },
+        "answer": "A"
+    },
+    "110": {
+        "question": "Financial statements are prepared from the balances in a(n):",
+        "options": {
+            "A": "general journal.",
+            "B": "chart of accounts.",
+            "C": "unadjusted trial balance.",
+            "D": "adjusted trial balance."
+        },
+        "answer": "D"
+    },
+    "111": {
+        "question": "All of a company's accounts and their balances appear on the:",
+        "options": {
+            "A": "statement of retained earnings.",
+            "B": "balance sheet.",
+            "C": "adjusted trial balance.",
+            "D": "income statement."
+        },
+        "answer": "C"
+    },
+    "112": {
+        "question": "The accountant of Isabella Consulting Company failed to make an adjusting entry to record $6,000 for unearned service revenues that were earned before the end of the fiscal year. Assume the company initially recorded a liability. Which of the following statements is true?",
+        "options": {
+            "A": "The total liabilities will be overstated.",
+            "B": "The total liabilities will be understated.",
+            "C": "The total assets will be overstated.",
+            "D": "The total assets will be understated."
+        },
+        "answer": "A"
+    },
+    "113": {
+        "question": "The accountant for Sparks Electric Company failed to make an adjusting entry to record $3,000 of telephone expenses for the last two months of the year. Which of the following statements is true?",
+        "options": {
+            "A": "The total liabilities will be overstated.",
+            "B": "The total liabilities will be understated.",
+            "C": "The total assets will be overstated.",
+            "D": "The total assets will be understated."
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "The accountant of Skyscrapers Architectural Services failed to make an adjusting entry to record $7,000 of depreciation expense. Which of the following statements is true?",
+        "options": {
+            "A": "The total liabilities will be overstated.",
+            "B": "The equity will be understated.",
+            "C": "The total assets will be overstated.",
+            "D": "The total assets will be understated."
+        },
+        "answer": "C"
+    },
+    "115": {
+        "question": "The accountant of Linda Legal Services failed to make an adjusting entry for supplies that had been used for the year. Assume the supplies were initially recorded as an asset. Which of the following statements is true?",
+        "options": {
+            "A": "The total liabilities will be overstated.",
+            "B": "The equity will be understated.",
+            "C": "The total assets will be overstated.",
+            "D": "The total assets will be understated."
+        },
+        "answer": "C"
+    },
+    "116": {
+        "question": "The accountant of Ovenly Inc. failed to make an adjusting entry to record $6,000 of unearned service revenue that has now been earned. Assume the unearned revenue was initially recorded as a liability. Which of the following statements is true?",
+        "options": {
+            "A": "The total revenue will be overstated.",
+            "B": "The total revenue will be understated.",
+            "C": "The total expenses will be overstated.",
+            "D": "The total expenses will be understated."
+        },
+        "answer": "B"
+    },
+    "117": {
+        "question": "The accountant of Hobson Electrical Repair Company failed to make an adjusting entry to record $5,000 of unpaid salaries for the last two weeks of the year. Which of the following statements is true?",
+        "options": {
+            "A": "The total revenue will be overstated.",
+            "B": "The total revenue will be understated.",
+            "C": "The total expenses will be overstated.",
+            "D": "The total expenses will be understated."
+        },
+        "answer": "D"
+    },
+    "118": {
+        "question": "The accountant of Barnes Architectural Services failed to make an adjusting entry to record $7,000 of depreciation expense. Which of the following statements is true?",
+        "options": {
+            "A": "The total revenue will be overstated.",
+            "B": "The total revenue will be understated.",
+            "C": "The total expenses will be overstated.",
+            "D": "The total expenses will be understated."
+        },
+        "answer": "D"
+    },
+    "119": {
+        "question": "Patricia Event Planning Service collects fees from their customers in advance. On January 1, 2015, the balance of her Unearned Revenue account had a balance of $6,000 (Cr.). During January and February, she collected $3,000 and $1,000 as advance fees. During the two-month period, she rendered services of $6,500. What is the balance in Unearned Revenue at the end of February?",
+        "options": {
+            "A": "Debit balance of $6,000",
+            "B": "Credit balance of $6,000",
+            "C": "Debit balance of $3,500",
+            "D": "Credit balance of $3,500"
+        },
+        "answer": "D"
+    },
+    "120": {
+        "question": "The salaries are $6,000 per week of 5 working days and are paid weekly at the end of Fridays. The end of the month falls on a Thursday. Patricia made the appropriate accrual adjustment and posted it to the ledger. The final adjusted balance of Salaries Payable, as shown on the adjusted trial balance, will be a: (Assume that there was no beginning balance in the Salaries Payable account.)",
+        "options": {
+            "A": "credit balance of $4,800.",
+            "B": "debit balance of $1,200.",
+            "C": "debit balance of $4,800.",
+            "D": "credit balance of $1,200."
+        },
+        "answer": "A"
+    },
+    "121": {
+        "question": "The accounting records of Patricia Event Planning Service include the following select unadjusted balances on December 31, 2014: Salaries Expense, $6,000; Service Revenue: $20,000; Unearned Revenue, $400; Supplies Expense, $600; Rent Expense, $300; Depreciation Expense\u2014Equipment, $200. Later in December, she worked with a new client and provided event planning services for an upcoming event. When the event is complete in January, 2015, she will collect the full amount of $1,200 from her client. As of the end of December, 2015, she rendered one-third of the services covered by the contract. She made the accrual adjustments. The final adjusted balance of Service Revenue, as shown on the adjusted trial balance, should be a:",
+        "options": {
+            "A": "debit balance of 21,200.",
+            "B": "credit balance of $20,000.",
+            "C": "debit balance of $1,200.",
+            "D": "credit balance of $20,400."
+        },
+        "answer": "D"
+    },
+    "122": {
+        "question": "On the first day of January, Patricia borrowed $2,000 on a one-year note payable bearing interest at 4% per year. The note specifies that principal and interest must be paid in full at the end of the one-year period. On June 30, the adjusted trial balance will show Interest Payable of:",
+        "options": {
+            "A": "$40 credit.",
+            "B": "$40 debit.",
+            "C": "$80 credit.",
+            "D": "$80 debit."
+        },
+        "answer": "A"
+    },
+    "123": {
+        "question": "At the end of the current year, the accountant for Colorful Graphics forgot to make an adjusting entry to accrue Wages Payable to the company's employees for the last week in December. The wages will be paid to the employees in January. Which of the following is an effect of this error?",
+        "options": {
+            "A": "Net income is overstated.",
+            "B": "Liabilities are overstated.",
+            "C": "Net income is understated.",
+            "D": "Expenses are overstated."
+        },
+        "answer": "A"
+    },
+    "124": {
+        "question": "The accountant for Noble Jewelry Repair Services forgot to make an adjusting entry for Depreciation Expense for the current year. Which of the following is an effect of this error?",
+        "options": {
+            "A": "Revenues are understated.",
+            "B": "Total assets are understated.",
+            "C": "Net income is overstated.",
+            "D": "Total liabilities are understated."
+        },
+        "answer": "C"
+    },
+    "125": {
+        "question": "The accountant for Noble Jewelry Repair Services forgot to make an adjusting entry for Depreciation Expense for the current year. Which of the following is an effect of this error?",
+        "options": {
+            "A": "Total assets are understated.",
+            "B": "Revenues are overstated.",
+            "C": "Total assets are overstated.",
+            "D": "Net income is understated."
+        },
+        "answer": "C"
+    },
+    "126": {
+        "question": "What is the effect of the adjusting entry for Depreciation Expense?",
+        "options": {
+            "A": "It increases total liabilities and increases total expenses.",
+            "B": "It increases total assets and increases total expenses.",
+            "C": "It decreases total assets and increases total expenses.",
+            "D": "It decreases total liabilities and increases total expenses."
+        },
+        "answer": "C"
+    },
+    "127": {
+        "question": "A worksheet is an external document that forms a part of the financial statements.",
+        "answer": "F"
+    },
+    "128": {
+        "question": "The worksheet is NOT a journal, a ledger, or a financial statement.",
+        "answer": "T"
+    },
+    "129": {
+        "question": "GAAP requires a public company to prepare a worksheet for financial reporting purposes.",
+        "answer": "F"
+    },
+    "130": {
+        "question": "An internal document that helps summarize data for the preparation of financial statements is called a:",
+        "options": {
+            "A": "journal.",
+            "B": "ledger.",
+            "C": "worksheet.",
+            "D": "chart of accounts."
+        },
+        "answer": "C"
+    },
+    "131": {
+        "question": "The account names in a worksheet are taken from and listed in the same order as the:",
+        "options": {
+            "A": "balance sheet.",
+            "B": "ledger.",
+            "C": "journal.",
+            "D": "chart of accounts."
+        },
+        "answer": "B"
+    },
+    "132": {
+        "question": "To fill the unadjusted trial balance columns in a worksheet, the account balances before adjustments are copied directly from the:",
+        "options": {
+            "A": "ledger.",
+            "B": "adjusted trial balance.",
+            "C": "chart of accounts.",
+            "D": "balance sheet of previous year."
+        },
+        "answer": "A"
+    },
+    "133": {
+        "question": "The following extract was taken from the worksheet of Kelly Bakers for the year 2014.\n\nKelly Bakers Worksheet\nDecember 31, 2014\nUnadjusted Trial Balance Adjusted Trial Balance\nAccount Names Debit Credit Debit Credit\nCash $6,000 $6,000\nEquipment 15,000 15,000\nAccumulated Depreciation \u2013 Equipment $7,500 $9,000\n\nFor the above information, determine the amount of Depreciation Expense for the equipment used in the business.",
+        "options": {
+            "A": "$9,000",
+            "B": "$3,000",
+            "C": "$4,000",
+            "D": "$1,500"
+        },
+        "answer": "D"
+    },
+    "134": {
+        "question": "The following extract was taken from the worksheet of Dutch Inc. for the year 2014.\nDutch Inc. Worksheet\nDecember 31, 2014\nUnadjusted Trial Balance Adjusted Trial Balance\nAccount Names Debit Credit Debit Credit\nPrepaid Rent 1,200 0\nRent Expense 800 2,000\nDepreciation Expense \u2013 Equipment 2,000 1,500\nOffice Supplies 750\n\nFrom the above information, determine the amount of the Rent Expense adjustment.",
+        "options": {
+            "A": "$1,200",
+            "B": "$800",
+            "C": "$2,000",
+            "D": "$1,500"
+        },
+        "answer": "A"
+    },
+    "135": {
+        "question": "Patricia Event Planning Service records prepaid expenses and unearned revenues using the alternative treatments. Patricia makes adjusting entries as needed to bring her books to the full accrual basis once a year at the end of the year. On October 1, she paid $3,600 for insurance for a one-year period. At the end of the year, she will make an adjustment entry that debits Insurance Expense for $900.",
+        "answer": "F"
+    },
+    "136": {
+        "question": "Patricia Event Planning Service records prepaid expenses and unearned revenues using the alternative treatments. Patricia makes adjusting entries as needed to bring her books to the full accrual basis once a year at the end of the year. On December 15, she collected $1,000 from a customer in advance for a series of events that will start late December and end in March. At the end of the year, she rendered approximately 10% of the services for her customer. The adjusting entry on December 31 will include a debit to Service Revenue for $900.",
+        "answer": "T"
+    },
+    "137": {
+        "question": "An adjusted trial balance does not list the revenues and expenses of a business.",
+        "answer": "F"
+    },
+    "138": {
+        "question": "The adjusted trial balance helps to identify:",
+        "options": {
+            "A": "account balances after adjustments.",
+            "B": "revenue accounts only.",
+            "C": "account balances before adjustments.",
+            "D": "amounts that are out of balance."
+        },
+        "answer": "D"
+    },
+    "139": {
+        "question": "If a company fails to make an adjusting entry for accrued revenues, the net income will be overstated.",
+        "answer": "F"
+    },
+    "140": {
+        "question": "If a company fails to make an adjusting entry for prepaid expense, the assets will be overstated. Assume the prepaid expense is initially recorded as an asset.",
+        "answer": "T"
+    },
+    "141": {
+        "question": "The accountant for Jones Auto Repair Company failed to make an adjusting entry to record $5,000 of unpaid salaries for the last 2 weeks of the year. Which of the following is an impact of this omission?",
+        "options": {
+            "A": "The net income will be overstated.",
+            "B": "The total assets will be understated.",
+            "C": "The total liabilities will be overstated.",
+            "D": "The total assets will be overstated."
+        },
+        "answer": "A"
+    },
+    "142": {
+        "question": "Financial statements are prepared from the balances in a(n):",
+        "options": {
+            "A": "general journal.",
+            "B": "chart of accounts.",
+            "C": "unadjusted trial balance.",
+            "D": "adjusted trial balance."
+        },
+        "answer": "D"
+    }
+}

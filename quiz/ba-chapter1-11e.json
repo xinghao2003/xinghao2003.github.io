@@ -1,0 +1,1446 @@
+{
+    "1": {
+        "question": "Accounting is the information system that measures business activities, processes the information into reports, and communicates the results to decision makers.",
+        "answer": "T"
+    },
+    "2": {
+        "question": "Critical thinking and judgment skills are not necessary for accountants because technology has made the activities routine.",
+        "answer": "F"
+    },
+    "3": {
+        "question": "Accounting starts with economic activities that accountants review and evaluate using critical thinking and judgment to create useful information that helps individuals make good decisions.",
+        "answer": "T"
+    },
+    "4": {
+        "question": "Accounting is referred to as the language of business because it is the method of communicating business information to decision makers.",
+        "answer": "T"
+    },
+    "5": {
+        "question": "Managerial accounting focuses on information for external decision makers.",
+        "answer": "F"
+    },
+    "6": {
+        "question": "Investors primarily use managerial accounting information for decision-making purposes.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "A creditor is a person who owes money to the business.",
+        "answer": "F"
+    },
+    "8": {
+        "question": "Local, state, and federal governments use accounting information to calculate income taxes.",
+        "answer": "T"
+    },
+    "9": {
+        "question": "Financial accounting focuses on information for decision makers outside of the business, such as creditors and taxing authorities.",
+        "answer": "T"
+    },
+    "10": {
+        "question": "Business owners use accounting information to set goals, evaluate progress toward those goals, and make adjustments when needed.",
+        "answer": "T"
+    },
+    "11": {
+        "question": "Outside investors would ordinarily use managerial accounting information to decide whether or not to invest in a business.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "A creditor is any person who has an ownership interest in a business.",
+        "answer": "F"
+    },
+    "13": {
+        "question": "Different users of accounting information focus on the information they need to make the best choices.",
+        "answer": "T"
+    },
+    "14": {
+        "question": "Any person or business to whom a business owes money is called the business's creditor.",
+        "answer": "T"
+    },
+    "15": {
+        "question": "The primary objective of financial reporting is to provide information useful for making investment and lending decisions.",
+        "answer": "T"
+    },
+    "16": {
+        "question": "Managerial accounting provides information to",
+        "options": {
+            "A": "internal decision makers",
+            "B": "outside investors and lenders",
+            "C": "creditors",
+            "D": "taxing authorities"
+        },
+        "answer": "A"
+    },
+    "17": {
+        "question": "The field of accounting that focuses on providing information for external decision makers is",
+        "options": {
+            "A": "managerial accounting",
+            "B": "financial accounting",
+            "C": "cost accounting",
+            "D": "nonmonetary accounting"
+        },
+        "answer": "B"
+    },
+    "18": {
+        "question": "The field of accounting that focuses on providing information for internal decision makers is",
+        "options": {
+            "A": "managerial accounting",
+            "B": "financial accounting",
+            "C": "nonmonetary accounting",
+            "D": "governmental accounting"
+        },
+        "answer": "A"
+    },
+    "19": {
+        "question": "Which of the following users would rely on managerial accounting information for decision-making purposes?",
+        "options": {
+            "A": "potential investors",
+            "B": "creditors",
+            "C": "customers",
+            "D": "company managers"
+        },
+        "answer": "D"
+    },
+    "20": {
+        "question": "Which of the following is an external user of a business's financial information?",
+        "options": {
+            "A": "customers",
+            "B": "cost accountant",
+            "C": "company manager",
+            "D": "the board of directors"
+        },
+        "answer": "A"
+    },
+    "21": {
+        "question": "Financial analysts perform reviews of companies to ensure compliance to rules and regulations.",
+        "answer": "F"
+    },
+    "22": {
+        "question": "Certified Public Accountants are licensed professional accountants who serve the general public.",
+        "answer": "T"
+    },
+    "23": {
+        "question": "are professional accountants who serve the general public, not one particular company.",
+        "options": {
+            "A": "Certified public accountants",
+            "B": "Certified financial accountants",
+            "C": "Audit accountants",
+            "D": "Controllers"
+        },
+        "answer": "A"
+    },
+    "24": {
+        "question": "The Financial Accounting Standards Board is a U.S. governmental agency that oversees the creation and governance of accounting standards.",
+        "answer": "F"
+    },
+    "25": {
+        "question": "Which of the following organizations is responsible for the creation and governance of accounting standards in the United States?",
+        "options": {
+            "A": "Financial Accounting Standards Board",
+            "B": "Institute of Management Accountants",
+            "C": "American Institute of Certified Public Accountants",
+            "D": "Securities and Exchange Commission"
+        },
+        "answer": "A"
+    },
+    "26": {
+        "question": "The guidelines for accounting information are called Generally Accepted Accounting Principles (GAAP).",
+        "answer": "T"
+    },
+    "27": {
+        "question": "GAAP refer to guidelines for accounting information in the United States. The acronym GAAP in this statement refers to",
+        "options": {
+            "A": "Globally Accepted and Accurate Policies",
+            "B": "Global Accommodation Accounting Principles",
+            "C": "Generally Accredited Accounting Policies",
+            "D": "Generally Accepted Accounting Principles"
+        },
+        "answer": "D"
+    },
+    "28": {
+        "question": "As per the economic entity assumption, an organization and its owners should be seen as the same entity.",
+        "answer": "F"
+    },
+    "29": {
+        "question": "In a sole proprietorship, the owner is personally liable for the debts of the business.",
+        "answer": "T"
+    },
+    "30": {
+        "question": "The most that the owner of a sole proprietorship can lose, as a result of business debts or lawsuits, is the amount he/she has invested in the business.",
+        "answer": "F"
+    },
+    "31": {
+        "question": "Members of a limited-liability company (LLC) are not personally liable for the debts of the business.",
+        "answer": "T"
+    },
+    "32": {
+        "question": "A business can be organized as a sole proprietorship, partnership, corporation, or limited-liability company (LLC).",
+        "answer": "T"
+    },
+    "33": {
+        "question": "In a limited-liability company (LLC), the members are personally liable for the debts of the business.",
+        "answer": "F"
+    },
+    "34": {
+        "question": "In a corporation, the stockholders are personally liable for the debts of the company.",
+        "answer": "F"
+    },
+    "35": {
+        "question": "A corporation pays income taxes on its earnings.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "A partnership is not taxed. Instead individual partners pay taxes on their share of the earnings.",
+        "answer": "T"
+    },
+    "37": {
+        "question": "The formation of a partnership firm requires a minimum of",
+        "options": {
+            "A": "four partners",
+            "B": "three partners",
+            "C": "one partner",
+            "D": "two partners"
+        },
+        "answer": "D"
+    },
+    "38": {
+        "question": "Which of the following is a major reason why corporate ownership is popular in the United States?",
+        "options": {
+            "A": "Stockholders have limited liability for the debts of the corporation.",
+            "B": "Most corporations are small- or medium-sized.",
+            "C": "The life of a corporation is limited by the death of the owner.",
+            "D": "A corporation is usually managed by the owners."
+        },
+        "answer": "A"
+    },
+    "39": {
+        "question": "Which of the following is a characteristic of a corporation?",
+        "options": {
+            "A": "A corporation is owned by stockholders.",
+            "B": "Lenders of a corporation do not have the right to claim the corporation's assets to satisfy their obligations.",
+            "C": "All shares of a corporation must be held by a single individual.",
+            "D": "Each stockholder has the authority to commit the corporation to a binding contract through his/her actions."
+        },
+        "answer": "A"
+    },
+    "40": {
+        "question": "The sole proprietorship form of business",
+        "options": {
+            "A": "enjoys an indefinite life",
+            "B": "has limited liability for the business's debts",
+            "C": "is a common form of organization for small businesses",
+            "D": "is a separate taxable entity from its owner"
+        },
+        "answer": "C"
+    },
+    "41": {
+        "question": "A corporation has which of the following sets of characteristics?",
+        "options": {
+            "A": "subject to personal liability, not a separate taxable entity, terminates at the stockholder's death",
+            "B": "not taxed, two or more owners, an alternative organizational form to partnerships",
+            "C": "taxed on earnings, subject to personal liability, used primarily by professional organizations",
+            "D": "one or more stockholders, indefinite life, no personal liability"
+        },
+        "answer": "D"
+    },
+    "42": {
+        "question": "Corporations pay their own income tax on corporate income. Stockholders pay personal income tax on the dividends received from corporations. This is an example of",
+        "options": {
+            "A": "double taxation",
+            "B": "indefinite life",
+            "C": "personal liability",
+            "D": "a limited-liability company"
+        },
+        "answer": "A"
+    },
+    "43": {
+        "question": "Which of the following statements is true of the corporate form of business?",
+        "options": {
+            "A": "A corporation is organized understate law as a separate legal entity.",
+            "B": "Changes in the ownership of stock has a negative effect on the continuity of the corporation.",
+            "C": "Any stockholder may commit the corporation to a contract.",
+            "D": "It is easy for stockholders to lodge an effective protest against management."
+        },
+        "answer": "A"
+    },
+    "44": {
+        "question": "Which of the following statements is true of a sole proprietorship?",
+        "options": {
+            "A": "A sole proprietorship joins two or more individuals as co-owners.",
+            "B": "The sole proprietor is personally liable for the liabilities of the business.",
+            "C": "A sole proprietorship is taxed separately from the owner.",
+            "D": "A sole proprietorship has to pay business income taxes."
+        },
+        "answer": "B"
+    },
+    "45": {
+        "question": "Which of the following is a characteristic of a limited-liability company (LLC)?",
+        "options": {
+            "A": "An LLC's life is terminated at any member's choice or death.",
+            "B": "Each member of an LLC is liable only for his or her own actions.",
+            "C": "An LLC must have more than five members.",
+            "D": "The income of members from an LLC is not taxed."
+        },
+        "answer": "B"
+    },
+    "46": {
+        "question": "Caleb Brown has been the sole owner of a bicycle sales and repair shop for several years. Which of the following business types would limit Caleb's personal liability exposure to the entity's debts?",
+        "options": {
+            "A": "partnership",
+            "B": "limited-liability company",
+            "C": "sole proprietorship",
+            "D": "limited-liability partnership"
+        },
+        "answer": "B"
+    },
+    "47": {
+        "question": "David has decided to open an auto-detailing business. He will pick up an automobile from the client, take it to his parents' garage, detail it, and return it to the client. If he does all of the work himself and takes no legal steps to form a special organization, which type of business organization, in effect, has he chosen?",
+        "options": {
+            "A": "a limited-liability company",
+            "B": "a partnership",
+            "C": "a corporation",
+            "D": "a sole proprietorship"
+        },
+        "answer": "D"
+    },
+    "48": {
+        "question": "In a limited-liability company, the",
+        "options": {
+            "A": "members are personally liable to pay the entity's debts",
+            "B": "business pays income tax on earnings",
+            "C": "members are liable for each other's actions",
+            "D": "members pay income tax on their share of earnings"
+        },
+        "answer": "D"
+    },
+    "49": {
+        "question": "The taxable income of a sole proprietorship is",
+        "options": {
+            "A": "combined with the personal income of the proprietor",
+            "B": "not combined with the proprietor's personal income",
+            "C": "not taxable",
+            "D": "handled similarly to that of a corporation"
+        },
+        "answer": "A"
+    },
+    "50": {
+        "question": "Joshua Thomas Corporation manufactures and retails computer hardware. The president of the corporation bought a new car as a gift for his daughter and paid for it using cash from the business. Since the corporation paid for the car, it was recorded in its books as an asset. Which of the following concepts or principles of accounting did the corporation violate?",
+        "options": {
+            "A": "monetary unit assumption",
+            "B": "economic entity assumption",
+            "C": "cost principle",
+            "D": "going concern assumption"
+        },
+        "answer": "B"
+    },
+    "51": {
+        "question": "Which of the following statements is true of a corporation?",
+        "options": {
+            "A": "Corporations pay the same variety of taxes as other forms of business.",
+            "B": "Although a corporation is a separate legal entity, it cannot be sued.",
+            "C": "Any stockholder of a corporation can commit the corporation to a binding contract.",
+            "D": "The owners of a corporation are called stockholders."
+        },
+        "answer": "D"
+    },
+    "52": {
+        "question": "The ultimate control of the corporation rests with the",
+        "options": {
+            "A": "board of directors",
+            "B": "stockholders",
+            "C": "chairperson",
+            "D": "chief operating officer"
+        },
+        "answer": "B"
+    },
+    "53": {
+        "question": "Johnson Company purchased land for $70,000. The president of Johnson Company believes that the land is actually worth $75,000. The land can be recorded at $75,000.",
+        "answer": "F"
+    },
+    "54": {
+        "question": "Since cost is a reliable measure, the cost principle holds that the accounting records should continue reporting an asset at its historical cost over its useful life.",
+        "answer": "T"
+    },
+    "55": {
+        "question": "According to the  acquired assets should be recorded at the amount actually paid rather than at the estimated market value.",
+        "options": {
+            "A": "going concern assumption",
+            "B": "economic entity concept",
+            "C": "cost principle",
+            "D": "monetary unit assumption"
+        },
+        "answer": "C"
+    },
+    "56": {
+        "question": "Lorna Smith decided to start her own CPA practice as a professional corporation, Smith CPA PC. Her corporation purchased an office building for $35,000 that her real estate agent said was worth $50,000 in the current market. The corporation recorded the building as a $50,000 asset because Lorna believes that is the real value of the building. Which of the following concepts or principles of accounting is being violated?",
+        "options": {
+            "A": "cost principle",
+            "B": "economic entity assumption",
+            "C": "monetary unit assumption",
+            "D": "going concern assumption"
+        },
+        "answer": "A"
+    },
+    "57": {
+        "question": "Thirty years ago, Star Grocer Corporation purchased a building for its grocery store for $30,000. Based on inflation estimates, the amount of the building has been adjusted in the accounting records. The building is now reported at $75,000 in Star Grocer's financial statements. Which of the following concepts or principles of accounting is being violated?",
+        "options": {
+            "A": "going concern assumption",
+            "B": "revenue realization concept",
+            "C": "economic entity assumption",
+            "D": "cost principle"
+        },
+        "answer": "D"
+    },
+    "58": {
+        "question": "Ten years ago a corporation purchased a building for $100,000. At that time, the corporation felt that the business was worth $125,000. The current market value of the business is $500,000. The building has been assessed at $475,000 for property tax purposes. At which amount should the corporation record the building in its accounting records?",
+        "options": {
+            "A": "$100,000",
+            "B": "$125,000",
+            "C": "$475,000",
+            "D": "$500,000"
+        },
+        "answer": "A"
+    },
+    "59": {
+        "question": "Under the going concern principle, accountants must provide proof that the business will remain in operations long enough to use existing resources for their intended purpose.",
+        "answer": "F"
+    },
+    "60": {
+        "question": "As per the the entity will remain in operation for the foreseeable future.",
+        "options": {
+            "A": "economic entity concept",
+            "B": "monetary unit assumption",
+            "C": "going concern assumption",
+            "D": "cost principle"
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "Accountants assume that the dollar's purchasing power is stable.",
+        "answer": "T"
+    },
+    "62": {
+        "question": "Genity Company records business transactions in dollars and disregards changes in the value of a dollar over time. Which of the following accounting assumptions does this represent?",
+        "options": {
+            "A": "economic entity assumption",
+            "B": "going concern assumption",
+            "C": "accounting period assumption",
+            "D": "monetary unit assumption"
+        },
+        "answer": "D"
+    },
+    "63": {
+        "question": "International Financial Reporting Standards (IFRS) is the main U.S. accounting rule book and is currently created and governed by the Financial Accounting Standards Board.",
+        "answer": "F"
+    },
+    "64": {
+        "question": "A publicly traded company in the United States does not come under Securities and Exchange Commission regulations as long as it follows the rules of GAAP.",
+        "answer": "F"
+    },
+    "65": {
+        "question": "International Financial Reporting Standards are comparatively more specific and more rule-based than U.S. GAAP.",
+        "answer": "F"
+    },
+    "66": {
+        "question": "International Financial Reporting Standards U.S. Generally Accepted Accounting Principles.",
+        "options": {
+            "A": "are the same as",
+            "B": "are generally less specific than",
+            "C": "are based less on principle than",
+            "D": "leave less room for professional judgment than"
+        },
+        "answer": "B"
+    },
+    "67": {
+        "question": "Which of the following statements, regarding International Financial Reporting Standards (IFRS), is correct?",
+        "options": {
+            "A": "International Financial Reporting Standards are issued by the Financial Accounting Standards Board.",
+            "B": "The Securities and Exchange Commission is the private organization that oversees the creation and governance of International Financial Reporting Standards.",
+            "C": "International Financial Reporting Standards represent a set of global accounting standards that are generally more specific and based less on principle than U.S. Generally Accepted Accounting Principles.",
+            "D": "Companies who are incorporated in or do significant business in another country might be required to publish financial statements using International Financial Reporting Standards."
+        },
+        "answer": "D"
+    },
+    "68": {
+        "question": "The Public Company Accounting Oversight Board is a watchdog agency that monitors the work of independent accountants who audit public companies.",
+        "answer": "T"
+    },
+    "69": {
+        "question": "An examination of a company's financial statements and records is called an audit.",
+        "answer": "T"
+    },
+    "70": {
+        "question": "The Sarbanes-Oxley Act (SOX) requires companies to review internal control and take responsibility for the accuracy and completeness of their financial reports.",
+        "answer": "T"
+    },
+    "71": {
+        "question": "The Sarbanes-Oxley Act (SOX)",
+        "options": {
+            "A": "requires independent accountants to take responsibility for the accuracy and completeness of the financial reports",
+            "B": "created the SEC",
+            "C": "ensures that financial scandals will no longer occur",
+            "D": "requires companies to take responsibility for the accuracy and completeness of their financial reports"
+        },
+        "answer": "D"
+    },
+    "72": {
+        "question": "Which of the following organizations requires publicly owned companies to be audited by independent accountants (CPAs)?",
+        "options": {
+            "A": "Securities and Exchange Commission (SEC)",
+            "B": "Public Company Accounting Oversight Board (PCAOB)",
+            "C": "Financial Accounting Standards Board (FASB)",
+            "D": "American Institute of Certified Public Accountants (AICPA)"
+        },
+        "answer": "A"
+    },
+    "73": {
+        "question": "The Public Company Accounting Oversight Board (PCAOB) was created",
+        "options": {
+            "A": "by the Sarbanes-Oxley Act (SOX)",
+            "B": "to perform audits of public companies",
+            "C": "to make restitution to investors who were defrauded by the issuance of fraudulent financial reports",
+            "D": "to require auditors to take responsibility for the accuracy and completeness of financial reports"
+        },
+        "answer": "A"
+    },
+    "74": {
+        "question": "The left side of the accounting equation measures the amount that the business owes to creditors and to the stockholders.",
+        "answer": "F"
+    },
+    "75": {
+        "question": "The total amount of assets a business possesses may or may not be equal to the total of liabilities and equity of the business.",
+        "answer": "F"
+    },
+    "76": {
+        "question": "Which of the following is the correct accounting equation?",
+        "options": {
+            "A": "Assets + Liabilities = Equity",
+            "B": "Assets = Liabilities + Equity",
+            "C": "Assets + Revenues = Equity",
+            "D": "Assets + Revenues = Liabilities + Expenses"
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "The equity of Autumn Company is $130,000 and the total liabilities are $40,000. The total assets are",
+        "options": {
+            "A": "$260,000",
+            "B": "$80,000",
+            "C": "$90,000",
+            "D": "$170,000"
+        },
+        "answer": "D"
+    },
+    "78": {
+        "question": "Sunlight Company has assets and equity that amount to $220,000 and $60,000, respectively. Liabilities total",
+        "options": {
+            "A": "$60,000",
+            "B": "$160,000",
+            "C": "$220,000",
+            "D": "$280,000"
+        },
+        "answer": "B"
+    },
+    "79": {
+        "question": "The assets of Moon Company are $150,000 and the total liabilities are $20,000. The equity is",
+        "options": {
+            "A": "$150,000",
+            "B": "$170,000",
+            "C": "$20,000",
+            "D": "$130,000"
+        },
+        "answer": "D"
+    },
+    "80": {
+        "question": "Assets are something of value that the business owns or has control of.",
+        "answer": "T"
+    },
+    "81": {
+        "question": "Assets are economic resources that have no future benefits for the business.",
+        "answer": "F"
+    },
+    "82": {
+        "question": "The economic resources of a business such as furniture, building, and land are its",
+        "options": {
+            "A": "liabilities",
+            "B": "revenues",
+            "C": "assets",
+            "D": "dividends"
+        },
+        "answer": "C"
+    },
+    "83": {
+        "question": "Which of the following is true of assets?",
+        "options": {
+            "A": "Assets include cash, merchandise inventory, and accounts payable.",
+            "B": "Assets are something of value the business owns or controls.",
+            "C": "Assets do not need to provide future benefit to the business.",
+            "D": "Assets can be recorded at the expected cost if acquired at a bargain."
+        },
+        "answer": "B"
+    },
+    "84": {
+        "question": "Liabilities represent creditors' claims on the business's assets.",
+        "answer": "T"
+    },
+    "85": {
+        "question": "A creditor who has loaned money to a business has a claim to some of the assets of the business until the debt is paid.",
+        "answer": "T"
+    },
+    "86": {
+        "question": "A debt that a business owes is called",
+        "options": {
+            "A": "an asset",
+            "B": "a liability",
+            "C": "stockholders' equity",
+            "D": "revenue"
+        },
+        "answer": "B"
+    },
+    "87": {
+        "question": "Equity increases when revenues are earned.",
+        "answer": "T"
+    },
+    "88": {
+        "question": "Equity decreases with expenses and revenues.",
+        "answer": "F"
+    },
+    "89": {
+        "question": "Withdrawals are the expenses of a business.",
+        "answer": "F"
+    },
+    "90": {
+        "question": "The four types of events that affect equity are owner's contributions, owner's withdrawals, revenues, and expenses.",
+        "answer": "T"
+    },
+    "91": {
+        "question": "Owner's withdrawals represent increases in equity.",
+        "answer": "F"
+    },
+    "92": {
+        "question": "Owner's contributions to a business are referred to as owner's capital.",
+        "answer": "T"
+    },
+    "93": {
+        "question": "Jackson Plumbing Services earned $500 by completing a job for Smith Company. The $500 earned by Jackson Plumbing Services is its",
+        "options": {
+            "A": "revenue",
+            "B": "equity",
+            "C": "gain",
+            "D": "debt"
+        },
+        "answer": "A"
+    },
+    "94": {
+        "question": "The owners' claims to the assets of the business are called",
+        "options": {
+            "A": "return on assets",
+            "B": "expenses",
+            "C": "equity",
+            "D": "debt"
+        },
+        "answer": "C"
+    },
+    "95": {
+        "question": "Vista Camera Services started the year with total assets of $90,000 and total liabilities of $65,000. The revenues and the expenses for the year amounted to $120,000 and $50,000, respectively. During the year, the owner did not make any additional contributions, but made withdrawals of $55,000. What is the amount of owner's equity at the end of the year?",
+        "options": {
+            "A": "$50,000",
+            "B": "$120,000",
+            "C": "$40,000",
+            "D": "$55,000"
+        },
+        "answer": "C"
+    },
+    "96": {
+        "question": "Gatto Production Services started the year with total assets of $90,000 and total liabilities of $40,000. The revenues and the expenses for the year amounted to $130,000 and $80,000, respectively. During the year, the owner did not make any additional contributions, but had withdrawals of $55,000. Calculate Gatto's net income for the year.",
+        "options": {
+            "A": "$50,000",
+            "B": "$130,000",
+            "C": "$80,000",
+            "D": "$90,000"
+        },
+        "answer": "A"
+    },
+    "97": {
+        "question": "York Casting Services started the year with total assets of $120,000 and total liabilities of $60,000. The revenues and the expenses for the year amounted to $150,000 and $50,000, respectively. During the year, the owner did not make any additional contributions, but had withdrawals of $75,000. Calculate the amount of increase or decrease in owner's equity for the year.",
+        "options": {
+            "A": "a $25,000 increase",
+            "B": "a $85,000 increase",
+            "C": "a $60,000 decrease",
+            "D": "a $75,000 increase"
+        },
+        "answer": "A"
+    },
+    "98": {
+        "question": "The net income of Avid Camera Services is $25,000. The beginning and ending owner's equity balances were $34,000 and $53,000, respectively. The owner made no additional contributions. Calculate the amount of owner's withdrawals.",
+        "options": {
+            "A": "$16,000",
+            "B": "$6,000",
+            "C": "$9,000",
+            "D": "$8,000"
+        },
+        "answer": "B"
+    },
+    "99": {
+        "question": "are the owner's contributions of cash or other assets.",
+        "options": {
+            "A": "Assets",
+            "B": "Owner's Withdrawals",
+            "C": "Owner's Capital",
+            "D": "Liabilities"
+        },
+        "answer": "C"
+    },
+    "100": {
+        "question": "Which of the following is true of owner's equity?",
+        "options": {
+            "A": "Owner's Equity decreases with drawings.",
+            "B": "Owner's Equity increases with purchase of assets.",
+            "C": "Owner's Equity decreases with collection of revenue.",
+            "D": "Owner's Equity increases with payment on account."
+        },
+        "answer": "A"
+    },
+    "101": {
+        "question": "A transaction is any event that affects the financial position of the business and can be easily estimated.",
+        "answer": "F"
+    },
+    "102": {
+        "question": "Accountants record",
+        "options": {
+            "A": "economic recessions",
+            "B": "estimated future transactions",
+            "C": "a transaction or any event that affects the financial position of the business and can be measured with faithful representation",
+            "D": "the $20,000 increase in value of a building that actually cost $50,000 but could be sold for $70,000"
+        },
+        "answer": "C"
+    },
+    "103": {
+        "question": "John contributed $6,000 to the business by opening a bank account in the name of the business, United Internists. This transaction results in an increase in the assets of the business.",
+        "answer": "T"
+    },
+    "104": {
+        "question": "For an accounting equation to balance, a transaction must affect both sides of the equation.",
+        "answer": "F"
+    },
+    "105": {
+        "question": "Mary Williams contributed $50,000 cash to form BCD Company. As a result of this transaction, assets and revenues will increase.",
+        "answer": "F"
+    },
+    "106": {
+        "question": "A business purchased office supplies on account. As a result of this transaction, expenses and liabilities will increase.",
+        "answer": "F"
+    },
+    "107": {
+        "question": "A lawyer provides legal services for clients who do not pay immediately. There is no effect on the counting equation until the client pays for the services.",
+        "answer": "F"
+    },
+    "108": {
+        "question": "A lawyer provides legal services for clients who do not pay immediately. As a result of this transaction, assets and revenues increase.",
+        "answer": "T"
+    },
+    "109": {
+        "question": "An accounting firm collected cash on account. As a result of this transaction, assets and revenues increase.",
+        "answer": "F"
+    },
+    "110": {
+        "question": "An accounting firm collected cash on account. As a result of this transaction, total assets, liabilities, and equity are all unchanged.",
+        "answer": "T"
+    },
+    "111": {
+        "question": "Bubble Wraps Company receives cash from the owner, John Trent. The two accounts involved in this transaction are",
+        "options": {
+            "A": "Accounts Payable and Cash",
+            "B": "Cash and Owner's Capital",
+            "C": "Owner's Capital and Accounts Payable",
+            "D": "Owner's Capital and Accounts Receivable"
+        },
+        "answer": "B"
+    },
+    "112": {
+        "question": "Lush Lawns Company earned $1,000 for lawn mowing services rendered. The customer promised to pay at a later time. Which of the following accounts increased as a result of this transaction?",
+        "options": {
+            "A": "Accounts Payable",
+            "B": "Supplies",
+            "C": "Cash",
+            "D": "Accounts Receivable"
+        },
+        "answer": "D"
+    },
+    "113": {
+        "question": "The owner makes a withdrawal from Aventis Company. How does this transaction affect the accounting equation?",
+        "options": {
+            "A": "The assets, liabilities, and equity remain the same.",
+            "B": "The assets decrease and equity decreases.",
+            "C": "The assets increase and liabilities decrease.",
+            "D": "The assets decrease and equity increases."
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "Hamilton Lawn Services incurred $800 as a repair expense and paid for it in cash. This transaction will",
+        "options": {
+            "A": "decrease the stockholders' equity",
+            "B": "increase the assets of the business",
+            "C": "increase the liabilities of the business",
+            "D": "decrease the liabilities of the business"
+        },
+        "answer": "A"
+    },
+    "115": {
+        "question": "Harris Landscaping Services incurred $500 as a labor expense and promised to pay the labor agency within 30 days. Which of the following accounts will increase as a result of this transaction?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Cash",
+            "C": "Accounts Payable",
+            "D": "Owner's Capital"
+        },
+        "answer": "C"
+    },
+    "116": {
+        "question": "Wallace Repair Company incurred $1,500 as a labor expense and promised to pay the labor agency within 30 days. Which of the following will decrease as a result of this transaction?",
+        "options": {
+            "A": "Assets",
+            "B": "Owner's equity",
+            "C": "Liabilities",
+            "D": "Revenues"
+        },
+        "answer": "B"
+    },
+    "117": {
+        "question": "Marsh Supply Services paid $350 cash to a materials supplier, the amount owed from the previous month. Which of the following accounts decreases?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Accounts Payable",
+            "C": "Owner's Capital",
+            "D": "Office Supplies"
+        },
+        "answer": "B"
+    },
+    "118": {
+        "question": "Fitch Supply Services received $1,000 cash from a customer; the amount was owed to the business from the previous month. What is the effect of this transaction on the accounting equation?",
+        "options": {
+            "A": "Accounts Receivable increases and Service Revenue increases",
+            "B": "Cash increases and Accounts Receivable decreases",
+            "C": "Cash increases and Service Revenue increases",
+            "D": "Cash increases and Accounts Payable decreases"
+        },
+        "answer": "B"
+    },
+    "119": {
+        "question": "Homeward Supply Services received $1,000 cash from a customer; the amount was owed to the business from the previous month. Which of the following accounts will decrease as a result of this transaction?",
+        "options": {
+            "A": "Cash",
+            "B": "Revenue",
+            "C": "Accounts Payable",
+            "D": "Accounts Receivable"
+        },
+        "answer": "D"
+    },
+    "120": {
+        "question": "Ace, Inc. had the following transactions during June:\nPerformed services for $4,000 on account; received cash on account, $8,000; paid $900 for repair expense; paid $1,800 to a supplier that it owed from the previous month. What is the combined effect on Cash of the June transactions?",
+        "options": {
+            "A": "$5,300 increase",
+            "B": "$5,300 decrease",
+            "C": "$8,000 increase",
+            "D": "$2,700 decrease"
+        },
+        "answer": "A"
+    },
+    "121": {
+        "question": "Venus, Inc. paid $5,000 on accounts payable. How does this transaction affect the accounting equation of Venus?",
+        "options": {
+            "A": "assets decrease by $5,000 and equity increases by $5,000",
+            "B": "assets decrease by $5,000 and liabilities decrease by $5,000",
+            "C": "assets increase by $5,000 and equity decreases by $5,000",
+            "D": "assets increase by $5,000 and liabilities increase by $5,000"
+        },
+        "answer": "B"
+    },
+    "122": {
+        "question": "Myers Landscaping Company performs lawn mowing services for its customers. Payments for the current month's services are expected to be received next month. How does this transaction affect the accounting equation of Myers Landscaping?",
+        "options": {
+            "A": "liabilities increase and equity decreases",
+            "B": "assets and equity increase",
+            "C": "assets and equity decrease",
+            "D": "liabilities and equity increase"
+        },
+        "answer": "B"
+    },
+    "123": {
+        "question": "Zetom Company receives a bill from one of its suppliers for services received and will pay the supplier next month. How does the receipt of the bill from the supplier affect the accounting equation of Zetom?",
+        "options": {
+            "A": "assets and equity decrease",
+            "B": "liabilities increase and equity decreases",
+            "C": "assets and liabilities increase",
+            "D": "liabilities and equity increase"
+        },
+        "answer": "B"
+    },
+    "124": {
+        "question": "Bliss Company settles a liability by making a payment in cash. How does paying this liability affect the accounting equation of the business?",
+        "options": {
+            "A": "assets and liabilities decrease",
+            "B": "liabilities decrease and equity increases",
+            "C": "assets and liabilities increase",
+            "D": "assets increase and equity decreases"
+        },
+        "answer": "A"
+    },
+    "125": {
+        "question": "Murphy Company had originally purchased land for $35,000. It later sold it for $35,000 in cash. Which of the following is true of the effect of the sale of land on the accounting equation?",
+        "options": {
+            "A": "assets increase and liabilities decrease by $35,000",
+            "B": "assets and equity increase by $70,000",
+            "C": "assets increase by $35,000; equity increases by $35,000",
+            "D": "the amount of total assets remains the same"
+        },
+        "answer": "D"
+    },
+    "126": {
+        "question": "Accord Company purchased land for $120,000 by making a cash payment of $38,000 and promising to pay the remaining amount in a later accounting period. What is the net effect of this transaction on Accord's accounting equation?",
+        "options": {
+            "A": "assets increase by $120,000 and liabilities decrease by $38,000",
+            "B": "assets increase by $120,000 and liabilities decrease by $82,000",
+            "C": "assets and equity increase by $82,000",
+            "D": "assets and liabilities increase by $82,000"
+        },
+        "answer": "D"
+    },
+    "127": {
+        "question": "Exchange Company collected $14,000 from one of its customers, the amount owed from the previous month. How does this affect the accounting equation for Exchange?",
+        "options": {
+            "A": "assets increase by $14,000; liabilities decrease by $14,000",
+            "B": "assets increase by $14,000; assets decrease by $14,000",
+            "C": "assets increase by $14,000; liabilities increase by $14,000",
+            "D": "assets increase by $14,000; equity increases by $14,000"
+        },
+        "answer": "B"
+    },
+    "128": {
+        "question": "Star Homes Company just recorded a transaction in its books. If this transaction increased the total liabilities by $10,000, then",
+        "options": {
+            "A": "assets must increase, or equity must decrease by $10,000",
+            "B": "either assets or equity must decrease by $10,000",
+            "C": "both assets and equity must each decrease by $5,000",
+            "D": "assets must decrease by $10,000"
+        },
+        "answer": "A"
+    },
+    "129": {
+        "question": "Which of the following can be an effect of a transaction that increased an asset of a business for the accounting equation to balance?",
+        "options": {
+            "A": "there is an equal decrease in another asset",
+            "B": "there is an equal decrease in equity",
+            "C": "there is an equal decrease in a liability account",
+            "D": "both liabilities and equity decrease"
+        },
+        "answer": "A"
+    },
+    "130": {
+        "question": "Reliable Waterworks provides plumbing services. Transactions of Reliable Waterworks during the first year of operations are given below.\na) The owner, Steve Sharon, contributed $11,000 cash to form the business.\nb) Paid $1,400 for equipment to be used for plumbing repairs.\nc) Borrowed $15,000 from a local bank and deposited the money in the checking account.\nd) Paid $100 in rent for the year.\ne) Paid $400 for plumbing supplies to be used on various jobs next year.\nf) Completed a plumbing repair for a law firm and received $3,200.\nCalculate the amount of total assets at the end of the first year. Assume the plumbing supplies of $3,200 are left at the end of the year.",
+        "options": {
+            "A": "$1,800",
+            "B": "$1,400",
+            "C": "$26,000",
+            "D": "$29,100"
+        },
+        "answer": "D"
+    },
+    "131": {
+        "question": "Merchant Company provides plumbing services. Transactions of Merchant during the first year of operations are given below.\na) The owner, Carol Merchant, contributed $10,000 cash to form the business.\nb) Paid $1,200 cash for equipment to be used for plumbing repairs.\nc) Borrowed $11,000 from a local bank and deposited the money in the checking account.\nd) Paid $400 rent for the year.\ne) Purchased $400 of office supplies by cash.\nf) Completed a plumbing repair project for a local lawyer and received $3,300 cash.\nCalculate the amount of total liabilities at the end of the first year.",
+        "options": {
+            "A": "$11,000",
+            "B": "$10,000",
+            "C": "$19,800",
+            "D": "$3,300"
+        },
+        "answer": "A"
+    },
+    "132": {
+        "question": "Crusoe Waterworks Company provides plumbing services. Transactions of Crusoe Waterworks during the first year of operations are given below.\na) The owner, Robin Crusoe, invested $5,000 cash in the company. The cash was deposited in the business checking account.\nb) Paid $4,000 cash for equipment to be used for plumbing repairs.\nc) Borrowed $26,000 from a local bank and deposited the money in the checking account.\nd) Paid $700 rent for the year.\ne) Purchased $1,500 of office supplies on account.\nf) Completed a plumbing repair project for a local lawyer and received $3,400 cash.\nCalculate the amount of total owner's equity after recording the transactions. Assume office supplies of $1,500 are left at the end of the year.",
+        "options": {
+            "A": "$7,700",
+            "B": "$3,400",
+            "C": "$5,000",
+            "D": "$26,000"
+        },
+        "answer": "A"
+    },
+    "133": {
+        "question": "Glendale Company had the following transactions in August:\nEarned $5,000 of revenues on account; collected $2,000 from a customer for services provided last month; incurred $500 of repair expense and paid cash; paid $300 for rent that it owed from the previous month.\nWhat is the net income in August?",
+        "options": {
+            "A": "$500",
+            "B": "$2,000",
+            "C": "$6,500",
+            "D": "$4,500"
+        },
+        "answer": "D"
+    },
+    "134": {
+        "question": "represent the right to receive cash in the future from customers for goods sold or for services performed.",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Accounts Payable",
+            "C": "Equity",
+            "D": "Expenses"
+        },
+        "answer": "A"
+    },
+    "135": {
+        "question": "represents a short-term liability created by purchasing \"on account.\"",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Notes Payable",
+            "C": "Accounts Payable",
+            "D": "Expenses"
+        },
+        "answer": "C"
+    },
+    "136": {
+        "question": "Financial statements are business documents used to communicate information needed to make business decisions.",
+        "answer": "T"
+    },
+    "137": {
+        "question": "Which of the following statements best defines financial statements?",
+        "options": {
+            "A": "Financial statements are the information systems that record monetary and nonmonetary business transactions.",
+            "B": "Financial statements are the verbal statements made to business news organizations by chief financial officers.",
+            "C": "Financial statements are documents that report on a business in monetary terms, providing information to help people make informed business decisions.",
+            "D": "Financial statements are plans and forecasts for future time periods based on information from past financial periods."
+        },
+        "answer": "C"
+    },
+    "138": {
+        "question": "Which of the following is the correct order of preparation of financial statements?",
+        "options": {
+            "A": "Income statement \u2192 statement of owner's equity \u2192 balance sheet \u2192 statement of cash flows",
+            "B": "Statement of owner's equity \u2192 balance sheet \u2192 income statement \u2192 statement of cash flows",
+            "C": "Balance sheet \u2192 statement of owner's equity \u2192 income statement \u2192 statement of cash flows",
+            "D": "Balance sheet \u2192 income statement \u2192 statement of owner's equity \u2192 statement of cash flows"
+        },
+        "answer": "A"
+    },
+    "139": {
+        "question": "The income statement also is called the statement of financial position.",
+        "answer": "F"
+    },
+    "140": {
+        "question": "The income statement presents a summary of an entity's revenues and expenses for a period of time. Which of the following statements is true of an income statement?",
+        "options": {
+            "A": "There is net income when total expenses are greater than total revenues.",
+            "B": "There is a net loss when total expenses are less than total revenue.",
+            "C": "There is a net loss when total expenses are greater than total liabilities.",
+            "D": "There is net income when total revenues are greater than total expenses."
+        },
+        "answer": "D"
+    },
+    "141": {
+        "question": "Which of the following financial statements reports expenses in decreasing order of their amounts, by stating the largest expense first?",
+        "options": {
+            "A": "Statement of cash flows",
+            "B": "Income statement",
+            "C": "Statement of owner's equity",
+            "D": "Balance sheet"
+        },
+        "answer": "B"
+    },
+    "142": {
+        "question": "Best Plumbing Company provides plumbing services. Selected transactions of Best Plumbing Company are described as follows:\na) Received a $9,000 cash contribution from the owner, June Sharon.\nb) Paid $6,000 cash for equipment to be used for plumbing repairs.\nc) Borrowed $9,000 from a local bank and deposited the money in the checking account.\nd) Paid $800 rent for the year.\ne) Paid $200 cash for plumbing supplies to be used next year.\nf) Completed a plumbing repair project for a local lawyer and received $6,000 cash.\nCalculate the net income. Assume plumbing supplies of $200 are left.",
+        "options": {
+            "A": "$600",
+            "B": "$5,800",
+            "C": "$6,000",
+            "D": "$5,200"
+        },
+        "answer": "D"
+    },
+    "143": {
+        "question": "Following is a list of account balances of Morris Mowing Services as of December 31 of the first year of operations.\nCalculate the net income.",
+        "options": {
+            "A": "$1,100",
+            "B": "$32,000",
+            "C": "$1,000",
+            "D": "$33,000"
+        },
+        "answer": "A"
+    },
+    "144": {
+        "question": "The total assets and the total liabilities of Smart Financial Services are shown below. The company did not receive any new contributions from the owner and did not issue any withdrawals during the year.\nWhat was the amount of net income for the year?",
+        "options": {
+            "A": "$15,000",
+            "B": "$10,000",
+            "C": "$5,000",
+            "D": "$25,000"
+        },
+        "answer": "C"
+    },
+    "145": {
+        "question": "By looking at a statement of owner's equity, the effect of owner's withdrawals on the ending balance of the capital account can be determined.",
+        "answer": "T"
+    },
+    "146": {
+        "question": "The balance of owner's equity at the beginning of the year and the end of the year was $40,000 and $63,000, respectively. The company received no new contributions during the year. Owner's withdrawals were $20,000. What was the net income or loss for the year?",
+        "options": {
+            "A": "net income of $83,000",
+            "B": "net loss of $83,000",
+            "C": "net loss of $43,000",
+            "D": "net income of $43,000"
+        },
+        "answer": "D"
+    },
+    "147": {
+        "question": "The net income of Edwards Corporation amounted to $75,000 for this year. The beginning balance of owner's equity was $30,000 and the ending balance was $72,000. The company received no new contributions during the year. What was the amount of the owner's withdrawals during the year?",
+        "options": {
+            "A": "$72,000",
+            "B": "$33,000",
+            "C": "$147,000",
+            "D": "$30,000"
+        },
+        "answer": "B"
+    },
+    "148": {
+        "question": "Which of the following transactions will affect the balance of Owner's Equity?",
+        "options": {
+            "A": "received cash in advance for services to be provided later",
+            "B": "paid rent expense for the month",
+            "C": "purchased land for cash",
+            "D": "collection on account"
+        },
+        "answer": "B"
+    },
+    "149": {
+        "question": "In a statement of owner's equity, decreases in owner's equity result from",
+        "options": {
+            "A": "owner's contributions",
+            "B": "net losses",
+            "C": "net income",
+            "D": "revenues earned"
+        },
+        "answer": "B"
+    },
+    "150": {
+        "question": "The amount of net income is transferred from to",
+        "options": {
+            "A": "the income statement; the statement of owner's equity",
+            "B": "the balance sheet; the statement of cash flows",
+            "C": "the balance sheet; the income statement",
+            "D": "the income statement; the statement of expenditures"
+        },
+        "answer": "A"
+    },
+    "151": {
+        "question": "Which of the following appears on both the income statement and statement of owner's equity?",
+        "options": {
+            "A": "Ending owner's capital",
+            "B": "Total revenues",
+            "C": "Net income",
+            "D": "Owner's withdrawals"
+        },
+        "answer": "C"
+    },
+    "152": {
+        "question": "Which of the following financial statements shows the amounts distributed to the owner?",
+        "options": {
+            "A": "Income statement",
+            "B": "Statement of owner's equity",
+            "C": "Budgeted balance sheet",
+            "D": "Balance sheet"
+        },
+        "answer": "B"
+    },
+    "153": {
+        "question": "The balance sheet of a business summarizes an entity's revenues and expenses.",
+        "answer": "F"
+    },
+    "154": {
+        "question": "The heading of a balance sheet will show the date as a specific date, not a period of time.",
+        "answer": "T"
+    },
+    "155": {
+        "question": "The balance sheet is a snapshot of the entity. Which of the following is included on the balance sheet?",
+        "options": {
+            "A": "Revenues",
+            "B": "Expenses",
+            "C": "Assets",
+            "D": "Owner's withdrawals"
+        },
+        "answer": "C"
+    },
+    "156": {
+        "question": "Which financial statement includes a specific date in its heading?",
+        "options": {
+            "A": "Statement of owner's equity",
+            "B": "Statement of cash flows",
+            "C": "Income statement",
+            "D": "Balance sheet"
+        },
+        "answer": "D"
+    },
+    "157": {
+        "question": "Which of the following financial statements reports that total assets are equal to total liabilities plus total stockholders' equity?",
+        "options": {
+            "A": "Statement of owner's equity",
+            "B": "Statement of cash flows",
+            "C": "Income statement",
+            "D": "Balance sheet"
+        },
+        "answer": "D"
+    },
+    "158": {
+        "question": "Which of the following appears on both the statement of owner's equity and the balance sheet?",
+        "options": {
+            "A": "Ending capital account",
+            "B": "Total assets",
+            "C": "Total revenues",
+            "D": "Net income"
+        },
+        "answer": "A"
+    },
+    "159": {
+        "question": "Which of the following financial statements lists the entity's assets, liabilities, and stockholders' equity as of a specific date?",
+        "options": {
+            "A": "Balance sheet",
+            "B": "Statement of owner's equity",
+            "C": "Income statement",
+            "D": "Statement of cash flows"
+        },
+        "answer": "A"
+    },
+    "160": {
+        "question": "Following is an extract of account balances of Wilson Mowing Services as of December 31 of the first year of operation.\nWhat is the amount of total assets at the end of the year?",
+        "options": {
+            "A": "$15,000",
+            "B": "$32,300",
+            "C": "$18,000",
+            "D": "$25,300"
+        },
+        "answer": "B"
+    },
+    "161": {
+        "question": "Following is a list of account balances of Suburban Lawn Services as of December 31 of the first year of operation.\nWhat is the amount of total liabilities at the end of the year?",
+        "options": {
+            "A": "$15,600",
+            "B": "$24,900",
+            "C": "$21,600",
+            "D": "$15,100"
+        },
+        "answer": "A"
+    },
+    "162": {
+        "question": "Financial statements are prepared after an entity's transactions are analyzed and recorded. Which of the following reports is one of the required financial statements?",
+        "options": {
+            "A": "Statement of cash flows",
+            "B": "Statement of return on assets",
+            "C": "Statement of dividends",
+            "D": "Expense statement"
+        },
+        "answer": "A"
+    },
+    "163": {
+        "question": "Which of the following financial statements reports cash receipts and cash payments during a period of time?",
+        "options": {
+            "A": "Statement of cash flows",
+            "B": "Balance sheet",
+            "C": "Cash receipts budget",
+            "D": "Statement of owner's equity"
+        },
+        "answer": "A"
+    },
+    "164": {
+        "question": "Which of the following financial statements reports an increase or decrease in net cash during the time period covered?",
+        "options": {
+            "A": "Income statement",
+            "B": "Statement of owner's equity",
+            "C": "Statement of cash flows",
+            "D": "Cash budget"
+        },
+        "answer": "C"
+    },
+    "165": {
+        "question": "Which of the following will be categorized as an operating activity on the statement of cash flows?",
+        "options": {
+            "A": "Cash received by selling old equipment",
+            "B": "Cash paid for purchase of new machinery",
+            "C": "Cash paid for purchase of office supplies",
+            "D": "Cash received as a contribution from the owner"
+        },
+        "answer": "C"
+    },
+    "166": {
+        "question": "Which of the following will be categorized as a financing activity on the statement of cash flows?",
+        "options": {
+            "A": "Cash received by selling old equipment",
+            "B": "Cash paid for purchase of new machinery",
+            "C": "Cash paid for purchase of office supplies",
+            "D": "Cash received as a contribution from the owner"
+        },
+        "answer": "D"
+    },
+    "167": {
+        "question": "Which of the following will be categorized as an investing activity on the statement of cash flows?",
+        "options": {
+            "A": "Purchase of land with a mortgage",
+            "B": "Cash paid for purchase of new machinery",
+            "C": "Cash paid for purchase of office supplies",
+            "D": "Cash received as a contribution from the owner"
+        },
+        "answer": "B"
+    },
+    "168": {
+        "question": "Which of the following is shown on the balance sheet as well as the statement of cash flows?",
+        "options": {
+            "A": "Owner's equity (ending balance)",
+            "B": "Net income",
+            "C": "Total assets (ending balance)",
+            "D": "Cash (ending balance)"
+        },
+        "answer": "D"
+    },
+    "169": {
+        "question": "The income statement shows whether or not a business can generate enough cash to pay its liabilities.",
+        "answer": "F"
+    },
+    "170": {
+        "question": "The balance sheet shows whether or not a business is earning profits.",
+        "answer": "F"
+    },
+    "171": {
+        "question": "The statement of owner's equity informs users about how much of the earnings were kept and reinvested in the company.",
+        "answer": "T"
+    },
+    "172": {
+        "question": "The relative proportion of economic resources and obligations would be shown by the balance sheet.",
+        "answer": "T"
+    },
+    "173": {
+        "question": "The statement of cash flows informs users about how much of the earnings were kept and reinvested in the company.",
+        "answer": "F"
+    },
+    "174": {
+        "question": "The balance sheet helps analyze the business performance in terms of profitability.",
+        "answer": "F"
+    },
+    "175": {
+        "question": "Which of the following financial statements is used to analyze the economic resources, debt, and overall financial position of a company?",
+        "options": {
+            "A": "income statement",
+            "B": "balance sheet",
+            "C": "statement of cash flows",
+            "D": "statement of owner's equity"
+        },
+        "answer": "B"
+    },
+    "176": {
+        "question": "The explanation of why the net income differs from the change in cash balance for the period is explained in the",
+        "options": {
+            "A": "income statement",
+            "B": "balance sheet",
+            "C": "statement of owner's equity",
+            "D": "statement of cash flows"
+        },
+        "answer": "D"
+    },
+    "177": {
+        "question": "Which of the following financial statements would be most useful if an analyst wants to know the likelihood of repayment of business debts?",
+        "options": {
+            "A": "income statement",
+            "B": "balance sheet",
+            "C": "statement of owner's equity",
+            "D": "statement of cash flows"
+        },
+        "answer": "B"
+    },
+    "178": {
+        "question": "Which of the following financial statements would be most useful if an analyst wants to know the profitability of a company?",
+        "options": {
+            "A": "income statement",
+            "B": "balance sheet",
+            "C": "statement of owner's equity",
+            "D": "statement of cash flows"
+        },
+        "answer": "A"
+    },
+    "179": {
+        "question": "The return on assets is calculated by",
+        "options": {
+            "A": "subtracting net income from average total assets",
+            "B": "adding net income and average total assets",
+            "C": "dividing net income by average total assets",
+            "D": "multiplying net income and average total assets"
+        },
+        "answer": "C"
+    },
+    "180": {
+        "question": "Which of the following formulae is used to calculate average total assets for the return on assets ratio?",
+        "options": {
+            "A": "Average total assets = (Beginning total assets + Ending total assets) \u00d7 2",
+            "B": "Average total assets = (Beginning total assets - Ending total assets) \u00d7 2",
+            "C": "Average total assets = (Beginning total assets - Ending total assets) / 2",
+            "D": "Average total assets = (Beginning total assets + Ending total assets) / 2"
+        },
+        "answer": "D"
+    },
+    "181": {
+        "question": "Assume MetAmbit Company had a net income of $2,200 for the year ending December 2016. Its beginning and ending total assets were $34,500 and $18,500, respectively. Calculate MetAmbit's return on assets (ROA). (Round your percentage answer to two decimal places.)",
+        "options": {
+            "A": "6.38%",
+            "B": "11.89%",
+            "C": "8.30%",
+            "D": "4.15%"
+        },
+        "answer": "C"
+    },
+    "182": {
+        "question": "The income statement also is called the statement of financial position.",
+        "answer": "F"
+    },
+    "183": {
+        "question": "Which of the following is the correct order of preparation of financial statements?",
+        "options": {
+            "A": "Income statement \u2192 statement of owner's equity \u2192 balance sheet \u2192 statement of cash flows",
+            "B": "Statement of owner's equity \u2192 balance sheet \u2192 income statement \u2192 statement of cash flows",
+            "C": "Balance sheet \u2192 statement of owner's equity \u2192 income statement \u2192 statement of cash flows",
+            "D": "Balance sheet \u2192 income statement \u2192 statement of owner's equity \u2192 statement of cash flows"
+        },
+        "answer": "A"
+    },
+    "184": {
+        "question": "Which of the following financial statements would be most useful if an analyst wants to know the likelihood of repayment of business debts?",
+        "options": {
+            "A": "income statement",
+            "B": "balance sheet",
+            "C": "statement of owner's equity",
+            "D": "statement of cash flows"
+        },
+        "answer": "B"
+    },
+    "185": {
+        "question": "Which of the following financial statements lists the entity's assets, liabilities, and stockholders' equity as of a specific date?",
+        "options": {
+            "A": "Balance sheet",
+            "B": "Statement of owner's equity",
+            "C": "Income statement",
+            "D": "Statement of cash flows"
+        },
+        "answer": "A"
+    },
+    "186": {
+        "question": "Which of the following appears on both the statement of owner's equity and the balance sheet?",
+        "options": {
+            "A": "Ending capital account",
+            "B": "Total assets",
+            "C": "Total revenues",
+            "D": "Net income"
+        },
+        "answer": "A"
+    },
+    "187": {
+        "question": "Which of the following financial statements shows the amounts distributed to the owner?",
+        "options": {
+            "A": "Income statement",
+            "B": "Statement of owner's equity",
+            "C": "Budgeted balance sheet",
+            "D": "Balance sheet"
+        },
+        "answer": "B"
+    }
+}

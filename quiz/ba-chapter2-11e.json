@@ -1,0 +1,1412 @@
+{
+    "1": {
+        "question": "Which is a true statement regarding the accounting equation?",
+        "options": {
+            "A": "The equation can be stated as assets minus liabilities equals equity.",
+            "B": "The equation consists of three parts: assets, liabilities, and net income.",
+            "C": "The equation is an optional tool for accountants to use.",
+            "D": "The equation does not need to balance during a specific period."
+        },
+        "answer": "A"
+    },
+    "2": {
+        "question": "A payment of an expense in advance is called a prepaid expense.",
+        "answer": "T"
+    },
+    "3": {
+        "question": "An accounts receivable requires the business to pay cash in the future.",
+        "answer": "F"
+    },
+    "4": {
+        "question": "The account title used for recording the payment of rent in advance for an office building is",
+        "options": {
+            "A": "Prepaid Rent",
+            "B": "Rent Payable",
+            "C": "Rent Revenue",
+            "D": "Rent Expense"
+        },
+        "answer": "A"
+    },
+    "5": {
+        "question": "Which of the following is an assetaccount?",
+        "options": {
+            "A": "Wages Payable",
+            "B": "Notes Payable",
+            "C": "Unearned Revenue",
+            "D": "Accounts Receivable"
+        },
+        "answer": "D"
+    },
+    "6": {
+        "question": "A customer's promise to pay in the future for services or goods sold is called a(n)",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Accounts Payable",
+            "C": "Unearned Revenue",
+            "D": "Notes Payable"
+        },
+        "answer": "A"
+    },
+    "7": {
+        "question": "Which of the following is an assetaccount?",
+        "options": {
+            "A": "Salaries Expense",
+            "B": "Accounts Payable",
+            "C": "Service Revenue",
+            "D": "Prepaid Expense"
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "Which of the following is an assetaccount?",
+        "options": {
+            "A": "Cash",
+            "B": "Notes Payable",
+            "C": "Dividends",
+            "D": "Unearned Revenue"
+        },
+        "answer": "A"
+    },
+    "9": {
+        "question": "Liabilities are economic resources that are expected to benefit the business in the future.",
+        "answer": "F"
+    },
+    "10": {
+        "question": "A payable involves a future receipt ofcash.",
+        "answer": "F"
+    },
+    "11": {
+        "question": "Unearned revenue is a liability account.",
+        "answer": "T"
+    },
+    "12": {
+        "question": "represents a debt owed for renting a building currently.",
+        "options": {
+            "A": "Prepaid Rent",
+            "B": "Rent Payable",
+            "C": "Rent Revenue",
+            "D": "Rent Expense"
+        },
+        "answer": "B"
+    },
+    "13": {
+        "question": "Which of the following is a liability account?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Cash",
+            "C": "Building",
+            "D": "Notes Payable"
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "Which of the following is a liability account?",
+        "options": {
+            "A": "Accounts Payable",
+            "B": "Prepaid Expense",
+            "C": "Salaries Expense",
+            "D": "Service Revenue"
+        },
+        "answer": "A"
+    },
+    "15": {
+        "question": "A liability created when a business collects cash from customers in advance of providing services or delivering goods is called a(n)",
+        "options": {
+            "A": "notes receivable",
+            "B": "unearned revenue",
+            "C": "accrued liability",
+            "D": "service revenue"
+        },
+        "answer": "B"
+    },
+    "16": {
+        "question": "Which of the following is a liabilityaccount?",
+        "options": {
+            "A": "Service Revenue",
+            "B": "Building",
+            "C": "Accounts Receivable",
+            "D": "Unearned Revenue"
+        },
+        "answer": "D"
+    },
+    "17": {
+        "question": "The owner's claim to the assets of a business is called equity or owner's equity.",
+        "answer": "T"
+    },
+    "18": {
+        "question": "Owner's withdrawals and expenses increase equity.",
+        "answer": "F"
+    },
+    "19": {
+        "question": "Revenues and contributions of the owner in the business increase equity.",
+        "answer": "T"
+    },
+    "20": {
+        "question": "Nuptial Services Company paid the rent for the current month in cash. Which of the following accounts will be used to record the transaction?",
+        "options": {
+            "A": "Prepaid Rent",
+            "B": "Rent Payable",
+            "C": "Rent Revenue",
+            "D": "Rent Expense"
+        },
+        "answer": "D"
+    },
+    "21": {
+        "question": "Amounts earned from delivering goods or services to customers are called",
+        "options": {
+            "A": "notes receivable",
+            "B": "unearned revenues",
+            "C": "equity",
+            "D": "revenues"
+        },
+        "answer": "D"
+    },
+    "22": {
+        "question": "The Owner's Capital account is a separate account in the category of the accounting equation.",
+        "options": {
+            "A": "equity",
+            "B": "asset",
+            "C": "liability",
+            "D": "revenue"
+        },
+        "answer": "A"
+    },
+    "23": {
+        "question": "A chart of accounts is a detailed record of the changes in a particular asset, liability, or equity account during a specified period.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "A chart of accounts is a list of all of a company's accounts with their account numbers.",
+        "answer": "T"
+    },
+    "25": {
+        "question": "Which of the following is provided in a typical chart of accounts?",
+        "options": {
+            "A": "Account balance",
+            "B": "Account number",
+            "C": "Dates of transactions",
+            "D": "Transaction amounts"
+        },
+        "answer": "B"
+    },
+    "26": {
+        "question": "A listing of all accounts in numerical order is called a(n)",
+        "options": {
+            "A": "Ledger",
+            "B": "Journal",
+            "C": "Income statement",
+            "D": "Chart of accounts"
+        },
+        "answer": "D"
+    },
+    "27": {
+        "question": "Companies use a ledger to show all of the increases and decreases in each account along with their balances.",
+        "answer": "T"
+    },
+    "28": {
+        "question": "A chart of accounts provides more detail than a ledger.",
+        "answer": "F"
+    },
+    "29": {
+        "question": "Which of the following is the record holding all the accounts, the changes in those accounts, and their balances?",
+        "options": {
+            "A": "Source document",
+            "B": "Journal",
+            "C": "Ledger",
+            "D": "Trial balance"
+        },
+        "answer": "C"
+    },
+    "30": {
+        "question": "The system of accounting in which every transaction affects at least two accounts is called the double-entry system.",
+        "answer": "T"
+    },
+    "31": {
+        "question": "Debit refers to the right side of the T-account, and credit refers to the left side.",
+        "answer": "F"
+    },
+    "32": {
+        "question": "A T-account is a summary device with credits posted on the left side of the vertical line.",
+        "answer": "F"
+    },
+    "33": {
+        "question": "A shortened form of the ledger is called a",
+        "options": {
+            "A": "trial balance",
+            "B": "balance sheet",
+            "C": "chart of accounts",
+            "D": "T-account"
+        },
+        "answer": "D"
+    },
+    "34": {
+        "question": "An asset account is increased by a debit.",
+        "answer": "T"
+    },
+    "35": {
+        "question": "A liability account is increased by a debit.",
+        "answer": "F"
+    },
+    "36": {
+        "question": "A debit always means a decrease, and a credit always means an increase.",
+        "answer": "F"
+    },
+    "37": {
+        "question": "Which of the following accounts decreases with a debit?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Notes Payable",
+            "C": "Cash",
+            "D": "Rent Expense"
+        },
+        "answer": "B"
+    },
+    "38": {
+        "question": "The Owner's Capital account is increased by a debit.",
+        "answer": "F"
+    },
+    "39": {
+        "question": "The Owner's Withdrawals account is increased by a debit.",
+        "answer": "T"
+    },
+    "40": {
+        "question": "All asset accounts and equity accounts increase with a debit.",
+        "answer": "F"
+    },
+    "41": {
+        "question": "The balances in the liability and revenue accounts are increased with a credit.",
+        "answer": "T"
+    },
+    "42": {
+        "question": "Which of the following accounts increases with a credit?",
+        "options": {
+            "A": "Cash",
+            "B": "Owner, Capital",
+            "C": "Accounts Receivable",
+            "D": "Prepaid Expense"
+        },
+        "answer": "B"
+    },
+    "43": {
+        "question": "Which of the following accounts decreases with a credit?",
+        "options": {
+            "A": "Cash",
+            "B": "Owner, Capital",
+            "C": "Accounts Payable",
+            "D": "Notes Payable"
+        },
+        "answer": "A"
+    },
+    "44": {
+        "question": "Which of the following accounts increases with a debit?",
+        "options": {
+            "A": "Cash",
+            "B": "Interest Payable",
+            "C": "Accounts Payable",
+            "D": "Owner, Capital"
+        },
+        "answer": "A"
+    },
+    "45": {
+        "question": "Which one of the following account groups will decrease with a debit?",
+        "options": {
+            "A": "assets and expenses",
+            "B": "revenues and expenses",
+            "C": "liabilities and revenues",
+            "D": "assets and liabilities"
+        },
+        "answer": "C"
+    },
+    "46": {
+        "question": "Which of the following statements is true of expenses?",
+        "options": {
+            "A": "Expenses increase equity, so an expense account's normal balance is a credit balance.",
+            "B": "Expenses decrease equity, so an expense account's normal balance is a credit balance.",
+            "C": "Expenses increase equity, so an expense account's normal balance is a debit balance.",
+            "D": "Expenses decrease equity, so an expense account's normal balance is a debit balance."
+        },
+        "answer": "D"
+    },
+    "47": {
+        "question": "An account that normally has a debit balance may occasionally have a credit balance.",
+        "answer": "T"
+    },
+    "48": {
+        "question": "The normal balance of an account is the increase side of the account.",
+        "answer": "T"
+    },
+    "49": {
+        "question": "Which one of the following account groups normally has a credit balance?",
+        "options": {
+            "A": "assets and liabilities",
+            "B": "equity and assets",
+            "C": "liabilities and revenues",
+            "D": "assets and expenses"
+        },
+        "answer": "C"
+    },
+    "50": {
+        "question": "Which one of the following account groups normally has a debit balance?",
+        "options": {
+            "A": "assets and expenses",
+            "B": "revenues and expenses",
+            "C": "liabilities and revenues",
+            "D": "assets and liabilities"
+        },
+        "answer": "A"
+    },
+    "51": {
+        "question": "Accounts Receivable is a(n) account and has a normal balance.",
+        "options": {
+            "A": "liability; debit",
+            "B": "asset; debit",
+            "C": "liability; credit",
+            "D": "asset; credit"
+        },
+        "answer": "B"
+    },
+    "52": {
+        "question": "Accounts Payable is a(n) account and has a normal balance.",
+        "options": {
+            "A": "liability; debit",
+            "B": "asset; debit",
+            "C": "liability; credit",
+            "D": "asset; credit"
+        },
+        "answer": "C"
+    },
+    "53": {
+        "question": "Cash is a(n) account and has a normal balance.",
+        "options": {
+            "A": "asset; debit",
+            "B": "liability; credit",
+            "C": "liability; debit",
+            "D": "asset; credit"
+        },
+        "answer": "A"
+    },
+    "54": {
+        "question": "Which of the following statements is true of the Owner's Capital account?",
+        "options": {
+            "A": "It is an equity account that has a normal credit balance.",
+            "B": "It is a liability account that has a normal creditbalance.",
+            "C": "It is a liability account that has a normal debitbalance.",
+            "D": "It is an equity account that has a normal debit balance."
+        },
+        "answer": "A"
+    },
+    "55": {
+        "question": "For Office Supplies, the category of account and its normal balance is",
+        "options": {
+            "A": "liabilities and a debit balance",
+            "B": "assets and a debit balance",
+            "C": "liabilities and a credit balance",
+            "D": "assets and a credit balance"
+        },
+        "answer": "B"
+    },
+    "56": {
+        "question": "The Salaries Payable account is a(n)",
+        "options": {
+            "A": "liability account with a normal debit balance",
+            "B": "asset account with a normal debit balance",
+            "C": "liability account with a normal credit balance",
+            "D": "asset account with a normal credit balance"
+        },
+        "answer": "C"
+    },
+    "57": {
+        "question": "For Expenses, the category of account and its normal balance is",
+        "options": {
+            "A": "equity and a credit balance",
+            "B": "assets and a debit balance",
+            "C": "assets and a credit balance",
+            "D": "equity and a debit balance"
+        },
+        "answer": "D"
+    },
+    "58": {
+        "question": "For Revenues, the category of account and its normal balance is",
+        "options": {
+            "A": "equity and a credit balance",
+            "B": "assets and a debit balance",
+            "C": "assets and a credit balance",
+            "D": "equity and a debit balance"
+        },
+        "answer": "A"
+    },
+    "59": {
+        "question": "For Owner's Capital, the category of account and its normalbalance is",
+        "options": {
+            "A": "equity and a credit balance",
+            "B": "assets and a debit balance",
+            "C": "equity and a debit balance",
+            "D": "assets and a credit balance"
+        },
+        "answer": "A"
+    },
+    "60": {
+        "question": "Owner's Withdrawals is a(n) account that has a normal balance.",
+        "options": {
+            "A": "liability; credit",
+            "B": "equity; debit",
+            "C": "liability; debit",
+            "D": "equity; credit"
+        },
+        "answer": "B"
+    },
+    "61": {
+        "question": "Which of the following statements is true of revenues?",
+        "options": {
+            "A": "Revenues decrease equity, so a revenue account's normal balance is a credit balance.",
+            "B": "Revenues decrease equity, so a revenue account's normal balance is a debit balance.",
+            "C": "Revenues increase equity, so a revenue account's normal balance is a debit balance.",
+            "D": "Revenues increase equity, so a revenue account's normal balance is a credit balance."
+        },
+        "answer": "D"
+    },
+    "62": {
+        "question": "The T-account is a summary device that is shaped like a capital T with debits posted on the right side of the vertical line and credits posted on the left side of the vertical line.",
+        "answer": "F"
+    },
+    "63": {
+        "question": "The T-account is a summary device that is shaped like a capital T with debits posted on the left side of the vertical line and credits posted on the right side of the vertical line.",
+        "answer": "T"
+    },
+    "64": {
+        "question": "In reviewing the T-account for Accounts Receivable, you find that the beginning balance is zero, the total increases are $4,900 and the total decreases are $2,400. This means that the ending balance of the account is a credit balance of$2,500.",
+        "answer": "F"
+    },
+    "65": {
+        "question": "In reviewing the T-account for Accounts Payable, you find that the beginning balance is zero, the total increases are $7,400 and the total decreases are $4,900. This means that the ending balance of the account is a credit balance of$2,500.",
+        "answer": "T"
+    },
+    "66": {
+        "question": "The Accounts Receivable account of Rosewood Company has the following postings:Accounts Receivable23,000 6,0004,000Calculate the ending balance of the account.",
+        "options": {
+            "A": "$33,000 debit",
+            "B": "$27,000 debit",
+            "C": "$6,000 credit",
+            "D": "$21,000 debit"
+        },
+        "answer": "D"
+    },
+    "67": {
+        "question": "The Accounts Payable account of Golden Company has the following postings:Accounts Payable18,000 28,0006,000 12,000Calculate the ending balance of the account.",
+        "options": {
+            "A": "$12,000 credit",
+            "B": "$16,000 debit",
+            "C": "$16,000 credit",
+            "D": "$6,000 debit"
+        },
+        "answer": "C"
+    },
+    "68": {
+        "question": "Source documents provide the evidence and data for accounting transactions.",
+        "answer": "T"
+    },
+    "69": {
+        "question": "Which of the following is a source document that provides the evidence and data for accounting transactions?",
+        "options": {
+            "A": "Journal",
+            "B": "Sales invoice",
+            "C": "Ledger",
+            "D": "Trial balance"
+        },
+        "answer": "B"
+    },
+    "70": {
+        "question": "Debits in the journal are always posted as debits in the ledger.",
+        "answer": "T"
+    },
+    "71": {
+        "question": "The process of transferring data from the ledger to the journal is called posting.",
+        "answer": "F"
+    },
+    "72": {
+        "question": "A compound journal entry has more than two accounts, but the total dollar value of the debits still must equal total dollar value of the credits.",
+        "answer": "T"
+    },
+    "73": {
+        "question": "When a business makes a cash payment, the Cash account is debited.",
+        "answer": "F"
+    },
+    "74": {
+        "question": "When a business collects cash, the Cash account is debited.",
+        "answer": "T"
+    },
+    "75": {
+        "question": "When a business records an accrued utility liability, the Utilities Expense account is credited.",
+        "answer": "F"
+    },
+    "76": {
+        "question": "When a business records the earning of service revenue, the Service Revenue account is credited.",
+        "answer": "T"
+    },
+    "77": {
+        "question": "Transactions are first record in a",
+        "options": {
+            "A": "chart of accounts",
+            "B": "trial balance",
+            "C": "journal",
+            "D": "ledger"
+        },
+        "answer": "C"
+    },
+    "78": {
+        "question": "Journalizing a transaction involves",
+        "options": {
+            "A": "calculating the balance in an account using journalentries",
+            "B": "posting the account balances in the chart ofaccounts",
+            "C": "preparing a summary of account balances",
+            "D": "recording the data only in the journal"
+        },
+        "answer": "D"
+    },
+    "79": {
+        "question": "Posting a transaction means",
+        "options": {
+            "A": "calculating the balance in an account",
+            "B": "transferring data from the journal to the ledger",
+            "C": "preparing a summary of account balances",
+            "D": "finding the account number in the chart of accounts"
+        },
+        "answer": "B"
+    },
+    "80": {
+        "question": "After initially recording a transaction, the data is then transferred to the",
+        "options": {
+            "A": "chart of accounts",
+            "B": "ledger",
+            "C": "trial balance",
+            "D": "journal"
+        },
+        "answer": "B"
+    },
+    "81": {
+        "question": "The accounting process of transferring a transaction from the journal to the ledger is called",
+        "options": {
+            "A": "journalizing",
+            "B": "posting",
+            "C": "compounding",
+            "D": "sourcing"
+        },
+        "answer": "B"
+    },
+    "82": {
+        "question": "The first step in the journalizing and posting process is to",
+        "options": {
+            "A": "post the journal entry to the ledger",
+            "B": "identify the accounts involved and the account type",
+            "C": "decide whether each account increases or decreases",
+            "D": "record the transaction in the journal"
+        },
+        "answer": "B"
+    },
+    "83": {
+        "question": "Which of the following is the order of steps to journalize an entry?",
+        "options": {
+            "A": "Identify the accounts and the account type \u2192 Decide whether each account increases ordecreases, then apply the rules of debits and credits \u2192 Record the transaction",
+            "B": "Identify the accounts and the account type \u2192 Record the transaction \u2192 Decide whether each account increases or decreases, then apply the rules of debits and credits",
+            "C": "Record the transaction \u2192 Identify the accounts and the account type \u2192 Decide whether each account increases or decreases, then apply the rules of debits and credits",
+            "D": "Decide whether each account increases or decreases, then apply the rules of debits and credits Identify the accounts and the account type \u2192 Record the transaction"
+        },
+        "answer": "A"
+    },
+    "84": {
+        "question": "Which of the following is the final step in the journalizing and posting process?",
+        "options": {
+            "A": "Posting the accounts to the ledger.",
+            "B": "Identifying each account affected and its type.",
+            "C": "Determining whether the accounting equation is inbalance.",
+            "D": "Determining whether each account has increased or decreased."
+        },
+        "answer": "C"
+    },
+    "85": {
+        "question": "Which of the following sequences is the normal sequence of flow of accounting data?",
+        "options": {
+            "A": "Ledger \u2192 Journal \u2192 Source document",
+            "B": "Journal \u2192 Source document \u2192 Ledger",
+            "C": "Source document \u2192 Journal \u2192 Ledger",
+            "D": "Source document \u2192 Ledger \u2192 Journal"
+        },
+        "answer": "C"
+    },
+    "86": {
+        "question": "A business renders services to a client and issues a sales invoice. The amount will be collected from the customer at a later time. Which of the following is true at the time the invoice is issued?",
+        "options": {
+            "A": "Equity will decrease.",
+            "B": "Total liabilities will increase.",
+            "C": "Total assets will decrease.",
+            "D": "Net income will increase."
+        },
+        "answer": "D"
+    },
+    "87": {
+        "question": "Stewart Candle Company received a cash contribution of $40,000 from the owner of the business. Which of the following accounts will bedebited?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Cash",
+            "C": "Stewart, Capital",
+            "D": "Accounts Payable"
+        },
+        "answer": "B"
+    },
+    "88": {
+        "question": "Whitney Chemicals Company received cash contribution of $40,000 from the owner of the business. Which of the following accounts will becredited?",
+        "options": {
+            "A": "Accounts Receivable",
+            "B": "Cash",
+            "C": "Owner, Capital",
+            "D": "Accounts Payable"
+        },
+        "answer": "C"
+    },
+    "89": {
+        "question": "A business purchases equipment for $8,000 cash. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Owner, Capital",
+            "D": "Equipment"
+        },
+        "answer": "D"
+    },
+    "90": {
+        "question": "A business purchases equipment for $8,000 cash. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Owner, Capital",
+            "D": "Equipment"
+        },
+        "answer": "A"
+    },
+    "91": {
+        "question": "A business makes a cash payment of $12,000 to a supplier for supplies purchased two weeks earlier. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Supplies",
+            "D": "Accounts Receivable"
+        },
+        "answer": "B"
+    },
+    "92": {
+        "question": "A business makes a cash payment of $12,000 to a creditor. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Bank",
+            "D": "Accounts Receivable"
+        },
+        "answer": "A"
+    },
+    "93": {
+        "question": "A business renders services to a customer for $26,000 on account. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Service Revenue",
+            "D": "Accounts Payable"
+        },
+        "answer": "B"
+    },
+    "94": {
+        "question": "A business renders services to a customer for $26,000 on account. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Service Revenue",
+            "D": "Accounts Payable"
+        },
+        "answer": "C"
+    },
+    "95": {
+        "question": "A business renders services for $26,000 and collects cash from the customer. Which of the following accounts will be debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Service Revenue",
+            "D": "Accounts Payable"
+        },
+        "answer": "A"
+    },
+    "96": {
+        "question": "A business prepays four months' office rent. Which of the following accounts is debited?",
+        "options": {
+            "A": "Rent Expense",
+            "B": "Cash",
+            "C": "Prepaid Rent",
+            "D": "Unearned Rent"
+        },
+        "answer": "C"
+    },
+    "97": {
+        "question": "A business receives $40,000 for services that it will perform over the next four months. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Service Revenue",
+            "D": "Unearned Revenue"
+        },
+        "answer": "D"
+    },
+    "98": {
+        "question": "Beetles Company recorded the following journal entry on March 2, 2016.Cash 10,500 Unearned Revenue 10,500From the journal entry above, identify the transaction on March 2, 2016.",
+        "options": {
+            "A": "Beetles purchased goods worth $10,500 and signed a one-year note for the same.",
+            "B": "Beetles sold goods for $10,500 cash.",
+            "C": "Beetles received $10,500 for services to be performed in a later period.",
+            "D": "Beetles paid $10,500 for services to be received at a later date."
+        },
+        "answer": "C"
+    },
+    "99": {
+        "question": "A business pays $500 cash for office supplies. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Utilities Expense"
+        },
+        "answer": "C"
+    },
+    "100": {
+        "question": "A business pays $500 cash for office supplies. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Utilities Expense"
+        },
+        "answer": "A"
+    },
+    "101": {
+        "question": "A business purchases $500 of office supplies on account. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Utilities Expense"
+        },
+        "answer": "C"
+    },
+    "102": {
+        "question": "A business purchases $500 of office supplies on account. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Service Revenue"
+        },
+        "answer": "B"
+    },
+    "103": {
+        "question": "A business makes a cash payment to a supplier for office supplies that were purchased earlier on account. Which of the following accounts isdebited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Utilities Expense"
+        },
+        "answer": "B"
+    },
+    "104": {
+        "question": "A business makes a cash payment to a supplier on account for office supplies that were purchased earlier. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Office Supplies",
+            "D": "Utilities Expense"
+        },
+        "answer": "A"
+    },
+    "105": {
+        "question": "A business collects cash from a customer for services that were performed one month earlier. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Service Revenue",
+            "D": "Accounts Payable"
+        },
+        "answer": "A"
+    },
+    "106": {
+        "question": "A business collects cash from a customer for services that were preformed one month earlier. Which of the following accounts is credited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Service Revenue",
+            "D": "Accounts Payable"
+        },
+        "answer": "B"
+    },
+    "107": {
+        "question": "A business borrows cash by signing a note payable. Which of the following accounts is debited?",
+        "options": {
+            "A": "Notes Payable",
+            "B": "Accounts Payable",
+            "C": "Notes Receivable",
+            "D": "Cash"
+        },
+        "answer": "D"
+    },
+    "108": {
+        "question": "A business borrows cash by signing a note payable. Which of the following accounts is credited?",
+        "options": {
+            "A": "Notes Payable",
+            "B": "Accounts Payable",
+            "C": "Notes Receivable",
+            "D": "Cash"
+        },
+        "answer": "A"
+    },
+    "109": {
+        "question": "A business repays the amount borrowed on a note with cash. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Notes Payable",
+            "D": "Notes Receivable"
+        },
+        "answer": "C"
+    },
+    "110": {
+        "question": "A business repays the amount borrowed on a note with cash. Which of the following accounts is credited?",
+        "options": {
+            "A": "Accounts Payable",
+            "B": "Cash",
+            "C": "Notes Payable",
+            "D": "Notes Receivable"
+        },
+        "answer": "B"
+    },
+    "111": {
+        "question": "A business makes a payment in cash for advertising expense. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Payable",
+            "C": "Accounts Receivable",
+            "D": "Advertising Expense"
+        },
+        "answer": "D"
+    },
+    "112": {
+        "question": "A business makes a payment in cash for advertising expense. Which of the following accounts is credited?",
+        "options": {
+            "A": "Notes Payable",
+            "B": "Accounts Receivable",
+            "C": "Cash",
+            "D": "Advertising Expense"
+        },
+        "answer": "C"
+    },
+    "113": {
+        "question": "The owner withdrew cash from the business. Which of the following accounts is debited?",
+        "options": {
+            "A": "Cash",
+            "B": "Owner, Withdrawals",
+            "C": "Accounts Payable",
+            "D": "Common Stock"
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "The owner withdrew cash from the business. Which of the following accounts is credited?",
+        "options": {
+            "A": "Common Stock",
+            "B": "Dividends",
+            "C": "Cash",
+            "D": "Accounts Payable"
+        },
+        "answer": "C"
+    },
+    "115": {
+        "question": "An accounting entry that is characterized by having multiple debits and/or multiple credits is called a entry.",
+        "options": {
+            "A": "balanced",
+            "B": "posted",
+            "C": "chart of accounts",
+            "D": "compound journal"
+        },
+        "answer": "D"
+    },
+    "116": {
+        "question": "A business makes a payment of $1,400 on a note payable. Which of the following journal entries would be recorded?",
+        "options": {
+            "A": "Cash is credited and Notes Payable is debited for $1,400.",
+            "B": "Notes Payable is credited and Cash is debited for $1,400.",
+            "C": "Cash is credited and Financing Expense is debited for $1,400.",
+            "D": "Cash is debited and Financing Revenue is credited for $1,400."
+        },
+        "answer": "A"
+    },
+    "117": {
+        "question": "A business purchases equipment by paying $6,081 in cash and issuing a note payable of $12,291. Which of the following occurs?",
+        "options": {
+            "A": "Cash is credited for $6,081, Equipment is credited for $18,372, and Notes Payable is debited for $12,291.",
+            "B": "Cash is credited for $6,081, Equipment is debited for $18,372, and Notes Payable is credited for $12,291.",
+            "C": "Cash is debited for $6,081, Equipment is debited for $12,291,and Notes Payable is credited for $18,372.",
+            "D": "Cash is debited for $6,081, Equipment is credited for $12,291, and Notes Payable is debited for $6,210."
+        },
+        "answer": "B"
+    },
+    "118": {
+        "question": "Which of the following journal entries would be recorded if a business purchased $800 of office supplies on account?",
+        "options": {
+            "A": "Accounts Payable | 800 Office Supplies | 800",
+            "B": "Office Supplies | 800 Accounts Payable | 800",
+            "C": "Office Supplies | 800 Cash | 800",
+            "D": "Cash | 800 Office Supplies | 800"
+        },
+        "answer": "B"
+    },
+    "119": {
+        "question": "Which of the following journal entries would be recorded if a business renders service and receives cash of $900 from the customer?",
+        "options": {
+            "A": "Service Revenue | 900 Cash | 900",
+            "B": "Service Revenue | 900 Accounts Payable | 900",
+            "C": "Cash | 900 Service Revenue | 900",
+            "D": "Service Revenue | 900 Accounts Receivable | 900"
+        },
+        "answer": "C"
+    },
+    "120": {
+        "question": "Which of the following journal entries would be recorded if a business purchased office supplies on account in a previous accounting period and now makes a cash payment of $750 to the supplier to settle the account?",
+        "options": {
+            "A": "Cash | 750 Accounts Payable | 750",
+            "B": "Accounts Payable | 750 Cash | 750",
+            "C": "Cash | 750 Office Supplies | 750",
+            "D": "Accounts Payable | 750 Office Supplies | 750"
+        },
+        "answer": "B"
+    },
+    "121": {
+        "question": "Which of the following journal entries would be recorded if Christy Jones Company received a $3,000 cash contribution from the owner?",
+        "options": {
+            "A": "Cash | 3,000 C. Jones, Capital | 3,000",
+            "B": "Accounts Payable | 3,000 Cash | 3,000",
+            "C": "C. Jones, Capital | 3,000 Cash | 3,000",
+            "D": "C. Jones, Capital | 3,000 Accounts Payable | 3,000"
+        },
+        "answer": "A"
+    },
+    "122": {
+        "question": "After posting the journal entries from the journal to the ledger, the accounting equation should be in balance.",
+        "answer": "T"
+    },
+    "123": {
+        "question": "A business purchases $3,500 of office supplies for cash. Which of the following sets of ledger accounts reflects the posting of this transaction?",
+        "options": {
+            "A": "Office Supplies | 3,500 Accounts Payable | 3,500",
+            "B": "Office Supplies | 3,500 Cash | 3,500",
+            "C": "Office Supplies | 3,500 Accounts Payable | 3,500",
+            "D": "Office Supplies | 3,500 Cash | 3,500"
+        },
+        "answer": "D"
+    },
+    "124": {
+        "question": "The following transactions for the month of March have been journalized and posted to the proper accounts. Mar. 1 The business received a $9,000 cash contribution from the owner. Mar. 2 Paid the first month's rent of $900. Mar. 3 Purchased equipment by paying $4,000 cash and executing a note payable for $5,000. Mar. 4 Purchased office supplies for $710 cash. Mar. 5 Billed a client for $9,000 of design services completed. Mar. 6 Received $7,600 on account for the services previously recorded. What is the balance in Cash?",
+        "options": {
+            "A": "$11,890",
+            "B": "$10,990",
+            "C": "$14,990",
+            "D": "$12,600"
+        },
+        "answer": "B"
+    },
+    "125": {
+        "question": "Sharon Foods Company reported the following transactions for September 2017. a) The business received a $21,000 cash contribution from the owner. It was credited to Sharon, Capital. b) The business purchased office equipment for $9,000 for which $4,000 cash was paid and the balance was put on a notepayable. c) Paid insurance expense of $1,500 cash. d) Paid the September utility bill for $800 cash. e) Paid $1,600 cash for September rent. f) The business had sales of $12,000 in September. Of these sales, 40% were cash sales, and the balance was credit sales. g) The business paid $8,000 cash for office furniture. What are the total liabilities at the end of September, 2017?",
+        "options": {
+            "A": "$12,000",
+            "B": "$1,500",
+            "C": "$5,000",
+            "D": "$9,000"
+        },
+        "answer": "C"
+    },
+    "126": {
+        "question": "The following transactions for the month of March have been journalized and posted to the proper accounts. Mar. 1 The business received a $9,000 cash contribution from the owner. Mar. 2 Paid the first month's rent of $600. Mar. 3 Purchased equipment by paying $4,000 cash and executing a note payable for $5,000. Mar. 4 Purchased office supplies for $600 cash. Mar. 5 Billed a client for $10,000 of design services completed. Mar. 6 Received $8,000 on account for the services previously recorded. What is the balance in Accounts Receivable?",
+        "options": {
+            "A": "$8,000",
+            "B": "$2,000",
+            "C": "$5,000",
+            "D": "$10,000"
+        },
+        "answer": "B"
+    },
+    "127": {
+        "question": "The following transactions for March have been journalized and posted to the proper accounts. Mar. 1 The business received a $10,000 cash contribution from the owner. Mar. 2 Paid the first month's rent of $800. Mar. 3 Purchased equipment by paying $4,000 cash and executing a note payable for $6,000. Mar. 4 Purchased office supplies for $500 cash. Mar. 5 Billed a client for $14,000 of design services completed. Mar. 6 Received $6,000 on account for the services previously recorded. What is the ending balance in the Service Revenue account?",
+        "options": {
+            "A": "$16,000",
+            "B": "$10,000",
+            "C": "$14,000",
+            "D": "$6,000"
+        },
+        "answer": "C"
+    },
+    "128": {
+        "question": "A business has the following transactions: * The business receives $15,000 cash and issues common stock to stockholders. * The business purchases $600 of office supplies on account. * The business purchases $3,000 of furniture onaccount. * The business renders services to various clients totaling $15,000 on account. * The business pays $1,500 for salaries expense and $4,500 for rent expense. * The business pays $800 to a supplier for the office supplies purchased earlier. * The business collects $4,000 from one of its clients for services rendered earlier in the month. At the end of the month, all journal entries are posted to the ledger. Accounts Receivable will appear as which of the following?",
+        "options": {
+            "A": "Accounts Receivable | 4,000 15,000 | 11,000 Bal.",
+            "B": "Accounts Receivable | 15,000 Bal. | 15,000",
+            "C": "Accounts Receivable | 15,000 4,000 | Bal. 11,000",
+            "D": "Accounts Receivable | 15,000 4,000 | 11,000 Bal."
+        },
+        "answer": "C"
+    },
+    "129": {
+        "question": "A business has the following transactions: * The business received $16,000 cash and issued common stock to stockholders. * The business purchases $600 of office supplies on account. * The business purchases $3,000 of furniture onaccount. * The business renders services to various clients totaling $10,000 on account. * The business pays out $1,500 for salaries expense and $3,500 for rent expense. * The business pays $800 to supplier for the office supplies purchased earlier. * The business collects $4,000 from one of its clients for services rendered earlier in the month. At the end of the month, all journal entries are posted to the ledger. Accounts Payable will appear as which of the following?",
+        "options": {
+            "A": "Accounts Payable | 800 600 | 3,000 | 2,800 Bal.",
+            "B": "Accounts Payable | 600 | 3,000 | 10,000 Bal.",
+            "C": "Accounts Payable | 600 | 3,000 800 | Bal. 2,800",
+            "D": "Accounts Payable | 600 | 3,000 800 | 4,400 Bal."
+        },
+        "answer": "B"
+    },
+    "130": {
+        "question": "When using a four-column account, the posting reference column allows the user of the financial data to trace the amounts in the journal back to the ledger.",
+        "answer": "F"
+    },
+    "131": {
+        "question": "In a computerized environment, the posting process is completed automatically when the user enters the journal entry.",
+        "answer": "T"
+    },
+    "132": {
+        "question": "A posting reference column is used",
+        "options": {
+            "A": "while preparing the trial balance using the ledger",
+            "B": "when the information is transferred from the journal to the ledger",
+            "C": "when the information is transferred from the ledger to the post-closing trial balance",
+            "D": "while preparing the balance sheet using the trial balance"
+        },
+        "answer": "B"
+    },
+    "133": {
+        "question": "The trial balance is also known as the balance sheet.",
+        "answer": "F"
+    },
+    "134": {
+        "question": "The trial balance verifies the equality of debits and credits at a point in time.",
+        "answer": "T"
+    },
+    "135": {
+        "question": "A trial balance is the list of only a company's debit accounts along with their account numbers at a point in time.",
+        "answer": "F"
+    },
+    "136": {
+        "question": "A trial balance is a list of all of the accounts of a company with their balances at a point in time.",
+        "answer": "T"
+    },
+    "137": {
+        "question": "In a trial balance, total debits must always equal total credits.",
+        "answer": "T"
+    },
+    "138": {
+        "question": "The trial balance is an internal document used only by employees of the company.",
+        "answer": "T"
+    },
+    "139": {
+        "question": "A trial balance summarizes the ledger by listing all the accounts with their balances at a point in time.",
+        "answer": "T"
+    },
+    "140": {
+        "question": "The trial balance reports the balances of assets, liabilities, and equity.",
+        "answer": "T"
+    },
+    "141": {
+        "question": "Which of the following is used by both internal and external users?",
+        "options": {
+            "A": "Chart of Accounts",
+            "B": "Trial Balance",
+            "C": "Balance Sheet",
+            "D": "Costing Reports"
+        },
+        "answer": "C"
+    },
+    "142": {
+        "question": "Which of the following statements is true of a trial balance?",
+        "options": {
+            "A": "A trial balance has the same format as a balance sheet.",
+            "B": "A trial balance presents data in debit and credit format.",
+            "C": "A trial balance shows the total amounts of assets and liabilities, but not equity.",
+            "D": "A trial balance is prepared after the balance sheet."
+        },
+        "answer": "B"
+    },
+    "143": {
+        "question": "Which of the following sequences states the order in which accounts are listed on a trial balance?",
+        "options": {
+            "A": "Equity \u2192 Assets \u2192 Liabilities",
+            "B": "Liabilities \u2192 Assets \u2192 Equity",
+            "C": "Assets \u2192 Equity \u2192 Liabilities",
+            "D": "Assets \u2192 Liabilities \u2192 Equity"
+        },
+        "answer": "D"
+    },
+    "144": {
+        "question": "Which of the following statements is true of a trial balance?",
+        "options": {
+            "A": "A trial balance is the first step in the accounting cycle.",
+            "B": "A trial balance is also knownas a balance sheet.",
+            "C": "A trial balance is a list of all accounts with their balances.",
+            "D": "A trial balance is also known as the chart of accounts."
+        },
+        "answer": "C"
+    },
+    "145": {
+        "question": "The following are the current month's balances for Toys Galore before preparing the trial balance.Accounts Payable $5,000 Revenue 3,000 Cash 5,000 Expenses 18,500 Furniture 11,000 Accounts Receivable 11,000 R. Schwartz, Capital Notes Payable 6,500 What amount should be shown for R. Schwartz, Capital on the trial balance?",
+        "options": {
+            "A": "$56,000",
+            "B": "$31,000",
+            "C": "$11,500",
+            "D": "$27,000"
+        },
+        "answer": "B"
+    },
+    "146": {
+        "question": "The following are the current month's balances for Jackson Company.Accounts Payable $8,000 Revenue 12,000 Cash 4,000 Expenses 1,600 Furniture 12,000 Accounts Receivable 14,000 B. Jackson, Capital 9,250 Notes Payable 4,500 Calculate the total amount of credits for the trial balance.",
+        "options": {
+            "A": "$24,500",
+            "B": "$21,750",
+            "C": "$25,750",
+            "D": "$33,750"
+        },
+        "answer": "D"
+    },
+    "147": {
+        "question": "The following are the current month's balances for Global Enterprises.Accounts Payable $10,000 Revenue 8,000 Cash 6,000 Expenses 1,600 Furniture 11,000 Accounts Receivable 15,000 Owner, Capital 7,250 Notes Payable 6,500 What is the total amount of debits for the trial balance?",
+        "options": {
+            "A": "$26,000",
+            "B": "$27,600",
+            "C": "$32,000",
+            "D": "$33,600"
+        },
+        "answer": "D"
+    },
+    "148": {
+        "question": "Data from a trial balance is used to prepare the income statement, statement of owner's equity, and the balance sheet.",
+        "answer": "T"
+    },
+    "149": {
+        "question": "The trial balance is one of the three basic financial statements that are issued to external users of the business.",
+        "answer": "F"
+    },
+    "150": {
+        "question": "Which of the following is a financial statement that presents a business's accounting equation?",
+        "options": {
+            "A": "Chart of Accounts",
+            "B": "Trial Balance",
+            "C": "Income Statement",
+            "D": "Balance Sheet"
+        },
+        "answer": "D"
+    },
+    "151": {
+        "question": "When is a trial balance usually prepared?",
+        "options": {
+            "A": "after each entry is journalized",
+            "B": "before the financial statements are prepared",
+            "C": "after the financial statements are prepared",
+            "D": "at the beginning of an accounting period"
+        },
+        "answer": "B"
+    },
+    "152": {
+        "question": "The following are the current month's balances for Adams Marketing Company.Accounts Payable $8,000 Revenue 11,000 Cash 7,000 Expenses 1,500 Furniture 10,000 Accounts Receivable 16,000 Adams, Capital 8,250 Notes Payable 5,500 What is the net income for Adams Marketing for the current month?",
+        "options": {
+            "A": "$11,000",
+            "B": "$9,500",
+            "C": "$12,500",
+            "D": "$18,000"
+        },
+        "answer": "B"
+    },
+    "153": {
+        "question": "Balancing errors can be detected by computing the difference between total debits and total credits on the trial balance.",
+        "answer": "T"
+    },
+    "154": {
+        "question": "If the total debits equal the total credits on the trial balance, the individual account balances will be error free.",
+        "answer": "F"
+    },
+    "155": {
+        "question": "A journal entry for a $70 payment for rent expense was posted as a debit to Salaries Expense and a credit to Cash. Which of the following statements correctly states the effect of the error on the trial balance?",
+        "options": {
+            "A": "The sum of the credits will equal the sum of the debits.",
+            "B": "The sum of the debits will exceed the sum of the credits by $70.",
+            "C": "The sum of the debits will exceed the sum of the credits by $140.",
+            "D": "The sum of the credits will exceed the sum of the debits by $140."
+        },
+        "answer": "A"
+    },
+    "156": {
+        "question": "A journal entry for a $270 payment to purchase office supplies was erroneously recorded as a debit to Office Supplies for $520 and a credit to Cash for $270. Which of the following statements correctly states the effect of the error on the trial balance?",
+        "options": {
+            "A": "The sum of the credits will exceed the sum of the debits by $250.",
+            "B": "The sum of the debits will exceed the sum of the credits by $270.",
+            "C": "The sum of the debits will exceed the sum of the credits by $250.",
+            "D": "The sum of the debits will exceed the sum of the credits by $520."
+        },
+        "answer": "C"
+    },
+    "157": {
+        "question": "The debt ratio shows the proportion of assets financed with debt.",
+        "answer": "T"
+    },
+    "158": {
+        "question": "Grace Paper Company has a debt ratio of 25%, which means that 75% of the assets are financed by creditors.",
+        "answer": "F"
+    },
+    "159": {
+        "question": "The higher the debt ratio, the lower the risk.",
+        "answer": "F"
+    },
+    "160": {
+        "question": "Which of the following is the correct formula to calculate the debt ratio?",
+        "options": {
+            "A": "Debt ratio = Total liabilities \u00d7 Total assets",
+            "B": "Debt ratio = Total liabilities + Total assets",
+            "C": "Debt ratio = Total liabilities - Total assets",
+            "D": "Debt ratio = Total liabilities / Total assets"
+        },
+        "answer": "D"
+    },
+    "161": {
+        "question": "The percentage of assets that are financed with liabilities can be calculated using the",
+        "options": {
+            "A": "accounting equation",
+            "B": "debt ratio",
+            "C": "journal",
+            "D": "ledger"
+        },
+        "answer": "B"
+    },
+    "162": {
+        "question": "The ability of a company to repay its liabilities can be determined from its",
+        "options": {
+            "A": "bankers",
+            "B": "creditors",
+            "C": "debt ratio",
+            "D": "journal"
+        },
+        "answer": "C"
+    },
+    "163": {
+        "question": "Mitchell Florists reported assets of $1,400 and equity of $350. What is its debt ratio? (Round your percentage answer to two decimal places.)",
+        "options": {
+            "A": "75.00%",
+            "B": "25.00%",
+            "C": "100.00%",
+            "D": "80.00%"
+        },
+        "answer": "A"
+    },
+    "164": {
+        "question": "Camile Plastics Company had the following total assets, liabilities, and equity as of December 31. Assets $430,000 Liabilities 133,000 Equity 297,000 What is the company's debt ratio as of December 31? (Round your percentage answer to two decimal places.)",
+        "options": {
+            "A": "30.93%",
+            "B": "69.07%",
+            "C": "100.00%",
+            "D": "44.78%"
+        },
+        "answer": "A"
+    },
+    "165": {
+        "question": "Which of the following factors is assessed using the debt ratio?",
+        "options": {
+            "A": "expenses",
+            "B": "revenues",
+            "C": "risk",
+            "D": "income"
+        },
+        "answer": "C"
+    },
+    "166": {
+        "question": "True or False: The chart of accounts organizes financial data into a logical and manageable format.",
+        "answer": "T"
+    },
+    "167": {
+        "question": "True or False: The matching principle means you must match debits and credits.",
+        "answer": "F"
+    },
+    "168": {
+        "question": "True or False: Posting is the process of transferring the entries from the journal to the ledger.",
+        "answer": "T"
+    },
+    "169": {
+        "question": "True or False: The trial balance is used to verify that the general ledger is balanced.",
+        "answer": "T"
+    },
+    "170": {
+        "question": "True or False: A debit is the right side of an account.",
+        "answer": "F"
+    },
+    "171": {
+        "question": "True or False: An increase to an asset account is a debit.",
+        "answer": "T"
+    },
+    "172": {
+        "question": "True or False: An increase to a liability is a debit.",
+        "answer": "F"
+    },
+    "173": {
+        "question": "True or False: An increase to a revenue account is a debit.",
+        "answer": "F"
+    },
+    "174": {
+        "question": "True or False: An increase to an expense account is a debit.",
+        "answer": "T"
+    },
+    "175": {
+        "question": "Which of the following accounts has a normal credit balance?",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Accounts Payable",
+            "D": "Dividends"
+        },
+        "answer": "C"
+    },
+    "176": {
+        "question": "Which of the following accounts has a normal debit balance?",
+        "options": {
+            "A": "Accounts Payable",
+            "B": "Unearned Revenue",
+            "C": "Service Revenue",
+            "D": "Rent Expense"
+        },
+        "answer": "D"
+    },
+    "177": {
+        "question": "True or False: The accounting equation is Assets = Liabilities + Owner's Equity.",
+        "answer": "T"
+    },
+    "178": {
+        "question": "True or False: An increase in an asset is recorded as a credit.",
+        "answer": "F"
+    },
+    "179": {
+        "question": "True or False: A decrease in a liability is recorded as a debit.",
+        "answer": "T"
+    },
+    "180": {
+        "question": "True or False: A decrease in owner's equity is recorded as a credit.",
+        "answer": "F"
+    },
+    "181": {
+        "question": "True or False: A decrease in revenue is recorded as a debit.",
+        "answer": "T"
+    },
+    "182": {
+        "question": "True or False: An increase in an expense is recorded as a debit.",
+        "answer": "T"
+    },
+    "183": {
+        "question": "True or False: The process of recording business transactions in a journal is called journalizing.",
+        "answer": "T"
+    }
+}
