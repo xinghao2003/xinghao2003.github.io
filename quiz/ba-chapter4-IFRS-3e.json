@@ -1,0 +1,1662 @@
+{
+    "1": {
+        "question": "A worksheet is a mandatory form that must be prepared along with an income statement and statement of financial position.",
+        "answer": "F"
+    },
+    "2": {
+        "question": "If a worksheet is used, financial statements can be prepared before adjusting entries are journalized.",
+        "answer": "T"
+    },
+    "3": {
+        "question": "If total credits in the income statement columns of a worksheet exceed total debits, the enterprise has net income.",
+        "answer": "T"
+    },
+    "4": {
+        "question": "It is not necessary to prepare formal financial statements if a worksheet has been prepared because financial position and net income are shown on the worksheet.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "The adjustments on a worksheet can be posted directly to the accounts in the ledger from the worksheet.",
+        "answer": "F"
+    },
+    "6": {
+        "question": "The adjusted trial balance columns of a worksheet are obtained by subtracting the adjustment columns from the trial balance columns.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "The balance of the depreciation expense account will appear in the income statement debit column of a worksheet.",
+        "answer": "T"
+    },
+    "8": {
+        "question": "The procedures used to prepare the worksheet are the same under both IFRS and GAAP.",
+        "answer": "T"
+    },
+    "9": {
+        "question": "The last 2 columns on a worksheet prepared under IFRS contains data for the Retained Earnings Statements.",
+        "answer": "F"
+    },
+    "10": {
+        "question": "The format of the data in the Statement of Financial Position columns of the worksheet is the same as the format of the Statement of Financial Position.",
+        "answer": "F"
+    },
+    "11": {
+        "question": "No permanent account balances are changed in the closing process.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "Closing entries are unnecessary if the business plans to continue operating in the future and issue financial statements each year.",
+        "answer": "F"
+    },
+    "13": {
+        "question": "The Dividends account is closed to the Income Summary account in order to properly determine net income (or loss) for the period.",
+        "answer": "F"
+    },
+    "14": {
+        "question": "After closing entries have been journalized and posted, all temporary accounts in the ledger should have zero balances.",
+        "answer": "T"
+    },
+    "15": {
+        "question": "Closing revenue and expense accounts to the Income Summary account is an optional bookkeeping procedure.",
+        "answer": "F"
+    },
+    "16": {
+        "question": "Closing the Dividends account to Retained Earnings is not necessary if net income is greater than dividends paid during the period.",
+        "answer": "F"
+    },
+    "17": {
+        "question": "The Dividends account is a permanent account whose balance is carried forward to the next accounting period.",
+        "answer": "F"
+    },
+    "18": {
+        "question": "Closing entries are journalized after adjusting entries have been journalized.",
+        "answer": "T"
+    },
+    "19": {
+        "question": "The amounts appearing on an income statement should agree with the amounts appearing on the post-closing trial balance.",
+        "answer": "F"
+    },
+    "20": {
+        "question": "The post-closing trial balance is entered in the first two columns of a worksheet.",
+        "answer": "F"
+    },
+    "21": {
+        "question": "The post-closing trial balance only contains Statement of Financial Position account balances.",
+        "answer": "T"
+    },
+    "22": {
+        "question": "The purpose of the post-closing trial balances is to prove the equality of the Statement of Financial Position.",
+        "answer": "F"
+    },
+    "23": {
+        "question": "The order of the accounts in the post-closing trial balance is the same order as the accounts appearing in the Statement of Financial Position.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "The preparation of a Statement of Financial Position is a required step in the accounting cycle.",
+        "answer": "T"
+    },
+    "25": {
+        "question": "Step number 6 in the accounting cycle includes preparation of the Statement of Financial Position.",
+        "answer": "F"
+    },
+    "26": {
+        "question": "A business entity has only one accounting cycle over its economic existence.",
+        "answer": "F"
+    },
+    "27": {
+        "question": "Both correcting entries and adjusting entries always affect at least one statement of financial position account and one income statement account.",
+        "answer": "F"
+    },
+    "28": {
+        "question": "Correcting entries are made any time an error is discovered even though it may not be at the end of an accounting period.",
+        "answer": "T"
+    },
+    "29": {
+        "question": "An incorrect debit to Accounts Receivable instead of the correct account Notes Receivable does not require a correcting entry because total assets will not be misstated.",
+        "answer": "F"
+    },
+    "30": {
+        "question": "Correcting entries will never affect statement of financial position accounts.",
+        "answer": "F"
+    },
+    "31": {
+        "question": "Current assets are the first category of assets reported on the Statement of Financial Position.",
+        "answer": "F"
+    },
+    "32": {
+        "question": "IFRS permits the noncurrent classifications to be reported before the current classifications on the statement of financial position",
+        "answer": "T"
+    },
+    "33": {
+        "question": "IFRS requires that current assets be reported on the statement of financial position in the order of their liquidity.",
+        "answer": "F"
+    },
+    "34": {
+        "question": "A company's operating cycle and fiscal year are usually the same length of time.",
+        "answer": "F"
+    },
+    "35": {
+        "question": "Cash and office supplies are both classified as current assets.",
+        "answer": "T"
+    },
+    "36": {
+        "question": "Long-term investments would appear in the property, plant, and equipment section of the statement of financial position.",
+        "answer": "F"
+    },
+    "37": {
+        "question": "A liability is classified as a current liability if the company is to pay it within the forthcoming year.",
+        "answer": "T"
+    },
+    "38": {
+        "question": "A company's liquidity is concerned with the relationship between long-term investments and long-term debt.",
+        "answer": "F"
+    },
+    "39": {
+        "question": "Intangible assets are customarily the first items listed on a classified statement of financial position.",
+        "answer": "F"
+    },
+    "40": {
+        "question": "The operating cycle of a company is determined by the number of years the company has been operating.",
+        "answer": "F"
+    },
+    "41": {
+        "question": "Reversing entries are an optional bookkeeping procedure.",
+        "answer": "T"
+    },
+    "42": {
+        "question": "Reversing entries will always affect statement of financial position accounts.",
+        "answer": "F"
+    },
+    "43": {
+        "question": "The use of reversing entries will change the amounts reported in the statement of financial position.",
+        "answer": "F"
+    },
+    "44": {
+        "question": "After a worksheet has been completed, the statement columns contain all data that are required for the preparation of financial statements.",
+        "answer": "T"
+    },
+    "45": {
+        "question": "To close net income to Retained Earnings Income Summary is debited and Retained Earnings is credited.",
+        "answer": "F"
+    },
+    "46": {
+        "question": "In one closing entry, the Dividends account is credited and Income Summary is debited.",
+        "answer": "F"
+    },
+    "47": {
+        "question": "The post-closing trial balance will contain only statement of equity accounts and statement of financial position accounts.",
+        "answer": "T"
+    },
+    "48": {
+        "question": "The operating cycle of a company is the average time required to collect the receivables resulting from producing revenues.",
+        "answer": "T"
+    },
+    "49": {
+        "question": "Current assets are listed in the reverse order of liquidity.",
+        "answer": "T"
+    },
+    "50": {
+        "question": "Current liabilities are obligations that the company is to pay within the coming year.",
+        "answer": "T"
+    },
+    "51": {
+        "question": "Preparing a worksheet involves",
+        "options": {
+            "a": ". two steps.",
+            "b": ". three steps.",
+            "c": ". four steps.",
+            "d": ". five steps."
+        },
+        "answer": "D"
+    },
+    "52": {
+        "question": "The adjustments entered in the adjustments columns of a worksheet are",
+        "options": {
+            "a": ". not journalized.",
+            "b": ". posted to the ledger but not journalized.",
+            "c": ". not journalized until after the financial statements are prepared.",
+            "d": ". journalized before the worksheet is completed."
+        },
+        "answer": "C"
+    },
+    "53": {
+        "question": "The information for preparing a trial balance on a worksheet is obtained from",
+        "options": {
+            "a": ". financial statements.",
+            "b": ". general ledger accounts.",
+            "c": ". general journal entries.",
+            "d": ". business documents."
+        },
+        "answer": "B"
+    },
+    "54": {
+        "question": "After the adjusting entries are journalized and posted to the accounts in the general ledger, the balance of each account should agree with the balance shown on the",
+        "options": {
+            "a": ". adjusted trial balance.",
+            "b": ". post-closing trial balance.",
+            "c": ". the general journal.",
+            "d": ". adjustments columns of the worksheet."
+        },
+        "answer": "A"
+    },
+    "55": {
+        "question": "If the total debit column exceeds the total credit column of the income statement columns on a worksheet, then the company has",
+        "options": {
+            "a": ". earned net income for the period.",
+            "b": ". an error because debits do not equal credits.",
+            "c": ". suffered a net loss for the period.",
+            "d": ". to make an adjusting entry."
+        },
+        "answer": "C"
+    },
+    "56": {
+        "question": "A worksheet is a multiple column form that facilitates the",
+        "options": {
+            "a": ". identification of events.",
+            "b": ". measurement process.",
+            "c": ". preparation of financial statements.",
+            "d": ". analysis process."
+        },
+        "answer": "C"
+    },
+    "57": {
+        "question": "Computing net income on the worksheet occurs in step",
+        "options": {
+            "a": ". two.",
+            "b": ". three.",
+            "c": ". four.",
+            "d": ". five."
+        },
+        "answer": "D"
+    },
+    "58": {
+        "question": "A worksheet can be thought of as a(n)",
+        "options": {
+            "a": ". permanent accounting record.",
+            "b": ". optional device used by accountants.",
+            "c": ". part of the general ledger.",
+            "d": ". part of the journal."
+        },
+        "answer": "B"
+    },
+    "59": {
+        "question": "The Supplies account appears in which of the following debit columns of the worksheet?",
+        "options": {
+            "a": ". Trial balance",
+            "b": ". Adjusted trial balance",
+            "c": ". Statement of financial position",
+            "d": ". All of these answer choices are correct."
+        },
+        "answer": "D"
+    },
+    "60": {
+        "question": "When constructing a worksheet, accounts are often needed that are not listed in the trial balance already entered on the worksheet from the ledger. Where should these additional accounts be shown on the worksheet?",
+        "options": {
+            "a": ". They should be inserted in alphabetical order into the trial balance accounts already given.",
+            "b": ". They should be inserted in chart of account order into the trial balance already given.",
+            "c": ". They should be inserted on the lines immediately below the trial balance totals.",
+            "d": ". They should not be inserted on the trial balance until the next accounting period."
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "When using a worksheet, adjusting entries are journalized",
+        "options": {
+            "a": ". after the worksheet is completed and before financial statements are prepared.",
+            "b": ". before the adjustments are entered on to the worksheet.",
+            "c": ". after the worksheet is completed and after financial statements are prepared.",
+            "d": ". before the adjusted trial balance is extended to the proper financial statement columns."
+        },
+        "answer": "C"
+    },
+    "62": {
+        "question": "Assuming that there is a net loss for the period, debits equal credits in all but which section of the worksheet?",
+        "options": {
+            "a": ". Income statement columns",
+            "b": ". Adjustments columns",
+            "c": ". Trial balance columns",
+            "d": ". Adjusted trial balance columns"
+        },
+        "answer": "A"
+    },
+    "63": {
+        "question": "Adjusting entries are prepared from",
+        "options": {
+            "a": ". source documents.",
+            "b": ". the adjustments columns of the worksheet.",
+            "c": ". the general ledger.",
+            "d": ". last year's worksheet."
+        },
+        "answer": "B"
+    },
+    "64": {
+        "question": "The net income (or loss) for the period",
+        "options": {
+            "a": ". is found by computing the difference between the income statement credit column and the statement of financial position credit column on the worksheet.",
+            "b": ". cannot be found on the worksheet.",
+            "c": ". is found by computing the difference between the income statement columns of the worksheet.",
+            "d": ". is found by computing the difference between the trial balance totals and the adjusted trial balance totals."
+        },
+        "answer": "C"
+    },
+    "65": {
+        "question": "The worksheet does not show",
+        "options": {
+            "a": ". net income or loss for the period.",
+            "b": ". revenue and expense account balances.",
+            "c": ". the ending balance in Retained Earnings.",
+            "d": ". the trial balance before adjustments."
+        },
+        "answer": "C"
+    },
+    "66": {
+        "question": "If the total debits exceed total credits in the statement of financial position columns of the worksheet, equity",
+        "options": {
+            "a": ". will increase because net income has occurred.",
+            "b": ". will decrease because a net loss has occurred.",
+            "c": ". is in error because a mistake has occurred.",
+            "d": ". will not be affected."
+        },
+        "answer": "A"
+    },
+    "67": {
+        "question": "The income statement and statement of financial position columns of Reed Company's worksheet reflect the following totals:TotalsIncome Statement Statement of Financial Position Dr. Cr. Dr. Cr. $58,000 $45,000 $34,000 $47,000The net income (or loss) for the period is",
+        "options": {
+            "a": ". $45,000 income.",
+            "b": ". $13,000 income.",
+            "c": ". $13,000 loss.",
+            "d": ". not determinable."
+        },
+        "answer": "C"
+    },
+    "68": {
+        "question": "The income statement and statement of financial position columns of Reed Company's worksheet reflect the following totals:TotalsIncome Statement Statement of Financial Position Dr. Cr. Dr. Cr. $58,000 $45,000 $34,000 $47,000To enter the net income (or loss) for the period into the above worksheet requires an entry to the",
+        "options": {
+            "a": ". income statement debit column and the statement of financial position credit column.",
+            "b": ". income statement credit column and the statement of financial position debit column.",
+            "c": ". income statement debit column and the income statement credit column.",
+            "d": ". statement of financial position debit column and the statement of financial position credit column."
+        },
+        "answer": "B"
+    },
+    "69": {
+        "question": "The Statement of Financial Position columns of the worksheet contain data for what financial statement?",
+        "options": {
+            "a": ". Income Statement.",
+            "b": ". Retained Earnings Statement.",
+            "c": ". Statement of Cash Flows.",
+            "d": ". None of these answer choices are correct."
+        },
+        "answer": "D"
+    },
+    "70": {
+        "question": "What amount will be reflected for Retained Earnings in the Statement of Financial Position columns of the worksheet?",
+        "options": {
+            "a": ". \u20ac1,996",
+            "b": ". \u20ac1,760",
+            "c": ". \u20ac1,696",
+            "d": ". \u20ac2,060"
+        },
+        "answer": "B"
+    },
+    "71": {
+        "question": "What will be the total of the Statement of Financial Position credit column?",
+        "options": {
+            "a": ". \u20ac14,224",
+            "b": ". \u20ac10,160",
+            "c": ". \u20ac13,988",
+            "d": ". \u20ac10,396"
+        },
+        "answer": "D"
+    },
+    "72": {
+        "question": "Which of the following accounts is least likely to have its balance change on the worksheet?",
+        "options": {
+            "a": ". Salaries and Wages Payable.",
+            "b": ". Supplies.",
+            "c": ". Accumulated Depreciation.",
+            "d": ". Share Capital-Ordinary."
+        },
+        "answer": "D"
+    },
+    "73": {
+        "question": "Which of the following permanent account is changed during the closing process?",
+        "options": {
+            "a": ". Share Capital-Ordinary.",
+            "b": ". Retained Earnings.",
+            "c": ". Unearned Service Revenue.",
+            "d": ". None of these answer choices are correct."
+        },
+        "answer": "B"
+    },
+    "74": {
+        "question": "The temporary account balances ultimately wind up in what account?",
+        "options": {
+            "a": ". Income Summary.",
+            "b": ". Retained Earnings.",
+            "c": ". Share Capital-Ordinary.",
+            "d": ". Comprehensive Income."
+        },
+        "answer": "B"
+    },
+    "75": {
+        "question": "The permanent accounts appear on which financial statement?",
+        "options": {
+            "a": ". Statement of Financial Position.",
+            "b": ". Income Statement.",
+            "c": ". Retained Earnings Statement.",
+            "d": ". Statement of Cash Flows."
+        },
+        "answer": "A"
+    },
+    "76": {
+        "question": "Closing entries are necessary for",
+        "options": {
+            "a": ". permanent accounts only.",
+            "b": ". temporary accounts only.",
+            "c": ". both permanent and temporary accounts.",
+            "d": ". permanent or real accounts only."
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "Each of the following accounts is closed to Income Summary except",
+        "options": {
+            "a": ". Expenses.",
+            "b": ". Dividends.",
+            "c": ". Revenues.",
+            "d": ". All of these answer choices are correct."
+        },
+        "answer": "B"
+    },
+    "78": {
+        "question": "Closing entries are made",
+        "options": {
+            "a": ". in order to terminate the business as an operating entity.",
+            "b": ". so that all assets, liabilities, and equity accounts will have zero balances when the next accounting period starts.",
+            "c. in order to transfer net income (or loss": "and dividends to Retained Earnings.",
+            "d": ". so that financial statements can be prepared."
+        },
+        "answer": "C"
+    },
+    "79": {
+        "question": "Closing entries are",
+        "options": {
+            "a": ". an optional step in the accounting cycle.",
+            "b": ". posted to the ledger accounts from the worksheet.",
+            "c": ". made to close permanent or real accounts.",
+            "d": ". journalized in the general journal."
+        },
+        "answer": "D"
+    },
+    "80": {
+        "question": "The Income Summary account",
+        "options": {
+            "a": ". is a permanent account.",
+            "b": ". appears on the statement of financial position.",
+            "c": ". appears on the income statement.",
+            "d": ". is a temporary account."
+        },
+        "answer": "D"
+    },
+    "81": {
+        "question": "If Income Summary has a credit balance after revenues and expenses have been closed into it, the closing entry for Income Summary will include a",
+        "options": {
+            "a": ". debit to Retained Earnings.",
+            "b": ". debit to Dividends.",
+            "c": ". credit to Retained Earnings.",
+            "d": ". credit to Dividends."
+        },
+        "answer": "C"
+    },
+    "82": {
+        "question": "Closing entries are journalized and posted",
+        "options": {
+            "a": ". before the financial statements are prepared.",
+            "b": ". after the financial statements are prepared.",
+            "c": ". at management's discretion.",
+            "d": ". at the end of each interim accounting period."
+        },
+        "answer": "B"
+    },
+    "83": {
+        "question": "Closing entries",
+        "options": {
+            "a": ". are prepared before the financial statements.",
+            "b": ". reduce the number of permanent accounts.",
+            "c": ". cause the revenue and expense accounts to have zero balances.",
+            "d": ". summarize the activity in every account."
+        },
+        "answer": "C"
+    },
+    "84": {
+        "question": "Which of the following is a true statement about closing the books of a corporation?",
+        "options": {
+            "a": ". Expenses are closed to the Expense Summary account.",
+            "b": ". Only revenues are closed to the Income Summary account.",
+            "c": ". Revenues and expenses are closed to the Income Summary account.",
+            "d": ". Revenues, expenses, and the Dividends account are closed to the Income Summary account."
+        },
+        "answer": "C"
+    },
+    "85": {
+        "question": "Closing entries may be prepared from all but which one of the following sources?",
+        "options": {
+            "a": ". Adjusted balances in the ledger",
+            "b": ". Income statement and statement of financial position columns of the worksheet",
+            "c": ". Statement of financial position",
+            "d": ". Income and retained earnings statements"
+        },
+        "answer": "C"
+    },
+    "86": {
+        "question": "In order to close the Dividends account, the",
+        "options": {
+            "a": ". income summary account should be debited.",
+            "b": ". income summary account should be credited.",
+            "c": ". retained earnings account should be credited.",
+            "d": ". retained earnings account should be debited."
+        },
+        "answer": "D"
+    },
+    "87": {
+        "question": "In preparing closing entries",
+        "options": {
+            "a": ". each revenue account will be credited.",
+            "b": ". each expense account will be credited.",
+            "c": ". the retained earnings account will be debited if there is net income for the period.",
+            "d": ". the dividends account will be debited."
+        },
+        "answer": "B"
+    },
+    "88": {
+        "question": "The most efficient way to accomplish closing entries is to",
+        "options": {
+            "a": ". credit the income summary account for each revenue account balance.",
+            "b": ". debit the income summary account for each expense account balance.",
+            "c": ". credit the dividends account balance directly to the income summary account.",
+            "d": ". credit the income summary account for total revenues and debit the income summary account for total expenses."
+        },
+        "answer": "D"
+    },
+    "89": {
+        "question": "The closing entry process consists of closing",
+        "options": {
+            "a": ". all asset and liability accounts.",
+            "b": ". out the retained earnings account.",
+            "c": ". all permanent accounts.",
+            "d": ". all temporary accounts."
+        },
+        "answer": "D"
+    },
+    "90": {
+        "question": "The final closing entry to be journalized is typically the entry that closes the",
+        "options": {
+            "a": ". revenue accounts.",
+            "b": ". dividends account.",
+            "c": ". retained earnings account.",
+            "d": ". expense accounts."
+        },
+        "answer": "B"
+    },
+    "91": {
+        "question": "An error has occurred in the closing entry process if",
+        "options": {
+            "a": ". revenue and expense accounts have zero balances.",
+            "b": ". the retained earnings account is credited for the amount of net income.",
+            "c": ". the dividends account is closed to the retained earnings account.",
+            "d": ". the statement of financial position accounts have zero balances."
+        },
+        "answer": "D"
+    },
+    "92": {
+        "question": "The Income Summary account is an important account that is used",
+        "options": {
+            "a": ". during interim periods.",
+            "b": ". in preparing adjusting entries.",
+            "c": ". annually in preparing closing entries.",
+            "d": ". annually in preparing correcting entries."
+        },
+        "answer": "C"
+    },
+    "93": {
+        "question": "The balance in the income summary account before it is closed will be equal to",
+        "options": {
+            "a": ". the net income or loss on the income statement.",
+            "b": ". the beginning balance in the retained earnings account.",
+            "c": ". the ending balance in the retained earnings account.",
+            "d": ". zero."
+        },
+        "answer": "A"
+    },
+    "94": {
+        "question": "After closing entries are posted, the balance in the retained earnings account in the ledger will be equal to",
+        "options": {
+            "a": ". the beginning retained earnings reported on the retained earnings statement.",
+            "b": ". the amount of the retained earnings reported on the statement of financial position.",
+            "c": ". zero.",
+            "d": ". the net income for the period."
+        },
+        "answer": "B"
+    },
+    "95": {
+        "question": "The entry to close the revenue account includes a",
+        "options": {
+            "a": ". debit to Income Summary for \u00a37,800.",
+            "b": ". credit to Income Summary for \u00a37,800.",
+            "c": ". debit to Income Summary for \u00a316,000.",
+            "d": ". credit to Income Summary for \u00a316,000."
+        },
+        "answer": "D"
+    },
+    "96": {
+        "question": "The entry to close the expense accounts includes a",
+        "options": {
+            "a": ". debit to Income Summary for \u00a37,800.",
+            "b": ". credit to Rent Expense for \u00a33,000.",
+            "c": ". credit to Income Summary for \u00a38,200.",
+            "d": ". debit to Salaries and Wages Expense for \u00a32,000."
+        },
+        "answer": "B"
+    },
+    "97": {
+        "question": "After the revenue and expense accounts have been closed, the balance in Income Summary will be",
+        "options": {
+            "a": ". \u00a30.",
+            "b": ". a debit balance of \u00a37,800.",
+            "c": ". a credit balance of \u00a37,800.",
+            "d": ". a credit balance of \u00a316,000."
+        },
+        "answer": "C"
+    },
+    "98": {
+        "question": "The entry to close Income Summary to Retained Earnings includes",
+        "options": {
+            "a": ". a debit to Revenue for \u00a316,000.",
+            "b": ". credits to Expenses totalling \u00a38,200.",
+            "c": ". a credit to Income Summary for \u00a37,800",
+            "d": ". a credit to Retained Earnings for \u00a37,800."
+        },
+        "answer": "D"
+    },
+    "99": {
+        "question": "At June 1, 2017, Taylor reported Retained Earnings of \u00a370,000. The company paid no dividends during June. At June 30, 2017, the company will report Retained Earnings of",
+        "options": {
+            "a": ". \u00a370,000.",
+            "b": ". \u00a386,000.",
+            "c": ". \u00a377,800.",
+            "d": ". \u00a362,200."
+        },
+        "answer": "C"
+    },
+    "100": {
+        "question": "The entry to close the revenue account includes a",
+        "options": {
+            "a": ". debit to Income Summary for $5,000.",
+            "b": ". credit to Income Summary for $5,000.",
+            "c": ". debit to Revenues for $150,000.",
+            "d": ". credit to Revenues for $150,000."
+        },
+        "answer": "C"
+    },
+    "101": {
+        "question": "The entry to close the expense accounts includes a",
+        "options": {
+            "a": ". debit to Income Summary for $5,000.",
+            "b": ". credit to Income Summary for $5,000.",
+            "c": ". debit to Income Summary for $155,000.",
+            "d": ". debit to Salaries and Wages Expense for $90,000."
+        },
+        "answer": "C"
+    },
+    "102": {
+        "question": "After the revenue and expense accounts have been closed, the balance in Income Summary will be",
+        "options": {
+            "a": ". $0.",
+            "b": ". a debit balance of $5,000.",
+            "c": ". a credit balance of $5,000.",
+            "d": ". a credit balance of $150,000."
+        },
+        "answer": "B"
+    },
+    "103": {
+        "question": "The entry to close Income Summary to Retained Earnings includes",
+        "options": {
+            "a": ". a debit to Revenue for $150,000.",
+            "b": ". credits to Expenses totalling $155,000.",
+            "c": ". a credit to Income Summary for $5,000.",
+            "d": ". a credit to Retained Earnings for $5,000."
+        },
+        "answer": "C"
+    },
+    "104": {
+        "question": "At January 1, 2017, Poole reported Retained Earnings of $100,000. Dividends for the year totalled $20,000. At December 31, 2017, the company will report Retained Earnings of",
+        "options": {
+            "a": ". $35,000.",
+            "b": ". $75,000.",
+            "c": ". $80,000.",
+            "d": ". $85,000."
+        },
+        "answer": "B"
+    },
+    "105": {
+        "question": "After all closing entries have been posted, the Income Summary account will have a balance of",
+        "options": {
+            "a": ". $0.",
+            "b": ". $5,000 debit.",
+            "c": ". $5,000 credit.",
+            "d": ". $75,000 credit."
+        },
+        "answer": "A"
+    },
+    "106": {
+        "question": "After all closing entries have been posted, the revenue account will have a balance of",
+        "options": {
+            "a": ". $0.",
+            "b": ". $150,000 credit.",
+            "c": ". $150,000 debit.",
+            "d": ". $5,000 credit."
+        },
+        "answer": "A"
+    },
+    "107": {
+        "question": "A post-closing trial balance is prepared",
+        "options": {
+            "a": ". after closing entries have been journalized and posted.",
+            "b": ". before closing entries have been journalized and posted.",
+            "c": ". after closing entries have been journalized but before the entries are posted.",
+            "d": ". before closing entries have been journalized but after the entries are posted."
+        },
+        "answer": "A"
+    },
+    "108": {
+        "question": "All of the following statements about the post-closing trial balance are correct except it",
+        "options": {
+            "a": ". shows that the accounting equation is in balance.",
+            "b": ". provides evidence that the journalizing and posting of closing entries have been properly completed.",
+            "c": ". contains only permanent accounts.",
+            "d": ". proves that all transactions have been recorded."
+        },
+        "answer": "D"
+    },
+    "109": {
+        "question": "A post-closing trial balance will show",
+        "options": {
+            "a": ". only permanent account balances.",
+            "b": ". only temporary account balances.",
+            "c": ". zero balances for all accounts.",
+            "d. the amount of net income (or loss": "for the period."
+        },
+        "answer": "A"
+    },
+    "110": {
+        "question": "A post-closing trial balance should be prepared",
+        "options": {
+            "a": ". before closing entries are posted to the ledger accounts.",
+            "b": ". after closing entries are posted to the ledger accounts.",
+            "c": ". before adjusting entries are posted to the ledger accounts.",
+            "d": ". only if an error in the accounts is detected."
+        },
+        "answer": "B"
+    },
+    "111": {
+        "question": "A post-closing trial balance will show",
+        "options": {
+            "a": ". zero balances for all accounts.",
+            "b": ". zero balances for statement of financial position accounts.",
+            "c": ". only statement of financial position accounts.",
+            "d": ". only income statement accounts."
+        },
+        "answer": "C"
+    },
+    "112": {
+        "question": "The purpose of the post-closing trial balance is to",
+        "options": {
+            "a": ". prove that no mistakes were made.",
+            "b": ". prove the equality of the statement of financial position account balances that are carried forward into the next accounting period.",
+            "c": ". prove the equality of the income statement account balances that are carried forward into the next accounting period.",
+            "d": ". list all the statement of financial position accounts in alphabetical order for easy reference."
+        },
+        "answer": "B"
+    },
+    "113": {
+        "question": "The balances that appear on the post-closing trial balance will match the",
+        "options": {
+            "a": ". income statement account balances after adjustments.",
+            "b": ". statement of financial position account balances after closing entries.",
+            "c": ". income statement account balances after closing entries.",
+            "d": ". statement of financial position account balances after adjustments."
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "Which account listed below would be double ruled in the ledger as part of the closing process?",
+        "options": {
+            "a": ". Cash",
+            "b": ". Retained Earnings",
+            "c": ". Dividends",
+            "d": ". Accumulated Depreciation"
+        },
+        "answer": "C"
+    },
+    "115": {
+        "question": "A double rule applied to accounts in the ledger during the closing process implies that",
+        "options": {
+            "a": ". the account is an income statement account.",
+            "b": ". the account is a statement of financial position account.",
+            "c": ". the account balance is not zero.",
+            "d": ". a mistake has been made, since double ruling is prescribed."
+        },
+        "answer": "A"
+    },
+    "116": {
+        "question": "The heading for a post-closing trial balance has a date line that is similar to the one found on",
+        "options": {
+            "a": ". a statement of financial position.",
+            "b": ". an income statement.",
+            "c": ". a retained earnings statement.",
+            "d": ". a worksheet."
+        },
+        "answer": "A"
+    },
+    "117": {
+        "question": "Which account balance will change between the adjusted trial balance and the post-closing trial balance?",
+        "options": {
+            "a": ". Retained Earnings",
+            "b": ". Share Capital-Ordinary",
+            "c": ". Interest Payable",
+            "d": ". Accumulated Depreciation"
+        },
+        "answer": "A"
+    },
+    "118": {
+        "question": "Which one of the following is usually prepared only at the end of a company's annual accounting period?",
+        "options": {
+            "a": ". Preparing financial statements",
+            "b": ". Journalizing and posting adjusting entries",
+            "c": ". Journalizing and posting closing entries",
+            "d": ". Preparing an adjusted trial balance"
+        },
+        "answer": "A"
+    },
+    "119": {
+        "question": "The step in the accounting cycle that is performed on a periodic basis (i.e., monthly, quarterly) is",
+        "options": {
+            "a": ". analyzing transactions.",
+            "b": ". journalizing and posting adjusting entries.",
+            "c": ". preparing a post-closing trial balance.",
+            "d": ". posting to ledger accounts."
+        },
+        "answer": "B"
+    },
+    "120": {
+        "question": "Which one of the following is an optional step in the accounting cycle of a business enterprise?",
+        "options": {
+            "a": ". Analyze business transactions",
+            "b": ". Prepare a worksheet",
+            "c": ". Prepare a trial balance",
+            "d": ". Post to the ledger accounts"
+        },
+        "answer": "B"
+    },
+    "121": {
+        "question": "The final step in the accounting cycle is to prepare",
+        "options": {
+            "a": ". closing entries.",
+            "b": ". financial statements.",
+            "c": ". a post-closing trial balance.",
+            "d": ". adjusting entries."
+        },
+        "answer": "C"
+    },
+    "122": {
+        "question": "Which of the following steps in the accounting cycle would not generally be performed daily?",
+        "options": {
+            "a": ". Journalize transactions",
+            "b": ". Post to ledger accounts",
+            "c": ". Prepare adjusting entries",
+            "d": ". Analyze business transactions"
+        },
+        "answer": "C"
+    },
+    "123": {
+        "question": "Which of the following steps in the accounting cycle may be performed most frequently?",
+        "options": {
+            "a": ". Prepare a post-closing trial balance",
+            "b": ". Journalize closing entries",
+            "c": ". Post closing entries",
+            "d": ". Prepare a trial balance"
+        },
+        "answer": "D"
+    },
+    "124": {
+        "question": "Which of the following depicts the proper sequence of steps in the accounting cycle?",
+        "options": {
+            "a": ". Journalize the transactions, analyze business transactions, prepare a trial balance",
+            "b": ". Prepare a trial balance, prepare financial statements, prepare adjusting entries",
+            "c": ". Prepare a trial balance, prepare adjusting entries, prepare financial statements",
+            "d": ". Prepare a trial balance, post to ledger accounts, post adjusting entries"
+        },
+        "answer": "C"
+    },
+    "125": {
+        "question": "The two optional steps in the accounting cycle are preparing",
+        "options": {
+            "a": ". a post-closing trial balance and reversing entries.",
+            "b": ". a worksheet and post-closing trial balances.",
+            "c": ". reversing entries and a worksheet.",
+            "d": ". an adjusted trial balance and a post-closing trial balance."
+        },
+        "answer": "C"
+    },
+    "126": {
+        "question": "The first required step in the accounting cycle is",
+        "options": {
+            "a": ". reversing entries.",
+            "b": ". journalizing transactions in the book of original entry.",
+            "c": ". analyzing transactions.",
+            "d": ". posting transactions."
+        },
+        "answer": "C"
+    },
+    "127": {
+        "question": "Correcting entries",
+        "options": {
+            "a": ". always affect at least one balance sheet account and one income statement account.",
+            "b": ". affect income statement accounts only.",
+            "c": ". affect statement of financial position accounts only.",
+            "d": ". may involve any combination of accounts in need of correction."
+        },
+        "answer": "D"
+    },
+    "128": {
+        "question": "Topeka Bike Company received a $920 check from a customer for the balance due. The transaction was erroneously recorded as a debit to Cash $290 and a credit to Service Revenue $290. The correcting entry is",
+        "options": {
+            "a": ". debit Cash, $920; credit Accounts Receivable, $920.",
+            "b": ". debit Cash, $630 and Accounts Receivable, $290; credit Service Revenue, $920.",
+            "c": ". debit Cash, $630 and Service Revenue, $290; credit Accounts Receivable, $920.",
+            "d": ". debit Accounts Receivable, $920; credit Cash, $630 and Service Revenue, $290."
+        },
+        "answer": "C"
+    },
+    "129": {
+        "question": "If errors occur in the recording process, they",
+        "options": {
+            "a": ". should be corrected as adjustments at the end of the period.",
+            "b": ". should be corrected as soon as they are discovered.",
+            "c": ". should be corrected when preparing closing entries.",
+            "d": ". cannot be corrected until the next accounting period."
+        },
+        "answer": "B"
+    },
+    "130": {
+        "question": "A correcting entry",
+        "options": {
+            "a": ". must involve one statement of financial position account and one income statement account.",
+            "b": ". is another name for a closing entry.",
+            "c": ". may involve any combination of accounts.",
+            "d": ". is a required step in the accounting cycle."
+        },
+        "answer": "C"
+    },
+    "131": {
+        "question": "An unacceptable way to make a correcting entry is to",
+        "options": {
+            "a": ". reverse the incorrect entry.",
+            "b": ". erase the incorrect entry.",
+            "c": ". compare the incorrect entry with the correct entry and make a correcting entry to correct the accounts.",
+            "d": ". correct it immediately upon discovery."
+        },
+        "answer": "B"
+    },
+    "132": {
+        "question": "Farr Company paid the weekly payroll on January 2 by debiting Salaries and Wages Expense for $75,000. The accountant preparing the payroll entry overlooked the fact that Salaries and Wages Expense of $45,000 had been accrued at year end on December 31. The correcting entry is",
+        "options": {
+            "a": ". Salaries and Wages Payable. 45,000 Cash. 45,000",
+            "b": ". Cash. 30,000 Salaries and Wages Expense. 30,000",
+            "c": ". Salaries and Wages Payable. 45,000 Salaries and Wages Expense. 45,000",
+            "d": ". Cash. 45,000 Salaries and Wages Expense. 45,000"
+        },
+        "answer": "C"
+    },
+    "133": {
+        "question": "Stine Company paid \u20ac850 on account to a creditor. The transaction was erroneously recorded as a debit to Cash of \u20ac580 and a credit to Accounts Receivable, \u20ac580. The correcting entry is",
+        "options": {
+            "a": ". Accounts Payable. 850 Cash. 850",
+            "b": ". Accounts Receivable. 580 Cash. 580",
+            "c": ". Accounts Receivable. 580 Accounts Payable. 580",
+            "d": ". Accounts Receivable. 580 Accounts Payable. 850 Cash. 1,430"
+        },
+        "answer": "D"
+    },
+    "134": {
+        "question": "A lawyer collected $620 of legal fees in advance. He erroneously debited Cash for $260 and credited Accounts Receivable for $260. The correcting entry is",
+        "options": {
+            "a": ". Cash. 260 Accounts Receivable. 360 Unearned Service Revenue. 620",
+            "b": ". Cash. 620 Service Revenue. 620",
+            "c": ". Cash. 360 Accounts Receivable. 260 Unearned Service Revenue. 620",
+            "d": ". Cash. 360 Accounts Receivable. 360"
+        },
+        "answer": "C"
+    },
+    "135": {
+        "question": "On May 25, Carlin Company received a $550 check from Andy Jeter for services to be performed in the future. The bookkeeper for Carlin Company incorrectly debited Cash for $550 and credited Accounts Receivable for $550. The amounts have been posted to the ledger. To correct this entry, the bookkeeper should:",
+        "options": {
+            "a": ". debit Cash $550 and credit Unearned Service Revenue $550.",
+            "b": ". debit Accounts Receivable $550 and credit Service Revenue $550.",
+            "c": ". debit Accounts Receivable $550 and credit Cash $550.",
+            "d": ". debit Accounts Receivable $550 and credit Unearned Service Revenue $550."
+        },
+        "answer": "D"
+    },
+    "136": {
+        "question": "On March 8, Fernetti Company bought office supplies on account from the Flint Company for $550. Fernetti Company incorrectly debited Equipment for $500 and credited Accounts Payable for $500. The entries have been posted to the ledger. the correcting entry should be:",
+        "options": {
+            "a": ". Supplies. 550 Accounts Payable. 550",
+            "b": ". Supplies. 550 Accounts Payable. 500 Equipment. 50",
+            "c": ". Supplies. 550 Equipment. 550",
+            "d": ". Supplies. 550 Equipment. 500 Accounts Payable. 50"
+        },
+        "answer": "D"
+    },
+    "137": {
+        "question": "The total amount of assets to be classified as current assets is",
+        "options": {
+            "a": ". \u00a51,160,000.",
+            "b": ". \u00a5860,000.",
+            "c": ". \u00a5720,000.",
+            "d": ". \u00a5580,000."
+        },
+        "answer": "B"
+    },
+    "138": {
+        "question": "The total amount of assets to be classified as property, plant, and equipment is",
+        "options": {
+            "a": ". \u00a51,280,000.",
+            "b": ". \u00a5680,000.",
+            "c": ". \u00a5980,000.",
+            "d": ". \u00a5760,000."
+        },
+        "answer": "B"
+    },
+    "139": {
+        "question": "The total amount of assets to be classified as investments is",
+        "options": {
+            "a": ". \u00a50.",
+            "b": ". \u00a5600,000.",
+            "c": ". \u00a5300,000.",
+            "d": ". \u00a5720,000."
+        },
+        "answer": "C"
+    },
+    "140": {
+        "question": "The total amount of liabilities to be classified as current liabilities is",
+        "options": {
+            "a": ". \u00a5280,000.",
+            "b": ". \u00a5240,000.",
+            "c": ". \u00a5600,000.",
+            "d": ". \u00a5640,000."
+        },
+        "answer": "A"
+    },
+    "141": {
+        "question": "The total dollar amount of assets to be classified as current assets is",
+        "options": {
+            "a": ". $1,320,000.",
+            "b": ". $900,000.",
+            "c": ". $1,800,000.",
+            "d": ". $1,080,000."
+        },
+        "answer": "A"
+    },
+    "142": {
+        "question": "The total dollar amount of assets to be classified as property, plant, and equipment is",
+        "options": {
+            "a": ". $1,890,000.",
+            "b": ". $1,470,000.",
+            "c": ". $990,000.",
+            "d": ". $1,170,000."
+        },
+        "answer": "C"
+    },
+    "143": {
+        "question": "The total dollar amount of assets to be classified as investments is",
+        "options": {
+            "a": ". $0.",
+            "b": ". $900,000.",
+            "c": ". $480,000.",
+            "d": ". $1,080,000."
+        },
+        "answer": "C"
+    },
+    "144": {
+        "question": "The total dollar amount of liabilities to be classified as current liabilities is",
+        "options": {
+            "a": ". $390,000.",
+            "b": ". $450,000.",
+            "c": ". $930,000.",
+            "d": ". $990,000."
+        },
+        "answer": "B"
+    },
+    "145": {
+        "question": "All of the following are property, plant, and equipment except",
+        "options": {
+            "a": ". supplies.",
+            "b": ". machinery.",
+            "c": ". land.",
+            "d": ". buildings."
+        },
+        "answer": "A"
+    },
+    "146": {
+        "question": "The first item listed under current liabilities is usually",
+        "options": {
+            "a": ". accounts payable.",
+            "b": ". notes payable.",
+            "c": ". salaries and wages payable.",
+            "d": ". taxes payable."
+        },
+        "answer": "A"
+    },
+    "147": {
+        "question": "Equipment is classified in the statement of financial position as",
+        "options": {
+            "a": ". a current asset.",
+            "b": ". property, plant, and equipment.",
+            "c": ". an intangible asset.",
+            "d": ". a long-term investment."
+        },
+        "answer": "B"
+    },
+    "148": {
+        "question": "A current asset is",
+        "options": {
+            "a": ". the last asset purchased by a business.",
+            "b": ". an asset which is currently being used to produce a product or service.",
+            "c": ". usually found as a separate classification in the income statement.",
+            "d": ". an asset that a company expects to convert to cash or use up within one year."
+        },
+        "answer": "D"
+    },
+    "149": {
+        "question": "An intangible asset",
+        "options": {
+            "a": ". does not have physical substance, yet often is very valuable.",
+            "b": ". is worthless because it has no physical substance.",
+            "c": ". is converted into a tangible asset during the operating cycle.",
+            "d": ". cannot be classified on the statement of financial position because it lacks physical substance."
+        },
+        "answer": "A"
+    },
+    "150": {
+        "question": "Liabilities are generally classified on a statement of financial position as",
+        "options": {
+            "a": ". small liabilities and large liabilities.",
+            "b": ". present liabilities and future liabilities.",
+            "c": ". tangible liabilities and intangible liabilities.",
+            "d": ". current liabilities and non-current liabilities."
+        },
+        "answer": "D"
+    },
+    "151": {
+        "question": "Which of the following would not be classified as a non-current liability?",
+        "options": {
+            "a": ". Current maturities of long-term debt",
+            "b": ". Bonds payable",
+            "c": ". Mortgage payable",
+            "d": ". Lease liabilities"
+        },
+        "answer": "A"
+    },
+    "152": {
+        "question": "Which of the following liabilities are not related to the operating cycle?",
+        "options": {
+            "a": ". Salaries and wages payable",
+            "b": ". Accounts payable",
+            "c": ". Utilities payable",
+            "d": ". Bonds payable"
+        },
+        "answer": "D"
+    },
+    "153": {
+        "question": "Intangible assets include each of the following except",
+        "options": {
+            "a": ". copyrights.",
+            "b": ". goodwill.",
+            "c": ". land improvements.",
+            "d": ". patents."
+        },
+        "answer": "C"
+    },
+    "154": {
+        "question": "It is not true that current assets are assets that a company expects to",
+        "options": {
+            "a": ". realize in cash within one year.",
+            "b": ". sell within one year.",
+            "c": ". use up within one year.",
+            "d": ". acquire within one year."
+        },
+        "answer": "D"
+    },
+    "155": {
+        "question": "The operating cycle of a company is the average time that is required to go from cash to",
+        "options": {
+            "a": ". sales in producing revenues.",
+            "b": ". cash in producing revenues.",
+            "c": ". inventory in producing revenues.",
+            "d": ". accounts receivable in producing revenues."
+        },
+        "answer": "B"
+    },
+    "156": {
+        "question": "On a classified statement of financial position, current assets are customarily listed",
+        "options": {
+            "a": ". in alphabetical order.",
+            "b": ". with the largest dollar amounts first.",
+            "c": ". in the reverse order of liquidity.",
+            "d": ". in the order of acquisition."
+        },
+        "answer": "C"
+    },
+    "157": {
+        "question": "Intangible assets are",
+        "options": {
+            "a": ". listed under current assets on the statement of financial position.",
+            "b": ". not listed on the statement of financial position because they do not have physical substance.",
+            "c": ". non-current resources.",
+            "d": ". listed as a long-term investment on the statement of financial position."
+        },
+        "answer": "C"
+    },
+    "158": {
+        "question": "The relationship between current assets and current liabilities is important in evaluating a company's",
+        "options": {
+            "a": ". profitability.",
+            "b": ". liquidity.",
+            "c": ". market value.",
+            "d": ". accounting cycle."
+        },
+        "answer": "B"
+    },
+    "159": {
+        "question": "The most important information needed to determine if companies can pay their current obligations is the",
+        "options": {
+            "a": ". net income for this year.",
+            "b": ". projected net income for next year.",
+            "c": ". relationship between current assets and current liabilities.",
+            "d": ". relationship between short-term and non-current liabilities."
+        },
+        "answer": "C"
+    },
+    "160": {
+        "question": "What is the company's net income for the year ending December 31, 2017?",
+        "options": {
+            "a": ". \u00a5532,000",
+            "b": ". \u00a5168,000",
+            "c": ". \u00a5112,000",
+            "d": ". \u00a548,000"
+        },
+        "answer": "B"
+    },
+    "161": {
+        "question": "What is the balance that would be reported for equity at December 31, 2017?",
+        "options": {
+            "a": ". \u00a5408,000",
+            "b": ". \u00a5520,000",
+            "c": ". \u00a5576,000",
+            "d": ". \u00a5632,000"
+        },
+        "answer": "B"
+    },
+    "162": {
+        "question": "What are total current assets at December 31, 2017?",
+        "options": {
+            "a": ". \u00a5104,000",
+            "b": ". \u00a5128,000",
+            "c": ". \u00a5144,000",
+            "d": ". \u00a5872,000"
+        },
+        "answer": "C"
+    },
+    "163": {
+        "question": "What is the book value of the equipment at December 31, 2017?",
+        "options": {
+            "a": ". \u00a5952,000",
+            "b": ". \u00a5840,000",
+            "c": ". \u00a5728,000",
+            "d": ". \u00a5680,000"
+        },
+        "answer": "C"
+    },
+    "164": {
+        "question": "What are total current liabilities at December 31, 2017?",
+        "options": {
+            "a": ". \u00a572,000",
+            "b": ". \u00a5280,000",
+            "c": ". \u00a5352,000",
+            "d": ". \u00a50"
+        },
+        "answer": "C"
+    },
+    "165": {
+        "question": "What are total non-current liabilities at December 31, 2017?",
+        "options": {
+            "a": ". \u00a50",
+            "b": ". \u00a5280,000",
+            "c": ". \u00a5352,000",
+            "d": ". \u00a5360,000"
+        },
+        "answer": "B"
+    },
+    "166": {
+        "question": "What is total equity and liabilities at December 31, 2017?",
+        "options": {
+            "a": ". \u00a5704,000",
+            "b": ". \u00a5760,000",
+            "c": ". \u00a5872,000",
+            "d": ". \u00a5928,000"
+        },
+        "answer": "C"
+    },
+    "167": {
+        "question": "The sub-classifications for assets on the company's classified statement of financial position would include all of the following except",
+        "options": {
+            "a": ". Current Assets.",
+            "b": ". Property, Plant, and Equipment.",
+            "c": ". Intangible Assets.",
+            "d": ". Long-term Assets."
+        },
+        "answer": "D"
+    },
+    "168": {
+        "question": "The current assets should be listed on Huang's statement of financial position in the following order",
+        "options": {
+            "a": ". accounts receivable, prepaid insurance, equipment, cash.",
+            "b": ". accounts receivable, prepaid insurance, supplies, cash.",
+            "c": ". prepaid insurance, supplies, accounts, receivable, cash.",
+            "d": ". equipment, supplies, prepaid insurance, accounts receivable, cash."
+        },
+        "answer": "C"
+    },
+    "169": {
+        "question": "Which statement about long-term investments is not true?",
+        "options": {
+            "a": ". They will be held for more than one year.",
+            "b": ". They are not currently used in the operation of the business.",
+            "c": ". They include investments in shares of other companies and land held for future use.",
+            "d": ". They can never include cash accounts."
+        },
+        "answer": "D"
+    },
+    "170": {
+        "question": "What is the order in which assets are generally listed on a classified statement of financial position?",
+        "options": {
+            "a": ". Current and long-term.",
+            "b": ". Intangible assets; long-term investments; property, plant, and equipment; current.",
+            "c": ". Long-term investments; property, plant, and equipment; intangible assets; current",
+            "d": ". Intangible assets; property, plant, and equipment; long-term investments; current."
+        },
+        "answer": "B"
+    },
+    "171": {
+        "question": "What is the total amount of property, plant, and equipment that will appear on the statement of financial position?",
+        "options": {
+            "a": ". $5,700,000",
+            "b": ". $4,900,000",
+            "c": ". $6,900,000",
+            "d": ". $4,300,000"
+        },
+        "answer": "D"
+    },
+    "172": {
+        "question": "What is the total amount of property, plant, and equipment that will be reported on the statement of financial position?",
+        "options": {
+            "a": ". $4,500,000",
+            "b": ". $3,900,000",
+            "c": ". $5,400,000",
+            "d": ". $3,450,000"
+        },
+        "answer": "D"
+    },
+    "173": {
+        "question": "Which classification of assets will appear first in the Statement of Financial Position?",
+        "options": {
+            "a": ". Current Assets.",
+            "b": ". Long-term investments.",
+            "c": ". Property, Plant and Equipment.",
+            "d": ". Intangible Assets."
+        },
+        "answer": "A"
+    },
+    "174": {
+        "question": "Which classification of assets will appear last in the Statement of Financial Position?",
+        "options": {
+            "a": ". Intangible Assets.",
+            "b": ". Current Assets.",
+            "c": ". Long-term investments.",
+            "d": ". Property, Plant and Equipment."
+        },
+        "answer": "B"
+    },
+    "175": {
+        "question": "Which account will appear last under the current assets classification on the Statement of Financial Position?",
+        "options": {
+            "a": ". Accounts Receivable.",
+            "b": ". Prepaid Expenses.",
+            "c": ". Short-term investments.",
+            "d": ". Cash."
+        },
+        "answer": "D"
+    },
+    "176": {
+        "question": "Which of the following classification appears last in the Statement of Financial Position?",
+        "options": {
+            "a": ". Non-current Liabilities.",
+            "b": ". Equity.",
+            "c": ". Current Liabilities.",
+            "d": ". Reserves."
+        },
+        "answer": "C"
+    },
+    "177": {
+        "question": "Which of the following is in the proper position?",
+        "options": {
+            "a": ". Equity; Current Liabilities; Non-current Liabilities.",
+            "b": ". Equity; Non-current Liabilities; Current Liabilities.",
+            "c": ". Current Liabilities; Non-current Liabilities; Equity.",
+            "d": ". Non-Current Liabilities; Current Liabilities; Equity."
+        },
+        "answer": "B"
+    },
+    "178": {
+        "question": "Total assets on the Statement of Financial Position for 2017 are:",
+        "options": {
+            "a": ". \u00a565,862.",
+            "b": ". \u00a548,897.",
+            "c": ". \u00a582,827.",
+            "d": ". \u00a546,257."
+        },
+        "answer": "B"
+    },
+    "179": {
+        "question": "The subtotal of the last asset classification on the 2014 Statement of Financial Position is:",
+        "options": {
+            "a": ". \u00a517,535.",
+            "b": ". \u00a527,930.",
+            "c": ". \u00a534,500.",
+            "d": ". \u00a530,570."
+        },
+        "answer": "D"
+    },
+    "180": {
+        "question": "The subtotal of the first asset classification on the 2017 Statement of Financial Position is:",
+        "options": {
+            "a": ". \u00a530,570",
+            "b": ". \u00a527,930",
+            "c": ". \u00a5792",
+            "d": ". \u00a511,070"
+        },
+        "answer": "C"
+    },
+    "181": {
+        "question": "The subtotal of the last equity and liabilities classification on the 2017 Statement of Financial Position is:",
+        "options": {
+            "a": ". \u00a55,775.",
+            "b": ". \u00a53,933.",
+            "c": ". \u00a539,189.",
+            "d": ". \u00a54,332."
+        },
+        "answer": "A"
+    },
+    "182": {
+        "question": "Which of the following is in the proper order?",
+        "options": {
+            "a": ". Cash; Short-term Investments; Accounts Receivable; Inventories; Supplies.",
+            "b": ". Cash; Short-term Investments; Inventories; Accounts Receivable; Supplies.",
+            "c": ". Supplies; Inventories; Accounts Receivables; Short-term Investments; Cash.",
+            "d": ". Supplies; Accounts Receivables; Inventories; Short-term Investments; Cash."
+        },
+        "answer": "C"
+    },
+    "183": {
+        "question": "Which of the following accounts does not appear in the Statement of Financial Position?",
+        "options": {
+            "a": ". Retained Earnings",
+            "b": ". Unearned Revenues",
+            "c": ". Dividends",
+            "d": ". Share Capital-Ordinary"
+        },
+        "answer": "C"
+    },
+    "184": {
+        "question": "A reversing entry",
+        "options": {
+            "a": ". reverses entries that were made in error.",
+            "b": ". is the exact opposite of an adjusting entry made in a previous period.",
+            "c": ". is made when a business disposes of an asset it previously purchased.",
+            "d": ". is made when a company sustains a loss in one period and reverses the effect with a profit in the next period."
+        },
+        "answer": "B"
+    },
+    "185": {
+        "question": "If a company utilizes reversing entries, they will",
+        "options": {
+            "a": ". be made at the beginning of the next accounting period.",
+            "b": ". not actually be posted to the general ledger accounts.",
+            "c": ". be made before the post-closing trial balance.",
+            "d": ". be part of the adjusting entry process."
+        },
+        "answer": "A"
+    },
+    "186": {
+        "question": "The steps in the preparation of a worksheet do not include",
+        "options": {
+            "a": ". analyzing documentary evidence.",
+            "b": ". preparing a trial balance on the worksheet.",
+            "c": ". entering the adjustments in the adjustment columns.",
+            "d": ". entering adjusted balances in the adjusted trial balance columns."
+        },
+        "answer": "A"
+    },
+    "187": {
+        "question": "Statement of financial position accounts are considered to be",
+        "options": {
+            "a": ". temporary owner's equity accounts.",
+            "b": ". permanent accounts.",
+            "c": ". capital accounts.",
+            "d": ". nominal accounts."
+        },
+        "answer": "B"
+    },
+    "188": {
+        "question": "Income Summary has a credit balance of $12,000 in J. Wenger Co. after closing revenues and expenses. The entry to close Income Summary is",
+        "options": {
+            "a": ". credit Income Summary $12,000, debit Retained Earnings $12,000.",
+            "b": ". credit Income Summary $12,000, debit Dividends $12,000.",
+            "c": ". debit Income Summary $12,000, credit Dividends $12,000.",
+            "d": ". debit Income Summary $12,000, credit Retained Earnings $12,000."
+        },
+        "answer": "D"
+    },
+    "189": {
+        "question": "The post-closing trial balance contains only",
+        "options": {
+            "a": ". income statement accounts.",
+            "b": ". statement of financial position accounts.",
+            "c": ". statement of financial position and income statement accounts.",
+            "d": ". income statement, statement of financial position, and equity statement accounts."
+        },
+        "answer": "B"
+    },
+    "190": {
+        "question": "Which of the following is an optional step in the accounting cycle?",
+        "options": {
+            "a": ". Adjusting entries",
+            "b": ". Closing entries",
+            "c": ". Correcting entries",
+            "d": ". Reversing entries"
+        },
+        "answer": "D"
+    },
+    "191": {
+        "question": "Which one of the following statements concerning the accounting cycle is incorrect?",
+        "options": {
+            "a": ". The accounting cycle includes journalizing transactions and posting to ledger accounts.",
+            "b": ". The accounting cycle includes only one optional step.",
+            "c": ". The steps in the accounting cycle are performed in sequence.",
+            "d": ". The steps in the accounting cycle are repeated in each accounting period."
+        },
+        "answer": "B"
+    },
+    "192": {
+        "question": "Correcting entries are made",
+        "options": {
+            "a": ". at the beginning of an accounting period.",
+            "b": ". at the end of an accounting period.",
+            "c": ". whenever an error is discovered.",
+            "d": ". after closing entries."
+        },
+        "answer": "C"
+    },
+    "193": {
+        "question": "On September 23, Riley Company received a $350 check from Jack Colaw for services to be performed in the future. The bookkeeper for Riley Company incorrectly debited Cash for $350 and credited Accounts Receivable for $350. The amounts have been posted to the ledger. To correct this entry, the bookkeeper should",
+        "options": {
+            "a": ". debit Cash $350 and credit Unearned Service Revenue $350.",
+            "b": ". debit Accounts Receivable $350 and credit Unearned Service Revenue $350.",
+            "c": ". debit Accounts Receivable $350 and credit Cash $350.",
+            "d": ". debit Accounts Receivable $350 and credit Service Revenue $350."
+        },
+        "answer": "B"
+    },
+    "194": {
+        "question": "All of the following are equity accounts except",
+        "options": {
+            "a": ". Retained Earnings.",
+            "b": ". Share Capital.",
+            "c": ". Investment in Share.",
+            "d": ". Dividends."
+        },
+        "answer": "C"
+    },
+    "195": {
+        "question": "Current liabilities",
+        "options": {
+            "a": ". are obligations that the company is to pay within the forthcoming year.",
+            "b": ". are listed in the statement of financial position in order of their expected maturity.",
+            "c": ". are listed in the statement of financial position starting with accounts payable.",
+            "d": ". should not include long-term debt that is expected to be paid within the next year."
+        },
+        "answer": "A"
+    },
+    "196": {
+        "question": "The use of reversing entries",
+        "options": {
+            "a": ". is a required step in the accounting cycle.",
+            "b": ". changes the amounts reported in their financial statements.",
+            "c": ". simplifies the recording of subsequent transactions.",
+            "d": ". is required for all adjusting entries."
+        },
+        "answer": "C"
+    }
+}
