@@ -1,5 +1,17 @@
 [
     {
+        "name": "Business Accounting Chapter 1 - 11e",
+        "file": "ba-chapter1-11e.json"
+    },
+    {
+        "name": "Business Accounting Chapter 2 - 11e",
+        "file": "ba-chapter2-11e.json"
+    },
+    {
+        "name": "Business Accounting Chapter 3 - 10e",
+        "file": "ba-chapter3-10e.json"
+    },
+    {
         "name": "Machine Learning Chapter 1 - Introduction",
         "file": "ml-chapter1.json"
     },
