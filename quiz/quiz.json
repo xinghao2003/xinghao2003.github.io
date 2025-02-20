@@ -24,6 +24,14 @@
         "file": "ml-chapter2.json"
     },
     {
+        "name": "Machine Learning Chapter 3 - Feature Engineering",
+        "file": "ml-chapter3.json"
+    },
+    {
+        "name": "Machine Learning Chapter 4 - Feature Scaling and Selection",
+        "file": "ml-chapter4.json"
+    },
+    {
         "name": "Big Data Analytics Topic 1 - Understanding Big Data",
         "file": "bda-topic1.json"
     },
