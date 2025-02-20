@@ -1,0 +1,482 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a core concept related to Machine Learning?",
+    "answer": "C",
+    "options": {
+      "A": "Data Mining",
+      "B": "Deep Learning",
+      "C": "Quantum Computing",
+      "D": "Predictive Model"
+    }
+  },
+  "2": {
+    "question": "Feature engineering can be performed on which types of data?",
+    "answer": "B",
+    "options": {
+      "A": "Numeric and Categorical",
+      "B": "All of the above",
+      "C": "Image",
+      "D": "Text and Temporal"
+    }
+  },
+  "3": {
+    "question": "What does CRISP-DM stand for?",
+    "answer": "B",
+    "options": {
+      "A": "Cross-Industry Standard Process for Data Management",
+      "B": "Cross-Industry Standard Process for Data Mining",
+      "C": "Critical Industry Standard Process for Data Management",
+      "D": "Cross-Industry Standard Procedure for Data Mining"
+    }
+  },
+  "4": {
+    "question": "Which phase of CRISP-DM immediately follows Data Understanding?",
+    "answer": "A",
+    "options": {
+      "A": "Data Preparation",
+      "B": "Modeling",
+      "C": "Business Understanding",
+      "D": "Deployment"
+    }
+  },
+  "5": {
+    "question": "In the standard machine learning pipeline, what step comes after Feature Extraction & Engineering?",
+    "answer": "D",
+    "options": {
+      "A": "Deployment & Monitoring",
+      "B": "Data Retrieval",
+      "C": "Modeling",
+      "D": "Feature Scaling & Selection"
+    }
+  },
+  "6": {
+    "question": "The machine learning pipeline is described as:",
+    "answer": "C",
+    "options": {
+      "A": "A static process",
+      "B": "A single-step process",
+      "C": "An iterative process",
+      "D": "A linear process"
+    }
+  },
+  "7": {
+    "question": "Why is feature scaling important?",
+    "answer": "D",
+    "options": {
+      "A": "It always improves model accuracy.",
+      "B": "It is only necessary for tree-based models.",
+      "C": "It makes the data look better.",
+      "D": "It prevents models from being biased towards high-magnitude features."
+    }
+  },
+  "8": {
+    "question": "Which type of models are typically *not* sensitive to the scale of features?",
+    "answer": "B",
+    "options": {
+      "A": "Linear Regression",
+      "B": "Tree-based methods",
+      "C": "Logistic Regression",
+      "D": "Support Vector Machines"
+    }
+  },
+  "9": {
+    "question": "Standardized scaling removes the ______ and scales the variance to ______.",
+    "answer": "A",
+    "options": {
+      "A": "mean, one",
+      "B": "mean, zero",
+      "C": "mode, one",
+      "D": "median, zero"
+    }
+  },
+  "10": {
+    "question": "What is the formula for standardized scaling (z-score)?",
+    "answer": "A",
+    "options": {
+      "A": "SS(Xi) = (Xi - μX) / σX",
+      "B": "SS(Xi) = (Xi - median(X)) / IQR(X)",
+      "C": "SS(Xi) = (Xi - min(X)) / (max(X) - min(X))",
+      "D": "SS(Xi) = Xi / max(X)"
+    }
+  },
+  "11": {
+    "question": "What is the range of values after min-max scaling?",
+    "answer": "B",
+    "options": {
+      "A": "[-1, 1]",
+      "B": "[0, 1]",
+      "C": "[-infinity, infinity]",
+      "D": "[0, infinity]"
+    }
+  },
+  "12": {
+    "question": "What is the formula for Min-Max Scaling?",
+    "answer": "D",
+    "options": {
+      "A": "MMS(Xi) = Xi / max(X)",
+      "B": "MMS(Xi) = (Xi - μX) / σX",
+      "C": "MMS(Xi) = (Xi - median(X)) / IQR(X)",
+      "D": "MMS(Xi) = (Xi - min(X)) / (max(X) - min(X))"
+    }
+  },
+  "13": {
+    "question": "Which statistical measures does robust scaling use?",
+    "answer": "A",
+    "options": {
+      "A": "Median and IQR",
+      "B": "Mode and range",
+      "C": "Mean and variance",
+      "D": "Mean and standard deviation"
+    }
+  },
+  "14": {
+    "question": "What is the formula for Robust Scaling?",
+    "answer": "C",
+    "options": {
+      "A": "RS(Xi) = Xi / max(X)",
+      "B": "RS(Xi) = (Xi - μX) / σX",
+      "C": "RS(Xi) = (Xi - median(X)) / IQR(X)",
+      "D": "RS(Xi) = (Xi - min(X)) / (max(X) - min(X))"
+    }
+  },
+  "15": {
+    "question": "The 'curse of dimensionality' refers to issues arising from:",
+    "answer": "B",
+    "options": {
+      "A": "Incorrectly scaled features",
+      "B": "A large number of features",
+      "C": "Categorical features",
+      "D": "Too few features"
+    }
+  },
+  "16": {
+    "question": "what is the ultimate objective of feature selection?",
+    "answer": "C",
+    "options": {
+      "A": "To select the correlated number of features to train and build models",
+      "B": "To select the least number of features to train and build models",
+      "C": "To select an optimal number of features to train and build models",
+      "D": "To select all number of features to train and build models"
+    }
+  },
+  "17": {
+    "question": "Which of the following is NOT a main category of feature selection strategies?",
+    "answer": "A",
+    "options": {
+      "A": "Scaling methods",
+      "B": "Wrapper methods",
+      "C": "Filter methods",
+      "D": "Embedded methods"
+    }
+  },
+  "18": {
+    "question": "Filter methods select features based on:",
+    "answer": "B",
+    "options": {
+      "A": "Model complexity",
+      "B": "Metrics like correlation and mutual information",
+      "C": "Recursive elimination",
+      "D": "Model performance"
+    }
+  },
+  "19": {
+    "question": "Threshold-Based Methods is a ______ based feature selection strategy.",
+    "answer": "C",
+    "options": {
+      "A": "Embedded",
+      "B": "Scaling",
+      "C": "filter",
+      "D": "Wrapper"
+    }
+  },
+  "20": {
+    "question": "Statistical Methods is a ______ based feature selection method",
+    "answer": "B",
+    "options": {
+      "A": "Scaling",
+      "B": "filter",
+      "C": "Wrapper",
+      "D": "Embedded"
+    }
+  },
+  "21": {
+    "question": "Wrapper methods use a ______ approach to build multiple models.",
+    "answer": "B",
+    "options": {
+      "A": "linear",
+      "B": "recursive",
+      "C": "static",
+      "D": "random"
+    }
+  },
+  "22": {
+    "question": "Recursive Feature Elimination is a ______ based feature selection technique",
+    "answer": "B",
+    "options": {
+      "A": "Scaling",
+      "B": "Wrapper",
+      "C": "Embedded",
+      "D": "filter"
+    }
+  },
+  "23": {
+    "question": "Embedded methods leverage ______ to rank feature importance.",
+    "answer": "B",
+    "options": {
+      "A": "User feedback",
+      "B": "Machine Learning models",
+      "C": "Statistical tests",
+      "D": "Correlation matrices"
+    }
+  },
+  "24": {
+    "question": "Model-Based Selection can be used as an ______ feature selection method.",
+    "answer": "B",
+    "options": {
+      "A": "Scaling",
+      "B": "Embedded",
+      "C": "Wrapper",
+      "D": "filter"
+    }
+  },
+  "25": {
+    "question": "Why is feature scaling important in machine learning?",
+    "answer": "A",
+    "options": {
+      "A": "To prevent features with larger values from dominating models, especially distance-based models.",
+      "B": "To prevent models from overfitting the training data.",
+      "C": "To increase the number of features in the dataset.",
+      "D": "To ensure models are biased towards features with high magnitude."
+    }
+  },
+  "26": {
+    "question": "Which types of machine learning models are typically sensitive to the scale of features?",
+    "answer": "B",
+    "options": {
+      "A": "Models that use feature importance like Random Forest.",
+      "B": "Linear models like Linear Regression and Logistic Regression.",
+      "C": "Tree-based models like Decision Trees.",
+      "D": "Ensemble models that are robust to outliers."
+    }
+  },
+  "27": {
+    "question": "What is the primary goal of Standardized Scaling?",
+    "answer": "B",
+    "options": {
+      "A": "To reduce the variance of the features.",
+      "B": "To transform features to have a mean of 0 and a standard deviation of 1.",
+      "C": "To make the data robust to outliers.",
+      "D": "To scale features to a range between 0 and 1."
+    }
+  },
+  "28": {
+    "question": "The formula for Standardized Scaling (Z-score) is:",
+    "answer": "C",
+    "options": {
+      "A": "Z = (X - min(X)) / (max(X) - min(X))",
+      "B": "Z = (X - median(X)) / IQR",
+      "C": "Z = (X - μ) / σ",
+      "D": "Z = X / max(abs(X))"
+    }
+  },
+  "29": {
+    "question": "What is the typical range of values after applying Min-Max Scaling?",
+    "answer": "A",
+    "options": {
+      "A": "[0, 1]",
+      "B": "[-1, 1]",
+      "C": "Standard deviation of 1",
+      "D": "[-3, 3]"
+    }
+  },
+  "30": {
+    "question": "Which of the following is a disadvantage of Min-Max Scaling?",
+    "answer": "A",
+    "options": {
+      "A": "It is sensitive to outliers.",
+      "B": "It always results in negative values.",
+      "C": "It does not preserve the shape of the original distribution.",
+      "D": "It is computationally expensive."
+    }
+  },
+  "31": {
+    "question": "What statistical measures are used in Robust Scaling to handle outliers?",
+    "answer": "A",
+    "options": {
+      "A": "Median and Interquartile Range (IQR)",
+      "B": "Minimum and Maximum values",
+      "C": "Variance and Range",
+      "D": "Mean and Standard Deviation"
+    }
+  },
+  "32": {
+    "question": "Why is Robust Scaling considered more effective in handling outliers compared to Min-Max Scaling?",
+    "answer": "B",
+    "options": {
+      "A": "Because it scales features to a wider range.",
+      "B": "Because it uses the IQR which is less sensitive to extreme values than the range.",
+      "C": "Because it uses the mean instead of the median.",
+      "D": "Because it scales features to a smaller range."
+    }
+  },
+  "33": {
+    "question": "What is the 'curse of dimensionality' in the context of machine learning?",
+    "answer": "D",
+    "options": {
+      "A": "Having too few features in the dataset.",
+      "B": "Having a dataset with too many rows.",
+      "C": "The difficulty in scaling features effectively.",
+      "D": "The problems that arise when working with high-dimensional data (many features)."
+    }
+  },
+  "34": {
+    "question": "Feature selection is primarily used to address which problem in machine learning?",
+    "answer": "C",
+    "options": {
+      "A": "Underfitting",
+      "B": "Class imbalance",
+      "C": "Overfitting and curse of dimensionality",
+      "D": "Data scarcity"
+    }
+  },
+  "35": {
+    "question": "How do Filter methods select features?",
+    "answer": "B",
+    "options": {
+      "A": "By recursively eliminating features.",
+      "B": "Based on statistical metrics like correlation and mutual information.",
+      "C": "By evaluating feature subsets with a learning algorithm.",
+      "D": "By embedding feature selection within the model training process."
+    }
+  },
+  "36": {
+    "question": "Which of the following is a characteristic of Filter methods?",
+    "answer": "A",
+    "options": {
+      "A": "They are computationally efficient and algorithm-independent.",
+      "B": "They capture feature interactions.",
+      "C": "They are computationally expensive.",
+      "D": "They are dependent on the choice of learning algorithm."
+    }
+  },
+  "37": {
+    "question": "What is the primary principle behind Threshold-Based feature selection methods?",
+    "answer": "B",
+    "options": {
+      "A": "Selecting features based on feature importance from models.",
+      "B": "Limiting features based on cut-off or thresholding criteria.",
+      "C": "Selecting features based on model performance.",
+      "D": "Selecting features based on recursive elimination."
+    }
+  },
+  "38": {
+    "question": "In scikit-learn's CountVectorizer, what do `min_df` and `max_df` parameters control?",
+    "answer": "A",
+    "options": {
+      "A": "Minimum and maximum document frequency of terms.",
+      "B": "Minimum and maximum feature values.",
+      "C": "Minimum and maximum depth of decision trees.",
+      "D": "Minimum and maximum number of features to select."
+    }
+  },
+  "39": {
+    "question": "What is the main approach used in Statistical Methods for feature selection?",
+    "answer": "C",
+    "options": {
+      "A": "Evaluating subsets of features using models.",
+      "B": "Embedding feature selection in model training.",
+      "C": "Assessing each feature independently using statistical tests.",
+      "D": "Using recursive feature elimination."
+    }
+  },
+  "40": {
+    "question": "Examples of univariate statistical tests used in feature selection include:",
+    "answer": "B",
+    "options": {
+      "A": "Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA)",
+      "B": "Chi-square, ANOVA, Mutual Information",
+      "C": "Recursive Feature Elimination (RFE), SelectFromModel",
+      "D": "Ridge Regression, Lasso Regression"
+    }
+  },
+  "41": {
+    "question": "How do Wrapper methods evaluate feature subsets?",
+    "answer": "A",
+    "options": {
+      "A": "By training a model on each feature subset and evaluating performance.",
+      "B": "By using statistical measures independent of a learning algorithm.",
+      "C": "By ranking features based on importance scores from a model.",
+      "D": "By setting thresholds on feature variance."
+    }
+  },
+  "42": {
+    "question": "What is a key characteristic of Wrapper methods compared to Filter methods?",
+    "answer": "B",
+    "options": {
+      "A": "Wrapper methods do not consider feature interactions.",
+      "B": "Wrapper methods are computationally more expensive but can capture feature interactions.",
+      "C": "Wrapper methods are algorithm-independent.",
+      "D": "Wrapper methods are generally less computationally expensive."
+    }
+  },
+  "43": {
+    "question": "What is the main principle of Recursive Feature Elimination (RFE)?",
+    "answer": "A",
+    "options": {
+      "A": "Recursively eliminating the least important features based on model feedback.",
+      "B": "Selecting features based on univariate statistical tests.",
+      "C": "Embedding feature selection within model training.",
+      "D": "Selecting features based on statistical thresholds."
+    }
+  },
+  "44": {
+    "question": "RFE is categorized as which type of feature selection method?",
+    "answer": "C",
+    "options": {
+      "A": "Embedded method",
+      "B": "Filter method",
+      "C": "Wrapper method",
+      "D": "Hybrid method"
+    }
+  },
+  "45": {
+    "question": "How do Embedded methods perform feature selection?",
+    "answer": "C",
+    "options": {
+      "A": "By evaluating feature subsets after model training.",
+      "B": "Independently of model training, using statistical measures.",
+      "C": "As an integral part of the model training process.",
+      "D": "By recursively eliminating features in a pre-processing step."
+    }
+  },
+  "46": {
+    "question": "Which of the following machine learning models can be used as an Embedded method for feature selection?",
+    "answer": "D",
+    "options": {
+      "A": "Principal Component Analysis (PCA)",
+      "B": "Support Vector Machines (SVM)",
+      "C": "K-Nearest Neighbors (KNN)",
+      "D": "Random Forest and Lasso Regression"
+    }
+  },
+  "47": {
+    "question": "How does Random Forest determine feature importance for feature selection?",
+    "answer": "B",
+    "options": {
+      "A": "By using univariate statistical tests.",
+      "B": "By calculating how much each feature reduces impurity across trees.",
+      "C": "By recursively eliminating features.",
+      "D": "Based on correlation with the target variable."
+    }
+  },
+  "48": {
+    "question": "Model-Based Selection using Random Forest falls under which category of feature selection methods?",
+    "answer": "D",
+    "options": {
+      "A": "Hybrid methods",
+      "B": "Wrapper methods",
+      "C": "Filter methods",
+      "D": "Embedded methods"
+    }
+  }
+}

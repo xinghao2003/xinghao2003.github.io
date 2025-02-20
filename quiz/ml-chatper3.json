@@ -1,0 +1,1522 @@
+{
+  "1": {
+    "question": "Which step in the machine learning pipeline is often considered the most challenging?",
+    "answer": "C",
+    "options": {
+      "A": "Model Training",
+      "B": "Deployment",
+      "C": "Feature Engineering",
+      "D": "Data Collection"
+    }
+  },
+  "2": {
+    "question": "Is feature engineering a one-time process?",
+    "answer": "D",
+    "options": {
+      "A": "Only for small datasets",
+      "B": "Yes",
+      "C": "Only for large datasets",
+      "D": "No"
+    }
+  },
+  "3": {
+    "question": "Which process is a standard for data mining, and often used in machine learning pipeline?",
+    "answer": "D",
+    "options": {
+      "A": "K-means",
+      "B": "LDA",
+      "C": "PCA",
+      "D": "CRISP-DM"
+    }
+  },
+  "4": {
+    "question": "What is the main goal of feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "To reduce data size",
+      "B": "To improve model accuracy",
+      "C": "To make data look better",
+      "D": "To speed up data collection"
+    }
+  },
+  "5": {
+    "question": "According to Prof. Andrew Ng, applied machine learning is basically:",
+    "answer": "B",
+    "options": {
+      "A": "Data collection",
+      "B": "Feature engineering",
+      "C": "Algorithm optimization",
+      "D": "Model selection"
+    }
+  },
+  "6": {
+    "question": "Which of the following is NOT a feature engineering technique for numeric data?",
+    "answer": "C",
+    "options": {
+      "A": "Rounding",
+      "B": "Binning",
+      "C": "One-Hot Encoding",
+      "D": "Log Transform"
+    }
+  },
+  "7": {
+    "question": "Binarization is best used when:",
+    "answer": "C",
+    "options": {
+      "A": "You are working with image data.",
+      "B": "You are working with temporal data",
+      "C": "You need to know if an event occurred, not how many times.",
+      "D": "You need precise counts."
+    }
+  },
+  "8": {
+    "question": "What does binning (quantization) achieve?",
+    "answer": "A",
+    "options": {
+      "A": "Transforms continuous values into discrete ones.",
+      "B": "Increases the precision of numeric data.",
+      "C": "Removes outliers from the data.",
+      "D": "Combines multiple numeric features."
+    }
+  },
+  "9": {
+    "question": "Which transformation is useful for stabilizing variance and making data more normally distributed?",
+    "answer": "D",
+    "options": {
+      "A": "Rounding",
+      "B": "Binning",
+      "C": "Binarization",
+      "D": "Power Transform"
+    }
+  },
+  "10": {
+    "question": "What is fixed-width binning?",
+    "answer": "B",
+    "options": {
+      "A": "using quantile based binning",
+      "B": "using specific pre-defined width for each bin",
+      "C": "using adaptive binning",
+      "D": "using data distribution to define bins"
+    }
+  },
+  "11": {
+    "question": "What is adaptive binning?",
+    "answer": "B",
+    "options": {
+      "A": "same with fixed-width binning",
+      "B": "using data distribution itself to decide appropriate bins",
+      "C": "using specific pre-defined width for each bin",
+      "D": "using custom ranges based on domain knowledge"
+    }
+  },
+  "12": {
+    "question": "What is the key difference between nominal and ordinal categorical variables?",
+    "answer": "A",
+    "options": {
+      "A": "Ordinal variables have an inherent order.",
+      "B": "Ordinal variables cannot be encoded.",
+      "C": "Nominal variables have numerical values.",
+      "D": "Nominal variables are always text."
+    }
+  },
+  "13": {
+    "question": "Which encoding scheme creates m-1 binary features for a categorical feature with m distinct labels?",
+    "answer": "A",
+    "options": {
+      "A": "Dummy Coding",
+      "B": "One-Hot Encoding",
+      "C": "Effect Coding",
+      "D": "Feature Hashing"
+    }
+  },
+  "14": {
+    "question": "Which encoding scheme is suitable for large-scale categorical features, using a hash function?",
+    "answer": "D",
+    "options": {
+      "A": "Dummy Coding",
+      "B": "One-Hot Encoding",
+      "C": "Effect Coding",
+      "D": "Feature Hashing"
+    }
+  },
+  "15": {
+    "question": "In one-hot encoding, how is each observation in a categorical feature converted?",
+    "answer": "A",
+    "options": {
+      "A": "Into a vector where only one value is 1.",
+      "B": "Into a vector of all 1s.",
+      "C": "Into a single numerical value.",
+      "D": "Into a vector with multiple 1s."
+    }
+  },
+  "16": {
+    "question": "How does effect coding differ from dummy coding?",
+    "answer": "B",
+    "options": {
+      "A": "It uses more binary features",
+      "B": "It replaces all 0s with -1s for the base category.",
+      "C": "It uses fewer binary features.",
+      "D": "It is the same as one-hot encoding"
+    }
+  },
+  "17": {
+    "question": "What is the first step in dealing with unstructured text data?",
+    "answer": "C",
+    "options": {
+      "A": "Calculating TF-IDF",
+      "B": "Applying machine learning algorithms",
+      "C": "Pre-processing",
+      "D": "Creating word embeddings"
+    }
+  },
+  "18": {
+    "question": "Which model converts text documents into numeric vectors based on term frequencies?",
+    "answer": "B",
+    "options": {
+      "A": "TF-IDF",
+      "B": "Bag of Words",
+      "C": "Topic Models",
+      "D": "Word Embeddings"
+    }
+  },
+  "19": {
+    "question": "What is an n-gram?",
+    "answer": "C",
+    "options": {
+      "A": "A single word token.",
+      "B": "A text pre-processing technique",
+      "C": "A sequence of n contiguous word tokens.",
+      "D": "A type of word embedding."
+    }
+  },
+  "20": {
+    "question": "What does TF-IDF stand for?",
+    "answer": "D",
+    "options": {
+      "A": "Text Frequency-Inverse Document Frequency",
+      "B": "Total Frequency-Inverse Document Frequency",
+      "C": "Text Frequency-Indexed Document Frequency",
+      "D": "Term Frequency-Inverse Document Frequency"
+    }
+  },
+  "21": {
+    "question": "Which technique helps determine the similarity between two text documents?",
+    "answer": "C",
+    "options": {
+      "A": "Stemming",
+      "B": "Stop Word Removal",
+      "C": "Document Similarity",
+      "D": "Bag of Words"
+    }
+  },
+  "22": {
+    "question": "What is the purpose of topic models?",
+    "answer": "C",
+    "options": {
+      "A": "To calculate document similarity.",
+      "B": "To remove stop words.",
+      "C": "To extract key themes or concepts from a corpus.",
+      "D": "To convert text to numeric vectors."
+    }
+  },
+  "23": {
+    "question": "What do word embeddings do?",
+    "answer": "C",
+    "options": {
+      "A": "Count the frequency of words.",
+      "B": "Identify the topic of a document.",
+      "C": "Map words to numeric vectors, capturing semantic similarity.",
+      "D": "Remove stop words from text."
+    }
+  },
+  "24": {
+    "question": "Which of the following is NOT a typical component of temporal data?",
+    "answer": "A",
+    "options": {
+      "A": "Image Pixel Values",
+      "B": "Time",
+      "C": "Date",
+      "D": "Timestamp"
+    }
+  },
+  "25": {
+    "question": "What can be derived from the 'hour' component of a timestamp?",
+    "answer": "C",
+    "options": {
+      "A": "The year",
+      "B": "The month",
+      "C": "The time of the day (e.g., Morning, Afternoon)",
+      "D": "The day of the week"
+    }
+  },
+  "26": {
+    "question": "How are color images typically represented?",
+    "answer": "B",
+    "options": {
+      "A": "As a two-dimensional array",
+      "B": "As a three-dimensional array (R, G, B channels)",
+      "C": "As a single-dimensional array",
+      "D": "As a four-dimensional array"
+    }
+  },
+  "27": {
+    "question": "What does converting an image to grayscale do?",
+    "answer": "A",
+    "options": {
+      "A": "Reduces the image to a two-dimensional matrix of intensity values.",
+      "B": "Has no effect on the image data",
+      "C": "Increases the number of channels.",
+      "D": "Adds more color information."
+    }
+  },
+  "28": {
+    "question": "Which algorithm is commonly used for edge detection?",
+    "answer": "B",
+    "options": {
+      "A": "SURF",
+      "B": "Canny",
+      "C": "K-Means",
+      "D": "HOG"
+    }
+  },
+  "29": {
+    "question": "What does HOG stand for?",
+    "answer": "D",
+    "options": {
+      "A": "High Order Gradients",
+      "B": "Highly Optimized Gradients",
+      "C": "Histogram of Ordered Gradients",
+      "D": "Histogram of Oriented Gradients"
+    }
+  },
+  "30": {
+    "question": "What does SURF stand for?",
+    "answer": "D",
+    "options": {
+      "A": "Scaled Up Robust Features",
+      "B": "Simple and Unified Robust Features",
+      "C": "Standardized and Unified Robust Features",
+      "D": "Speeded Up Robust Features"
+    }
+  },
+  "31": {
+    "question": "What is the 'Visual Bag of Words' model used for in image processing?",
+    "answer": "C",
+    "options": {
+      "A": "To convert images to grayscale",
+      "B": "To detect edges in images.",
+      "C": "To create a one-dimensional vector representing the presence of visual features.",
+      "D": "To directly classify images."
+    }
+  },
+  "32": {
+    "question": "In visual bag of words, what is each cluster of feature descriptors considered as?",
+    "answer": "A",
+    "options": {
+      "A": "Visual Word",
+      "B": "Gradient",
+      "C": "Edge",
+      "D": "Pixel"
+    }
+  },
+  "33": {
+    "question": "Which type of neural network is commonly used for automated feature extraction from images?",
+    "answer": "C",
+    "options": {
+      "A": "Autoencoders",
+      "B": "Recurrent Neural Networks (RNNs)",
+      "C": "Convolutional Neural Networks (CNNs)",
+      "D": "Generative Adversarial Networks (GANs)"
+    }
+  },
+  "34": {
+    "question": "In the standard Machine Learning Pipeline, feature engineering and selection fall under which phase?",
+    "answer": "A",
+    "options": {
+      "A": "Data Preparation",
+      "B": "Deployment & Monitoring",
+      "C": "Model Evaluation & Tuning",
+      "D": "Modeling"
+    }
+  },
+  "35": {
+    "question": "What immediately precedes the Feature Engineering & Selection stage in the data preparation phase of a standard Machine Learning Pipeline?",
+    "answer": "B",
+    "options": {
+      "A": "Modeling",
+      "B": "Data Processing & Wrangling",
+      "C": "Data Retrieval",
+      "D": "Feature Scaling & Selection"
+    }
+  },
+  "36": {
+    "question": "According to the document, is feature engineering and selection a one-time process or an iterative process?",
+    "answer": "B",
+    "options": {
+      "A": "Ad hoc process",
+      "B": "Iterative process",
+      "C": "Sequential process",
+      "D": "One-time process"
+    }
+  },
+  "37": {
+    "question": "Following the CRISP-DM principle, the nature of building Machine Learning systems is described as:",
+    "answer": "A",
+    "options": {
+      "A": "Iterative",
+      "B": "Static",
+      "C": "Linear",
+      "D": "Cyclical"
+    }
+  },
+  "38": {
+    "question": "Which of the following best describes the frequency of feature engineering tasks in a machine learning project?",
+    "answer": "C",
+    "options": {
+      "A": "A task done once before model deployment",
+      "B": "Performed only at the beginning",
+      "C": "An ongoing task throughout the project",
+      "D": "Performed only at the end"
+    }
+  },
+  "39": {
+    "question": "According to the document, what is more critical for the effectiveness of a machine learning model?",
+    "answer": "C",
+    "options": {
+      "A": "Computational resources",
+      "B": "Algorithm selection",
+      "C": "Feature engineering",
+      "D": "Hyperparameter tuning"
+    }
+  },
+  "40": {
+    "question": "Which of the following statements best summarizes the impact of feature engineering on model accuracy?",
+    "answer": "B",
+    "options": {
+      "A": "Feature engineering has minimal impact on model accuracy.",
+      "B": "Good feature engineering improves model accuracy, especially on unseen data.",
+      "C": "Feature engineering primarily affects model training speed.",
+      "D": "Feature engineering only improves model interpretability."
+    }
+  },
+  "41": {
+    "question": "Complete the sentence: In simple words, good features give...",
+    "answer": "A",
+    "options": {
+      "A": "...good models.",
+      "B": "...fast models.",
+      "C": "...complex models.",
+      "D": "...interpretable models."
+    }
+  },
+  "42": {
+    "question": "What is the primary goal of feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "To visualize raw data more effectively.",
+      "B": "To transform raw data into features for better model performance.",
+      "C": "To simplify raw data for storage.",
+      "D": "To reduce the dimensionality of data."
+    }
+  },
+  "43": {
+    "question": "Feature engineering utilizes which of the following to convert data into features?",
+    "answer": "C",
+    "options": {
+      "A": "Only algorithms.",
+      "B": "Only automated processes.",
+      "C": "A combination of domain knowledge, hand-crafted techniques, and mathematical transformations.",
+      "D": "Only mathematical transformations."
+    }
+  },
+  "44": {
+    "question": "What is 'raw data' as described in the context of feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "Processed and cleaned data.",
+      "B": "Data in its native form after retrieval.",
+      "C": "Data ready for model training.",
+      "D": "Data after feature extraction."
+    }
+  },
+  "45": {
+    "question": "What are 'features' in the context of machine learning?",
+    "answer": "C",
+    "options": {
+      "A": "The original raw data.",
+      "B": "Data after model prediction.",
+      "C": "Specific representations obtained from raw data after feature engineering.",
+      "D": "A subset of raw data."
+    }
+  },
+  "46": {
+    "question": "Which of the following is NOT a reason why feature engineering is considered essential?",
+    "answer": "B",
+    "options": {
+      "A": "It's essential for building and evaluating machine learning models.",
+      "B": "It ensures models perform well regardless of feature quality.",
+      "C": "It provides better representation of data for algorithms.",
+      "D": "It provides more flexibility in handling diverse data types."
+    }
+  },
+  "47": {
+    "question": "Why is feature engineering said to provide 'more flexibility on data types'?",
+    "answer": "A",
+    "options": {
+      "A": "It helps build models on complex data types like text and images.",
+      "B": "It allows using only numeric data.",
+      "C": "It simplifies data visualization.",
+      "D": "It reduces the volume of data needed for modeling."
+    }
+  },
+  "48": {
+    "question": "What role does 'domain knowledge' play in feature engineering, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Domain knowledge helps in selecting algorithms, not features.",
+      "B": "Domain knowledge is not important in feature engineering.",
+      "C": "Domain knowledge is essential for creating and selecting features relevant to the business problem.",
+      "D": "Domain knowledge is only used in data collection."
+    }
+  },
+  "49": {
+    "question": "When can raw numeric values be directly used as features?",
+    "answer": "C",
+    "options": {
+      "A": "Only after normalization.",
+      "B": "Always, numeric data is always ready for model input.",
+      "C": "If they represent specific measurements or metrics.",
+      "D": "If they are categorical in nature."
+    }
+  },
+  "50": {
+    "question": "Which of the following dataset attributes are given as examples of raw numeric values that can be used directly as features?",
+    "answer": "B",
+    "options": {
+      "A": "Generation, Legendary",
+      "B": "HP, Attack, Defense",
+      "C": "Name, Type 1, Type 2",
+      "D": "True, False"
+    }
+  },
+  "51": {
+    "question": "Besides direct measurements, what else can raw numeric measures indicate in feature engineering?",
+    "answer": "A",
+    "options": {
+      "A": "Counts, frequencies, and occurrences",
+      "B": "Textual data",
+      "C": "Categories",
+      "D": "Image pixels"
+    }
+  },
+  "52": {
+    "question": "In the context of song dataset, which field is cited as an example of a count/frequency based numeric feature?",
+    "answer": "C",
+    "options": {
+      "A": "song_id",
+      "B": "title",
+      "C": "listen_count",
+      "D": "user_id"
+    }
+  },
+  "53": {
+    "question": "What is the purpose of binarization in feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "To increase the range of numeric features.",
+      "B": "To convert numeric features into binary features.",
+      "C": "To calculate the mean of numeric features.",
+      "D": "To normalize numeric features."
+    }
+  },
+  "54": {
+    "question": "When is a binary feature preferred over a count-based feature?",
+    "answer": "D",
+    "options": {
+      "A": "When high precision is required.",
+      "B": "When dealing with large numerical ranges.",
+      "C": "When the exact count is important.",
+      "D": "When only the presence or absence of a feature matters."
+    }
+  },
+  "55": {
+    "question": "In the example provided, what is the 'listen_count' field binarized to represent?",
+    "answer": "A",
+    "options": {
+      "A": "Whether a user has listened to a song at least once.",
+      "B": "The average listen count for each song.",
+      "C": "The exact number of times a song was listened to.",
+      "D": "The total listen time for each song."
+    }
+  },
+  "56": {
+    "question": "Why is rounding used in numeric feature engineering, particularly for proportions and percentages?",
+    "answer": "D",
+    "options": {
+      "A": "To convert numeric integers into percentages.",
+      "B": "To make values more complex.",
+      "C": "To increase the precision of values.",
+      "D": "To reduce unnecessary precision and simplify values."
+    }
+  },
+  "57": {
+    "question": "Rounding high precision percentages into numeric integers is useful when:",
+    "answer": "A",
+    "options": {
+      "A": "High precision is not needed.",
+      "B": "Dealing with very large datasets.",
+      "C": "High precision percentages are required.",
+      "D": "High precision is necessary for the model."
+    }
+  },
+  "58": {
+    "question": "What are interaction features in numeric feature engineering?",
+    "answer": "A",
+    "options": {
+      "A": "Features created by combining two or more numeric features.",
+      "B": "Features that are automatically generated by algorithms.",
+      "C": "Features that are not related to each other.",
+      "D": "Features that represent individual data points."
+    }
+  },
+  "59": {
+    "question": "What scikit-learn class is used in the document to build interaction features from numeric features?",
+    "answer": "C",
+    "options": {
+      "A": "NumericInteractions",
+      "B": "FeatureCombiner",
+      "C": "PolynomialFeatures",
+      "D": "InteractionFeatures"
+    }
+  },
+  "60": {
+    "question": "What is the maximum degree of interaction features built in the example using PolynomialFeatures?",
+    "answer": "C",
+    "options": {
+      "A": "Third degree",
+      "B": "Unlimited degree",
+      "C": "Second degree",
+      "D": "First degree"
+    }
+  },
+  "61": {
+    "question": "What is binning in numeric feature engineering, also known as?",
+    "answer": "C",
+    "options": {
+      "A": "Normalization",
+      "B": "Standardization",
+      "C": "Quantization",
+      "D": "Aggregation"
+    }
+  },
+  "62": {
+    "question": "What type of numeric values does binning transform into discrete ones?",
+    "answer": "B",
+    "options": {
+      "A": "Binary values",
+      "B": "Continuous numeric values",
+      "C": "Discrete numeric values",
+      "D": "Categorical values"
+    }
+  },
+  "63": {
+    "question": "What are the two main types of binning mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Fixed-width and Adaptive binning",
+      "B": "Linear and Non-linear binning",
+      "C": "Manual and Automatic binning",
+      "D": "Static and Dynamic binning"
+    }
+  },
+  "64": {
+    "question": "In fixed-width binning, how are bin widths determined?",
+    "answer": "B",
+    "options": {
+      "A": "Based on data distribution.",
+      "B": "Pre-defined by the user.",
+      "C": "Randomly assigned.",
+      "D": "Automatically by the algorithm."
+    }
+  },
+  "65": {
+    "question": "What is a potential disadvantage of fixed-width binning when data distribution is not uniform?",
+    "answer": "A",
+    "options": {
+      "A": "It can lead to irregular bins.",
+      "B": "It is computationally expensive.",
+      "C": "It always creates uniform bins.",
+      "D": "It requires large datasets."
+    }
+  },
+  "66": {
+    "question": "Binning based on custom ranges is a type of:",
+    "answer": "B",
+    "options": {
+      "A": "Statistical binning",
+      "B": "Fixed-width binning",
+      "C": "Quantile binning",
+      "D": "Adaptive binning"
+    }
+  },
+  "67": {
+    "question": "How does adaptive binning determine bin ranges, unlike fixed-width binning?",
+    "answer": "D",
+    "options": {
+      "A": "Randomly.",
+      "B": "Using equal intervals regardless of data.",
+      "C": "Based on pre-defined widths.",
+      "D": "Based on data distribution."
+    }
+  },
+  "68": {
+    "question": "Quantile based binning is a good strategy for:",
+    "answer": "B",
+    "options": {
+      "A": "Fixed-width binning",
+      "B": "Adaptive binning",
+      "C": "Manual binning",
+      "D": "Data normalization"
+    }
+  },
+  "69": {
+    "question": "What does 'q-Quantiles' help in doing in adaptive binning?",
+    "answer": "A",
+    "options": {
+      "A": "Partitioning a numeric attribute into q equal partitions.",
+      "B": "Normalizing data distribution.",
+      "C": "Identifying outliers in data.",
+      "D": "Creating bins of varying widths."
+    }
+  },
+  "70": {
+    "question": "What is the main purpose of statistical transformations like Log and Box-Cox in feature engineering?",
+    "answer": "C",
+    "options": {
+      "A": "To increase data complexity.",
+      "B": "To reduce the number of features.",
+      "C": "To stabilize variance and normalize data distribution.",
+      "D": "To make data dependent on the mean."
+    }
+  },
+  "71": {
+    "question": "Log transform and Box-Cox transform belong to which family of functions?",
+    "answer": "B",
+    "options": {
+      "A": "Linear Transform",
+      "B": "Power Transform",
+      "C": "Polynomial Transform",
+      "D": "Fourier Transform"
+    }
+  },
+  "72": {
+    "question": "Statistical transformations are particularly helpful when dealing with:",
+    "answer": "A",
+    "options": {
+      "A": "Skewed data.",
+      "B": "Data with very low variance.",
+      "C": "Categorical data.",
+      "D": "Normally distributed data."
+    }
+  },
+  "73": {
+    "question": "What defines categorical data?",
+    "answer": "D",
+    "options": {
+      "A": "Temporal values.",
+      "B": "Image pixel values.",
+      "C": "Continuous numerical values.",
+      "D": "Discrete values belonging to a finite set of categories."
+    }
+  },
+  "74": {
+    "question": "What are the two main types of categorical variables?",
+    "answer": "A",
+    "options": {
+      "A": "Nominal and ordinal.",
+      "B": "Binary and multi-class.",
+      "C": "Continuous and discrete.",
+      "D": "Numeric and textual."
+    }
+  },
+  "75": {
+    "question": "Which type of categorical variable has a meaningful order?",
+    "answer": "A",
+    "options": {
+      "A": "Ordinal",
+      "B": "Continuous",
+      "C": "Nominal",
+      "D": "Binary"
+    }
+  },
+  "76": {
+    "question": "Why do nominal categorical features need to be transformed into numeric representations for machine learning?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce data size.",
+      "B": "To simplify data collection.",
+      "C": "Because machine learning algorithms typically work with numerical values.",
+      "D": "To visualize categorical data."
+    }
+  },
+  "77": {
+    "question": "What is label encoding used for in the context of nominal features?",
+    "answer": "A",
+    "options": {
+      "A": "To map each category to a unique number.",
+      "B": "To create binary features.",
+      "C": "To remove categorical features.",
+      "D": "To order categorical features."
+    }
+  },
+  "78": {
+    "question": "What is a common first step in transforming nominal features before applying methods like one-hot encoding?",
+    "answer": "C",
+    "options": {
+      "A": "Binning",
+      "B": "Normalization",
+      "C": "Label Encoding",
+      "D": "Standardization"
+    }
+  },
+  "79": {
+    "question": "How do ordinal features differ from nominal features in terms of transformation?",
+    "answer": "A",
+    "options": {
+      "A": "Ordinal features' numeric mapping should preserve their order.",
+      "B": "Ordinal features do not need transformation.",
+      "C": "Ordinal features are always directly usable in models.",
+      "D": "Ordinal features are transformed into binary features only."
+    }
+  },
+  "80": {
+    "question": "Why is custom mapping often necessary for ordinal features?",
+    "answer": "A",
+    "options": {
+      "A": "Because generic modules may not capture the specific logic of ordinal variables.",
+      "B": "Because generic modules are always sufficient.",
+      "C": "Because there is no specific logic involved.",
+      "D": "Because ordinal features cannot be numerically represented."
+    }
+  },
+  "81": {
+    "question": "Why is further encoding needed even after transforming categorical variables into numeric representations?",
+    "answer": "C",
+    "options": {
+      "A": "To simplify data visualization.",
+      "B": "Because numeric representations are not compatible with algorithms.",
+      "C": "To prevent models from misinterpreting numeric representations as having magnitude.",
+      "D": "To reduce data size."
+    }
+  },
+  "82": {
+    "question": "Which of the following is NOT a categorical feature encoding scheme discussed in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Effect coding",
+      "B": "Label encoding",
+      "C": "One hot encoding",
+      "D": "Dummy coding"
+    }
+  },
+  "83": {
+    "question": "How many binary features does one-hot encoding create for a categorical feature with 'm' labels?",
+    "answer": "C",
+    "options": {
+      "A": "1",
+      "B": "m-1",
+      "C": "m",
+      "D": "2m"
+    }
+  },
+  "84": {
+    "question": "What value do one-hot encoded features contain?",
+    "answer": "D",
+    "options": {
+      "A": "Integers from 1 to m",
+      "B": "Real numbers",
+      "C": "Any positive number",
+      "D": "Only 0 or 1"
+    }
+  },
+  "85": {
+    "question": "What is a key advantage of one-hot encoding?",
+    "answer": "D",
+    "options": {
+      "A": "It simplifies numerical calculations.",
+      "B": "It imposes ordinality on categorical features.",
+      "C": "It reduces the number of features.",
+      "D": "It avoids imposing ordinality on categorical features."
+    }
+  },
+  "86": {
+    "question": "How many binary features does dummy coding create for a categorical feature with 'm' distinct labels?",
+    "answer": "C",
+    "options": {
+      "A": "2m",
+      "B": "m+1",
+      "C": "m-1",
+      "D": "m"
+    }
+  },
+  "87": {
+    "question": "In dummy coding, how is the 'extra' category (the one not explicitly represented by a binary feature) typically represented?",
+    "answer": "B",
+    "options": {
+      "A": "It is not represented at all",
+      "B": "By a vector of all zeros",
+      "C": "By a special numeric code",
+      "D": "By all 1s"
+    }
+  },
+  "88": {
+    "question": "What is a primary reason for using dummy coding instead of one-hot encoding in some cases?",
+    "answer": "A",
+    "options": {
+      "A": "To avoid multicollinearity.",
+      "B": "To simplify data visualization.",
+      "C": "To increase the number of features.",
+      "D": "To improve model interpretability."
+    }
+  },
+  "89": {
+    "question": "How does effect coding differ from dummy coding in representing the baseline category?",
+    "answer": "D",
+    "options": {
+      "A": "Effect coding uses 1s, dummy coding uses -1s.",
+      "B": "Effect coding uses 0s, dummy coding uses -1s.",
+      "C": "Effect coding uses 1s, dummy coding uses 0s.",
+      "D": "Effect coding uses -1s, dummy coding uses 0s."
+    }
+  },
+  "90": {
+    "question": "In effect coding, what value replaces the zeros used in dummy coding for the baseline category?",
+    "answer": "B",
+    "options": {
+      "A": "0.5",
+      "B": "-1",
+      "C": "2",
+      "D": "1"
+    }
+  },
+  "91": {
+    "question": "For what type of categorical features is feature hashing particularly useful?",
+    "answer": "A",
+    "options": {
+      "A": "Large scale categorical features",
+      "B": "Binary features",
+      "C": "Ordinal features",
+      "D": "Nominal features with few categories"
+    }
+  },
+  "92": {
+    "question": "What key mechanism does feature hashing use to encode categorical features?",
+    "answer": "A",
+    "options": {
+      "A": "A hash function",
+      "B": "One-hot encoding",
+      "C": "Label encoding",
+      "D": "Dummy coding"
+    }
+  },
+  "93": {
+    "question": "If a categorical feature has 1000 distinct categories and feature hashing with h=10 is used, how many output features will be created?",
+    "answer": "B",
+    "options": {
+      "A": "1010",
+      "B": "10",
+      "C": "1",
+      "D": "1000"
+    }
+  },
+  "94": {
+    "question": "What is a primary challenge in feature engineering for text data?",
+    "answer": "A",
+    "options": {
+      "A": "The unpredictable nature of text syntax, format, and content.",
+      "B": "The predictable nature of text.",
+      "C": "The ease of extracting information from text.",
+      "D": "The structured format of text documents."
+    }
+  },
+  "95": {
+    "question": "Besides information extraction, what is the second major challenge in text feature engineering?",
+    "answer": "A",
+    "options": {
+      "A": "Transforming textual data into numeric representations.",
+      "B": "Storing text data efficiently.",
+      "C": "Collecting text data.",
+      "D": "Visualizing text data."
+    }
+  },
+  "96": {
+    "question": "Why is text pre-processing necessary before feature engineering?",
+    "answer": "C",
+    "options": {
+      "A": "To increase the size of text data.",
+      "B": "To visualize text data directly.",
+      "C": "To clean, normalize, and prepare text data for feature extraction.",
+      "D": "To make text data more complex."
+    }
+  },
+  "97": {
+    "question": "Which of the following is NOT a text pre-processing technique mentioned in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Removing stopwords",
+      "B": "Stemming",
+      "C": "Text summarization",
+      "D": "Text tokenization and lower casing"
+    }
+  },
+  "98": {
+    "question": "What does 'stopword removal' in text pre-processing aim to achieve?",
+    "answer": "C",
+    "options": {
+      "A": "To remove special characters.",
+      "B": "To remove important words.",
+      "C": "To remove words that carry little meaning like articles and pronouns.",
+      "D": "To expand contractions."
+    }
+  },
+  "99": {
+    "question": "What is the core principle of the Bag of Words (BoW) model?",
+    "answer": "A",
+    "options": {
+      "A": "To convert text documents into numeric vectors.",
+      "B": "To summarize text documents.",
+      "C": "To maintain word order and syntax.",
+      "D": "To visualize text documents."
+    }
+  },
+  "100": {
+    "question": "What does the dimension of a Bag of Words vector represent?",
+    "answer": "C",
+    "options": {
+      "A": "The total number of words in the document.",
+      "B": "The length of the document.",
+      "C": "The size of the vocabulary (distinct words in the corpus).",
+      "D": "The number of sentences in the document."
+    }
+  },
+  "101": {
+    "question": "Which aspect of text does the Bag of Words model disregard?",
+    "answer": "D",
+    "options": {
+      "A": "Word meaning",
+      "B": "Word frequencies",
+      "C": "Vocabulary size",
+      "D": "Grammar and word order"
+    }
+  },
+  "102": {
+    "question": "How does the Bag of N-Grams model extend the Bag of Words model?",
+    "answer": "A",
+    "options": {
+      "A": "By incorporating word order through n-grams.",
+      "B": "By reducing vocabulary size.",
+      "C": "By ignoring word frequencies.",
+      "D": "By focusing on word semantics."
+    }
+  },
+  "103": {
+    "question": "What are bi-grams and tri-grams in the context of the Bag of N-Grams model?",
+    "answer": "D",
+    "options": {
+      "A": "Single words.",
+      "B": "Statistical measures.",
+      "C": "Types of pre-processing techniques.",
+      "D": "Sequences of two and three words respectively."
+    }
+  },
+  "104": {
+    "question": "What does the value in a Bag of N-Grams feature vector typically depict?",
+    "answer": "D",
+    "options": {
+      "A": "Sentence length.",
+      "B": "Word meaning.",
+      "C": "Word position.",
+      "D": "Frequency of the n-gram in the document."
+    }
+  },
+  "105": {
+    "question": "What problem with the Bag of Words model does the TF-IDF model attempt to solve?",
+    "answer": "B",
+    "options": {
+      "A": "High dimensionality of feature vectors.",
+      "B": "Overshadowing by frequent terms across documents.",
+      "C": "Not handling new words.",
+      "D": "Ignoring word order."
+    }
+  },
+  "106": {
+    "question": "What two metrics does TF-IDF combine in its computation?",
+    "answer": "D",
+    "options": {
+      "A": "Term Frequency and Word Count.",
+      "B": "Term Frequency and Inverse Word Frequency.",
+      "C": "Word Count and Document Frequency.",
+      "D": "Term Frequency and Inverse Document Frequency."
+    }
+  },
+  "107": {
+    "question": "What is the purpose of the 'inverse document frequency' (IDF) component in TF-IDF?",
+    "answer": "B",
+    "options": {
+      "A": "To count the total number of words in a document.",
+      "B": "To decrease the weight of words frequent across many documents.",
+      "C": "To measure term frequency within a document.",
+      "D": "To increase the weight of common words."
+    }
+  },
+  "108": {
+    "question": "What is document similarity used for?",
+    "answer": "B",
+    "options": {
+      "A": "To summarize documents.",
+      "B": "To identify how alike text documents are.",
+      "C": "To translate documents.",
+      "D": "To measure the length of documents."
+    }
+  },
+  "109": {
+    "question": "Which similarity metric is highlighted as 'most popular and widely used' in the document for document similarity?",
+    "answer": "B",
+    "options": {
+      "A": "BM25 distance",
+      "B": "Cosine similarity",
+      "C": "Euclidean distance",
+      "D": "Jaccard distance"
+    }
+  },
+  "110": {
+    "question": "Cosine similarity measures the:",
+    "answer": "C",
+    "options": {
+      "A": "Euclidean distance between document vectors.",
+      "B": "Overlap of words between documents.",
+      "C": "Angle between document vectors.",
+      "D": "Length of document vectors."
+    }
+  },
+  "111": {
+    "question": "What is the main purpose of topic models in text feature engineering?",
+    "answer": "C",
+    "options": {
+      "A": "To summarize text documents.",
+      "B": "To translate text documents.",
+      "C": "To extract topic or concept-based features from text.",
+      "D": "To measure document similarity."
+    }
+  },
+  "112": {
+    "question": "Which topic modeling technique is specifically mentioned in the document?",
+    "answer": "D",
+    "options": {
+      "A": "K-Means Clustering",
+      "B": "Singular Value Decomposition (SVD)",
+      "C": "Principal Component Analysis (PCA)",
+      "D": "Latent Dirichlet Allocation (LDA)"
+    }
+  },
+  "113": {
+    "question": "In LDA, what is each document considered to be composed of?",
+    "answer": "A",
+    "options": {
+      "A": "A combination of several topics.",
+      "B": "A set of keywords.",
+      "C": "A sequence of words.",
+      "D": "A single topic."
+    }
+  },
+  "114": {
+    "question": "What is the primary goal of word embeddings?",
+    "answer": "D",
+    "options": {
+      "A": "To summarize text documents.",
+      "B": "To count word frequencies.",
+      "C": "To visualize text documents.",
+      "D": "To map words to dense numeric vectors in a semantic space."
+    }
+  },
+  "115": {
+    "question": "Which word embedding model is highlighted in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Bag of Words",
+      "B": "LDA",
+      "C": "word2vec",
+      "D": "TF-IDF"
+    }
+  },
+  "116": {
+    "question": "What characteristic do word embeddings aim to capture?",
+    "answer": "B",
+    "options": {
+      "A": "Word order in sentences.",
+      "B": "Semantic similarity between words.",
+      "C": "Word frequency.",
+      "D": "Word length."
+    }
+  },
+  "117": {
+    "question": "What is a defining characteristic of temporal data?",
+    "answer": "B",
+    "options": {
+      "A": "It is always categorical.",
+      "B": "It changes over a period of time.",
+      "C": "It remains constant over time.",
+      "D": "It is always numeric."
+    }
+  },
+  "118": {
+    "question": "Which of the following is a typical time-based attribute in temporal data?",
+    "answer": "D",
+    "options": {
+      "A": "Shape",
+      "B": "Color",
+      "C": "Category",
+      "D": "Date and Time"
+    }
+  },
+  "119": {
+    "question": "Feature engineering on temporal data typically involves:",
+    "answer": "C",
+    "options": {
+      "A": "Converting temporal data to text data.",
+      "B": "Ignoring time components.",
+      "C": "Extracting meaningful components like year, month, and hour.",
+      "D": "Directly using raw timestamps."
+    }
+  },
+  "120": {
+    "question": "What kind of information do date-based features extract from temporal data?",
+    "answer": "D",
+    "options": {
+      "A": "Time zone information only.",
+      "B": "Time-specific components only.",
+      "C": "Raw timestamp values.",
+      "D": "Components pertaining to the date part of temporal values."
+    }
+  },
+  "121": {
+    "question": "Which of the following is an example of a date-based feature?",
+    "answer": "B",
+    "options": {
+      "A": "UTC offset",
+      "B": "Day of the week",
+      "C": "Minute of the hour",
+      "D": "Hour of the day"
+    }
+  },
+  "122": {
+    "question": "Extracting 'day of the week' from a date is an example of:",
+    "answer": "C",
+    "options": {
+      "A": "Time zone extraction.",
+      "B": "Time-based feature engineering.",
+      "C": "Date-based feature engineering.",
+      "D": "Temporal normalization."
+    }
+  },
+  "123": {
+    "question": "What do time-based features primarily focus on extracting from temporal data?",
+    "answer": "D",
+    "options": {
+      "A": "Time zone information.",
+      "B": "Epoch time.",
+      "C": "Date components.",
+      "D": "Time components within a day."
+    }
+  },
+  "124": {
+    "question": "Which of the following is considered a time-based feature?",
+    "answer": "D",
+    "options": {
+      "A": "Day of the year",
+      "B": "Month",
+      "C": "Year",
+      "D": "Hour"
+    }
+  },
+  "125": {
+    "question": "Features like 'hour', 'minute', and 'second' are examples of:",
+    "answer": "C",
+    "options": {
+      "A": "Temporal normalization.",
+      "B": "Date-based features.",
+      "C": "Time-based features.",
+      "D": "Time zone features."
+    }
+  },
+  "126": {
+    "question": "Why is feature engineering necessary for image data?",
+    "answer": "D",
+    "options": {
+      "A": "Images are directly usable by machine learning models.",
+      "B": "Images do not contain useful information.",
+      "C": "Images are already structured data.",
+      "D": "Images are unstructured and need representation for models."
+    }
+  },
+  "127": {
+    "question": "How are images fundamentally represented for machine learning?",
+    "answer": "C",
+    "options": {
+      "A": "As categorical labels.",
+      "B": "As audio signals.",
+      "C": "As matrices of numeric pixel values.",
+      "D": "As text descriptions."
+    }
+  },
+  "128": {
+    "question": "How many channels do color images typically have?",
+    "answer": "D",
+    "options": {
+      "A": "4 (CMYK)",
+      "B": "2 (black and white)",
+      "C": "1 (grayscale)",
+      "D": "3 (RGB)"
+    }
+  },
+  "129": {
+    "question": "Why is converting color images to grayscale beneficial in feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "It increases data complexity.",
+      "B": "It simplifies processing by reducing dimensionality.",
+      "C": "It enhances color information.",
+      "D": "It is not beneficial for feature engineering."
+    }
+  },
+  "130": {
+    "question": "What does a grayscale pixel value represent?",
+    "answer": "C",
+    "options": {
+      "A": "Color saturation.",
+      "B": "Color contrast.",
+      "C": "Pixel luminance or intensity.",
+      "D": "Color hue."
+    }
+  },
+  "131": {
+    "question": "In grayscale images, what range do pixel intensity values typically fall within?",
+    "answer": "D",
+    "options": {
+      "A": "0 to 255",
+      "B": "-1 to 1",
+      "C": "0 to 100",
+      "D": "0 to 1"
+    }
+  },
+  "132": {
+    "question": "What does binning image intensity distribution aim to capture?",
+    "answer": "C",
+    "options": {
+      "A": "Exact pixel positions.",
+      "B": "Image edges only.",
+      "C": "The distribution of pixel intensity values.",
+      "D": "Object boundaries."
+    }
+  },
+  "133": {
+    "question": "What tool is used to bin image intensity distribution in the described method?",
+    "answer": "D",
+    "options": {
+      "A": "Clustering algorithms.",
+      "B": "Edge detectors.",
+      "C": "Convolutional filters.",
+      "D": "Histograms."
+    }
+  },
+  "134": {
+    "question": "Using intensity distribution bins as features is based on:",
+    "answer": "A",
+    "options": {
+      "A": "Frequency of intensity levels.",
+      "B": "Individual pixel values.",
+      "C": "Image color information.",
+      "D": "Spatial relationships of pixels."
+    }
+  },
+  "135": {
+    "question": "What type of features are created using image aggregation statistics?",
+    "answer": "B",
+    "options": {
+      "A": "Edge features.",
+      "B": "Descriptive statistical measures from pixel values.",
+      "C": "Object features.",
+      "D": "Individual pixel values."
+    }
+  },
+  "136": {
+    "question": "Which statistical measures are mentioned as examples for image aggregation features?",
+    "answer": "C",
+    "options": {
+      "A": "Correlation and covariance.",
+      "B": "Frequency and mode.",
+      "C": "Mean, median, variance, kurtosis, and skewness.",
+      "D": "Range and interquartile range."
+    }
+  },
+  "137": {
+    "question": "Calculating RGB ranges (difference between max and min pixel values) is an example of:",
+    "answer": "B",
+    "options": {
+      "A": "Edge detection.",
+      "B": "Image aggregation statistics.",
+      "C": "Object detection.",
+      "D": "Image normalization."
+    }
+  },
+  "138": {
+    "question": "What do edge detection algorithms identify in images?",
+    "answer": "B",
+    "options": {
+      "A": "Text content.",
+      "B": "Sharp intensity and brightness changes.",
+      "C": "Color variations.",
+      "D": "Object names."
+    }
+  },
+  "139": {
+    "question": "Which edge detection algorithm is highlighted as widely used in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Prewitt operator",
+      "B": "Sobel operator",
+      "C": "Canny edge detector",
+      "D": "Laplacian operator"
+    }
+  },
+  "140": {
+    "question": "Edge features are useful for capturing what type of information in images?",
+    "answer": "A",
+    "options": {
+      "A": "Structural information about objects.",
+      "B": "Texture information.",
+      "C": "Brightness information.",
+      "D": "Color information."
+    }
+  },
+  "141": {
+    "question": "What is the goal of object detection in image feature engineering?",
+    "answer": "B",
+    "options": {
+      "A": "To measure image intensity.",
+      "B": "To detect and highlight specific objects in images.",
+      "C": "To detect edges.",
+      "D": "To convert images to grayscale."
+    }
+  },
+  "142": {
+    "question": "Which technique is mentioned as extensively used in object detection for feature extraction?",
+    "answer": "D",
+    "options": {
+      "A": "Image histograms",
+      "B": "Canny edge detection",
+      "C": "Raw pixel values",
+      "D": "Histogram of Oriented Gradients (HOG)"
+    }
+  },
+  "143": {
+    "question": "What type of information does HOG capture in images?",
+    "answer": "D",
+    "options": {
+      "A": "Edge locations.",
+      "B": "Color information.",
+      "C": "Intensity distribution.",
+      "D": "Shape and texture information."
+    }
+  },
+  "144": {
+    "question": "What is the focus of localized feature extraction techniques like SURF?",
+    "answer": "A",
+    "options": {
+      "A": "Features from small, localized regions of images.",
+      "B": "Color features.",
+      "C": "Global image features.",
+      "D": "Image-wide intensity distributions."
+    }
+  },
+  "145": {
+    "question": "What does SURF stand for in the context of image feature extraction?",
+    "answer": "B",
+    "options": {
+      "A": "Surface Uniformity and Robust Features",
+      "B": "Speeded Up Robust Features",
+      "C": "Scale-Invariant Uniform Features",
+      "D": "Structural Understanding of Regional Features"
+    }
+  },
+  "146": {
+    "question": "What does SURF algorithm aim to find and describe in images?",
+    "answer": "A",
+    "options": {
+      "A": "Distinctive points of interest and their local neighborhood.",
+      "B": "Overall image brightness.",
+      "C": "Edges and boundaries.",
+      "D": "Uniform color regions."
+    }
+  },
+  "147": {
+    "question": "What concept does the Visual Bag of Words (VBOW) model apply to image features?",
+    "answer": "B",
+    "options": {
+      "A": "N-grams",
+      "B": "Bag of Words (BoW)",
+      "C": "TF-IDF",
+      "D": "Topic Models"
+    }
+  },
+  "148": {
+    "question": "How are 'visual words' created in the VBOW model?",
+    "answer": "B",
+    "options": {
+      "A": "By detecting edges.",
+      "B": "By clustering localized feature descriptors.",
+      "C": "By calculating image histograms.",
+      "D": "By manually labeling image regions."
+    }
+  },
+  "149": {
+    "question": "How are images represented in the VBOW model?",
+    "answer": "A",
+    "options": {
+      "A": "As histograms of visual words.",
+      "B": "As object bounding boxes.",
+      "C": "As raw pixel matrices.",
+      "D": "As edge maps."
+    }
+  },
+  "150": {
+    "question": "What type of neural networks are extensively used for automated feature extraction in images?",
+    "answer": "C",
+    "options": {
+      "A": "Recurrent Neural Networks (RNNs)",
+      "B": "Generative Adversarial Networks (GANs)",
+      "C": "Convolutional Neural Networks (CNNs)",
+      "D": "Artificial Neural Networks (ANNs)"
+    }
+  },
+  "151": {
+    "question": "How do CNNs automate feature extraction from images?",
+    "answer": "B",
+    "options": {
+      "A": "By using pre-defined feature extractors.",
+      "B": "By learning hierarchical features directly from pixel data.",
+      "C": "By converting images to text.",
+      "D": "By manually defining features."
+    }
+  },
+  "152": {
+    "question": "What layers in CNNs contribute to learning hierarchical features from images?",
+    "answer": "D",
+    "options": {
+      "A": "Fully connected layers only.",
+      "B": "Pooling layers only.",
+      "C": "Output layers only.",
+      "D": "Convolutional and pooling layers."
+    }
+  }
+}
