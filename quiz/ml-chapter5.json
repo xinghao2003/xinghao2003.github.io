@@ -1,0 +1,942 @@
+{
+  "1": {
+    "question": "Which phase of CRISP-DM focuses on understanding the project objectives and requirements from a business perspective?",
+    "answer": "D",
+    "options": {
+      "A": "Modeling",
+      "B": "Evaluation",
+      "C": "Data Understanding",
+      "D": "Business Understanding"
+    }
+  },
+  "2": {
+    "question": "What is the correct order of phases in the CRISP-DM model?",
+    "answer": "A",
+    "options": {
+      "A": "Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment",
+      "B": "Business Understanding, Data Preparation, Data Understanding, Modeling, Deployment, Evaluation",
+      "C": "Data Preparation, Data Understanding, Business Understanding, Modeling, Evaluation, Deployment",
+      "D": "Data Understanding, Business Understanding, Data Preparation, Evaluation, Modeling, Deployment"
+    }
+  },
+  "3": {
+    "question": "Which stage of the machine learning pipeline involves transforming raw data into features suitable for modeling?",
+    "answer": "B",
+    "options": {
+      "A": "Deployment & Monitoring",
+      "B": "Feature Extraction & Engineering",
+      "C": "Data Processing & Wrangling",
+      "D": "Data Retrieval"
+    }
+  },
+  "4": {
+    "question": "What is the purpose of the 'Model Evaluation & Tuning' stage?",
+    "answer": "C",
+    "options": {
+      "A": "To clean and preprocess the data.",
+      "B": "To deploy the model to a production environment.",
+      "C": "To assess the model's performance and optimize its parameters.",
+      "D": "To collect the initial dataset."
+    }
+  },
+  "5": {
+    "question": "What is the defining characteristic of supervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "It focuses on clustering data.",
+      "B": "It uses unlabeled data.",
+      "C": "It learns from labeled data.",
+      "D": "It is primarily used for dimensionality reduction."
+    }
+  },
+  "6": {
+    "question": "In supervised learning, what is the model trained to do?",
+    "answer": "B",
+    "options": {
+      "A": "Group similar data points together.",
+      "B": "Learn a mapping between input features and output labels.",
+      "C": "Reduce the dimensionality of the data.",
+      "D": "Discover hidden patterns in unlabeled data."
+    }
+  },
+  "7": {
+    "question": "What type of output does a classification model predict?",
+    "answer": "C",
+    "options": {
+      "A": "Continuous numerical values",
+      "B": "Unstructured text",
+      "C": "Categorical labels",
+      "D": "Images"
+    }
+  },
+  "8": {
+    "question": "Predicting house prices is an example of which type of supervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "Clustering",
+      "B": "Dimensionality Reduction",
+      "C": "Regression",
+      "D": "Classification"
+    }
+  },
+  "9": {
+    "question": "What distinguishes regression from classification in supervised learning?",
+    "answer": "A",
+    "options": {
+      "A": "Regression predicts continuous values; classification predicts discrete categories.",
+      "B": "Regression uses decision trees; classification uses neural networks.",
+      "C": "Regression is used for dimensionality reduction; classification is used for clustering.",
+      "D": "Regression uses unlabeled data; classification uses labeled data."
+    }
+  },
+  "10": {
+    "question": "What does the 'm' represent in the linear regression equation Y = mX + c?",
+    "answer": "C",
+    "options": {
+      "A": "Y-intercept",
+      "B": "Dependent variable",
+      "C": "Slope",
+      "D": "Independent variable"
+    }
+  },
+  "11": {
+    "question": "Linear regression finds the best fit line by:",
+    "answer": "A",
+    "options": {
+      "A": "Minimizing the error",
+      "B": "Maximizing the error",
+      "C": "Keeping the error constant",
+      "D": "Ignoring the error"
+    }
+  },
+  "12": {
+    "question": "When is polynomial regression more suitable than linear regression?",
+    "answer": "B",
+    "options": {
+      "A": "When the relationship between variables is linear.",
+      "B": "When the relationship between variables is non-linear.",
+      "C": "When there is only one independent variable.",
+      "D": "When the dependent variable is categorical."
+    }
+  },
+  "13": {
+    "question": "What distinguishes multiple regression from simple linear regression?",
+    "answer": "A",
+    "options": {
+      "A": "Multiple regression has multiple independent variables; simple linear regression has only one.",
+      "B": "Multiple regression uses a curved line; simple linear regression uses a straight line.",
+      "C": "Multiple regression predicts categorical outcomes; simple linear regression predicts continuous outcomes.",
+      "D": "Multiple regression is used for unsupervised learning; simple linear regression is used for supervised learning."
+    }
+  },
+  "14": {
+    "question": "What type of outcome does logistic regression predict?",
+    "answer": "D",
+    "options": {
+      "A": "Multiple classes",
+      "B": "Ordinal values",
+      "C": "Continuous values",
+      "D": "Binary classes"
+    }
+  },
+  "15": {
+    "question": "Logistic regression is best suited for:",
+    "answer": "A",
+    "options": {
+      "A": "Predicting a categorical outcome with two possible values.",
+      "B": "Clustering data into groups.",
+      "C": "Predicting a continuous outcome variable.",
+      "D": "Reducing the number of features."
+    }
+  },
+  "16": {
+    "question": "What is a major disadvantage of Linear Regression?",
+    "answer": "D",
+    "options": {
+      "A": "It is not affected by outliers.",
+      "B": "It is computationally expensive",
+      "C": "It is difficult to implement.",
+      "D": "Outliers can have huge effects."
+    }
+  },
+  "17": {
+    "question": "What does a leaf node represent in a decision tree?",
+    "answer": "C",
+    "options": {
+      "A": "The root of the tree",
+      "B": "An outcome of a test",
+      "C": "A class label",
+      "D": "A test on an attribute"
+    }
+  },
+  "18": {
+    "question": "What is an advantage of decision trees?",
+    "answer": "D",
+    "options": {
+      "A": "They are not interpretable.",
+      "B": "They always require extensive data preprocessing.",
+      "C": "They are only suitable for regression tasks.",
+      "D": "They can handle both categorical and numerical data without dummy variables."
+    }
+  },
+  "19": {
+    "question": "In a decision tree, what does a path from the root to a leaf represent?",
+    "answer": "B",
+    "options": {
+      "A": "A clustering algorithm.",
+      "B": "A classification rule.",
+      "C": "A regression coefficient.",
+      "D": "A random walk."
+    }
+  },
+  "20": {
+    "question": "What is a disadvantage of decision trees?",
+    "answer": "A",
+    "options": {
+      "A": "They are inadequate for applying regression",
+      "B": "They do not require normalization of data",
+      "C": "They requires less effort for data preparation.",
+      "D": "They are easy to interpret"
+    }
+  },
+  "21": {
+    "question": "What is the main idea behind ensemble learning?",
+    "answer": "C",
+    "options": {
+      "A": "To cluster data points.",
+      "B": "To use a single, complex model.",
+      "C": "To combine multiple models to improve performance.",
+      "D": "To reduce the dimensionality of the data."
+    }
+  },
+  "22": {
+    "question": "Random Forest is an ensemble method based on which underlying algorithm?",
+    "answer": "C",
+    "options": {
+      "A": "Naive Bayes",
+      "B": "K-Nearest Neighbors",
+      "C": "Decision Trees",
+      "D": "Support Vector Machines"
+    }
+  },
+  "23": {
+    "question": "In a Random Forest, how is the final prediction made for a regression problem?",
+    "answer": "A",
+    "options": {
+      "A": "By taking the average of the predictions from all trees.",
+      "B": "By selecting the prediction from the first tree.",
+      "C": "By taking the mode of the predictions from all trees.",
+      "D": "By selecting the prediction from the deepest tree."
+    }
+  },
+  "24": {
+    "question": "What is a major disadvantage of Random Forest?",
+    "answer": "D",
+    "options": {
+      "A": "No feature scaling required.",
+      "B": "It can be used to solve both classification as well as regression problems.",
+      "C": "Random Forest can automatically handle missing values.",
+      "D": "Longer training period"
+    }
+  },
+  "25": {
+    "question": "What is the primary goal of the SVM algorithm?",
+    "answer": "B",
+    "options": {
+      "A": "To find the hyperplane that minimizes the margin between classes.",
+      "B": "To find the hyperplane that maximizes the margin between classes.",
+      "C": "To cluster data points into different groups.",
+      "D": "To reduce the dimensionality of the data."
+    }
+  },
+  "26": {
+    "question": "In SVM, what is a hyperplane?",
+    "answer": "C",
+    "options": {
+      "A": "A line in two-dimensional space that best separates two classes.",
+      "B": "A point in n-dimensional space.",
+      "C": "A line in any dimensional space that separates two classes.",
+      "D": "A decision boundary of any shape."
+    }
+  },
+  "27": {
+    "question": "Which one is the thumb rule to identify the right hyper-plane?",
+    "answer": "D",
+    "options": {
+      "A": "Select the hyper-plane which minimizes the margin.",
+      "B": "Select the hyper-plane which maximizes the margin.",
+      "C": "Select the hyper-plane which has higher margin with misclassification.",
+      "D": "Select the hyper-plane which segregates the two classes better."
+    }
+  },
+  "28": {
+    "question": "What is the purpose of a kernel function in SVM?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce the dimensionality of the data.",
+      "B": "To calculate the distance between data points.",
+      "C": "To transform data into a space where it can be linearly separated.",
+      "D": "To cluster data points."
+    }
+  },
+  "29": {
+    "question": "Which of the following is a commonly used kernel function in SVM?",
+    "answer": "B",
+    "options": {
+      "A": "K-Nearest Neighbors",
+      "B": "RBF (Radial Basis Function)",
+      "C": "Decision Tree",
+      "D": "Random Forest"
+    }
+  },
+  "30": {
+    "question": "What is a major advantage of SVM Kernel?",
+    "answer": "A",
+    "options": {
+      "A": "It is memory efficient.",
+      "B": "It doesn't perform well when we have large data",
+      "C": "The training time is higher.",
+      "D": "It also doesn't perform very well, when the data set has more noise"
+    }
+  },
+  "31": {
+    "question": "Why is the Naive Bayes algorithm called 'naive'?",
+    "answer": "A",
+    "options": {
+      "A": "Because it assumes features are independent.",
+      "B": "Because it is not very accurate.",
+      "C": "Because it is very complex.",
+      "D": "Because it uses a Bayesian network."
+    }
+  },
+  "32": {
+    "question": "Which theorem is the Naive Bayes algorithm based on?",
+    "answer": "A",
+    "options": {
+      "A": "Bayes' Theorem",
+      "B": "Central Limit Theorem",
+      "C": "Pythagorean Theorem",
+      "D": "Fermat's Last Theorem"
+    }
+  },
+  "33": {
+    "question": "What does the assumption 'class conditional independence' means?",
+    "answer": "B",
+    "options": {
+      "A": "The effect of the value of a predictor on a given class is dependent of the value of other predictors.",
+      "B": "The value of a predictor on a given class is independent of the values of other predictors.",
+      "C": "The effect of the value of a predictor is not independent",
+      "D": "The features are dependent with each other."
+    }
+  },
+  "34": {
+    "question": "In the Naive Bayes example, what is the goal?",
+    "answer": "C",
+    "options": {
+      "A": "To predict the weather.",
+      "B": "To calculate the frequency of different weather types.",
+      "C": "To determine whether to play or not based on weather conditions.",
+      "D": "To generate a likelihood table."
+    }
+  },
+  "35": {
+    "question": "What is a limitation of the Naive Bayes algorithm?",
+    "answer": "D",
+    "options": {
+      "A": "It performs poorly with multi-class predictions.",
+      "B": "It requires a large amount of training data.",
+      "C": "It cannot handle categorical variables.",
+      "D": "It can be affected by the \"Zero Frequency\" problem."
+    }
+  },
+  "36": {
+    "question": "What does 'non-parametric' mean in the context of KNN?",
+    "answer": "A",
+    "options": {
+      "A": "The algorithm does not make assumptions about the data distribution.",
+      "B": "The algorithm requires a large number of parameters.",
+      "C": "The algorithm is very fast.",
+      "D": "The algorithm makes strong assumptions about the data distribution."
+    }
+  },
+  "37": {
+    "question": "What does 'lazy learning' mean in the context of KNN?",
+    "answer": "B",
+    "options": {
+      "A": "The algorithm is prone to overfitting.",
+      "B": "The algorithm does not build a model during training.",
+      "C": "The algorithm requires a lot of training data.",
+      "D": "The algorithm is very slow."
+    }
+  },
+  "38": {
+    "question": "In KNN, how is the class of a new data point determined?",
+    "answer": "B",
+    "options": {
+      "A": "By calculating the mean of all data points.",
+      "B": "By majority vote of its k nearest neighbors.",
+      "C": "By random assignment.",
+      "D": "By finding the closest single neighbor."
+    }
+  },
+  "39": {
+    "question": "What is the first step in the KNN algorithm?",
+    "answer": "A",
+    "options": {
+      "A": "Selecting optimal value of K",
+      "B": "Calculating distance",
+      "C": "Finding closest neighbors",
+      "D": "Voting for labels"
+    }
+  },
+  "40": {
+    "question": "Which distance metric is commonly used in KNN?",
+    "answer": "C",
+    "options": {
+      "A": "Cosine similarity",
+      "B": "Manhattan distance",
+      "C": "Euclidean distance",
+      "D": "Hamming distance"
+    }
+  },
+  "41": {
+    "question": "What is a major disadvantage of KNN?",
+    "answer": "D",
+    "options": {
+      "A": "Useful for linear data",
+      "B": "Fast training phase.",
+      "C": "Requires less memory.",
+      "D": "Requires scaling of data"
+    }
+  },
+  "42": {
+    "question": "What is the basic building block of an artificial neural network?",
+    "answer": "B",
+    "options": {
+      "A": "Hyperplane",
+      "B": "Neuron (Node)",
+      "C": "Kernel",
+      "D": "Decision Tree"
+    }
+  },
+  "43": {
+    "question": "Which components in Artificial Neural Network corresponds to Axon in Biological Nervous System?",
+    "answer": "B",
+    "options": {
+      "A": "Weight",
+      "B": "Output",
+      "C": "Input",
+      "D": "Neuron"
+    }
+  },
+  "44": {
+    "question": "If classification result in ANN is wrong, what will happen?",
+    "answer": "B",
+    "options": {
+      "A": "Stop the process",
+      "B": "Adjust the weight",
+      "C": "No change",
+      "D": "Start with weight > 0"
+    }
+  },
+  "45": {
+    "question": "What are the three main types of layers in a typical ANN?",
+    "answer": "D",
+    "options": {
+      "A": "Input, Processing, Output",
+      "B": "Training, Validation, Testing",
+      "C": "Data, Model, Evaluation",
+      "D": "Input, Hidden, Output"
+    }
+  },
+  "46": {
+    "question": "What is the role of an activation function in an ANN?",
+    "answer": "A",
+    "options": {
+      "A": "To process incoming information and pass it through the network.",
+      "B": "To connect layers.",
+      "C": "To store the data.",
+      "D": "To determine the weights of connections."
+    }
+  },
+  "47": {
+    "question": "Which one is an example of activation function?",
+    "answer": "C",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Linear",
+      "D": "Hidden"
+    }
+  },
+  "48": {
+    "question": "What is a Deep Neural Network (DNN)?",
+    "answer": "D",
+    "options": {
+      "A": "A neural network with a single hidden layer.",
+      "B": "A neural network used for unsupervised learning.",
+      "C": "A neural network with no hidden layers.",
+      "D": "A neural network with multiple hidden layers."
+    }
+  },
+  "49": {
+    "question": "What are the two phases of an epoch in backpropagation?",
+    "answer": "C",
+    "options": {
+      "A": "Initialization and Termination",
+      "B": "Training and Testing",
+      "C": "Forward and Backward",
+      "D": "Input and Output"
+    }
+  },
+  "50": {
+    "question": "In backpropagation, what happens during the backward phase?",
+    "answer": "D",
+    "options": {
+      "A": "The data is preprocessed.",
+      "B": "The neurons are activated from input to output layer.",
+      "C": "The weights are initialized.",
+      "D": "The network's output is compared to the target value, and the error is propagated backward to adjust weights."
+    }
+  },
+  "51": {
+    "question": "If the data isn't separable, and the weights might thrash, this can be overcome by?",
+    "answer": "C",
+    "options": {
+      "A": "Increasing iteration",
+      "B": "Stop training",
+      "C": "Averaging weight vectors over time",
+      "D": "Remove hidden layer"
+    }
+  },
+  "52": {
+    "question": "What is the weakness of ANN?",
+    "answer": "D",
+    "options": {
+      "A": "Can be adapted to classification problems",
+      "B": "Can model complex patterns",
+      "C": "Make few assumptions about the data",
+      "D": "Very prone to overfitting training data"
+    }
+  },
+  "53": {
+    "question": "How to calculate the output of hidden node?",
+    "answer": "A",
+    "options": {
+      "A": "Calculate weighted sum of input, add bias term, and apply activation function.",
+      "B": "Multiply all the inputs",
+      "C": "Apply the activation function.",
+      "D": "Calculate the weighted sum of inputs and add the bias term."
+    }
+  },
+  "54": {
+    "question": "What is the primary characteristic of supervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "Learning without any training data",
+      "B": "Learning from data without predefined outputs",
+      "C": "Learning from data with known input-output pairs",
+      "D": "Learning from unlabeled data"
+    }
+  },
+  "55": {
+    "question": "In supervised learning, what is the 'training data'?",
+    "answer": "A",
+    "options": {
+      "A": "Data samples with associated known outputs used for model training",
+      "B": "Randomly generated data for model initialization",
+      "C": "Data used only for evaluating model performance",
+      "D": "Unlabeled data used for testing the model"
+    }
+  },
+  "56": {
+    "question": "Which type of supervised learning task predicts categorical output labels?",
+    "answer": "D",
+    "options": {
+      "A": "Dimensionality Reduction",
+      "B": "Regression",
+      "C": "Clustering",
+      "D": "Classification"
+    }
+  },
+  "57": {
+    "question": "Which type of supervised learning task is used for value estimation and predicts continuous numeric values?",
+    "answer": "C",
+    "options": {
+      "A": "Anomaly Detection",
+      "B": "Association Rule Mining",
+      "C": "Regression",
+      "D": "Classification"
+    }
+  },
+  "58": {
+    "question": "Output labels in classification tasks are best described as:",
+    "answer": "D",
+    "options": {
+      "A": "Continuous and ordered",
+      "B": "Continuous and numeric",
+      "C": "Unordered and numeric",
+      "D": "Discrete and categorical"
+    }
+  },
+  "59": {
+    "question": "Output responses in regression tasks are best described as:",
+    "answer": "B",
+    "options": {
+      "A": "Unordered and discrete",
+      "B": "Continuous and numeric",
+      "C": "Categorical and discrete",
+      "D": "Discrete and categorical"
+    }
+  },
+  "60": {
+    "question": "What type of relationship does Linear Regression model?",
+    "answer": "A",
+    "options": {
+      "A": "Straight-line relationship",
+      "B": "Exponential relationship",
+      "C": "Curvilinear relationship",
+      "D": "Non-linear relationship"
+    }
+  },
+  "61": {
+    "question": "In the equation Y = mX + c for Linear Regression, what does 'Y' represent?",
+    "answer": "D",
+    "options": {
+      "A": "Independent variable",
+      "B": "Y-intercept",
+      "C": "Slope of the line",
+      "D": "Dependent variable"
+    }
+  },
+  "62": {
+    "question": "A key advantage of Linear Regression is its:",
+    "answer": "B",
+    "options": {
+      "A": "Ability to handle outliers effectively",
+      "B": "Simplicity and ease of interpretation",
+      "C": "Effectiveness with non-linear data",
+      "D": "Complexity and difficulty to interpret"
+    }
+  },
+  "63": {
+    "question": "A key disadvantage of Linear Regression is its sensitivity to:",
+    "answer": "B",
+    "options": {
+      "A": "Missing values",
+      "B": "Outliers",
+      "C": "Categorical data",
+      "D": "Small datasets"
+    }
+  },
+  "64": {
+    "question": "Polynomial Regression is used when the relationship between variables is:",
+    "answer": "D",
+    "options": {
+      "A": "Linear",
+      "B": "Exponential",
+      "C": "Logarithmic",
+      "D": "Non-linear"
+    }
+  },
+  "65": {
+    "question": "Compared to Linear Regression, Polynomial Regression can model:",
+    "answer": "B",
+    "options": {
+      "A": "Only straight lines",
+      "B": "More complex curves",
+      "C": "Data with fewer features",
+      "D": "Simpler relationships"
+    }
+  },
+  "66": {
+    "question": "How does Multiple Regression differ from Linear Regression?",
+    "answer": "D",
+    "options": {
+      "A": "It uses only one independent variable.",
+      "B": "It uses more than one dependent variable.",
+      "C": "It predicts categorical outcomes.",
+      "D": "It uses more than one independent variable."
+    }
+  },
+  "67": {
+    "question": "Multiple Regression aims to improve prediction accuracy by:",
+    "answer": "A",
+    "options": {
+      "A": "Considering more variables",
+      "B": "Using fewer variables",
+      "C": "Simplifying the model",
+      "D": "Ignoring irrelevant variables"
+    }
+  },
+  "68": {
+    "question": "Logistic Regression is primarily used for predicting:",
+    "answer": "A",
+    "options": {
+      "A": "Binary classes",
+      "B": "Multiple classes",
+      "C": "Continuous values",
+      "D": "Polynomial relationships"
+    }
+  },
+  "69": {
+    "question": "What does 'dichotomous' mean in the context of Logistic Regression's outcome variable?",
+    "answer": "C",
+    "options": {
+      "A": "Having continuous values",
+      "B": "Having no categories",
+      "C": "Having only two possible classes",
+      "D": "Having multiple categories"
+    }
+  },
+  "70": {
+    "question": "Logistic Regression computes the:",
+    "answer": "A",
+    "options": {
+      "A": "Probability of an event occurrence",
+      "B": "Residual sum of squares",
+      "C": "Correlation coefficient",
+      "D": "Mean squared error"
+    }
+  },
+  "71": {
+    "question": "What do internal nodes represent in a Decision Tree?",
+    "answer": "C",
+    "options": {
+      "A": "Predicted values",
+      "B": "Final decisions",
+      "C": "Tests on attributes",
+      "D": "Class labels"
+    }
+  },
+  "72": {
+    "question": "What do leaf nodes represent in a Decision Tree?",
+    "answer": "A",
+    "options": {
+      "A": "Class labels or predicted values",
+      "B": "Attribute tests",
+      "C": "Decision rules",
+      "D": "Branches of the tree"
+    }
+  },
+  "73": {
+    "question": "An advantage of Decision Trees is that they generally do not require:",
+    "answer": "C",
+    "options": {
+      "A": "Large datasets",
+      "B": "All of the above",
+      "C": "Normalization of data",
+      "D": "Feature scaling"
+    }
+  },
+  "74": {
+    "question": "CART stands for:",
+    "answer": "D",
+    "options": {
+      "A": "Categorical and Regression Trees",
+      "B": "Classification and Regression Techniques",
+      "C": "Complex and Recursive Trees",
+      "D": "Classification and Regression Trees"
+    }
+  },
+  "75": {
+    "question": "Random Forest is based on which type of learning?",
+    "answer": "C",
+    "options": {
+      "A": "Semi-supervised learning",
+      "B": "Unsupervised learning",
+      "C": "Ensemble learning",
+      "D": "Reinforcement learning"
+    }
+  },
+  "76": {
+    "question": "What type of base learners are used in a Random Forest?",
+    "answer": "B",
+    "options": {
+      "A": "Neural Networks",
+      "B": "Decision Trees",
+      "C": "Linear Regression models",
+      "D": "Logistic Regression models"
+    }
+  },
+  "77": {
+    "question": "For classification tasks in Random Forest, the final prediction is typically made by:",
+    "answer": "A",
+    "options": {
+      "A": "Taking the mode of predictions of all trees",
+      "B": "Using a weighted average of tree predictions",
+      "C": "Averaging predictions of all trees",
+      "D": "Selecting the prediction of the first tree"
+    }
+  },
+  "78": {
+    "question": "Random Forest is suitable for:",
+    "answer": "A",
+    "options": {
+      "A": "Both classification and regression tasks",
+      "B": "Only classification tasks",
+      "C": "Neither classification nor regression tasks",
+      "D": "Only regression tasks"
+    }
+  },
+  "79": {
+    "question": "SVM is primarily known for its effectiveness in:",
+    "answer": "A",
+    "options": {
+      "A": "Classification tasks",
+      "B": "Dimensionality reduction tasks",
+      "C": "Regression tasks",
+      "D": "Clustering tasks"
+    }
+  },
+  "80": {
+    "question": "In SVM, what is the 'hyperplane'?",
+    "answer": "A",
+    "options": {
+      "A": "A line in 2D or a higher-dimensional plane that separates classes",
+      "B": "A measure of data dispersion",
+      "C": "A single data point",
+      "D": "A type of activation function"
+    }
+  },
+  "81": {
+    "question": "SVM aims to maximize the:",
+    "answer": "D",
+    "options": {
+      "A": "Classification error",
+      "B": "Model complexity",
+      "C": "Training time",
+      "D": "Margin between classes"
+    }
+  },
+  "82": {
+    "question": "What is the role of 'kernels' in SVM?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce the dimensionality of data",
+      "B": "To evaluate model performance",
+      "C": "To handle missing values",
+      "D": "To transform data into a suitable form for separation"
+    }
+  },
+  "83": {
+    "question": "Naive Bayes is based on which mathematical theorem?",
+    "answer": "D",
+    "options": {
+      "A": "Gradient Descent Theorem",
+      "B": "Central Limit Theorem",
+      "C": "Pythagorean Theorem",
+      "D": "Bayes' Theorem"
+    }
+  },
+  "84": {
+    "question": "What is the 'naive' assumption in Naive Bayes?",
+    "answer": "D",
+    "options": {
+      "A": "Features have no impact on the class label",
+      "B": "Features are highly correlated",
+      "C": "Features are dependent on each other",
+      "D": "Features are independent of each other given the class label"
+    }
+  },
+  "85": {
+    "question": "A common application of Naive Bayes is:",
+    "answer": "C",
+    "options": {
+      "A": "Image recognition",
+      "B": "Time series forecasting",
+      "C": "Spam filtering",
+      "D": "Object detection"
+    }
+  },
+  "86": {
+    "question": "What is the 'Zero Frequency' problem in Naive Bayes?",
+    "answer": "D",
+    "options": {
+      "A": "When the model accuracy is zero",
+      "B": "When the frequency of all features is zero",
+      "C": "When the model predicts zero probability for all classes",
+      "D": "When a category in the test dataset was not observed in the training dataset"
+    }
+  },
+  "87": {
+    "question": "KNN is described as a 'lazy' learning algorithm because:",
+    "answer": "B",
+    "options": {
+      "A": "It trains very slowly",
+      "B": "It does not need any training data points for model generation",
+      "C": "It is not effective for large datasets",
+      "D": "It is very simple to implement"
+    }
+  },
+  "88": {
+    "question": "In KNN, the value of 'K' represents:",
+    "answer": "A",
+    "options": {
+      "A": "The number of nearest neighbors considered",
+      "B": "The kernel function",
+      "C": "The number of classes",
+      "D": "The number of features"
+    }
+  },
+  "89": {
+    "question": "For classification in KNN, the class is predicted based on:",
+    "answer": "B",
+    "options": {
+      "A": "A weighted average of neighbors' classes",
+      "B": "The majority class among the k-nearest neighbors",
+      "C": "The average of neighbors' classes",
+      "D": "The class of the farthest neighbor"
+    }
+  },
+  "90": {
+    "question": "KNN is sensitive to the scale of data because it uses:",
+    "answer": "C",
+    "options": {
+      "A": "Probability distributions",
+      "B": "Gini impurity",
+      "C": "Euclidean distance",
+      "D": "Information gain"
+    }
+  },
+  "91": {
+    "question": "Artificial Neural Networks are inspired by:",
+    "answer": "C",
+    "options": {
+      "A": "The human circulatory system",
+      "B": "The human digestive system",
+      "C": "Biological neural networks",
+      "D": "The structure of plants"
+    }
+  },
+  "92": {
+    "question": "What are the basic building blocks of an ANN?",
+    "answer": "A",
+    "options": {
+      "A": "Neurons or Nodes",
+      "B": "Kernels",
+      "C": "Support Vectors",
+      "D": "Decision Trees"
+    }
+  },
+  "93": {
+    "question": "What is the role of 'activation functions' in ANNs?",
+    "answer": "B",
+    "options": {
+      "A": "To speed up training",
+      "B": "To introduce non-linearity and process information in neurons",
+      "C": "To prevent overfitting",
+      "D": "To reduce the dimensionality of data"
+    }
+  },
+  "94": {
+    "question": "What is 'backpropagation' in the context of ANNs?",
+    "answer": "D",
+    "options": {
+      "A": "A method for data preprocessing",
+      "B": "A type of activation function",
+      "C": "A technique for model evaluation",
+      "D": "An algorithm to adjust weights and reduce errors during training"
+    }
+  }
+}
