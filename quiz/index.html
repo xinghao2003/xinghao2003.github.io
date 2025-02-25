@@ -257,6 +257,49 @@
             });
 
             updateNavigationButtons();
+            // Add keyboard focus for the first question's options
+            setKeyboardFocusForCurrentQuestion();
+        }
+
+        // Add keyboard event listener to handle answering questions
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'ArrowLeft') {
+                showPreviousQuestion();
+            } else if (event.key === 'ArrowRight') {
+                showNextQuestion();
+            } else {
+                // Handle letter key presses for answering questions
+                const key = event.key.toUpperCase();
+
+                // Get the current question
+                const currentQuestion = quizData[currentQuestionIndex];
+                if (!currentQuestion) return;
+
+                // Check if any options are already selected (disabled)
+                const options = document.querySelectorAll(`#question-${currentQuestionIndex} button`);
+                if (options.length > 0 && options[0].disabled) return;
+
+                // Handle multiple choice questions (A, B, C, D, E)
+                if (currentQuestion.options && /^[A-E]$/.test(key)) {
+                    const validOptions = Object.keys(currentQuestion.options);
+                    if (validOptions.includes(key)) {
+                        selectOption(key, currentQuestionIndex);
+                    }
+                }
+                // Handle true/false questions (T, F)
+                else if ((key === 'T' || key === 'F') && (currentQuestion.answer === 'T' || currentQuestion.answer === 'F')) {
+                    selectOption(key, currentQuestionIndex);
+                }
+            }
+        });
+
+        function setKeyboardFocusForCurrentQuestion() {
+            // Reset focus to the current question container to ensure keyboard events work
+            const currentQuestion = document.getElementById(`question-${currentQuestionIndex}`);
+            if (currentQuestion) {
+                currentQuestion.setAttribute('tabindex', '-1');
+                currentQuestion.focus();
+            }
         }
 
         document.addEventListener('keydown', function (event) {
@@ -350,6 +393,7 @@
                 document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
                 updateNavigationButtons();
                 updateProgressBar();
+                setKeyboardFocusForCurrentQuestion();
             } else {
                 console.log("Quiz completed!");
                 const quizContainer = document.getElementById('quiz-container');
@@ -374,6 +418,7 @@
                 document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
                 updateNavigationButtons();
                 updateProgressBar();
+                setKeyboardFocusForCurrentQuestion();
             }
         }
 
@@ -398,7 +443,19 @@
                 document.getElementById(`question-${currentQuestionIndex}`).classList.remove('hidden');
                 updateNavigationButtons();
                 updateProgressBar();
+                setKeyboardFocusForCurrentQuestion();
             }
+        }
+
+        // Add help text to show keyboard shortcuts
+        function addKeyboardHelpText() {
+            const keyboardHelp = document.createElement('div');
+            keyboardHelp.classList.add('mt-4', 'text-sm', 'text-gray-600', 'dark:text-gray-400', 'text-center');
+            keyboardHelp.innerHTML = `
+                <p class="mb-1">Keyboard shortcuts: </p>
+                <p>Multiple choice: A, B, C, D, E | True/False: T, F | Navigation: ← →</p>
+            `;
+            document.querySelector('.container').appendChild(keyboardHelp);
         }
 
         function toggleDarkMode() {
@@ -421,6 +478,7 @@
         document.getElementById('toggle-dark-mode').addEventListener('click', toggleDarkMode);
 
         loadQuizList();
+        addKeyboardHelpText();
     </script>
 </body>
 
