@@ -1,0 +1,922 @@
+{
+    "1": {
+        "question": "Your grandmother places $13,000 into an account earning an interest rate of 7% per year. After 5 years the account will be valued at $18,233.17. Which of the following statements is CORRECT?",
+        "options": {
+            "A": "The present value is $13,000, the time period is 7 years, the present value is $18,233.17, and the interest rate is 5%.",
+            "B": "The future value is $13,000, the time period is 5 years, the principal is $18,233.17, and the interest rate is 7%.",
+            "C": "The principal is $13,000, the time period is 5 years, the future value is $18,233.17, and the interest rate is 7%.",
+            "D": "The principal is $13,000, the time period is 7 years, the future value is $18,233.17, and the interest rate is 5%."
+        },
+        "answer": "C"
+    },
+    "2": {
+        "question": "The one-time payment of money at a future date is often called a",
+        "options": {
+            "A": "lump-sum payment",
+            "B": "present value",
+            "C": "principal amount",
+            "D": "perpetuity payment"
+        },
+        "answer": "A"
+    },
+    "3": {
+        "question": "A $200 deposit today that earns an annual interest rate of 5% is worth how much at the end of two years? Assume all interest received at the end of the first year is reinvested the second year.",
+        "options": {
+            "A": "$181.41",
+            "B": "$220.00",
+            "C": "$220.50",
+            "D": "$242"
+        },
+        "answer": "C"
+    },
+    "4": {
+        "question": "An investment of $100 today is worth $116.64 at the end of two years if it earns an annual interest rate of 8%. How much interest is earned in the first year and how much in the second year of this investment?",
+        "options": {
+            "A": "The interest earned in year one is $8.32 and the interest earned in year two is $8.32.",
+            "B": "The interest earned in year one is $8.00 and the interest earned in year two is $8.64.",
+            "C": "The interest earned in year one is $8.64 and the interest earned in year two is $8.00.",
+            "D": "There is not enough information to solve this problem."
+        },
+        "answer": "B"
+    },
+    "5": {
+        "question": "__________ is simply the interest earned in subsequent periods on the interest earned in prior periods.",
+        "options": {
+            "A": "Quoted interest",
+            "B": "Anticipated interest",
+            "C": "Simple interest",
+            "D": "Compound interest"
+        },
+        "answer": "D"
+    },
+    "6": {
+        "question": "Which of the following is the CORRECT formula for calculating the future value?",
+        "options": {
+            "A": "FV = PV/(1+r)n",
+            "B": "FV = PV \u00d7 (1 + r)n",
+            "C": "PV = FV \u00d7 (1 + r)n",
+            "D": "PV = FV/(1+r)n -1"
+        },
+        "answer": "B"
+    },
+    "7": {
+        "question": "Which of the following will result in a future value greater than $100?",
+        "options": {
+            "A": "PV = $50, r = an annual interest rate of 10%, and n = 8 years.",
+            "B": "PV = $75, r = an annual interest rate of 12%, and n = 3 years.",
+            "C": "PV = $90, r = an annual interest rate of 14%, and n = 1 year.",
+            "D": "All of the future values are greater than $100."
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "A two-year investment of $300 is made today at an annual interest rate of 4%. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The PV is $277.37.",
+            "B": "The FV is $224.72.",
+            "C": "The FV is $324.48.",
+            "D": "This question is irrelevant because there are no two-year investments that earn an average of 4% per year."
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "A two-year investment of $200 is made today at an annual interest rate of 6%. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The interest earned in year two is $12.00 and year one is $12.72.",
+            "B": "The interest earned in year one is $12.00 and year two is $12.72.",
+            "C": "The FV is $224.00.",
+            "D": "The future value would be greater if the interest rate were lower."
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "A two-year investment of $3500 is made today at an annual interest rate of 5.75%. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The future value would be greater if the interest rate was higher.",
+            "B": "The present value would be greater if the interest rate was higher.",
+            "C": "The future value would be greater if the interest rate was lower.",
+            "D": "The future value does not change as the interest rate changes."
+        },
+        "answer": "A"
+    },
+    "11": {
+        "question": "In two years Brandon plans to enroll at Umpqua University, a prestigious university in the Pacific Northwest of the USA. If the current tuition is $23,500 per year and is expected to increase at a rate of 6% per year, how much will Brandon pay in tuition his first year of school? (His first tuition payment is exactly two years from today.) In his fourth year? (His last tuition payment is exactly 5 years from today) (Rounded to the nearest dollar.)",
+        "options": {
+            "A": "$23,500 and $29,668",
+            "B": "$26,405 and $29,668",
+            "C": "$23,500 and $31,448",
+            "D": "$26,405 and $31,448"
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "Andy would like to buy a new car but must complete a two-year commitment to the Peace Corp before he will drive the new car. The current price of the car Andy wants to buy is $32,000, and the dealer expects the price of a similar new car to be $35,000 in two years. If Andy can earn an annual interest rate of 4% on his money, should he buy the car now or wait for two years? Why? Note: Storage costs if Andy purchases the car are $0. Please limit your considerations to the factors offered in the answer choices.",
+        "options": {
+            "A": "Buy now because if Andy invests the $32,000 today it will only increase in value to $34,611, and this is less than the cost of his desired new car in two years.",
+            "B": "Andy is indifferent because his $32,000 investment will be worth exactly $35,000 after two years.",
+            "C": "Buy in two years because at $35,000 the car will cost less than the $36,385 Andy will have after investing the money for two years.",
+            "D": "Buy in two years because $35,000 is a \"real deal\" for the car Andy wants."
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "Susan and her spouse have saved $5,500 for a 12-day cruise vacation in Europe. The couple needs $6,500 for a \"nice\" cabin or $7,000 for a \"luxury\" cabin. If cabin prices are expected to remain constant for the next three years and Susan expects to earn 5% per year on her investments, will the couple's savings be enough to afford the \"nice\" cabin in three years? Can they afford the luxury cabin? Why or why not?",
+        "options": {
+            "A": "Yes, they can afford the \"nice\" cabin or the luxury cabin because their $5,500 investment will increase to $6,367 by the end of year three.",
+            "B": "Yes, they can afford the \"nice\" cabin or the luxury cabin because their $5,500 investment will increase to $7,082 by the end of year three.",
+            "C": "Yes, they can afford the \"nice\" cabin but NOT the luxury cabin because their $5,500 investment will only increase to $6,482 by the end of year three.",
+            "D": "No, they cannot afford the \"nice\" cabin or the luxury cabin because their $5,500 investment will only increase to $6,367 by the end of year three."
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "A home improvement firm has quoted a price of $14,700 to fix up Eric's backyard. Five years ago, Eric put $12,500 into a home improvement account that has earned an average of 4.75% per year. Does Eric have enough money in his account to pay for the backyard fix-up?",
+        "options": {
+            "A": "Yes; Eric now has exactly $14,700 in his home improvement account.",
+            "B": "Yes; Eric has $15,764.50 in his home improvement account.",
+            "C": "No; Eric now has $10,519.32 in his home improvement account.",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "15": {
+        "question": "Which of the following investments has a larger future value: A $100 investment earning 10% per year for 5 years or a $100 investment earning 5% per year for 10 years?",
+        "options": {
+            "A": "An investment of $100 invested at 10% per year for 5 years because it has a future value of $161.05.",
+            "B": "An investment of $100 invested at 10% per year for 5 years because it has a future value of $162.89.",
+            "C": "An investment of $100 invested at 5% per year for 10 years because it has a future value of $161.05.",
+            "D": "An investment of $100 invested at 5% per year for 10 years because it has a future value of $162.89."
+        },
+        "answer": "D"
+    },
+    "16": {
+        "question": "Which of the following investments has a larger future value: Investment A, a $1,000 investment earning 5% per year for 6 years, or Investment B, a $500 investment earning 10% per year for 6 years, with a bonus of an extra $500 added at the end of the sixth year?",
+        "options": {
+            "A": "Investment B, with a future value of $1,386.",
+            "B": "Investment A, with a future value of $1,386.",
+            "C": "Investment A, with a future value of $1,340.",
+            "D": "The investments have equal value."
+        },
+        "answer": "A"
+    },
+    "17": {
+        "question": "You wish to make a substantial down payment on a lake cottage and you currently have $15,725 invested at an annual rate of 2.50%. How much money will be in the account in 3.5 years if it continues to earn at its present rate?",
+        "options": {
+            "A": "$18,325",
+            "B": "$20,579",
+            "C": "$17,144",
+            "D": "$19,605"
+        },
+        "answer": "C"
+    },
+    "18": {
+        "question": "If you invest $3,650 today, how much money will you have in 4 years?",
+        "options": {
+            "A": "$3,650",
+            "B": "$4,437",
+            "C": "This question cannot be answered because it is missing an annual rate of return.",
+            "D": "This question cannot be answered because it is missing the type of investment made."
+        },
+        "answer": "C"
+    },
+    "19": {
+        "question": "The current price on a 60-inch flat panel LCD HD television is $1,200. Big screen HD television prices have dropped at an average rate of 12% per year in recent years. If you expect this trend to continue, how much will this style of television cost in two years?",
+        "options": {
+            "A": "$1,122",
+            "B": "$1,087",
+            "C": "$1,008",
+            "D": "$929"
+        },
+        "answer": "D"
+    },
+    "20": {
+        "question": "The financial aid office at your university has offered to pay your full annual tuition cost of $19,000 this year, as long as you maintain a grade point average of 3.00. If tuition costs rise at a rate of 8% per year while you are in college, but the financial aid office continues to pay exactly $19,000 per year for your tuition, how much out-of-pocket tuition costs will you have your senior year? NOTE: Think carefully about this problem when figuring the number of years from the start of your freshman year to the start of your senior year, assuming normal progress toward graduation in four years. Further, be aware that while tuition costs are rising your tuition is covered up to only $19,000. You must pay any excess tuition costs.",
+        "options": {
+            "A": "$0",
+            "B": "$4,202",
+            "C": "$4,935",
+            "D": "$5,130"
+        },
+        "answer": "C"
+    },
+    "21": {
+        "question": "Consider the TVM equation: An increase in the present value will decrease the future value, other things remaining equal.",
+        "answer": "F"
+    },
+    "22": {
+        "question": "Consider a two-year investment: Given a constant and positive interest rate, the interest earned in the second year will be greater than the interest earned in the first year (assuming annual compounding).",
+        "answer": "T"
+    },
+    "23": {
+        "question": "Consider the TVM equation: A decrease in the interest rate will decrease the future value, other things remaining equal.",
+        "answer": "T"
+    },
+    "24": {
+        "question": "Consider the TVM equation: A decrease in the time period will increase the future value, other things remaining equal.",
+        "answer": "F"
+    },
+    "25": {
+        "question": "Consider the TVM equation: The future value is always greater than the present value, even if the interest rate is negative.",
+        "answer": "F"
+    },
+    "26": {
+        "question": "The TVM equation FV = PV \u00d7 (1 + r)n can be algebraically manipulated to solve for any of the variables EXCEPT for the time period n.",
+        "answer": "F"
+    },
+    "27": {
+        "question": "$100 invested at a rate of 5% for 10 years has the same future value as $100 invested at 10% compounded annually for 5 years.",
+        "answer": "F"
+    },
+    "28": {
+        "question": "$5,000 invested at an annual rate of 6% for 3 years has a smaller future value than $5,000 invested at an annual rate of 3% for 6 years.",
+        "answer": "T"
+    },
+    "29": {
+        "question": "Which of the following actions will INCREASE the present value of an investment?",
+        "options": {
+            "A": "Decrease the interest rate.",
+            "B": "Decrease the future value.",
+            "C": "Increase the amount of time.",
+            "D": "All of the above will increase the present value."
+        },
+        "answer": "A"
+    },
+    "30": {
+        "question": "Which of the following actions will DECREASE the present value of an investment?",
+        "options": {
+            "A": "Decrease the interest rate.",
+            "B": "Decrease the future value.",
+            "C": "Decrease the amount of time.",
+            "D": "All of the above will decrease the present value."
+        },
+        "answer": "B"
+    },
+    "31": {
+        "question": "Which of the following formulas is CORRECT for finding the present value of an investment?",
+        "options": {
+            "A": "FV = PV/(1+r)n",
+            "B": "PV = FV \u00d7 (1 + r)n",
+            "C": "PV = FVn \u00d7 (1 + r)",
+            "D": "PV = FV \u00d7 1/(1+r)n"
+        },
+        "answer": "D"
+    },
+    "32": {
+        "question": "You have purchased a zero coupon bond that will pay $15,000 to your newborn child in 21 years. If this bond is discounted at a rate of 2.875% per year, what is today's price (present value) for this bond?",
+        "options": {
+            "A": "$15,000",
+            "B": "$9,348.25",
+            "C": "$8,271.50",
+            "D": "$5,654"
+        },
+        "answer": "C"
+    },
+    "33": {
+        "question": "A furniture store has a love seat on sale for $699.00, with the payment due one year from today. The store is willing to discount the price at an annual rate of 5% if you pay today. What is the amount if you pay today?",
+        "options": {
+            "A": "$665.71",
+            "B": "$622.47",
+            "C": "$608.21",
+            "D": "$602.35"
+        },
+        "answer": "A"
+    },
+    "34": {
+        "question": "Your university is running a special offer on tuition. This year's tuition cost is $16,000. Next year's tuition cost is scheduled to be $16,640. The university offers to discount next year's tuition at a rate of 4% if you agree to pay both years' tuition in full today. How much is the total tuition bill today if you take the offer?",
+        "options": {
+            "A": "$33118",
+            "B": "$32,981",
+            "C": "$32,080",
+            "D": "$32,000"
+        },
+        "answer": "D"
+    },
+    "35": {
+        "question": "An investment promises a payoff of $995 two and one-half years from today. At a discount rate of 4.5% per year, what is the present value of this investment?",
+        "options": {
+            "A": "$914.67",
+            "B": "$891.32",
+            "C": "$808.44",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "36": {
+        "question": "Your family plans to spend $25,000 on a car for you upon graduation from college. If you will graduate in three years and your family can earn 3.125% annually on their investment, how much money must they set aside today for your car?",
+        "options": {
+            "A": "$23,243.66",
+            "B": "$23,009.21",
+            "C": "$22,795.45",
+            "D": "$21,387.36"
+        },
+        "answer": "C"
+    },
+    "37": {
+        "question": "You intend to buy a vacation home in eight years and plan to have saved $75,000 for a down payment. How much money would you have to place today into an investment that earns 9% per year to have enough for your desired down payment?",
+        "options": {
+            "A": "$37,640",
+            "B": "$37,218",
+            "C": "$35,335",
+            "D": "$34,989"
+        },
+        "answer": "A"
+    },
+    "38": {
+        "question": "In four years your oldest child will be in 10th grade, at which point you and your family plan to vacation in Europe. You estimate that you will need $25,000 for the trip. How much do you need to set aside today if you can place your money in an investment vehicle earning an average of 4.25% per year?",
+        "options": {
+            "A": "$20,215.55",
+            "B": "$20,998.34",
+            "C": "$21,165.85",
+            "D": "$21,435.77"
+        },
+        "answer": "C"
+    },
+    "39": {
+        "question": "Your grandparents leave on their dream vacation to Antarctica in three years. The cruise vacation will cost them $24,000. If they have already saved $22,500 and are investing it at a rate of 2.50% per year, will they have saved enough money for their trip?",
+        "options": {
+            "A": "No, because they forgot to factor in long underwear expenses.",
+            "B": "No, to have enough money they would have already needed to save $23,375.",
+            "C": "Yes, to have enough money they would have already needed to save $22,101.33 and they already exceed that amount.",
+            "D": "Yes, to have enough money they would have already needed to save $22,286.39 and they already exceed that amount."
+        },
+        "answer": "D"
+    },
+    "40": {
+        "question": "To determine the present value of a future amount, one should __________ the future cash flows.",
+        "options": {
+            "A": "annuitize",
+            "B": "compound",
+            "C": "discount",
+            "D": "multiply"
+        },
+        "answer": "C"
+    },
+    "41": {
+        "question": "The school district needs to pass a bond levy for funding to remodel existing schools and to build new schools. Expenditures for the new and remodeled buildings will begin two years after passage of the bond. If the school district receives all funding immediately after the passage of the bond and can invest the funds at a rate of 2.75% per year, how large must the bond be for the district to have $48,000,000 at the start of construction?",
+        "options": {
+            "A": "$48,000,000",
+            "B": "$47,554,834",
+            "C": "$46,556,397",
+            "D": "$45,465,040"
+        },
+        "answer": "D"
+    },
+    "42": {
+        "question": "Your firm has sold a fleet of 50 cars to a local firm at a discounted price of $23,000 each (a total of $1,150,000) due in six months. You are willing to discount the purchase price at an annual rate of 3% if the firm pays cash today. What is the least amount of money you will accept if the firm pays your company today?",
+        "options": {
+            "A": "$1,150,000",
+            "B": "$1,133,129",
+            "C": "$1,125,495",
+            "D": "This problem cannot be answered because we have an annual interest rate but only one-half year in time."
+        },
+        "answer": "B"
+    },
+    "43": {
+        "question": "Your manufacturing firm has just secured a sale to the federal government with payment of $480,000 due in nine months. You have asked your bank for cash today with the stipulation that you will give the proceeds from the government contract to the bank in nine months. The bank has agreed to your request if you allow them to discount the cash flows at an annual rate of 6%. How much will the bank pay you today under this agreement?",
+        "options": {
+            "A": "$459,475",
+            "B": "$466,889",
+            "C": "$476,739",
+            "D": "$480,000"
+        },
+        "answer": "A"
+    },
+    "44": {
+        "question": "Your trust fund will pay you $100,000 in six years when you turn 25. A shady financial institution has encouraged you to sign away the rights to your trust fund in exchange for cash today. Would you prefer that the financial institution use a discount rate of 8% or 10% to determine the value of your lump sum payment? Why?",
+        "options": {
+            "A": "Use 8% because the lump sum payment of $62,741 is greater than the 10% discounted value of $55,839.",
+            "B": "Use 10% because the lump sum payment of $62,741 is greater than the 10% discounted value of $55,839.",
+            "C": "Use 8% because the lump sum payment of $63,017 is greater than the 10% discounted value of $56,447.",
+            "D": "Use 10% because the lump sum payment of $63,017 is greater than the 10% discounted value of $56,447."
+        },
+        "answer": "C"
+    },
+    "45": {
+        "question": "Your parts supplier gives you one-quarter of a year to pay for parts ordered today, or offers you a discount if you pay cash at purchase. You have just purchased $94,500 worth of parts from your supplier and the discount is at an annual rate of 10%. How much will you pay for the parts if you pay today?",
+        "options": {
+            "A": "$94,500",
+            "B": "$92,275",
+            "C": "$94,144",
+            "D": "$93,875"
+        },
+        "answer": "B"
+    },
+    "46": {
+        "question": "The Present Value Interest Factor (PVIF) is the reciprocal of the Future Value Interest Factor (FVIF).",
+        "answer": "T"
+    },
+    "47": {
+        "question": "When solving for a present value, the interest rate is commonly referred to as the compound rate, but when solving for the future value, the interest rate is called the discount rate.",
+        "answer": "F"
+    },
+    "48": {
+        "question": "Given an interest rate of 0%, the present value of $1,500 to be received 5 years in the future is less than $1,500.",
+        "answer": "F"
+    },
+    "49": {
+        "question": "Consider the TVM equation: Present values and interest rates are inversely related.",
+        "answer": "T"
+    },
+    "50": {
+        "question": "Consider the TVM equation: The greater the interest rate, other things remaining equal, the greater the present value.",
+        "answer": "F"
+    },
+    "51": {
+        "question": "Amy has always planned to save enough money to pay cash for her first new car. If Amy increases the rate she earns on her savings, then she will have to save more money today to buy her car at the same date in the future.",
+        "answer": "F"
+    },
+    "52": {
+        "question": "$1,000 received 5 years from today discounted at an annual rate of 10% has a smaller present value than $1,000 received 10 years from today discounted at an annual rate of 5%.",
+        "answer": "F"
+    },
+    "53": {
+        "question": "Consider the TVM equation: Present value and time period are inversely related.",
+        "answer": "T"
+    },
+    "54": {
+        "question": "In the equation r = (FV/PV)1/n - 1, the r is sometimes referred to as the __________.",
+        "options": {
+            "A": "interest rate",
+            "B": "discount rate",
+            "C": "growth rate",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    "55": {
+        "question": "The question \"How much will I have in my account at a specific point in the future, given a specific interest rate?\" is best answered by which form of the TVM equation?",
+        "options": {
+            "A": "FV = FV/(1+r)n",
+            "B": "FV = PV \u00d7 (1 + r)n",
+            "C": "FV = (FV/PV)1/n -1",
+            "D": "FV = ln(FV/PV)/ln(1+r)"
+        },
+        "answer": "B"
+    },
+    "56": {
+        "question": "The question \"What is the current value of an amount of cash that will be received at a specific time in the future?\" is best answered by which form of the TVM equation?",
+        "options": {
+            "A": "PV = FV/(1+r)n",
+            "B": "PV = PV \u00d7 (1 + r)n",
+            "C": "PV = (FV/PV)1/n - 1",
+            "D": "PV = In(FV/PV)/ln(1+r)"
+        },
+        "answer": "A"
+    },
+    "57": {
+        "question": "The question \"At what rate is my money growing over time?\" is best answered by which form of the TVM equation?",
+        "options": {
+            "A": "r = FV/(1+r)n",
+            "B": "r = PV \u00d7 (1 + r)n",
+            "C": "r = (FV/PV)1/n - 1",
+            "D": "r = ln(FV/PV)/ln(1+r)"
+        },
+        "answer": "C"
+    },
+    "58": {
+        "question": "The question \"How long will I have to wait to reach a certain future value?\" is best answered by which form of the TVM equation?",
+        "options": {
+            "A": "n = FV/(1+r)n",
+            "B": "n = PV \u00d7 (1 + r)n",
+            "C": "n = (FV/PV)1/n - 1",
+            "D": "n = ln(FV/PV)/In(1+r)"
+        },
+        "answer": "D"
+    },
+    "59": {
+        "question": "Dividend growth rate is important to many investors. You are considering investing in a firm after looking at the firm's dividends over a six-year period. At the end of the year 2010, the firm paid a dividend of $0.98. At year-end 2016, it paid a dividend of $1.64. What was the average annual growth rate of dividends for this firm?",
+        "options": {
+            "A": "8.25%",
+            "B": "9.86%",
+            "C": "8.96%",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "60": {
+        "question": "Five years ago, Maria's annual salary was $73,500. Today, she earns $91,900. What has been the average annual percentage rate of growth of Maria's salary?",
+        "options": {
+            "A": "$3,680 per year",
+            "B": "8.89%",
+            "C": "6.27%",
+            "D": "4.57%"
+        },
+        "answer": "D"
+    },
+    "61": {
+        "question": "You gave your little sister two rabbits for Easter three years ago and now she has 64 of the cute little bunnies. What is the average annual rate of increase in the number of rabbits your sister owns? Note: Your parents are not very pleased with you right now.",
+        "options": {
+            "A": "217.5%",
+            "B": "400.0%",
+            "C": "521.8.00%",
+            "D": "The TVM equations are designed for currency amounts and cannot be used for non-financial calculations such as this one."
+        },
+        "answer": "A"
+    },
+    "62": {
+        "question": "Family Construction had sales three years ago of $2,150,000. This year their sales hit $2,900,000. What has been the firm's average annual rate of growth of sales?",
+        "options": {
+            "A": "30.56%",
+            "B": "10.49%",
+            "C": "$350,000 per year",
+            "D": "None of the above"
+        },
+        "answer": "B"
+    },
+    "63": {
+        "question": "The Johnstown School District had 3,171 students enrolled four years ago. Today, the district enrollment is 2,618 students. What has been the annual rate of change of student enrollment in the School District over this time period?",
+        "options": {
+            "A": "-5.44%",
+            "B": "-4.35%",
+            "C": "-4.68%",
+            "D": "4.35%"
+        },
+        "answer": "C"
+    },
+    "64": {
+        "question": "You currently have $3,500 invested at an annual rate of 8%. How long will it take for this investment to grow to a value of $5,000?",
+        "options": {
+            "A": "4.63 years",
+            "B": "5.00 years",
+            "C": "5.60 years",
+            "D": "4.37 years"
+        },
+        "answer": "A"
+    },
+    "65": {
+        "question": "You have saved $1,250 for a used motorcycle that has a current price of $1,550. If your money is sitting in an account earning 2.25% per year, how long will it take for this account to grow to $1,550? Note: The motorcycle's price may have changed by the time your account reaches a value of $1,550.",
+        "options": {
+            "A": "9.04 months",
+            "B": "9.67 years",
+            "C": "9.04 years",
+            "D": "9.67 months"
+        },
+        "answer": "B"
+    },
+    "66": {
+        "question": "Drew is taking over as Chief Marketing Officer at SouthWest Foods. She has pledged to increase sales from their current level of $8,000,000 at a rate of 11% per year until the firm hits sales of $15,000,000 per year. How long will it take the firm to hit the target goal at this rate of increase?",
+        "options": {
+            "A": "5.18 years",
+            "B": "5.36 years",
+            "C": "6.02 years",
+            "D": "At that rate, Madison will never reach the target sales level in her lifetime."
+        },
+        "answer": "C"
+    },
+    "67": {
+        "question": "Upon taking his first job out of college, your Dad earned an annual salary of $33,000 and set a goal to earn $100,000 per year. If his salary increased at an average annual rate of 5.5%, how long did it take to reach his goal?",
+        "options": {
+            "A": "At that rate of growth, your Dad still has not earned $100,000 in a single year.",
+            "B": "8.54 years",
+            "C": "16.31 years",
+            "D": "20.71 years"
+        },
+        "answer": "D"
+    },
+    "68": {
+        "question": "Your grandfather likes to tell the story about how he started his ranch with 100 head of cattle and grew the ranch to 2,500 head of cattle. He said \"My plan was simple: grow the number of head of cattle at a rate of 10% per year.\" Your grandfather reached his goal before he retired. How long did it take him?",
+        "options": {
+            "A": "38.63 years",
+            "B": "33.77 years",
+            "C": "31.43 years",
+            "D": "27.65 years"
+        },
+        "answer": "C"
+    },
+    "69": {
+        "question": "Consider the TVM equation: the variable \"r\" may be defined as the discount rate or the growth rate depending upon how the equation is being used.",
+        "answer": "T"
+    },
+    "70": {
+        "question": "Even if you are given a present value, a future value, and an interest rate, solving for the time period \"n\" is still a trial-and-error process.",
+        "answer": "F"
+    },
+    "71": {
+        "question": "Even if you are given a present value, a single future value, and a time period, solving for the rate of return, r, is still a trial-and-error process.",
+        "answer": "F"
+    },
+    "72": {
+        "question": "Other things remaining equal, the price today and the growth rate are inversely related.",
+        "answer": "T"
+    },
+    "73": {
+        "question": "You have just won the university lottery. If you graduate, you will receive a refund equal to the amount of tuition you paid in your first four years of school. However, you need money now and a firm that specializes in buying expected future cash flows has offered to discount the lottery winnings at a rate of 8% and pay you cash today in exchange for your future lottery winnings. Since you have studied finance, you insist that they discount the cash flows at 12% instead of 8% because there is some risk as to the certainty of your graduating. If the firm agrees to your demand, then this means they will increase the present value of what they will pay you today.",
+        "answer": "F"
+    },
+    "74": {
+        "question": "In 1930, the highest paid player in major league baseball was Babe Ruth of the New York Yankees, with an annual salary of $80,000. In 2017, the highest paid player in major league baseball was Clayton Kershaw of the Los Angeles Dodgers with a salary of $35,571,000. What was the average annual rate of growth in the top baseball salary over this time period?",
+        "options": {
+            "A": "7.26%",
+            "B": "7.96%",
+            "C": "9.23%",
+            "D": "10.41%"
+        },
+        "answer": "A"
+    },
+    "75": {
+        "question": "In 1970, before the era of major league baseball free agency, the minimum player salary was $12,000. In 1975, the minimum salary was $16,000. What was the average annual growth in the minimum salary in major league baseball over those five years?",
+        "options": {
+            "A": "13.40%",
+            "B": "2.67%",
+            "C": "5.92%",
+            "D": "15.00%"
+        },
+        "answer": "C"
+    },
+    "76": {
+        "question": "In 1975, the era of major league baseball free agency began. The average player salary was $16,000. In 1980, the average salary was $30,000. What was the average annual growth in the minimum salary in major league baseball over those five years?",
+        "options": {
+            "A": "37.50%",
+            "B": "13.40%",
+            "C": "5.92%",
+            "D": "10.67%"
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "Median U.S. wages in 2014 were $53,675, compared to the median wage in 1990 of $28,960. What was the average annual increase in median wages over this 24-year period?",
+        "options": {
+            "A": "1.31%",
+            "B": "2.60%",
+            "C": "4.50%",
+            "D": "4.58%"
+        },
+        "answer": "B"
+    },
+    "78": {
+        "question": "Gasoline cost $.10 per gallon in 1930. Over the next 70 years, the price rose at an average rate of 4.00% per year. Based on this information, what was the average price of a gallon of gas in 1990?",
+        "options": {
+            "A": "$1.34 per gallon",
+            "B": "$1.56 per gallon",
+            "C": "$2.28 per gallon",
+            "D": "$2.37 per gallon"
+        },
+        "answer": "B"
+    },
+    "79": {
+        "question": "For much of the 20th century, new car prices rose at an average annual rate of 5.89%. Given a beginning new car price of $900, how long did it take for the average new car price to rise to $27,865? Please round to the nearest year.",
+        "options": {
+            "A": "40 years",
+            "B": "60 years",
+            "C": "70 years",
+            "D": "100 years"
+        },
+        "answer": "B"
+    },
+    "80": {
+        "question": "Buying your own home is often mentioned as \"the best investment you can make.\" In 1964, the average home sale price was $19,600. By 2009, the average home sale price had risen to $272,900. What was the average annual rate of change in the price of houses over this 45 year time period?",
+        "options": {
+            "A": "3.74% per year",
+            "B": "6.03% per year",
+            "C": "10.52% per year",
+            "D": "12.16% per year"
+        },
+        "answer": "B"
+    },
+    "81": {
+        "question": "Kirby Puckett became the first $3,000,000 man in major league baseball in 1990. By 2008, A-Rod was bringing in $27,500,000 per year. Did the annual change in the highest annual baseball salary rise more rapidly over this time period than from 1930 to 1990? Babe Ruth had the highest salary and made $80,000 in 1930.",
+        "options": {
+            "A": "Yes, because the annual rate of change was 29.17% in the more recent period and only 36.67% in the earlier period.",
+            "B": "No, because the annual rate of change was 29.17% in the more recent period and 36.67% in the earlier period.",
+            "C": "Yes, because the annual rate of change was 13.10% in the more recent period and only 6.23% in the earlier period.",
+            "D": "There is not enough information provided to answer this question."
+        },
+        "answer": "C"
+    },
+    "82": {
+        "question": "In January of 1997, the U.S. Consumer Price Index (CPI) stood at 159.1. By January of 2017, the level had risen to 242.84. What was the average annual rate of inflation over this time period as measured by the CPI?",
+        "options": {
+            "A": "2.14%",
+            "B": "3.35%",
+            "C": "2.35%",
+            "D": "2.60%"
+        },
+        "answer": "A"
+    },
+    "83": {
+        "question": "The survey results from the National Association of Colleges and Employers (NACE) show the average annual increases in salaries for new accounting graduates to be 3.42% since the year 2000. If new starting salaries in accounting were $36,919 in 2000, what were they in 2016?",
+        "options": {
+            "A": "$45,757",
+            "B": "$53,444",
+            "C": "$63,230",
+            "D": "$68,518"
+        },
+        "answer": "C"
+    },
+    "84": {
+        "question": "Your finance professor suggests that you should have $3,000,000 in your retirement portfolio before you even THINK about retiring. Recently, your aunt sold valuable California real estate and handed you a check for $387,500. (This is the amount you have after paying taxes. She is now your favorite aunt.) How much of the $387,500 must you set aside today if you invest a portion of the money at an annual rate of 7.5% and you wish to retire in 38 years with the amount suggested by your finance professor?",
+        "options": {
+            "A": "$169,086",
+            "B": "$192,132",
+            "C": "$306,187",
+            "D": "At an annual rate of return of 7.5.0%, $387,500 is not a large enough investment to reach the goal amount of $3,000,000 in 38 years."
+        },
+        "answer": "B"
+    },
+    "85": {
+        "question": "You plan to place a $55,000 down payment on a lake cabin in Southern Oregon in five years. If you invest in a long-term CD earning an annual rate of 4.50%, how much would you need to invest today to have enough for the down payment in five years?",
+        "options": {
+            "A": "$23,326",
+            "B": "$30,605",
+            "C": "$44,135",
+            "D": "$46,264"
+        },
+        "answer": "C"
+    },
+    "86": {
+        "question": "Rick decided he was tired of being a poor college student when he visited a local electronics store and experienced its finest home theatre system. He determined that he would invest today a portion of the remaining money he earned last summer cleaning animal cages at the veterinary clinic. He plans to invest the money into an international mutual fund for 2.5 years and expects to earn an average annual rate of return of 15%. If Rick wants to have $5,000 in the account at the end of this time, how much must he invest today?",
+        "options": {
+            "A": "$2,253",
+            "B": "$3,048",
+            "C": "$3,526",
+            "D": "$3,891"
+        },
+        "answer": "C"
+    },
+    "87": {
+        "question": "You need $18,000 at the end of 4 years. If you can earn 0.325% per month, how much would you need to invest today to meet your objective?",
+        "options": {
+            "A": "$11,600",
+            "B": "$13,319",
+            "C": "$14,391",
+            "D": "$15,404"
+        },
+        "answer": "D"
+    },
+    "88": {
+        "question": "Your friend, Justin, started college at the age of 18 with $40,559 already saved. He has this money because 18 years ago when he was born his parents placed money into a special college savings account earning 7.00% per year. How much money did Justin's parents place into his college account?",
+        "options": {
+            "A": "$12,000",
+            "B": "$18,000",
+            "C": "$19,262",
+            "D": "$21,000"
+        },
+        "answer": "A"
+    },
+    "89": {
+        "question": "You know that regular tax-deferred investments are a popular investment choice for many people preparing for retirement. Did you know that if you invest $2,000 today and at the end of every year for 40 years at an annual rate of 10% that you will have grown your portfolio to a value of $975,704 at the end of that time? How much of that future value dollar amount comes from the $2,000 investment you made today?",
+        "options": {
+            "A": "$975,704",
+            "B": "$885,185",
+            "C": "$23,798",
+            "D": "$90,519"
+        },
+        "answer": "D"
+    },
+    "90": {
+        "question": "If you invest $5,000 today at an annual interest rate of 5.35%, how much money will you have for your daughter's college education in 18 years?",
+        "options": {
+            "A": "$5,603",
+            "B": "$10,000",
+            "C": "$12,776",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "91": {
+        "question": "You won the state lottery and took the payout as a $1,823,475 lump sum today. Your spouse has decided that you need to invest this money for the next 9 years and can expect it to earn an average annual rate of return of 8.00%. If this comes to pass, how much money will be in the account at the end of the period?",
+        "options": {
+            "A": "$8,471,253",
+            "B": "$3,645,135",
+            "C": "$2,567,586",
+            "D": "$1,890,471"
+        },
+        "answer": "B"
+    },
+    "92": {
+        "question": "If you can earn 5.25% per year on your investments, how long will it take to double your money?",
+        "options": {
+            "A": "6.31 years",
+            "B": "19.05 years",
+            "C": "13.55 years",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "93": {
+        "question": "Your father spent all of his adult life working in a small T-shirt making firm. His first year sales were $98,000 and his last year sales were $350,000. If the firm grew at an average rate of 3.35% per year, how many years did your father sell T-shirts at his firm?",
+        "options": {
+            "A": "43.16 years",
+            "B": "40.00 years",
+            "C": "38.63 years",
+            "D": "25.91 years"
+        },
+        "answer": "C"
+    },
+    "94": {
+        "question": "Your production manager informs you that currently the firm is producing 1,348 heating units per month but has plans to increase production at a rate of 5% per month until the firm is producing 3,000 units per month. How many months will this take?",
+        "options": {
+            "A": "16.40 months",
+            "B": "15.07 months",
+            "C": "14 months",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "A"
+    },
+    "95": {
+        "question": "Antonio made $18,000 in the first movie he ever starred in. He soon made more and more movies and more and more money. At a 46.18% rate of salary increase per movie, how many movies did he make in order to earn $5,350,000 in a single movie?",
+        "options": {
+            "A": "84 movies",
+            "B": "34 movies",
+            "C": "22 movies",
+            "D": "15 movies"
+        },
+        "answer": "D"
+    },
+    "96": {
+        "question": "Given a time period, an interest rate, and a future value, a person could solve for a present value.",
+        "answer": "T"
+    },
+    "97": {
+        "question": "You have $5,000 in an index mutual fund. At an average annual rate of return of 10% per year, this investment should exceed a value of $500,000 by the time you retire in 40 years.",
+        "answer": "F"
+    },
+    "98": {
+        "question": "You win the $5,000,000 lottery that pays you $250,000 per year over a 20-year period. Given negative interest rates, the lottery has a present value that is less than $5,000,000.",
+        "answer": "F"
+    },
+    "99": {
+        "question": "If interest rates are positive, then discounting increases the future value of an investment while compounding reduces the present value of an investment.",
+        "answer": "F"
+    },
+    "100": {
+        "question": "Lance has $3,500 but needs $7,000 to purchase a new golf cart. If he can invest his money at a rate of 12% per year, approximately how many years will it take the money in Lance's account to grow to $7,000? Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "2 years",
+            "B": "4 years",
+            "C": "6 years",
+            "D": "8 years"
+        },
+        "answer": "C"
+    },
+    "101": {
+        "question": "You can invest your money at a rate of 7% per year. At this rate it will take you just over __________ years to double your money. Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "4",
+            "B": "10",
+            "C": "5.5",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "102": {
+        "question": "What annual rate of return must you earn to double your money in about 9 years? Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "You would need to earn an annual rate of return of about 12%.",
+            "B": "You would need to earn an annual rate of return of about 10%.",
+            "C": "You would need to earn an annual rate of return of about 8%.",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "103": {
+        "question": "The dividends per share paid by Artisan Industries Inc. (AI) doubled from a starting value of $1.50 in 2010 to a value of $3.00 in 2016 (a six-year period). What was the approximate average annual rate of growth of AI's dividends per share? Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "FFF's dividends grew at an annual rate of approximately 12% per year.",
+            "B": "FFF's dividends grew at an annual rate of approximately 10% per year.",
+            "C": "FFF's dividends grew at an annual rate of approximately 8% per year.",
+            "D": "FFF's dividends grew at an annual rate of approximately 6% per year."
+        },
+        "answer": "A"
+    },
+    "104": {
+        "question": "In your first year out of college you hope to earn $30,000 per year. How many years will you have to work until you earn $120,000 if your income increases at a rate of 10% per year? Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "You would need to work for just over 14 years to reach an income level of $100,000 per year.",
+            "B": "You would need to work for just over 10 years to reach an income level of $100,000 per year.",
+            "C": "You would need to work for just over 7 years to reach an income level of $100,000 per year.",
+            "D": "You would need to work for just over 5 years to reach an income level of $100,000 per year."
+        },
+        "answer": "A"
+    },
+    "105": {
+        "question": "A manufacturer of Virtual Reality headsets has seen sales increase from 25,000 units per year to 100,000 units per year in 8 years. What has been the firm's average annual rate of increase in the number of television sets sold? Use the Rule of 72 to determine your answer.",
+        "options": {
+            "A": "The average annual rate of change has been between 10% and 11%.",
+            "B": "The average annual rate of change has been between 18% and 19%.",
+            "C": "The average annual rate of change has been between 15% and 16%.",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "106": {
+        "question": "The Rule of 72 is a rule of thumb for estimating the length of time necessary to double your money, given an interest rate.",
+        "answer": "T"
+    },
+    "107": {
+        "question": "The Rule of 72 is a rule of thumb for estimating the interest rate necessary to double your money, given a period of time.",
+        "answer": "T"
+    },
+    "108": {
+        "question": "The Rule of 72 can be used to quickly estimate interest rates necessary to double your money in a given time period without the use of a spreadsheet or calculator. However, the rule does NOT work for estimating growth rates.",
+        "answer": "F"
+    },
+    "109": {
+        "question": "Given enough time, you could double your money with a risk-free investment.",
+        "answer": "T"
+    },
+    "110": {
+        "question": "Assume you put $2,000 into a tax-free investment and leave it there for 45 years at an annual rate of 8%. According to the Rule of 72, your investment will grow to a value of about $64,000.",
+        "answer": "T"
+    }
+}

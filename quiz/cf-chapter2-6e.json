@@ -1,0 +1,842 @@
+{
+    "1": {
+        "question": "U.S. public companies are required to file their annual financial statements with the U.S. Securities and Exchange Commission on which form?",
+        "options": {
+            "A": "10-A",
+            "B": "10-K",
+            "C": "10-Q",
+            "D": "10-SEC"
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "Which of the following is NOT a financial statement that every public company is required to produce?",
+        "options": {
+            "A": "Income Statement",
+            "B": "Statement of Sources and Uses of Cash",
+            "C": "Balance Sheet",
+            "D": "Statement of Stockholders' Equity"
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "The third party who checks annual financial statements to ensure that they are prepared according to GAAP and verifies that the information reported is reliable is the:",
+        "options": {
+            "A": "NYSE Enforcement Board.",
+            "B": "Accounting Standards Board.",
+            "C": "Securities and Exchange Commission (SEC).",
+            "D": "auditor."
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "Which of the following balance sheet equations is INCORRECT?",
+        "options": {
+            "A": "Assets - Liabilities = Shareholders' Equity",
+            "B": "Assets = Liabilities + Shareholders' Equity",
+            "C": "Assets - Current Liabilities = Long Term Liabilities",
+            "D": "Assets - Current Liabilities = Long Term Liabilities + Shareholders' Equity"
+        },
+        "answer": "C"
+    },
+    "5": {
+        "question": "Cash is a:",
+        "options": {
+            "A": "long-term asset.",
+            "B": "current asset.",
+            "C": "current liability.",
+            "D": "long-term liability."
+        },
+        "answer": "B"
+    },
+    "6": {
+        "question": "Accounts payable is a:",
+        "options": {
+            "A": "long-term liability.",
+            "B": "current asset.",
+            "C": "long-term asset.",
+            "D": "current liability."
+        },
+        "answer": "D"
+    },
+    "7": {
+        "question": "A 30-year mortgage loan is a:",
+        "options": {
+            "A": "long-term liability.",
+            "B": "current liability.",
+            "C": "current asset.",
+            "D": "long-term asset."
+        },
+        "answer": "A"
+    },
+    "8": {
+        "question": "Which of the following statements regarding the balance sheet is INCORRECT?",
+        "options": {
+            "A": "The balance sheet provides a snapshot of the firm's financial position at a given point in time.",
+            "B": "The balance sheet lists the firm's assets and liabilities.",
+            "C": "The balance sheet reports stockholders' equity on the right-hand side.",
+            "D": "The balance sheet reports liabilities on the left-hand side."
+        },
+        "answer": "D"
+    },
+    "9": {
+        "question": "Dustin's Donuts experienced a decrease in the value of the trademark of a company it acquired two years ago. This reduction in value results in:",
+        "options": {
+            "A": "an impairment charge.",
+            "B": "depreciation expense.",
+            "C": "an operating expense.",
+            "D": "goodwill."
+        },
+        "answer": "A"
+    },
+    "10": {
+        "question": "Which of the following is an example of an intangible asset?",
+        "options": {
+            "A": "Brand names and trademarks",
+            "B": "Patents",
+            "C": "Customer relationships",
+            "D": "All of the above are intangible assets."
+        },
+        "answer": "D"
+    },
+    "11": {
+        "question": "On the balance sheet, short-term debt appears:",
+        "options": {
+            "A": "in the Stockholders' Equity section.",
+            "B": "in the Operating Expenses section.",
+            "C": "in the Current Assets section.",
+            "D": "in the Current Liabilities section."
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "On the balance sheet, current maturities of long-term debt appear:",
+        "options": {
+            "A": "in the Stockholders' Equity section.",
+            "B": "in the Operating Expenses section.",
+            "C": "in the Current Assets section.",
+            "D": "in the Current Liabilities section."
+        },
+        "answer": "D"
+    },
+    "13": {
+        "question": "The firm's assets and liabilities at a given point in time are reported on the firm's:",
+        "options": {
+            "A": "income statement or statement of financial performance.",
+            "B": "income statement or statement of financial position.",
+            "C": "balance sheet or statement of financial performance.",
+            "D": "balance sheet or statement of financial position."
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "The statement of financial position is also known as the:",
+        "options": {
+            "A": "balance sheet.",
+            "B": "income statement.",
+            "C": "statement of cash flows.",
+            "D": "statement of stockholder's equity."
+        },
+        "answer": "A"
+    },
+    "15": {
+        "question": "Zoe Dental Implements has gross property, plant and equipment totaling $1.4 million, depreciation expense this year of $200,000, and accumulated depreciation of $750,000. What is the book value of Zoe's property, plant and equipment?",
+        "options": {
+            "A": "$1.4 million",
+            "B": "$1.2 million",
+            "C": "$550,000",
+            "D": "$650,000"
+        },
+        "answer": "D"
+    },
+    "16": {
+        "question": "Zoe Dental Implements has gross property, plant and equipment totaling $1.4 million, depreciation expense this year of $200,000, and accumulated depreciation last year of $550,000. What is Zoe's net property, plant and equipment?",
+        "options": {
+            "A": "$1.4 million",
+            "B": "$1.2 million",
+            "C": "$550,000",
+            "D": "$650,000"
+        },
+        "answer": "D"
+    },
+    "17": {
+        "question": "Use the following information for ECE incorporated:\n\nAssets $200 million\nShareholder Equity $100 million\nSales $300 million\nNet Income $15 million\nInterest Expense $2 million\n\nIf ECE's stock is currently trading at $24.00 and ECE has 25 million shares outstanding, then ECE's market-to-book ratio is closest to:",
+        "options": {
+            "A": "0.24.",
+            "B": "4.",
+            "C": "6.",
+            "D": "30."
+        },
+        "answer": "C"
+    },
+    "18": {
+        "question": "Use the information for the question(s) below.\nIn November 2009, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's market capitalization is closest to:",
+        "options": {
+            "A": "$952.16 million.",
+            "B": "$3580.14 million.",
+            "C": "$4168.06 million.",
+            "D": "$4425.15 million."
+        },
+        "answer": "B"
+    },
+    "19": {
+        "question": "Use the information for the question(s) below.\nIn November 2009, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's book value of equity is closest to:",
+        "options": {
+            "A": "$952.16 million.",
+            "B": "$3580.14 million.",
+            "C": "$4168.06 million.",
+            "D": "$4425.15 million."
+        },
+        "answer": "A"
+    },
+    "20": {
+        "question": "Use the information for the question(s) below.\nIn November 2009, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's enterprise value is closest to:",
+        "options": {
+            "A": "$952.16 million.",
+            "B": "$3580.14 million.",
+            "C": "$4168.06 million.",
+            "D": "$4425.15 million."
+        },
+        "answer": "C"
+    },
+    "21": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nWhat is Luther's net working capital in 2018?",
+        "options": {
+            "A": "$12 million",
+            "B": "$27 million",
+            "C": "$39 million",
+            "D": "$63.6 million"
+        },
+        "answer": "A"
+    },
+    "22": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nIf in 2019 Luther has 10.2 million shares outstanding and these shares are trading at $16 per share, then Luther's market-to-book ratio would be closest to:",
+        "options": {
+            "A": "0.39.",
+            "B": "0.76.",
+            "C": "1.29.",
+            "D": "2.57."
+        },
+        "answer": "C"
+    },
+    "23": {
+        "question": "If in 2019 Luther has 10.2 million shares outstanding and these shares are trading at $16 per share, then what is Luther's Enterprise Value?",
+        "options": {
+            "A": "-$63.3 million",
+            "B": "$353.1 million",
+            "C": "$389.7 million",
+            "D": "$516.9 million"
+        },
+        "answer": "C"
+    },
+    "24": {
+        "question": "Which of the following statements regarding the income statement is INCORRECT?",
+        "options": {
+            "A": "The income statement shows the earnings and expenses at a given point in time.",
+            "B": "The income statement shows the flow of earnings and expenses generated by the firm between two dates.",
+            "C": "The last or \"bottom\" line of the income statement shows the firm's net income.",
+            "D": "The first line of an income statement lists the revenues from the sales of products or services."
+        },
+        "answer": "A"
+    },
+    "25": {
+        "question": "Gross profit is calculated as:",
+        "options": {
+            "A": "Total sales - cost of sales - selling, general and administrative expenses - depreciation and amortization.",
+            "B": "Total sales - cost of sales - selling, general and administrative expenses.",
+            "C": "Total sales - cost of sales.",
+            "D": "None of the above"
+        },
+        "answer": "C"
+    },
+    "26": {
+        "question": "Which of the following is NOT an operating expense?",
+        "options": {
+            "A": "Interest expense",
+            "B": "Depreciation and amortization",
+            "C": "Selling, general and administrative expenses",
+            "D": "Research and development"
+        },
+        "answer": "A"
+    },
+    "27": {
+        "question": "Which of the following includes other sources of income or expenses that arise from activities that are not a central part of a company's business?",
+        "options": {
+            "A": "Earnings Before Interest and Taxes (EBIT)",
+            "B": "Gross Profit",
+            "C": "Operating Income",
+            "D": "Operating Expenses"
+        },
+        "answer": "A"
+    },
+    "28": {
+        "question": "Dolan Corporation has Gross Profit of $2.3 million, cost of sales of $1.7 million, operating expenses of $0.8 million, and \"other\" income of $0.5 million. What is its EBIT?",
+        "options": {
+            "A": "$2 million",
+            "B": "$0.3 million",
+            "C": "$1 million",
+            "D": "$0.6 million"
+        },
+        "answer": "A"
+    },
+    "29": {
+        "question": "Use the information for the question(s) below.\nIn November 2018, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's earnings per share (EPS) is closest to:",
+        "options": {
+            "A": "$0.19.",
+            "B": "$1.79.",
+            "C": "$2.81.",
+            "D": "$3.76."
+        },
+        "answer": "B"
+    },
+    "30": {
+        "question": "The firm's revenues and expenses over a period of time are reported on the firm's:",
+        "options": {
+            "A": "income statement or statement of financial performance.",
+            "B": "income statement or statement of financial position.",
+            "C": "balance sheet or statement of financial performance.",
+            "D": "balance sheet or statement of financial position."
+        },
+        "answer": "A"
+    },
+    "31": {
+        "question": "The statement of financial performance is also known as the:",
+        "options": {
+            "A": "balance sheet.",
+            "B": "income statement.",
+            "C": "statement of cash flows.",
+            "D": "statement of stockholder's equity."
+        },
+        "answer": "B"
+    },
+    "32": {
+        "question": "Use the table for the question(s) below.\nConsider the following income statement and other information:\nLuther Corporation\nConsolidated Income Statement\nYear ended December 31 (in $ millions)\n| | 2019 | 2018 |\n|---|---|---|\n|Total sales|610.1|578.3|\n|Cost of sales|(500.2)|(481.9)|\n|Gross profit|109.9|96.4|\n|Selling, general, and administrative expenses|(40.5)|(39.0)|\n|Research and development|(24.6)|(22.8)|\n|Depreciation and amortization|(3.6)|(3.3)|\n|Operating income|41.2|31.3|\n|Other income|---|---|\n|Earnings before interest and taxes (EBIT)|41.2|31.3|\n|Interest income (expense)|(25.1)|(15.8)|\n|Pre-tax income|16.1|15.5|\n|Taxes|(5.5)|(5.3)|\n|Net income|10.6|10.2|\n|Price per share|$16|$15|\n|Shares outstanding (millions)|10.2|8.0|\n|Stock options outstanding (millions)|0.3|0.2|\n|Stockholders' Equity|126.6|63.6|\n|Total Liabilities and Stockholders' Equity|533.1|386.7|\n\nFor the year ending December 31, 2019 Luther's earnings per share are closest to:",
+        "options": {
+            "A": "$0.96.",
+            "B": "$1.04.",
+            "C": "$1.28.",
+            "D": "$1.33."
+        },
+        "answer": "B"
+    },
+    "33": {
+        "question": "Assuming that Luther has no convertible bonds outstanding, then for the year ending December 31, 2019 Luther's diluted earnings per share are closest to:",
+        "options": {
+            "A": "$1.01.",
+            "B": "$1.04.",
+            "C": "$1.28.",
+            "D": "$1.33."
+        },
+        "answer": "A"
+    },
+    "34": {
+        "question": "Which of the following is (are) deducted from EBIT to determine pretax income?",
+        "options": {
+            "A": "Earnings per share",
+            "B": "Interest expense",
+            "C": "Corporate taxes",
+            "D": "Both B and C"
+        },
+        "answer": "B"
+    },
+    "35": {
+        "question": "Which of the following is (are) deducted from EBIT to determine net income?",
+        "options": {
+            "A": "Earnings per share",
+            "B": "Interest expense",
+            "C": "Corporate taxes",
+            "D": "Both B and C"
+        },
+        "answer": "D"
+    },
+    "36": {
+        "question": "Which of the following is NOT a section on the cash flow statement?",
+        "options": {
+            "A": "Income generating activities",
+            "B": "Investing activities",
+            "C": "Operating activities",
+            "D": "Financing activities"
+        },
+        "answer": "A"
+    },
+    "37": {
+        "question": "Which of the following statements regarding net income transferred to retained earnings is correct?",
+        "options": {
+            "A": "Net income = net income transferred to retained earnings - dividends",
+            "B": "Net income transferred to retained earnings = net income + dividends",
+            "C": "Net income = net income transferred to retained earnings + dividends",
+            "D": "Net income transferred to retained earnings - net income = dividends"
+        },
+        "answer": "C"
+    },
+    "38": {
+        "question": "Which of the following is NOT a reason why cash flow may not equal net income?",
+        "options": {
+            "A": "Amortization is added in when calculating net income.",
+            "B": "Changes in inventory will change cash flows but not income.",
+            "C": "Capital expenditures are not recorded on the income statement.",
+            "D": "Depreciation is deducted when calculating net income."
+        },
+        "answer": "A"
+    },
+    "39": {
+        "question": "Which of the following adjustments to net income is NOT correct if you are trying to calculate cash flow from operating activities?",
+        "options": {
+            "A": "Add increases in accounts payable",
+            "B": "Add back depreciation",
+            "C": "Add increases in accounts receivable",
+            "D": "Deduct increases in inventory"
+        },
+        "answer": "C"
+    },
+    "40": {
+        "question": "Which of the following adjustments is NOT correct if you are trying to calculate cash flow from financing activities?",
+        "options": {
+            "A": "Add dividends paid",
+            "B": "Add any increase in long-term borrowing",
+            "C": "Add any increase in short-term borrowing",
+            "D": "Add proceeds from the sale of stock"
+        },
+        "answer": "A"
+    },
+    "41": {
+        "question": "In addition to the balance sheet, income statement, and the statement of cash flows, a firm's complete financial statements will include all of the following EXCEPT:",
+        "options": {
+            "A": "management discussion and analysis.",
+            "B": "notes to the financial statements.",
+            "C": "securities and Exchange Commission's (SEC) commentary.",
+            "D": "statement of stockholders' equity."
+        },
+        "answer": "C"
+    },
+    "42": {
+        "question": "Off-balance sheet transactions are required to be disclosed:",
+        "options": {
+            "A": "in the management discussion and analysis.",
+            "B": "in the auditor's report.",
+            "C": "in the Securities and Exchange Commission's commentary.",
+            "D": "in the statement of stockholders' equity."
+        },
+        "answer": "A"
+    },
+    "43": {
+        "question": "Details of acquisitions, spin-offs, leases, taxes, and risk management activities are given:",
+        "options": {
+            "A": "in the management discussion and analysis.",
+            "B": "in the Securities and Exchange Commission's commentary.",
+            "C": "in the auditor's report.",
+            "D": "in the notes to the financial statements."
+        },
+        "answer": "D"
+    },
+    "44": {
+        "question": "Chloe Floral Company had segment earnings as follows (in thousands):\n| |2018|2017|\n|---|---|---|\n|Greenery|$140|$125|\n|Blooms|$240|$215|\n|Pottery and Vases|$180|$155|\n\nWhich segment had the highest percentage growth?",
+        "options": {
+            "A": "Greenery",
+            "B": "Blooms",
+            "C": "Pottery and Vases",
+            "D": "Answer cannot be determined from information given."
+        },
+        "answer": "C"
+    },
+    "45": {
+        "question": "Use the information for the question(s) below.\nIn November 2019, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's market debt-to-equity ratio is closest to:",
+        "options": {
+            "A": "0.24.",
+            "B": "0.50.",
+            "C": "0.75.",
+            "D": "0.89."
+        },
+        "answer": "A"
+    },
+    "46": {
+        "question": "Use the information for the question(s) below.\nIn November 2019, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's debt to equity ratio is closest to:",
+        "options": {
+            "A": "0.24.",
+            "B": "0.50.",
+            "C": "0.75.",
+            "D": "0.89."
+        },
+        "answer": "D"
+    },
+    "47": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nWhen using the book value of equity, the debt to equity ratio for Luther in 2019 is closest to:",
+        "options": {
+            "A": "0.43.",
+            "B": "2.29.",
+            "C": "2.98.",
+            "D": "3.57."
+        },
+        "answer": "B"
+    },
+    "48": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nIf in 2019 Luther has 10.2 million shares outstanding and these shares are trading at $16 per share, then using the market value of equity, the debt to equity ratio for Luther in 2009 is closest to:",
+        "options": {
+            "A": "1.47.",
+            "B": "1.78.",
+            "C": "2.31.",
+            "D": "4.07."
+        },
+        "answer": "B"
+    },
+    "49": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nLuther's current ratio for 2019 is closest to:",
+        "options": {
+            "A": "0.84.",
+            "B": "0.92.",
+            "C": "1.09.",
+            "D": "1.19."
+        },
+        "answer": "D"
+    },
+    "50": {
+        "question": "Luther's quick ratio for 2018 is closest to:",
+        "options": {
+            "A": "0.77.",
+            "B": "0.87.",
+            "C": "1.15.",
+            "D": "1.30."
+        },
+        "answer": "A"
+    },
+    "51": {
+        "question": "The change in Luther's quick ratio from 2018 to 2019 is closest to:",
+        "options": {
+            "A": "a decrease of .10.",
+            "B": "an increase of .10.",
+            "C": "a decrease of .15.",
+            "D": "an increase of .15."
+        },
+        "answer": "B"
+    },
+    "52": {
+        "question": "Use the following information for ECE incorporated:\nAssets $200 million\nShareholder Equity $100 million\nSales $300 million\nNet Income $15 million\nInterest Expense $2 million\n\nECE's Return on Assets (ROA) is:",
+        "options": {
+            "A": "5.0%.",
+            "B": "8.5%.",
+            "C": "7.5%.",
+            "D": "15.0%."
+        },
+        "answer": "B"
+    },
+    "53": {
+        "question": "Use the information for the question(s) below.\nIn November 2019, Perrigo Co. (PRGO) had a share price of $39.20. They had 91.33 million shares outstanding, a market-to-book ratio of 3.76. In addition, PRGO had $845.01 million in outstanding debt, $163.82 million in net income, and cash of $257.09 million.\nPerrigo's price-earnings ratio (P/E) is closest to:",
+        "options": {
+            "A": "15.96.",
+            "B": "21.85.",
+            "C": "29.77.",
+            "D": "35.64."
+        },
+        "answer": "B"
+    },
+    "54": {
+        "question": "Luther's Operating Margin for the year ending December 31, 2018 is closest to:",
+        "options": {
+            "A": "0.5%.",
+            "B": "0.7%.",
+            "C": "5.4%.",
+            "D": "6.8%."
+        },
+        "answer": "C"
+    },
+    "55": {
+        "question": "Use the table for the question(s) below.\nConsider the following income statement and other information:\nLuther Corporation\nConsolidated Income Statement\nYear ended December 31 (in $ millions)\n| | 2019 | 2018 |\n|---|---|---|\n|Total sales|610.1|578.3|\n|Cost of sales|(500.2)|(481.9)|\n|Gross profit|109.9|96.4|\n|Selling, general, and administrative expenses|(40.5)|(39.0)|\n|Research and development|(24.6)|(22.8)|\n|Depreciation and amortization|(3.6)|(3.3)|\n|Operating income|41.2|31.3|\n|Other income|---|---|\n|Earnings before interest and taxes (EBIT)|41.2|31.3|\n|Interest income (expense)|(25.1)|(15.8)|\n|Pre-tax income|16.1|15.5|\n|Taxes|(5.5)|(5.3)|\n|Net income|10.6|10.2|\n|Price per share|$16|$15|\n|Shares outstanding (millions)|10.2|8.0|\n|Stock options outstanding (millions)|0.3|0.2|\n|Stockholders' Equity|126.6|63.6|\n|Total Liabilities and Stockholders' Equity|533.1|386.7|\n\nLuther's Net Profit Margin for the year ending December 31, 2018 is closest to:",
+        "options": {
+            "A": "1.8%.",
+            "B": "2.7%.",
+            "C": "5.4%.",
+            "D": "16.7%."
+        },
+        "answer": "A"
+    },
+    "56": {
+        "question": "Luther's earnings before interest, taxes, depreciation, and amortization (EBITDA) for the year ending December 31, 2019 is closest to:",
+        "options": {
+            "A": "$19.7 million.",
+            "B": "$37.6 million.",
+            "C": "$41.2 million.",
+            "D": "$44.8 million."
+        },
+        "answer": "D"
+    },
+    "57": {
+        "question": "Luther's return on equity (ROE) for the year ending December 31, 2019 is closest to:",
+        "options": {
+            "A": "2.0%.",
+            "B": "6.5%.",
+            "C": "8.4%.",
+            "D": "12.7%."
+        },
+        "answer": "C"
+    },
+    "58": {
+        "question": "Luther's return on assets (ROA) for the year ending December 31, 2019 is closest to:",
+        "options": {
+            "A": "1.6%.",
+            "B": "6.7%.",
+            "C": "2.3%.",
+            "D": "2.6%."
+        },
+        "answer": "B"
+    },
+    "59": {
+        "question": "Luther's price - earnings ratio (P/E) for the year ending December 31, 2019 is closest to:",
+        "options": {
+            "A": "7.9.",
+            "B": "10.1.",
+            "C": "15.4.",
+            "D": "16.0."
+        },
+        "answer": "C"
+    },
+    "60": {
+        "question": "Use the following information for ECE incorporated:\nAssets $200 million\nShareholder Equity $100 million\nSales $300 million\nNet Income $15 million\nInterest Expense $2 million\n\nIf ECE's return on assets (ROA) is 12%, then ECE's net income is:",
+        "options": {
+            "A": "$6 million.",
+            "B": "$12 million.",
+            "C": "$22 million.",
+            "D": "$36 million."
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "If ECE's net profit margin is 8%, then ECE's return on equity (ROE) is:",
+        "options": {
+            "A": "10%.",
+            "B": "12%.",
+            "C": "24%.",
+            "D": "30%."
+        },
+        "answer": "C"
+    },
+    "62": {
+        "question": "The firm's asset turnover measures:",
+        "options": {
+            "A": "the value of assets held per dollar of shareholder equity.",
+            "B": "the return the firm has earned on its past investments.",
+            "C": "the firm's ability to sell a product for more than the cost of producing it.",
+            "D": "how efficiently the firm is utilizing its assets to generate sales."
+        },
+        "answer": "D"
+    },
+    "63": {
+        "question": "If Firm A and Firm B are in the same industry and use the same production method and Firm A's asset turnover is higher than that of Firm B, then all else equal, we can conclude:",
+        "options": {
+            "A": "Firm A is more efficient than Firm B.",
+            "B": "Firm A has a lower dollar amount of assets than Firm B.",
+            "C": "Firm A has higher sales than Firm B.",
+            "D": "Firm A has a lower ROE than Firm B."
+        },
+        "answer": "A"
+    },
+    "64": {
+        "question": "The firm's equity multiplier measures:",
+        "options": {
+            "A": "the value of assets held per dollar of shareholder equity.",
+            "B": "the return the firm has earned on its past investments.",
+            "C": "the firm's ability to sell a product for more than the cost of producing it.",
+            "D": "how efficiently the firm is utilizing its assets to generate sales."
+        },
+        "answer": "A"
+    },
+    "65": {
+        "question": "If Alex Corporation takes out a bank loan to purchase a machine used in production and everything else stays the same, its equity multiplier will __________ and its ROE will __________.",
+        "options": {
+            "A": "increase; increase",
+            "B": "decrease; decrease",
+            "C": "increase; decrease",
+            "D": "decrease; increase"
+        },
+        "answer": "A"
+    },
+    "66": {
+        "question": "The DuPont Identity expresses the firm's ROE in terms of:",
+        "options": {
+            "A": "profitability, asset efficiency, and leverage.",
+            "B": "valuation, leverage, and interest coverage.",
+            "C": "profitability, margins, and valuation.",
+            "D": "equity, assets, and liabilities."
+        },
+        "answer": "A"
+    },
+    "67": {
+        "question": "Suppose Novak Company experienced a reduction in its ROE over the last year. This decrease could be attributed to:",
+        "options": {
+            "A": "an increase in net profit margin.",
+            "B": "a decrease in asset turnover.",
+            "C": "an increase in leverage.",
+            "D": "a decrease in Equity."
+        },
+        "answer": "B"
+    },
+    "68": {
+        "question": "If Moon Corporation has an increase in sales, which of the following would result in no change in its EBIT margin?",
+        "options": {
+            "A": "A proportional increase in its net income",
+            "B": "A proportional decrease in its EBIT",
+            "C": "A proportional increase in its EBIT",
+            "D": "An increase in its operating expenses"
+        },
+        "answer": "C"
+    },
+    "69": {
+        "question": "If Moon Corporation's gross margin declined, which of the following is TRUE?",
+        "options": {
+            "A": "Its cost of goods sold increased.",
+            "B": "Its cost of goods sold as a percent of sales increased.",
+            "C": "Its sales increased.",
+            "D": "Its net profit margin was unaffected by the decline."
+        },
+        "answer": "B"
+    },
+    "70": {
+        "question": "The inventory days ratio measures:",
+        "options": {
+            "A": "the average length of time it takes a company to sell its inventory.",
+            "B": "the average length of time it takes the company's suppliers to deliver its inventory.",
+            "C": "the level of sales required to keep a company's average inventory on the books.",
+            "D": "the percentage change in inventory over the past year."
+        },
+        "answer": "A"
+    },
+    "71": {
+        "question": "If Moon Corporation has depreciation or amortization expense, which of the following is TRUE?",
+        "options": {
+            "A": "Its EBITDA/Interest Coverage ratio will be greater than its EBIT/Interest Coverage ratio.",
+            "B": "Its EBITDA/Interest Coverage ratio will be less than its EBIT/Interest Coverage ratio.",
+            "C": "Its EBITDA/Interest Coverage ratio will be equal to its EBIT/Interest Coverage ratio.",
+            "D": "Not enough information to answer the question."
+        },
+        "answer": "A"
+    },
+    "72": {
+        "question": "Use the table for the question(s) below.\nConsider the following balance sheet:\nLuther Corporation\nConsolidated Balance Sheet\nDecember 31, 2019 and 2018 (in $ millions)\n|Assets|2019|2018| Liabilities and Stockholders' Equity|2019|2018|\n|---|---|---|---|---|---|\n|Current Assets| | |Current Liabilities| | |\n|Cash|63.6|58.5|Accounts payable|87.6|73.5|\n|Accounts receivable|55.5|39.6|Notes payable/ short-term debt|10.5|9.6|\n|Inventories|45.9|42.9|Current maturities of long-term debt|39.9|36.9|\n|Other current assets|6.0|3.0|Other current liabilities|6.0|12.0|\n|Total current assets|171.0|144.0|Total current liabilities|144.0|132.0|\n|Long-Term Assets| | |Long-Term Liabilities| | |\n|Land|66.6|62.1|Long-term debt|239.7|168.9|\n|Buildings|109.5|91.5|Capital lease obligations|---|---|\n|Equipment|119.1|99.6|Total Debt|239.7|168.9|\n|Less accumulated depreciation|(56.1)|(52.5)|Deferred taxes|22.8|22.2|\n|Net property, plant, and equipment|239.1|200.7|Other long-term liabilities|---|---|\n|Goodwill|60.0|---|Total long-term liabilities|262.5|191.1|\n|Other long-term assets|63.0|42.0|Total liabilities|406.5|323.1|\n|Total long-term assets|362.1|242.7|Stockholders' Equity|126.6|63.6|\n|Total Assets|533.1|386.7|Total liabilities and Stockholders' Equity|533.1|386.7|\n\nLuther Corporation's cash ratio for 2019 is closest to:",
+        "options": {
+            "A": "1.19.",
+            "B": "10.6.",
+            "C": "0.44.",
+            "D": "0.41."
+        },
+        "answer": "C"
+    },
+    "73": {
+        "question": "Luther Corporation's total sales for 2019 were $610.1 million, and gross profit was $109.0 million. Inventory days for 2019 is closest to:",
+        "options": {
+            "A": "27.5.",
+            "B": "33.4.",
+            "C": "153.7.",
+            "D": "10.9."
+        },
+        "answer": "B"
+    },
+    "74": {
+        "question": "Luther Corporation's total sales for 2019 were $610.1 million, and gross profit was $109.0 million. Accounts payable days for 2019 is closest to:",
+        "options": {
+            "A": "27.5.",
+            "B": "5.71.",
+            "C": "52.4.",
+            "D": "63.8."
+        },
+        "answer": "D"
+    },
+    "75": {
+        "question": "Luther Corporation's stock price is $39 per share and the company has 20 million shares outstanding. Its book value Debt -Equity Ratio for 2019 is closest to:",
+        "options": {
+            "A": "2.29.",
+            "B": "0.31.",
+            "C": "1.89.",
+            "D": "0.37."
+        },
+        "answer": "A"
+    },
+    "76": {
+        "question": "Luther Corporation's stock price is $39 per share and the company has 20 million shares outstanding. Its Market value Debt-Equity Ratio for 2009 is closest to:",
+        "options": {
+            "A": "2.29.",
+            "B": "0.37.",
+            "C": "1.89.",
+            "D": "0.31."
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "Luther Corporation's stock price is $39 per share and the company has 20 million shares outstanding. Its Debt -Capital Ratio for 2019 is closest to:",
+        "options": {
+            "A": "0.696.",
+            "B": "0.37.",
+            "C": "1.89.",
+            "D": "0.654."
+        },
+        "answer": "A"
+    },
+    "78": {
+        "question": "Luther Corporation's stock price is $39 per share and the company has 20 million shares outstanding. Its excess cash in 2019 is $23.4 million. Its Debt-to-Enterprise Value Ratio in 2019 is closest to:",
+        "options": {
+            "A": "0.696.",
+            "B": "0.37.",
+            "C": "0.255.",
+            "D": "0.654."
+        },
+        "answer": "C"
+    },
+    "79": {
+        "question": "Luther Corporation's stock price is $39 per share and the company has 20 million shares outstanding. Its excess cash in 2019 is $23.4. If EBIT is $41.2 million and tax rate is 21%, its Return on Invested Capital in 2019 is closest to:",
+        "options": {
+            "A": "0.104.",
+            "B": "0.064.",
+            "C": "0.038.",
+            "D": "0.083."
+        },
+        "answer": "D"
+    },
+    "80": {
+        "question": "The Sarbanes-Oxley Act (SOX) was passed by Congress in 2002, in response to:",
+        "options": {
+            "A": "financial scandals, including WorldCom and Enron.",
+            "B": "financial scandals, including Bernie Madoff and AIG.",
+            "C": "financial scandals, including General Motors and Chrysler.",
+            "D": "the Troubled Asset Relief Program (TARP)."
+        },
+        "answer": "A"
+    },
+    "81": {
+        "question": "The Sarbanes-Oxley Act (SOX) stiffened penalties for providing false information by:",
+        "options": {
+            "A": "requiring the CEO and CFO to return bonuses or profits from the sale of stock that are later shown to be due to misstated financial reports.",
+            "B": "imposing large compliance costs on small companies.",
+            "C": "requiring auditing firms to have long-standing relationships with their clients and receive lucrative auditing and consulting fees from them.",
+            "D": "putting strict limits on the amount of non-audit fees (consulting or otherwise) that an accounting firm can earn from a firm that it audits."
+        },
+        "answer": "A"
+    },
+    "82": {
+        "question": "The Sarbanes-Oxley Act (SOX) overhauled incentives and the independence of the auditing process by:",
+        "options": {
+            "A": "requiring the CEO and CFO to return bonuses or profits from the sale of stock that are later shown to be due to misstated financial reports.",
+            "B": "imposing large compliance costs on small companies.",
+            "C": "requiring auditing firms to have long-standing relationships with their clients and receive lucrative auditing and consulting fees from them.",
+            "D": "putting strict limits on the amount of non-audit fees (consulting or otherwise) that an accounting firm can earn from a firm that it audits."
+        },
+        "answer": "D"
+    },
+    "83": {
+        "question": "The Sarbanes-Oxley Act (SOX) forced companies to validate their internal financial control processes by:",
+        "options": {
+            "A": "putting strict limits on the amount of non-audit fees (consulting or otherwise) that an accounting firm can earn from a firm that it audits.",
+            "B": "requiring the CEO and CFO to return bonuses or profits from the sale of stock that are later shown to be due to misstated financial reports.",
+            "C": "requiring auditing firms to have long-standing relationships with their clients and receive lucrative auditing and consulting fees from them.",
+            "D": "requiring senior management and the boards of public companies to validate and certify the process through which funds are allocated and controlled."
+        },
+        "answer": "D"
+    },
+    "84": {
+        "question": "The Dodd-Frank Wall Street Reform and Consumer Protection Act does the following:",
+        "options": {
+            "A": "Exempts firms with less than $75 million in publicly traded shares from some provisions of SOX.",
+            "B": "Requires the SEC to study ways to reduce the cost of SOX for firms with less than $250 million in publicly traded shares.",
+            "C": "Strengthens whistle-blower provisions of SOX.",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    }
+}

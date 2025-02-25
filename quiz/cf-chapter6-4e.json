@@ -1,0 +1,798 @@
+{
+    "1": {
+        "question": "A bond may be issued by",
+        "options": {
+            "A": "companies",
+            "B": "state governments",
+            "C": "the federal government",
+            "D": "all of the above"
+        },
+        "answer": "D"
+    },
+    "2": {
+        "question": "A bond is a instrument by which a borrower of funds agrees to pay back the funds with interest on specific dates in the future.",
+        "options": {
+            "A": "long-term equity",
+            "B": "long-term debt",
+            "C": "short-term debt",
+            "D": "short-term equity"
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "Bonds are sometimes called securities because they pay set amounts on specific future dates.",
+        "options": {
+            "A": "variable-income",
+            "B": "fixed-income",
+            "C": "bully",
+            "D": "real"
+        },
+        "answer": "B"
+    },
+    "4": {
+        "question": "The is the annual coupon payment divided by the current price of the bond, and is not always an accurate indicator.",
+        "options": {
+            "A": "current yield",
+            "B": "yield to maturity",
+            "C": "bond discount rate",
+            "D": "coupon rate"
+        },
+        "answer": "A"
+    },
+    "5": {
+        "question": "The is the yield an individual would receive if the individual purchased the bond today and held the bond to the end of its life.",
+        "options": {
+            "A": "current yield",
+            "B": "yield to maturity",
+            "C": "prime rate",
+            "D": "coupon rate"
+        },
+        "answer": "B"
+    },
+    "6": {
+        "question": "The four steps to determining the price of a bond are",
+        "options": {
+            "A": "determine the amount and timing of the present cash flows, determine the appropriate discount rate, find the present value of the lump-sum principal and the annuity stream of coupons, and add the PVs of the principal and coupons",
+            "B": "determine the amount and timing of the future cash flows, determine the appropriate discount rate, find the future value of the lump-sum principal and the annuity stream of coupons, and add the FVs of the principal and coupons",
+            "C": "determine the amount and timing of the future cash flows, determine the appropriate discount rate, find the present value of the lump-sum principal and the annuity stream of coupons, and multiply the PVs of the principal and coupons",
+            "D": "determine the amount and timing of the future cash flows, determine the appropriate discount rate, find the present value of the lump-sum principal and the annuity stream of coupons, and add the PVs of the principal and coupons"
+        },
+        "answer": "D"
+    },
+    "7": {
+        "question": "Creative Solutions Inc. has issued 10-year $1,000 face value, 8% annual coupon bonds, with a yield to maturity of 9.0%. The annual interest payment for the bond is",
+        "options": {
+            "A": "$80",
+            "B": "$40",
+            "C": "$90",
+            "D": "$45"
+        },
+        "answer": "A"
+    },
+    "8": {
+        "question": "Big House Nursery Inc. has issued 20-year $1,000 face value, 8% annual coupon bonds, with a yield to maturity of 10%. The current price of the bond is",
+        "options": {
+            "A": "$1,000.00",
+            "B": "$1,196.36",
+            "C": "$829.73",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "Portland Brewery Inc. recently issued 30-year $1,000 face value, 12% annual coupon bonds. The market discount rate for this bond is only 7%. What is the current price of this bond?",
+        "options": {
+            "A": "$387.59",
+            "B": "$597.24",
+            "C": "$1,000.00",
+            "D": "$1,620.45"
+        },
+        "answer": "D"
+    },
+    "10": {
+        "question": "The is the face value of the bond.",
+        "options": {
+            "A": "coupon rate",
+            "B": "maturity date",
+            "C": "par value",
+            "D": "coupon"
+        },
+        "answer": "C"
+    },
+    "11": {
+        "question": "The is the regular interest payment of the bond.",
+        "options": {
+            "A": "dividend",
+            "B": "par",
+            "C": "coupon rate",
+            "D": "coupon"
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "The is the return the bondholder receives on the bond if held to maturity.",
+        "options": {
+            "A": "coupon",
+            "B": "coupon rate",
+            "C": "yield to maturity",
+            "D": "par rate"
+        },
+        "answer": "C"
+    },
+    "13": {
+        "question": "The is the expiration date of the bond.",
+        "options": {
+            "A": "future value",
+            "B": "yield to maturity",
+            "C": "maturity date",
+            "D": "coupon"
+        },
+        "answer": "C"
+    },
+    "14": {
+        "question": "Five years ago, Simpson Warehouses Inc. issued twenty-five-year 10% annual coupon bonds with a $1,000 face value each. Since then, interest rates in general have risen and the yield to maturity on the Thompson bonds is now 12%. Given this information, what is the price today for a Thompson Tarps bond?",
+        "options": {
+            "A": "$843.14",
+            "B": "$850.61",
+            "C": "$1,181.54",
+            "D": "$1,170.27"
+        },
+        "answer": "B"
+    },
+    "15": {
+        "question": "Ten years ago Salmon Acqua Farming Inc. issued twenty-five-year 8% annual coupon bonds with a $1,000 face value each. Since then, interest rates in general have fallen and the yield to maturity on the Bacon bonds is now 7%. Given this information, what is the price today for such a bond?",
+        "options": {
+            "A": "$1,000",
+            "B": "$1,116.54",
+            "C": "$1,091.08",
+            "D": "$914.41"
+        },
+        "answer": "C"
+    },
+    "16": {
+        "question": "Ten years ago Pancake House Inc. issued twenty-five-year 8% annual coupon bonds with a $1,000 face value each. Since then, interest rates in general have risen and the yield to maturity on the Bacon bonds is now 9%. Given this information, what is the price today for such a bond?",
+        "options": {
+            "A": "$1,000",
+            "B": "$919.39",
+            "C": "$901.77",
+            "D": "$1.085.59"
+        },
+        "answer": "B"
+    },
+    "17": {
+        "question": "The appropriate rate to use to discount the cash flows of a bond in order to determine the current price is the",
+        "options": {
+            "A": "yield to maturity",
+            "B": "coupon rate",
+            "C": "par rate",
+            "D": "current yield"
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "Fifteen years ago McDemott's Motels Inc. issued twenty-five-year 10% annual coupon bonds with a $1,000 face value each. Since then, interest rates in general have fallen and the yield to maturity on the firm's bonds is now 6%. Given this information, what is the price today for such a bond?",
+        "options": {
+            "A": "$1,000",
+            "B": "$1,294.40",
+            "C": "$1,091.08",
+            "D": "$914.41"
+        },
+        "answer": "B"
+    },
+    "19": {
+        "question": "Twenty years ago Bison Enterprises Inc. issued thirty-year 9% annual coupon bonds with a $1,000 face value each. Since then, interest rates in general have risen and the yield to maturity on the firm's bonds is now 11%. Given this information, what is the price today for a bond from this issue?",
+        "options": {
+            "A": "$1,000",
+            "B": "$1,116.54",
+            "C": "$882.22",
+            "D": "$914.41"
+        },
+        "answer": "C"
+    },
+    "20": {
+        "question": "The coupon payment for an annual-coupon corporate bond is equal to the yield to maturity multiplied by the par value of the bond.",
+        "answer": "F"
+    },
+    "21": {
+        "question": "Quality Construction Products Inc. issued $1,000 face value 20-year bonds five years ago. These bonds are currently selling for $1,218.47. From this information we can conclude that the Quality Construction Products Inc.bonds have a yield-to-maturity greater than the coupon rate on these bonds.",
+        "answer": "F"
+    },
+    "22": {
+        "question": "Zero-coupon bonds are more difficult and time-consuming to price because of the extensive revision of the basic bond pricing formula.",
+        "answer": "F"
+    },
+    "23": {
+        "question": "The coupon payment for an annual-coupon corporate bond is equal to the coupon rate multiplied by the current price of the bond.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "The coupon rate for a bond is the interest rate for the coupons, stated in annual terms, and printed on the bond. It normally remains the same throughout the life of the bond.",
+        "answer": "T"
+    },
+    "25": {
+        "question": "The ExecUfind Corporation has issued 20-year semiannual coupon bonds with a face value of $1,000. If the annual coupon rate is 10% and the current yield to maturity is 12%, what is the firm's current price per bond?",
+        "options": {
+            "A": "$850.61",
+            "B": "$849.54",
+            "C": "$1,170.27",
+            "D": "$1,171.59"
+        },
+        "answer": "B"
+    },
+    "26": {
+        "question": "TravelEasy Inc. has issued 30-year semiannual coupon bonds with a face value of $1,000. If the annual coupon rate is 14% and the current yield to maturity is 8%, what is the firm's current price per bond?",
+        "options": {
+            "A": "$578.82",
+            "B": "$579.84",
+            "C": "$1,675.47",
+            "D": "$1,678.70"
+        },
+        "answer": "D"
+    },
+    "27": {
+        "question": "TravelEasy Enterprises Inc. has issued 30-year semiannual coupon bonds with a face value of $1,000. If the annual coupon rate is 14% and the current yield to maturity is 15%, what is the firm's current price per bond?",
+        "options": {
+            "A": "$934.20",
+            "B": "$1,000.00",
+            "C": "$934.34",
+            "D": "$466.79"
+        },
+        "answer": "A"
+    },
+    "28": {
+        "question": "Quality Production Products Inc. has issued 20-year semiannual coupon bonds with a face value of $1,000. If the annual coupon rate is 12% and the current yield to maturity is 10%, what is the firm's current price per bond?",
+        "options": {
+            "A": "$934.20",
+            "B": "$1,000.00",
+            "C": "$1,171.59",
+            "D": "$1,362.74"
+        },
+        "answer": "C"
+    },
+    "29": {
+        "question": "Douglas Distributing Inc. has issued 30-year semiannual coupon bonds with a face value of $1,000. If the annual coupon rate is 6% and the current yield to maturity is 7%, what is the firm's current price per bond?",
+        "options": {
+            "A": "$875.28",
+            "B": "$1,000.00",
+            "C": "$934.34",
+            "D": "$466.79"
+        },
+        "answer": "A"
+    },
+    "30": {
+        "question": "Most U.S. corporate and government bonds choose to make coupon payments.",
+        "options": {
+            "A": "annual",
+            "B": "semiannual",
+            "C": "quarterly",
+            "D": "monthly"
+        },
+        "answer": "B"
+    },
+    "31": {
+        "question": "Which of the following types of bonds, as characterized by a feature, by definition has two coupon payments per year?",
+        "options": {
+            "A": "Consol",
+            "B": "Semiannual",
+            "C": "Zero-coupon",
+            "D": "Putable"
+        },
+        "answer": "B"
+    },
+    "32": {
+        "question": "RadicaL CREATIONS Inc. just issued zero-coupon bonds with a par value of $1,000. If the bond has a maturity of 15 years and a yield to maturity of 10%, what is the current price of the bond if it is priced in the conventional manner?",
+        "options": {
+            "A": "$1,000",
+            "B": "$239.39",
+            "C": "$231.38",
+            "D": "This question cannot be answered because the coupon payment information is missing."
+        },
+        "answer": "C"
+    },
+    "33": {
+        "question": "Zero-coupon U.S. Government bonds are known as",
+        "options": {
+            "A": "STRIPS",
+            "B": "muni-bonds",
+            "C": "Uncle Sam's Empty Pockets",
+            "D": "BLANKS"
+        },
+        "answer": "A"
+    },
+    "34": {
+        "question": "The difference between the price and the par value of a zero-coupon bond represents",
+        "options": {
+            "A": "taxes payable by the bond buyer",
+            "B": "the accumulated principal over the life of the bond",
+            "C": "the bond premium",
+            "D": "the accumulated interest over the life of the bond"
+        },
+        "answer": "D"
+    },
+    "35": {
+        "question": "Flashstream Productions Inc. is issuing a zero-coupon bond that will have a maturity of fifty years. The bond's par value is $1,000, and the current yield on similar bonds is 7.5%. What is the expected price of this bond, using the semiannual convention?",
+        "options": {
+            "A": "$25.19",
+            "B": "$250.19",
+            "C": "$750.00",
+            "D": "$1,000.00"
+        },
+        "answer": "A"
+    },
+    "36": {
+        "question": "Almost all corporate and government bonds pay coupons on an annual basis.",
+        "answer": "F"
+    },
+    "37": {
+        "question": "When pricing a zero-coupon bond, the convention is to use the semiannual pricing formula rather than the annual pricing formula.",
+        "answer": "T"
+    },
+    "38": {
+        "question": "Zero-coupon bonds are priced at deep discounts.",
+        "answer": "T"
+    },
+    "39": {
+        "question": "Zero-coupon bonds are priced at steep premiums.",
+        "answer": "F"
+    },
+    "40": {
+        "question": "The is a market derived interest rate used to discount the future cash flows of the bond.",
+        "options": {
+            "A": "coupon rate",
+            "B": "semiannual coupon rate",
+            "C": "yield to maturity",
+            "D": "compound rate"
+        },
+        "answer": "C"
+    },
+    "41": {
+        "question": "The is the interest rate printed on the bond.",
+        "options": {
+            "A": "coupon rate",
+            "B": "semiannual coupon rate",
+            "C": "yield to maturity",
+            "D": "compound rate"
+        },
+        "answer": "A"
+    },
+    "42": {
+        "question": "Rogue Recovery Inc. wishes to issue new bonds but is uncertain how the market would set the yield to maturity. The bonds would be 20-year, 7% annual coupon bonds with a $1,000 par value. The firm has determined that these bonds would sell for $1,050 each. What is the yield to maturity for these bonds?",
+        "options": {
+            "A": "7.00%",
+            "B": "6.55%",
+            "C": "7.35%",
+            "D": "6.54%"
+        },
+        "answer": "D"
+    },
+    "43": {
+        "question": "The National Insurance Corporation has $1,000 par value bonds with a coupon rate of 8% per year making semiannual coupon payments. If there are twelve years remaining prior to maturity and these bonds are selling for $876.40, what is the yield to maturity for these bonds?",
+        "options": {
+            "A": "9.80%",
+            "B": "8.00%",
+            "C": "9.77%",
+            "D": "8.33%"
+        },
+        "answer": "C"
+    },
+    "44": {
+        "question": "Cedar Links Recreation Inc. has issued ten-year zero-coupon bonds with a $1,000 face value. If the bonds are currently selling for $514.87, what is the yield to maturity?",
+        "options": {
+            "A": "6.75%",
+            "B": "6.86%",
+            "C": "10.45%",
+            "D": "This question cannot be answered because there is no coupon payment provided."
+        },
+        "answer": "B"
+    },
+    "45": {
+        "question": "When the is less than the yield to maturity, the bond sells at a/the the par value.",
+        "options": {
+            "A": "coupon rate; premium over",
+            "B": "coupon rate; discount to",
+            "C": "time to maturity; discount to",
+            "D": "time to maturity; same price as"
+        },
+        "answer": "B"
+    },
+    "46": {
+        "question": "MicroMedia Inc. $1,000 par value bonds are selling for $1,265. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The bond market currently requires a rate (yield) less than the coupon rate.",
+            "B": "The bonds are selling at a premium to the par value.",
+            "C": "The coupon rate is greater than the yield to maturity.",
+            "D": "All of the above are true."
+        },
+        "answer": "D"
+    },
+    "47": {
+        "question": "MacroMedia Inc. $1,000 par value bonds are selling for $832. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The bonds must have more than six years to maturity.",
+            "B": "The bonds are selling at a premium to the par value.",
+            "C": "The coupon rate is greater than the yield to maturity.",
+            "D": "None of the above is true."
+        },
+        "answer": "D"
+    },
+    "48": {
+        "question": "Which of the following statements about the relationship between yield to maturity and bond prices is FALSE?",
+        "options": {
+            "A": "When the yield to maturity and coupon rate are the same, the bond is called a par value bond.",
+            "B": "A bond selling at a premium means that the coupon rate is greater than the yield to maturity.",
+            "C": "When interest rates go up, bond prices go up.",
+            "D": "A bond selling at a discount means that the coupon rate is less than the yield to maturity."
+        },
+        "answer": "C"
+    },
+    "49": {
+        "question": "The Rogue Outfitters Corporation $1,000 par value, 15% annual coupon bonds, have 6 years remaining to maturity and are currently selling for $938.45. What is the firm's yield to maturity for these bonds?",
+        "options": {
+            "A": "15.00%",
+            "B": "16.70%",
+            "C": "16.66%",
+            "D": "15.47%"
+        },
+        "answer": "B"
+    },
+    "50": {
+        "question": "Douglas Dynamics Inc. has outstanding $1,000 face value 8% coupon bonds that make semiannual payments, and have 14 years remaining to maturity. If the current price for these bonds is $1,118.74, what is the annualized yield to maturity?",
+        "options": {
+            "A": "6.68%",
+            "B": "6.67%",
+            "C": "6.12%",
+            "D": "6.00%"
+        },
+        "answer": "A"
+    },
+    "51": {
+        "question": "Douglas Dynamics Inc. has outstanding $1,000 face value 8% coupon bonds that make semiannual payments, and have 14 years remaining to maturity. If the current price for these bonds is $987.24, what is the annualized yield to maturity?",
+        "options": {
+            "A": "8.00%",
+            "B": "8.38%",
+            "C": "8.15%",
+            "D": "8.64%"
+        },
+        "answer": "C"
+    },
+    "52": {
+        "question": "Douglas Dynamics Inc. has outstanding $1,000 face value 4% coupon bonds that make semiannual payments, and have 10 years remaining to maturity. If the current price for these bonds is $938.57, what is the annualized yield to maturity?",
+        "options": {
+            "A": "4.78%",
+            "B": "4.96%",
+            "C": "5.02%",
+            "D": "5.13%"
+        },
+        "answer": "A"
+    },
+    "53": {
+        "question": "Douglas Dynamics Inc. has outstanding $1,000 face value 12% coupon bonds that make semiannual payments, and have 8 years remaining to maturity. If the current price for these bonds is $1,274.35, what is the annualized yield to maturity?",
+        "options": {
+            "A": "7.81%",
+            "B": "7.40%",
+            "C": "6.12%",
+            "D": "6.00%"
+        },
+        "answer": "B"
+    },
+    "54": {
+        "question": "When the coupon rate is less than the yield to maturity, the bond sells for a premium over the par value.",
+        "answer": "F"
+    },
+    "55": {
+        "question": "If the par value of a bond is equal to the bond price, then we know the yield to maturity is equal to the coupon rate.",
+        "answer": "T"
+    },
+    "56": {
+        "question": "If a bond is selling at a premium above the par value that means that the yield to maturity is greater than the coupon rate.",
+        "answer": "F"
+    },
+    "57": {
+        "question": "Which of the following is NOT a category for rating classifications of bonds?",
+        "options": {
+            "A": "Investment grade bonds",
+            "B": "American grade bonds",
+            "C": "Extremely speculative grade bonds",
+            "D": "Speculative grade bonds"
+        },
+        "answer": "B"
+    },
+    "58": {
+        "question": "As the rating of a bond increases (for example, from A, to AA, to AAA), it generally means that",
+        "options": {
+            "A": "the credit rating increases, the default risk increases, and the required rate of return decreases",
+            "B": "the credit rating increases, the default risk decreases, and the required rate of return increases",
+            "C": "the credit rating increases, the default risk decreases, and the required rate of return decreases",
+            "D": "the credit rating decreases, the default risk decreases, and the required rate of return decreases"
+        },
+        "answer": "C"
+    },
+    "59": {
+        "question": "From 1980 to 2013, the default risk premium differential between Aaa-rated bonds and Aa- rated bonds has averaged between _________.",
+        "options": {
+            "A": "5 to 10 basis points",
+            "B": "11 to 23 basis points",
+            "C": "24 to 35 basis points",
+            "D": "36 to 50 basis points"
+        },
+        "answer": "C"
+    },
+    "60": {
+        "question": "From 1980 to 2013, the default risk premium differential between Aaa-rated bonds and Baa- rated bonds has averaged between _________.",
+        "options": {
+            "A": "5 to 15 basis points",
+            "B": "20 to 50 basis points",
+            "C": "100 to 200 basis points",
+            "D": "250 to 350 basis points"
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "\"Junk\" bonds are a street name for _________ grade bonds.",
+        "options": {
+            "A": "investment",
+            "B": "speculative",
+            "C": "extremely speculative",
+            "D": "speculative and investment"
+        },
+        "answer": "B"
+    },
+    "62": {
+        "question": "A basis point is _________.",
+        "options": {
+            "A": "one-thousandth of a percentage point",
+            "B": "one percentage point",
+            "C": "one-tenth of a percentage point",
+            "D": "one-hundredth of a percentage point"
+        },
+        "answer": "D"
+    },
+    "63": {
+        "question": "Moody's has developed a corporate bond default-risk rating system using capital and lower case letters and numbers. Below are several examples of Moody's ratings. Which answer choice lists a collection of ratings for \"high credit investment grade\" bonds?",
+        "options": {
+            "A": "Baal, A1, A3",
+            "B": "Bal, Baa2, Baa3",
+            "C": "Aa2, Aa3, A1",
+            "D": "Caa, Ca, C"
+        },
+        "answer": "C"
+    },
+    "64": {
+        "question": "According to bond rating agencies, a bond rated \"AAA\" has a higher probability of default than a bond with a \"BBB\" rating.",
+        "answer": "F"
+    },
+    "65": {
+        "question": "A higher bond rating usually means a lower yield.",
+        "answer": "T"
+    },
+    "66": {
+        "question": "The _________ is the written contract between the bond issuer and the bondholder.",
+        "options": {
+            "A": "debenture",
+            "B": "sinking fund",
+            "C": "indenture",
+            "D": "corpus"
+        },
+        "answer": "C"
+    },
+    "67": {
+        "question": "_________ are always unsecured bonds.",
+        "options": {
+            "A": "Mortgage bonds",
+            "B": "Debentures",
+            "C": "Callable bonds",
+            "D": "Junior debt bonds"
+        },
+        "answer": "B"
+    },
+    "68": {
+        "question": "When a company is in financial difficulty and cannot fully pay all of its creditors, the first lenders to be paid are the _________.",
+        "options": {
+            "A": "stockholders",
+            "B": "sinking fund holders",
+            "C": "junior debtholders",
+            "D": "senior debtholders"
+        },
+        "answer": "D"
+    },
+    "69": {
+        "question": "Which of the following is NOT an example of a bond that contains an option feature?",
+        "options": {
+            "A": "Callable bond",
+            "B": "Putable bond",
+            "C": "Convertible bond",
+            "D": "These are all examples of bonds with option features."
+        },
+        "answer": "D"
+    },
+    "70": {
+        "question": "Espresso Petroleum Inc. has a contractual option to buy back, prior to maturity, bonds the firm issued five years ago. This is an example of what type of bond?",
+        "options": {
+            "A": "Putable bond",
+            "B": "Callable bond",
+            "C": "Convertible bond",
+            "D": "Junior bond"
+        },
+        "answer": "B"
+    },
+    "71": {
+        "question": "With a bearer bond, whoever held it was entitled to the _________ and the _________.",
+        "options": {
+            "A": "interest payments; principal",
+            "B": "dividend payments; principal",
+            "C": "interest payments; dividend payments",
+            "D": "interest payments; voting rights"
+        },
+        "answer": "A"
+    },
+    "72": {
+        "question": "When real property is used as collateral for a bond, it is termed a/an _________.",
+        "options": {
+            "A": "debenture",
+            "B": "mortgaged security",
+            "C": "indenture",
+            "D": "senior bond"
+        },
+        "answer": "B"
+    },
+    "73": {
+        "question": "A sinking fund may be used for each of the following EXCEPT _________.",
+        "options": {
+            "A": "to be held on to and used to pay off the principal at maturity",
+            "B": "to call in bonds early",
+            "C": "to buy back some of the bonds over time",
+            "D": "to be used to pay off other outstanding debt issues"
+        },
+        "answer": "D"
+    },
+    "74": {
+        "question": "Which of the following types of bonds may the issuer buy back before maturity?",
+        "options": {
+            "A": "Callable bond",
+            "B": "Putable bond",
+            "C": "Convertible bond",
+            "D": "Zero-coupon bond"
+        },
+        "answer": "A"
+    },
+    "75": {
+        "question": "Which of the following types of bonds may the buyer sell back before maturity?",
+        "options": {
+            "A": "Callable bond",
+            "B": "Putable bond",
+            "C": "Convertible bond",
+            "D": "Zero-coupon bond"
+        },
+        "answer": "B"
+    },
+    "76": {
+        "question": "When a bond is callable, the ability to call the bond is an option for _________.",
+        "options": {
+            "A": "the bond issuer",
+            "B": "the bond purchaser",
+            "C": "a mutual decision between the issuer and the purchaser of the bond",
+            "D": "the trustee holding the bond"
+        },
+        "answer": "A"
+    },
+    "77": {
+        "question": "Which of the choices below is FALSE?",
+        "options": {
+            "A": "When issuing a putable bond, the firm anticipates that interest rates will rise over the life of the bond.",
+            "B": "When issuing a callable bond, the firm anticipates that interest rates will fall over the life of the bond.",
+            "C": "When issuing a callable bond, the firm anticipates that interest rates will rise over the life of the bond.",
+            "D": "A putable bond is essentially the reverse of a callable bond."
+        },
+        "answer": "C"
+    },
+    "78": {
+        "question": "The interest rate banks charge to their best customers is the _________ rate.",
+        "options": {
+            "A": "variable",
+            "B": "prime",
+            "C": "discount",
+            "D": "federal funds"
+        },
+        "answer": "B"
+    },
+    "79": {
+        "question": "Bonds that pay interest tied to the earnings of the company are known as _________ bonds.",
+        "options": {
+            "A": "income",
+            "B": "exotic",
+            "C": "floating rate",
+            "D": "variable earnings"
+        },
+        "answer": "A"
+    },
+    "80": {
+        "question": "A _________ is an unsecured bond, and most of the bonds sold today in the United States are of this type.",
+        "options": {
+            "A": "mortgage bond",
+            "B": "debenture",
+            "C": "senior bond",
+            "D": "bond indenture"
+        },
+        "answer": "B"
+    },
+    "81": {
+        "question": "Exotic bonds are _________ difficult to price than ordinary bonds and they attract _________ potential buyers.",
+        "options": {
+            "A": "more; more",
+            "B": "less; more",
+            "C": "more; fewer",
+            "D": "less; fewer"
+        },
+        "answer": "C"
+    },
+    "82": {
+        "question": "An indenture is an unsecured bond, and most of the bonds sold today in the United States are of this type.",
+        "answer": "F"
+    },
+    "83": {
+        "question": "A callable bond allows the bond issuer to \"call-in\" the bond prior to maturity.",
+        "answer": "T"
+    },
+    "84": {
+        "question": "A putable bond allows the bond issuer to \"call-in\" the bond prior to maturity.",
+        "answer": "F"
+    },
+    "85": {
+        "question": "Which of the following are issued with the shortest time to maturity?",
+        "options": {
+            "A": "Treasury bills",
+            "B": "Treasury notes",
+            "C": "Treasury bonds",
+            "D": "Treasury stocks"
+        },
+        "answer": "A"
+    },
+    "86": {
+        "question": "Treasury _________ and _________ are semiannual bonds, while Treasury _________ are zero-coupon instruments.",
+        "options": {
+            "A": "bills; bonds; notes",
+            "B": "notes; bills; bonds",
+            "C": "notes; bonds; bills",
+            "D": "bonds; bills; notes"
+        },
+        "answer": "C"
+    },
+    "87": {
+        "question": "A U.S. Treasury bill is currently selling at a discount basis of 2.25%. The par value of the bill is $100,000, and will mature in ninety days. What is the price of this Treasury bill?",
+        "options": {
+            "A": "$97,750.00",
+            "B": "$99,437.5",
+            "C": "$99,952.05",
+            "D": "$97,952.78"
+        },
+        "answer": "B"
+    },
+    "88": {
+        "question": "A U.S. Treasury bill is currently selling at a discount basis of 4.25%. The par value of the bill is $100,000, and will mature in 180 days. What is the price of this Treasury bill?",
+        "options": {
+            "A": "$97,875.00",
+            "B": "$97,937.50",
+            "C": "$96,975.00",
+            "D": "$99,500.00"
+        },
+        "answer": "A"
+    },
+    "89": {
+        "question": "A U.S. Treasury bill is currently selling at a discount basis of 0.50%. The par value of the bill is $100,000 and will mature in thirty days. What is the price of this Treasury bill?",
+        "options": {
+            "A": "$98,850.25",
+            "B": "$99,830.17",
+            "C": "$99,907.00",
+            "D": "$99,956.33"
+        },
+        "answer": "D"
+    },
+    "90": {
+        "question": "The Department of the Treasury offers three types of \"bonds\" for sale: Treasury bills, Treasury munis, and Treasury bonds.",
+        "answer": "F"
+    },
+    "91": {
+        "question": "Treasury notes and bonds are zero-coupon bonds that sell at a discount while Treasury bills have coupon payments.",
+        "answer": "F"
+    }
+}

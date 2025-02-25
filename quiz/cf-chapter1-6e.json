@@ -1,0 +1,332 @@
+{
+    "1": {
+        "question": "A sole proprietorship is owned by:",
+        "options": {
+            "A": "one person.",
+            "B": "two or more persons.",
+            "C": "shareholders.",
+            "D": "bankers"
+        },
+        "answer": "A"
+    },
+    "2": {
+        "question": "Which of the following organization forms for a business does NOT avoid double taxation?",
+        "options": {
+            "A": "Limited partnership",
+            "B": "\"C\" corporation",
+            "C": "\"S\" corporation",
+            "D": "Limited liability company"
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "Which of the following organization forms accounts for the most revenue?",
+        "options": {
+            "A": "\"S\" corporation",
+            "B": "Limited partnership",
+            "C": "\"C\" corporation",
+            "D": "Limited liability company"
+        },
+        "answer": "C"
+    },
+    "4": {
+        "question": "Which of the following organization forms accounts for the greatest number of firms?",
+        "options": {
+            "A": "\"S\" corporation",
+            "B": "Limited partnership",
+            "C": "Sole proprietorship",
+            "D": "\"C\" corporation"
+        },
+        "answer": "C"
+    },
+    "5": {
+        "question": "Which of the following is NOT an advantage of a sole proprietorship?",
+        "options": {
+            "A": "Single taxation",
+            "B": "Ease of setup",
+            "C": "Limited liability",
+            "D": "No separation of ownership and control"
+        },
+        "answer": "C"
+    },
+    "6": {
+        "question": "Which of the following statements regarding limited partnerships is TRUE?",
+        "options": {
+            "A": "There is no limit on a limited partner's liability.",
+            "B": "A limited partner's liability is limited by the amount of their investment.",
+            "C": "A limited partner is not liable until all the assets of the general partners have been exhausted.",
+            "D": "A general partner's liability is limited by the amount of their investment."
+        },
+        "answer": "B"
+    },
+    "7": {
+        "question": "Which of the following is/are an advantage of incorporation?",
+        "options": {
+            "A": "Access to capital markets",
+            "B": "Limited liability",
+            "C": "Unlimited life",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "Which of the following statements is most correct?",
+        "options": {
+            "A": "An advantage to incorporation is that it allows for less regulation of the business.",
+            "B": "An advantage of a corporation is that it is subject to double taxation.",
+            "C": "Unlike a partnership, a disadvantage of a corporation is that it has limited liability.",
+            "D": "Corporations face more regulations when compared to partnerships."
+        },
+        "answer": "D"
+    },
+    "9": {
+        "question": "A limited liability company is essentially:",
+        "options": {
+            "A": "a limited partnership without limited partners.",
+            "B": "a limited partnership without a general partner.",
+            "C": "just another name for a limited partnership with a general partner.",
+            "D": "just another name for a corporation."
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "The distinguishing feature of a corporation is that:",
+        "options": {
+            "A": "there is no legal difference between the corporation and its owners.",
+            "B": "it is a legally defined, artificial being, separate from its owners.",
+            "C": "it spreads liability for its corporate obligations to all shareholders.",
+            "D": "it provides limited liability only to small shareholders."
+        },
+        "answer": "B"
+    },
+    "11": {
+        "question": "Which of the following are subject to double taxation?",
+        "options": {
+            "A": "Corporation",
+            "B": "Partnership",
+            "C": "Sole proprietorship",
+            "D": "Both A and B"
+        },
+        "answer": "A"
+    },
+    "12": {
+        "question": "You own 100 shares of a \"C\" corporation. The corporation earns $5.00 per share before taxes. Once the corporation has paid any corporate taxes that are due, it will distribute the rest of its earnings to its shareholders in the form of a dividend. If the corporate tax rate is 21% and your personal tax rate on (both dividend and non-dividend) income is 30%, then how much money is left for you after all taxes have been paid?",
+        "options": {
+            "A": "$276.50",
+            "B": "$300.00",
+            "C": "$350.00",
+            "D": "$500.00"
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "You own 100 shares of a Sub Chapter \"S\" corporation. The corporation earns $5.00 per share before taxes. Once the corporation has paid any corporate taxes that are due, it will distribute the rest of its earnings to its shareholders in the form of a dividend. If the corporate tax rate is 21% and your personal tax rate on (both dividend and non-dividend) income is 30%, then how much money is left for you after all taxes have been paid?",
+        "options": {
+            "A": "$210",
+            "B": "$300",
+            "C": "$350",
+            "D": "$500"
+        },
+        "answer": "C"
+    },
+    "14": {
+        "question": "You are a shareholder in a \"C\" corporation. This corporation earns $4 per share before taxes. After it has paid taxes, it will distribute the remainder of its earnings to you as a dividend. The dividend is income to you, so you will then pay taxes on these earnings. The corporate tax rate is 21% and your tax rate on dividend income is 15%. The effective tax rate on your share of the corporation's earnings is closest to:",
+        "options": {
+            "A": "15%.",
+            "B": "33%.",
+            "C": "45%.",
+            "D": "50%."
+        },
+        "answer": "B"
+    },
+    "15": {
+        "question": "In a corporation, the ultimate decisions regarding business matters are made by:",
+        "options": {
+            "A": "the Board of Directors.",
+            "B": "debt holders.",
+            "C": "shareholders.",
+            "D": "investors."
+        },
+        "answer": "A"
+    },
+    "16": {
+        "question": "The person charged with running the corporation by instituting the rules and policies set by the board of directors is called:",
+        "options": {
+            "A": "the chief operating officer.",
+            "B": "the company president.",
+            "C": "the chief executive officer.",
+            "D": "the chief financial officer."
+        },
+        "answer": "C"
+    },
+    "17": {
+        "question": "The Principal-Agent Problem arises:",
+        "options": {
+            "A": "because managers have little incentive to work in the interest of shareholders when this means working against their own self-interest.",
+            "B": "because of the separation of ownership and control in a corporation.",
+            "C": "Both A and B",
+            "D": "None of the above"
+        },
+        "answer": "C"
+    },
+    "18": {
+        "question": "If shareholders are unhappy with a CEO's performance, they are most likely to:",
+        "options": {
+            "A": "buy more shares in an effort to gain control of the firm.",
+            "B": "file a shareholder resolution.",
+            "C": "replace the CEO through a grassroots shareholder uprising.",
+            "D": "sell their shares."
+        },
+        "answer": "D"
+    },
+    "19": {
+        "question": "A is when a rich individual or organization purchases a large fraction of the stock of a poorly performing firm and in doing so gets enough votes to replace the board of directors and the CEO.",
+        "options": {
+            "A": "shareholder proposal",
+            "B": "leveraged buyout",
+            "C": "shareholder action",
+            "D": "hostile takeover"
+        },
+        "answer": "D"
+    },
+    "20": {
+        "question": "Which of the following statements is FALSE?",
+        "options": {
+            "A": "In bankruptcy, management is given the opportunity to reorganize the firm and renegotiate with debt holders.",
+            "B": "Because a corporation is a separate legal entity, when it fails to repay its debts the people who lent to the firm, the debt holders, are entitled to seize the assets of the corporation in compensation for the default.",
+            "C": "As long as the corporation can satisfy the claims of the debt holders, ownership remains in the hands of the equity holders.",
+            "D": "If the corporation fails to satisfy debt holders' claims, debt holders may lose control of the firm."
+        },
+        "answer": "D"
+    },
+    "21": {
+        "question": "The most senior financial manager in a corporation is usually called:",
+        "options": {
+            "A": "the chief executive officer.",
+            "B": "the chief financial officer.",
+            "C": "the chief operating officer.",
+            "D": "the chairman of the board."
+        },
+        "answer": "B"
+    },
+    "22": {
+        "question": "You overhear your manager saying that she plans to book an Ocean-view room on her upcoming trip to Miami for a meeting. You know that the interior rooms are much less expensive and that your manager is traveling at the Company's expense. This use of additional funds comes about as a result of:",
+        "options": {
+            "A": "an agency problem.",
+            "B": "an adverse selection problem.",
+            "C": "a moral hazard.",
+            "D": "a publicity problem."
+        },
+        "answer": "A"
+    },
+    "23": {
+        "question": "An agency problem can be alleviated:",
+        "options": {
+            "A": "when a firm is a sole proprietorship.",
+            "B": "by compensating managers in such a way that acting in the best interest of shareholders is also in the best interest of managers.",
+            "C": "by asking managers to take on more risk than they are comfortable taking.",
+            "D": "Both A and B"
+        },
+        "answer": "D"
+    },
+    "24": {
+        "question": "Do corporate decisions that increase the value of the firm's equity benefit society as a whole?",
+        "options": {
+            "A": "Yes, as long as the value of the firm's equity increases, society is better off.",
+            "B": "Yes, as long as the increase in the value of the firm's equity does not come at the expense of others.",
+            "C": "No, any gain in the value of the firm's equity is always less than the cost to society.",
+            "D": "No, any gains in the value of the firm's equity are perfectly offset by societal costs."
+        },
+        "answer": "B"
+    },
+    "25": {
+        "question": "Use the table for the question(s) below. Consider the following two quotes for XYZ stock:\n\n|November 11th|November 18th|\n|---|---|\n|Ask: 25.25|Ask: 26.00|\n|Bid: 25.20|Bid: 25.93|\n\nHow much would you have to pay to purchase 100 shares of XYZ stock on November 18th?",
+        "options": {
+            "A": "$2520",
+            "B": "$2525",
+            "C": "$2593",
+            "D": "$2600"
+        },
+        "answer": "D"
+    },
+    "26": {
+        "question": "Use the table for the question(s) below. Consider the following two quotes for XYZ stock:\n\n|November 11th|November 18th|\n|---|---|\n|Ask: 25.25|Ask: 26.00|\n|Bid: 25.20|Bid: 25.93|\n\nHow much would you receive if you sold 200 shares of XYZ stock on November 11th?",
+        "options": {
+            "A": "$5050",
+            "B": "$5040",
+            "C": "$5186",
+            "D": "$5200"
+        },
+        "answer": "B"
+    },
+    "27": {
+        "question": "The largest stock market in the world by market capitalization is:",
+        "options": {
+            "A": "the London Stock Exchange.",
+            "B": "NASDAQ.",
+            "C": "the American Stock Exchange.",
+            "D": "the New York Stock Exchange."
+        },
+        "answer": "D"
+    },
+    "28": {
+        "question": "The largest stock market in the world by volume is:",
+        "options": {
+            "A": "the London Stock Exchange.",
+            "B": "NASDAQ.",
+            "C": "the American Stock Exchange.",
+            "D": "the New York Stock Exchange."
+        },
+        "answer": "B"
+    },
+    "29": {
+        "question": "An investment is said to be liquid if the investment:",
+        "options": {
+            "A": "has large day-to-day fluctuations in price.",
+            "B": "has a large bid-ask spread.",
+            "C": "can easily be converted into cash.",
+            "D": "is traded on a stock exchange."
+        },
+        "answer": "C"
+    },
+    "30": {
+        "question": "What type of company trades on an organized stock exchange?",
+        "options": {
+            "A": "A limited liability company",
+            "B": "A private company",
+            "C": "An \"S\" corporation",
+            "D": "A public company"
+        },
+        "answer": "D"
+    },
+    "31": {
+        "question": "Which of the following statements is FALSE?",
+        "options": {
+            "A": "On NASDAQ, stocks can and do have multiple market makers who compete with each other. Each market maker must post bid and ask prices in the NASDAQ network where they can be viewed by all participants.",
+            "B": "Bid prices exceed ask prices.",
+            "C": "Because customers always buy at the ask and sell at the bid, the bid-ask spread is a transaction cost investors have to pay in order to trade.",
+            "D": "Prior to 2005, market makers (known on the NYSE as specialists) matched buyers and sellers on the floor of the NYSE."
+        },
+        "answer": "B"
+    },
+    "32": {
+        "question": "If you buy shares of Coca-Cola on the primary market:",
+        "options": {
+            "A": "Coca-Cola receives the money because the company has issued new shares.",
+            "B": "you buy the shares from another investor who decided to sell the shares.",
+            "C": "you buy the shares from the New York Stock Exchange.",
+            "D": "you buy the shares from the Federal Reserve."
+        },
+        "answer": "A"
+    },
+    "33": {
+        "question": "If you buy shares of Coca-Cola on the secondary market:",
+        "options": {
+            "A": "Coca-Cola receives the money because the company has issued new shares.",
+            "B": "you buy the shares from another investor who decided to sell the shares.",
+            "C": "you buy the shares from the New York Stock Exchange.",
+            "D": "you buy the shares from the Federal Reserve."
+        },
+        "answer": "B"
+    }
+}

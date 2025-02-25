@@ -1,5 +1,33 @@
 [
     {
+        "name": "Corporate Finance Chapter 1 - 6e",
+        "file": "cf-chapter1-6e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 2 - 6e",
+        "file": "cf-chapter2-6e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 3 - 4e",
+        "file": "cf-chapter3-4e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 4 - 4e",
+        "file": "cf-chapter4-4e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 5 - 4e",
+        "file": "cf-chapter5-4e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 6 - 4e",
+        "file": "cf-chapter6-4e.json"
+    },
+    {
+        "name": "Corporate Finance Chapter 7 - 4e",
+        "file": "cf-chapter7-4e.json"
+    },
+    {
         "name": "Business Accounting Chapter 1 - 11e",
         "file": "ba-chapter1-11e.json"
     },

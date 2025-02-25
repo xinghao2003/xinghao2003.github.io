@@ -1,0 +1,754 @@
+{
+    "1": {
+        "question": "Stocks are different from bonds because",
+        "options": {
+            "A": "stocks, unlike bonds, are major sources of funds",
+            "B": "stocks, unlike bonds, represent residual ownership",
+            "C": "stocks, unlike bonds, give owners legal claims to payments",
+            "D": "bonds, unlike stocks, represent voting ownership"
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "Stocks differ from bonds because",
+        "options": {
+            "A": "bond cash flows are known while stock cash flows are uncertain",
+            "B": "firms pay bond cash flows prior to paying taxes while stock cash flows are after tax",
+            "C": "the ending par value of a bond is known at purchase while the ending value of a share of stock is unknown at purchase",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    "3": {
+        "question": "Bonds are different from stocks because",
+        "options": {
+            "A": "bonds promise fixed payments for the length of their maturity",
+            "B": "bonds give payments only after other owners are paid",
+            "C": "bonds do not have maturity dates",
+            "D": "bonds promise growth in earnings"
+        },
+        "answer": "A"
+    },
+    "4": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The profits for common stock owners come before payment to employees, suppliers, government, and creditors.",
+            "B": "Shareholders elect the board of directors, which ultimately selects the management team that runs the day-to-day operations of the company.",
+            "C": "Stock is a major financing source for public companies.",
+            "D": "Common stock's ownership claim on the assets and cash flow of a company is often referred to as a residual claim."
+        },
+        "answer": "A"
+    },
+    "5": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "For common stock, there is no maturity date and the promised cash flow is not stated on the asset, but is determined at a later date by the board of directors.",
+            "B": "An equity claim is a claim to all the assets and cash flows of a company once debt claimants have been paid.",
+            "C": "Like a bond, common stock entitles the owner to some of the cash flow of a company.",
+            "D": "Bond ownership gives the right to participate in the management of the company."
+        },
+        "answer": "D"
+    },
+    "6": {
+        "question": "Which of the statements below is TRUE?",
+        "options": {
+            "A": "The profits for common stock owners come after payment to the employees, suppliers, government, and creditors.",
+            "B": "Shareholders elect the board of directors, which ultimately selects the bondholder team that runs the day-to-day operations of the company.",
+            "C": "Stock is a minor financing source for public companies.",
+            "D": "Stockholders are paid before debt holders (bondholders) if a company fails."
+        },
+        "answer": "A"
+    },
+    "7": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "Common stock usually carries the right to participate in the management of the firm through the right to vote for the members of the Board of Directors and for changes to the charter and bylaws of the company.",
+            "B": "Shareholders with super voting right shares have multiple votes per share a fact that increases their influence and control over the company.",
+            "C": "Some firms issue several classes of common stock, and these classes may have unequal voting rights.",
+            "D": "The standard of one vote for each share cannot be altered."
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "There are two typical ways to alter the one vote-one share standard. One way is",
+        "options": {
+            "A": "to have companies buy back nonvoting common stock",
+            "B": "to not have companies pay dividends",
+            "C": "to have companies issue classes of stock whereby one or more classes have super voting rights",
+            "D": "to not have companies issue bonds"
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "A typical practice of many companies is to distribute part of the earnings to shareholders through",
+        "options": {
+            "A": "quarterly stock splits",
+            "B": "quarterly cash dividends",
+            "C": "semiannual cash dividends",
+            "D": "annual stock dividends"
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The payment of cash dividends to shareholders is a deductible expense for the company.",
+            "B": "Unlike coupon payments on bonds, which are treated as an interest expense of the firm, common stock dividends are considered a return of capital to shareholders and not an expense of the firm.",
+            "C": "For the shareholder, receipt of dividends is a taxable event.",
+            "D": "A typical practice of many companies is to distribute part of the earnings to shareholders through cash dividends."
+        },
+        "answer": "A"
+    },
+    "11": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "If an investor purchases 20% of the initial issue of the company, the investor then owns 20% of the company, given the one vote-one share norm.",
+            "B": "After an initial offering, the company can sell more shares to the public at a later date. If the investor who originally purchased 20% does not purchase 20% of the subsequent issue, his or her ownership is diluted below 20%.",
+            "C": "A preemptive right enables one to maintain one's proportional level of ownership.",
+            "D": "A preemptive right is never particularly valuable to shareholders with large ownership percentages."
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "Common stock is a vehicle for selling ownership and another way to raise money for operations, expansion, or other business needs.",
+        "answer": "T"
+    },
+    "13": {
+        "question": "Like a bond, common stock provides no specific promise of when and how much you will receive.",
+        "answer": "F"
+    },
+    "14": {
+        "question": "A privilege that allows current shareholders to buy a fixed percentage of all futures issues before they are offered to the public is called a primary right.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "Even though a company sets a limit on the number of shares it will sell, before selling any of them, the company must receive authorization to market the shares from the Securities and Exchange Commission (SEC).",
+        "answer": "T"
+    },
+    "16": {
+        "question": "The shares that are available for public purchase and subsequent trading in a secondary market such as the NYSE or NASDAQ are the issued shares of the company.",
+        "answer": "T"
+    },
+    "17": {
+        "question": "The __________ is the market of first sale in which companies first sell their authorized shares to the public.",
+        "options": {
+            "A": "primary market",
+            "B": "secondary market",
+            "C": "both primary and secondary markets",
+            "D": "Nasdaq market"
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "You can think of the __________ as the \"used stock\" market because these shares have been owned or \"used\" previously.",
+        "options": {
+            "A": "secondary market",
+            "B": "primary market",
+            "C": "NYSE market",
+            "D": "initial public offering market"
+        },
+        "answer": "A"
+    },
+    "19": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "Selling of shares is the selling of ownership in the company.",
+            "B": "A company is said to go \"public\" when it opens up its ownership structure to the general public through the sale of common stock.",
+            "C": "Companies choose to sell stock to attract permanent financing through equity ownership of the company.",
+            "D": "Most companies have the resident expertise to complete an initial public offering (IPO) or first public equity issue."
+        },
+        "answer": "D"
+    },
+    "20": {
+        "question": "The hiring process for an investment banker can happen in two ways. Which of the below is one of these ways?",
+        "options": {
+            "A": "Randomly choose an investment banking firm from a list of underwriting firms.",
+            "B": "Pick a desirable investment banking firm, usually basing the choice on the reputation and history of the banker in its particular industry.",
+            "C": "Have the primary government regulator of your industry choose the best investment banking firm for your company.",
+            "D": "Solicit advice from a government agency and use it as your primary guide in choosing an investment banker."
+        },
+        "answer": "B"
+    },
+    "21": {
+        "question": "Part of the negotiation with the investment banker during the selection process has to do with how the investment banker will be compensated for taking the company public. One of these two standard compensation packages involves",
+        "options": {
+            "A": "a firm-commitment approach, in which the investment banker essentially buys the entire stock issue from the company at several prices",
+            "B": "a best efforts approach, in which the investment banker pledges to do his or her best to sell the shares and will take a small percentage of the sale of each stock",
+            "C": "a best efforts approach, in which the investment banker essentially buys the entire stock issue from the company at one price and then sells the issue at the auction for a higher price",
+            "D": "a firm-commitment approach, in which the investment banker pledges to do his or her best to sell the shares and will take a small percentage of each stock"
+        },
+        "answer": "B"
+    },
+    "22": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The secondary market, or \"used stock\" market, provides a place for current common stockholders to sell their stock or acquire more stock or for new stockholders to acquire stock for the first time.",
+            "B": "Both the NYSE and the NYSE MKT LLC (previously known as the AMEX) are physical trading locations with trading floors. In order to complete a trade (the selling or buying of shares), orders must be processed at trading posts on the floor of the exchange.",
+            "C": "Immediately after the public auction of common stock, the stock begins trading in the secondary market.",
+            "D": "Trading on the NYSE is accomplished through a set of registered dealers who are connected by a computer network."
+        },
+        "answer": "D"
+    },
+    "23": {
+        "question": "Which of the statements below is TRUE?",
+        "options": {
+            "A": "Buying of shares is the selling of ownership in the company.",
+            "B": "A company is said to go \"private\" when it opens up its ownership structure to the general public through the sale of common stock.",
+            "C": "Private companies can go public by choosing to sell stock to attract permanent financing through equity ownership of the company.",
+            "D": "Most companies have the resident expertise to complete an initial public offering (IPO), or first public equity issue."
+        },
+        "answer": "C"
+    },
+    "24": {
+        "question": "In the United States, there are three well known secondary stock markets. Which of the below is NOT one of these?",
+        "options": {
+            "A": "The New York Stock Exchange (NYSE)",
+            "B": "The Chicago Stock Exchange (CSE)",
+            "C": "The National Association of Securities Dealers and their trading system NASDAQ (National Association of Securities Dealers Automated Quotation System)",
+            "D": "The New York Stock Exchange MKT LLC (formerly the AMEX)"
+        },
+        "answer": "B"
+    },
+    "25": {
+        "question": "Which of the following statements is TRUE?",
+        "options": {
+            "A": "The dealers of stock are not allowed to make money on the difference between what they buy the stock for and what they sell it for.",
+            "B": "A bear market is a prolonged rising market, one in which stock prices in general are increasing.",
+            "C": "The ask price is the price at which a dealer is willing to sell, and the bid price is the price at which a dealer is willing to buy.",
+            "D": "A bull market is a prolonged declining market, one in which stock prices in general are decreasing."
+        },
+        "answer": "C"
+    },
+    "26": {
+        "question": "There are two major markets for the sale of stock: the primary market and the secondary market.",
+        "answer": "T"
+    },
+    "27": {
+        "question": "A bull market is a prolonged declining market.",
+        "answer": "F"
+    },
+    "28": {
+        "question": "With best efforts compensation, the investment banker essentially buys the entire stock issue from the company at one price and then sells the issue at auction for a higher price.",
+        "answer": "F"
+    },
+    "29": {
+        "question": "Both the NYSE and the NYSE MKT LLC (formerly the AMEX) are physical trading locations with trading floors.",
+        "answer": "T"
+    },
+    "30": {
+        "question": "The value of a financial asset is the",
+        "options": {
+            "A": "present value of all of the future cash flows that will be received",
+            "B": "sum of all previous cash flows received",
+            "C": "future value of just the capital gains but not the dividends",
+            "D": "present value of just the capital gains but not the dividends"
+        },
+        "answer": "A"
+    },
+    "31": {
+        "question": "You want to invest in a stock that pays $4.00 annual cash dividends for the next three years. At the end of the three years, you will sell the stock for $35.00. If you want to earn 9% on this investment, what is a fair price for this stock if you buy it today?",
+        "options": {
+            "A": "$41.37",
+            "B": "$37.15",
+            "C": "$24.75",
+            "D": "$18.91"
+        },
+        "answer": "B"
+    },
+    "32": {
+        "question": "You want to invest in a stock that pays $2.00 annual cash dividends for the next four years. At the end of the four years, you will sell the stock for $27.00. If you want to earn 11% on this investment, what is a fair price for this stock if you buy it today?",
+        "options": {
+            "A": "$21.45",
+            "B": "$23.99",
+            "C": "$27.90",
+            "D": "$25.42"
+        },
+        "answer": "B"
+    },
+    "33": {
+        "question": "You want to invest in a stock that pays $1.50 annual cash dividends for the next six years. At the end of the six years, you will sell the stock for $18.50. If you want to earn 7.5% on this investment, what is a fair price for this stock if you buy it today?",
+        "options": {
+            "A": "about $18.45",
+            "B": "about $15.29",
+            "C": "about $22.45",
+            "D": "about $19.03"
+        },
+        "answer": "D"
+    },
+    "34": {
+        "question": "If we know the dividend stream, the future price of the stock, the future selling date of the stock, and the required return, we can price stocks just as we priced ___________",
+        "options": {
+            "A": "annuities",
+            "B": "perpetuities",
+            "C": "bonds",
+            "D": "preferred stocks"
+        },
+        "answer": "C"
+    },
+    "35": {
+        "question": "In regards to the fact that the pricing of stocks is more difficult than the pricing of bonds, which of the below statements is FALSE?",
+        "options": {
+            "A": "Cash dividends, unlike coupons for bonds, typically change from year to year.",
+            "B": "The ending price of the stock at any point in time is not fixed like the par value of the principal.",
+            "C": "Because a stock has no maturity date, the number of its payments are unknown.",
+            "D": "A stock's final sale is fixed in time on its maturity date."
+        },
+        "answer": "D"
+    },
+    "36": {
+        "question": "Craftwell Inc. pays a $0.75 dividend every quarter and will maintain this policy forever. What price should you pay for one share of common stock if you want an annual return of 10.5% on your investment?",
+        "options": {
+            "A": "$28.57",
+            "B": "$29.17",
+            "C": "$30.02",
+            "D": "$30.94"
+        },
+        "answer": "A"
+    },
+    "37": {
+        "question": "Giant Motorcycles Inc. pays a $0.77 preferred dividend every quarter and will maintain this policy forever. What price should you pay for one share of preferred stock if you want an annual return of 9.25% on your investment?",
+        "options": {
+            "A": "$33.04",
+            "B": "$35.27",
+            "C": "$31.96",
+            "D": "$33.30"
+        },
+        "answer": "D"
+    },
+    "38": {
+        "question": "A corporation is scheduled to produce a line of products for the next ten years and then go out of business. The firm will pay an annual dividend of $1.75 for only those ten years. What is the present value of a share for this company if we want an 8% annual return on the stock?",
+        "options": {
+            "A": "$11.74",
+            "B": "$12.97",
+            "C": "$14.97",
+            "D": "$15.97"
+        },
+        "answer": "A"
+    },
+    "39": {
+        "question": "You buy a stock for which you expect to receive an annual dividend of $2.10 for the ten years that you plan on holding it. After 10 years, you expect to sell the stock for $26.15. What is the present value of a share for this company if you want an 8% return?",
+        "options": {
+            "A": "$7.72",
+            "B": "$15.97",
+            "C": "$26.20",
+            "D": "$31.41"
+        },
+        "answer": "C"
+    },
+    "40": {
+        "question": "__________ means that the percentage increase in the dividend is the same each year.",
+        "options": {
+            "A": "Constant growth",
+            "B": "Inconsistent growth",
+            "C": "No growth",
+            "D": "A constant cash flow"
+        },
+        "answer": "A"
+    },
+    "41": {
+        "question": "Why would we want to assume a constant growth to dividends if we seldom see a firm with this type of pattern?",
+        "options": {
+            "A": "The answer is that we really want to estimate a series of future dividends and can only do this if we have a growth rate.",
+            "B": "The answer is that we do not need to estimate future capital gains and can only do this if we have a growth rate.",
+            "C": "The answer is that we really want to estimate a series of past dividends and can only do this if we have a growth rate.",
+            "D": "The answer is that we really want to estimate the past capital gains and can only do this if we have a growth rate."
+        },
+        "answer": "A"
+    },
+    "42": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "In estimating the current price using the constant growth dividend model, we let g be the growth rate of the dividend stream and r be the rate of return required by the potential buyer of the stock.",
+            "B": "Constant growth means that the percentage increase in the dividend is the same each year.",
+            "C": "Div() refers to the dividends that have just been paid to the current owner of the stock.",
+            "D": "One unlikely dividend pattern is to raise or grow dividends by a fixed amount at fixed intervals."
+        },
+        "answer": "D"
+    },
+    "43": {
+        "question": "Wallboard Inc, plans to pay a dividend in one year (Div1) of $0.80, the dividend growth rate (g) is expected to be 6%, and the required rate of return (r) for the firm's stock is 10%. What is the stock price, according to the constant growth dividend model?",
+        "options": {
+            "A": "$20.80",
+            "B": "$30.80",
+            "C": "$20.00",
+            "D": "$15.00"
+        },
+        "answer": "C"
+    },
+    "44": {
+        "question": "The most recent dividend (Div)) from Wallboard Inc, is $0.80, the dividend growth rate (g) is expected to be 6.25%, and the required rate of return (r) on the firm's stock is 10%. What is the stock price according to the constant growth dividend model?",
+        "options": {
+            "A": "$22.67",
+            "B": "$23.47",
+            "C": "$21.85",
+            "D": "$20.80"
+        },
+        "answer": "A"
+    },
+    "45": {
+        "question": "Bartlett Batteries Inc. just paid an annual dividend of $1.12. If you expect a constant growth rate of 4% and have a required rate of return of 13%, what is the current stock price according to the constant growth dividend model?",
+        "options": {
+            "A": "$12.44",
+            "B": "$12.94",
+            "C": "$13.46",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "46": {
+        "question": "The constant growth dividend model requires that",
+        "options": {
+            "A": "the return rate r is greater than the growth rate g of the dividend stream",
+            "B": "the return rate g is greater than the growth rate r of the dividend stream",
+            "C": "the return rate r is lesser than the growth rate g of the dividend stream",
+            "D": "we set g = 0 if the return rate r is greater than the growth rate g of the dividend stream"
+        },
+        "answer": "A"
+    },
+    "47": {
+        "question": "When estimating the annual growth rate of a dividend stream, we can use a short-cut to determining the average growth rate by",
+        "options": {
+            "A": "using just the first dividend in the stream and the time-value of money equation",
+            "B": "using just the last dividend in the stream and the time-value of money equation",
+            "C": "using the first and last dividend in the stream and the time-value of money equation",
+            "D": "using the first and last dividend in the stream and the future value interest factor"
+        },
+        "answer": "C"
+    },
+    "48": {
+        "question": "You are examining a firm with a stream of past dividends where the initial dividend is $1.32 and the most recent dividend is $1.96. The number of years between these two dividends (n) is 6 years. What is the average annual dividend growth rate during this six-year period? Use a calculator to determine your answer.",
+        "options": {
+            "A": "4.74%",
+            "B": "5.35%",
+            "C": "6.81%",
+            "D": "7.35%"
+        },
+        "answer": "C"
+    },
+    "49": {
+        "question": "For the CloudB&B Company Inc., a stream of past dividends includes an initial dividend is $1.20 and the most recent dividend of $1.80. The number of years between these two dividends (n) is 8 years. What is the average annual growth rate of dividends during this eight-year period? Use a calculator to determine your answer.",
+        "options": {
+            "A": "5.00%",
+            "B": "5.20%",
+            "C": "7.50%",
+            "D": "6.72%"
+        },
+        "answer": "B"
+    },
+    "50": {
+        "question": "AirH&H Inc. just paid a dividend of $1.33. Its stock has a dividend growth rate of 7.6% and a required return of 12.21%. What is the current stock price if we anticipate dividends stopping in 10 years?",
+        "options": {
+            "A": "$18.46",
+            "B": "$21.03",
+            "C": "$11.92",
+            "D": "$10.64"
+        },
+        "answer": "D"
+    },
+    "51": {
+        "question": "Cavalier Custom Design Inc. just paid a dividend of $0.73. Its stock has a dividend growth rate of 5.62% and a required return of 10.21%. What is the current stock price if we anticipate dividends stopping in 20 years?",
+        "options": {
+            "A": "$4.62",
+            "B": "$9.62",
+            "C": "$10.62",
+            "D": "$16.80"
+        },
+        "answer": "B"
+    },
+    "52": {
+        "question": "Rogue Motors Inc. has a 11% required rate of return. The firm does not expect to initiate dividends for 10 years, at which time it will pay $2.00 per share in dividends. At that time, the firm expects its dividends to grow at 6% forever. What is an estimate of the firms' price in 10 years (P10) if its dividend at the end of year 10 is $2.00?",
+        "options": {
+            "A": "$42.40",
+            "B": "$33.40",
+            "C": "$31.20",
+            "D": "$42.80"
+        },
+        "answer": "A"
+    },
+    "53": {
+        "question": "Nash Inc. has an 12% required rate of return. It does not expect to initiate dividends for 15 years, at which time it will pay $3.00 per share in dividends. At that time, Nash expects its dividends to grow at 6% forever. What is an estimate of Nash's price in 15 years (P15) if its dividend at the end of year 15 is $3.00?",
+        "options": {
+            "A": "$33.33",
+            "B": "$55.00",
+            "C": "$57.50",
+            "D": "$53.00"
+        },
+        "answer": "D"
+    },
+    "54": {
+        "question": "If we assume that a company will be in business forever and that it continues to pay dividends during its existence, then we have an annuity dividend stream.",
+        "answer": "F"
+    },
+    "55": {
+        "question": "The dividend stream we would have legal claim to is for only that period of the company's life during which we own the stock or until the company goes out of business and stops paying dividends.",
+        "answer": "T"
+    },
+    "56": {
+        "question": "If we believe that a company is following a constant dividend policy, we can then use the current dividend to predict all future dividends because they are the same.",
+        "answer": "T"
+    },
+    "57": {
+        "question": "In applying the constant dividend model with infinite horizon to price a stock for purchase, we assume the company will pay dividends forever and that we will hold onto our stock forever.",
+        "answer": "T"
+    },
+    "58": {
+        "question": "The value of a financial asset is determined by future cash flows. A problem arises, however, in that future cash flows may be difficult to predict as to __________ of these cash flows.",
+        "options": {
+            "A": "both the timing and the amount",
+            "B": "the timing but not the amount",
+            "C": "the amount but not the timing",
+            "D": "neither the timing nor the amount"
+        },
+        "answer": "A"
+    },
+    "59": {
+        "question": "Which of the statements below is TRUE?",
+        "options": {
+            "A": "A problem with using the dividend growth model is that it appears to underestimate the expected return for all stocks.",
+            "B": "A problem with using the dividend growth model is that it produces a negative expected return whenever a firm cuts dividends.",
+            "C": "A problem with using the dividend growth model is that it produces a positive expected return whenever a firm cuts dividends.",
+            "D": "A problem with using the dividend growth model is that it produces a negative expected return whenever a firm increases its dividends."
+        },
+        "answer": "B"
+    },
+    "60": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The dividend model requires that a firm have a cash dividend history and that the dividend history shows a constant dividend or a positive growth in dividends.",
+            "B": "A problem with using the dividend growth model is that it appears to underestimate the expected return for some stocks.",
+            "C": "A problem with using the dividend growth model is that it produces a negative expected return whenever a firm cuts its dividends.",
+            "D": "A problem with using the dividend growth model is that it appears to underestimate the expected return for all stocks."
+        },
+        "answer": "D"
+    },
+    "61": {
+        "question": "Dividend models suggest that the value of a financial asset is determined by the __________ the owner is entitled to while holding the asset.",
+        "options": {
+            "A": "present cash flows",
+            "B": "past cash flows",
+            "C": "future cash flows",
+            "D": "past and present cash flows"
+        },
+        "answer": "C"
+    },
+    "62": {
+        "question": "The dividend model requires that a firm has a cash dividend history and that the dividend history shows a __________",
+        "options": {
+            "A": "constant dividend or a constant growth in price where constant growth can be either positive or negative",
+            "B": "positive dividend or a negative growth in dividends",
+            "C": "constant dividend or a positive growth in dividends",
+            "D": "constant price or a positive growth in dividends"
+        },
+        "answer": "C"
+    },
+    "63": {
+        "question": "Shortcomings of the dividend pricing models suggest that we need a pricing model that is more inclusive than the dividend models and provides expected returns for companies based on aspects besides their historical dividend patterns. Which of the below is NOT one of these aspects?",
+        "options": {
+            "A": "The company's risk",
+            "B": "The premium for taking on risk",
+            "C": "The reward for waiting",
+            "D": "Stable dividends"
+        },
+        "answer": "D"
+    },
+    "64": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "Shortcomings of the dividend pricing models suggest that we need a pricing model that is more inclusive and that can estimate expected returns for stocks without the need for a stable dividend history.",
+            "B": "A firm's dividend in 2008 was less than its dividend in 2003. This means that the estimated growth rate is negative, and this produces a negative expected return.",
+            "C": "The dividend models (growth or constant dividend) appeal to a fundamental concept of financial assets, that is, the value of the financial asset is determined by the future cash flow the owner is entitled to while holding the asset.",
+            "D": "Lack of a dividend pattern is not a problem for the dividend models to work."
+        },
+        "answer": "D"
+    },
+    "65": {
+        "question": "The dividend models appeal to a fundamental concept of asset pricing\u2014that the value of an asset is determined by the future cash flow to which the owner is entitled while holding the asset, and the required rate of return for the cash flow.",
+        "answer": "T"
+    },
+    "66": {
+        "question": "The dividend growth model has a limitation due to the necessity to have a non-growing dividend pattern in order for it to work.",
+        "answer": "F"
+    },
+    "67": {
+        "question": "An application of the capital asset pricing model, called the security market line, is more inclusive than the dividend growth model for pricing stocks and provides expected returns for companies based on their risk, the premium for taking on risk, and the reward for waiting and not on their historical pattern of dividends.",
+        "answer": "T"
+    },
+    "68": {
+        "question": "Preferred stock __________",
+        "options": {
+            "A": "reflects residual ownership of a company",
+            "B": "represents a preferential claim on dividends",
+            "C": "will be \"paid\" before the bondholders",
+            "D": "always has a legal and specific claim to a fixed amount (listed as a liability)"
+        },
+        "answer": "B"
+    },
+    "69": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "It is common for companies to issue preferred stock with the right to convert to common shares after a specific waiting period.",
+            "B": "Preferred stock does not have a maturity date.",
+            "C": "Preferred stock cannot be converted into common stock.",
+            "D": "Preferred shareholders' dividend claims take precedence over common shareholders' dividend claims."
+        },
+        "answer": "C"
+    },
+    "70": {
+        "question": "The holder of preferred stock is entitled to a constant dividend __________",
+        "options": {
+            "A": "every period",
+            "B": "only when earnings are positive",
+            "C": "only when the stock price increases",
+            "D": "only when earnings are positive and only when the stock price increases"
+        },
+        "answer": "A"
+    },
+    "71": {
+        "question": "Which of the following statements is TRUE?",
+        "options": {
+            "A": "Preferred stock usually has a stated or par value and, like bonds, this par value is not repaid at maturity because preferred stocks do not have a maturity date.",
+            "B": "The par value for preferred stock, unlike bonds, is never paid back.",
+            "C": "A preferred stock's cash dividend due each year is based on the stated dividend rate times the market value of the stock.",
+            "D": "Some preferred stocks are cumulative with respect to dividends, meaning that if a company skips a cash dividend, it must pay it at some point in the future."
+        },
+        "answer": "D"
+    },
+    "72": {
+        "question": "Which of the following statements is FALSE?",
+        "options": {
+            "A": "Preferred stock usually has a stated or par value but unlike bonds, this par value is not repaid at maturity because preferred stocks do not have a maturity date.",
+            "B": "The only time the par value of preferred stock would be paid to the shareholder is if the company ceases operations or retires the preferred stock.",
+            "C": "Skipped preferred dividends become a liability of the company.",
+            "D": "Preferred stock cannot be converted into common stock."
+        },
+        "answer": "D"
+    },
+    "73": {
+        "question": "Peppercorn Inc. has outstanding nonconvertible preferred stock (cumulative) that pays a quarterly dividend of $1.00. If your required rate of return is 8.0%, what should you be willing to pay for 1000 shares of the firm?",
+        "options": {
+            "A": "$50,000.00",
+            "B": "$52,621.58",
+            "C": "$52,611.58",
+            "D": "$52,601.58"
+        },
+        "answer": "A"
+    },
+    "74": {
+        "question": "Allison Corp. has just issued nonconvertible preferred stock (cumulative) with a par value of $20 and an annual dividend rate of 4.25%. The preferred stock is currently selling for $18.75 per share. What is the annual yield or return (r) on this preferred stock?",
+        "options": {
+            "A": "4.11%",
+            "B": "4.87%",
+            "C": "4.26%",
+            "D": "4.53%"
+        },
+        "answer": "D"
+    },
+    "75": {
+        "question": "Buxton Corp. has outstanding borrowings. One of these borrowings is nonconvertible preferred stock (cumulative) with a par value of $85 and an annual dividend rate of 6.20%. This preferred stock is currently selling for $56.50 per share. What is the yield or return (r) on this preferred stock?",
+        "options": {
+            "A": "9.89%",
+            "B": "9.56%",
+            "C": "9.32%",
+            "D": "9.22%"
+        },
+        "answer": "C"
+    },
+    "76": {
+        "question": "The term \"preferred\" comes from the fact that preferred shareholders receive all past (if cumulative) and present dividends before common shareholders can receive any cash dividends in other words, their dividend claims are preferred over common stock dividend claims.",
+        "answer": "T"
+    },
+    "77": {
+        "question": "The term \"preferred\" comes from the fact that preferred shareholders receive, on average, a higher rate of return than common shareholders even though they have less risk.",
+        "answer": "F"
+    },
+    "78": {
+        "question": "In valuing preferred stock, we can use either the constant dividend model or the growth model with a positive growth rate.",
+        "answer": "F"
+    },
+    "79": {
+        "question": "Strong-form efficient markets theory proclaims that __________",
+        "options": {
+            "A": "one can chart historical stock prices to predict future stock prices such that you can identify mispriced stocks and routinely outperform the market",
+            "B": "one can exploit publicly available news or financial statement information to routinely outperform the market",
+            "C": "current prices reflect the price and volume history of the stock, all publicly available information, and all private information",
+            "D": "current prices reflect the price and volume history of the stock, all publicly available information, but no private information"
+        },
+        "answer": "C"
+    },
+    "80": {
+        "question": "__________ has to do with the speed and accuracy of processing a buy or sell order at the best available price.",
+        "options": {
+            "A": "Market efficiency",
+            "B": "Mechanical efficiency",
+            "C": "Informational efficiency",
+            "D": "Operational efficiency"
+        },
+        "answer": "D"
+    },
+    "81": {
+        "question": "__________ refers to how quickly information is reflected in the available prices for trading.",
+        "options": {
+            "A": "Market efficiency",
+            "B": "Mechanical efficiency",
+            "C": "Informational efficiency",
+            "D": "Operational efficiency"
+        },
+        "answer": "C"
+    },
+    "82": {
+        "question": "In __________ current prices reflect the price history and trading volume of the stock. It is of no use to chart historical stock prices to predict future stock prices such that you can identify mispriced stocks and routinely outperform the market.",
+        "options": {
+            "A": "weak-form efficient markets",
+            "B": "strong-form efficient markets",
+            "C": "semi-strong-form efficient markets",
+            "D": "operational efficient markets"
+        },
+        "answer": "A"
+    },
+    "83": {
+        "question": "In __________, current prices already reflect the price history and volume of the stock as well as all available public information.",
+        "options": {
+            "A": "weak-form efficient markets",
+            "B": "strong-form efficient markets",
+            "C": "semi-strong-form efficient markets",
+            "D": "operationally efficient markets"
+        },
+        "answer": "C"
+    },
+    "84": {
+        "question": "The __________ are quite dynamic in terms of processing trades and incorporating information in prices and thus are considered very efficient markets.",
+        "options": {
+            "A": "domestic bond markets",
+            "B": "equity markets",
+            "C": "fixed income markets",
+            "D": "foreign bond markets"
+        },
+        "answer": "B"
+    },
+    "85": {
+        "question": "Most academic research supports markets as __________ efficient.",
+        "options": {
+            "A": "weak-form",
+            "B": "semi-strong-form",
+            "C": "strong-form",
+            "D": "not at all"
+        },
+        "answer": "B"
+    },
+    "86": {
+        "question": "The NYSE uses a designated-order turnaround computer system (SuperDOT) that matches buyers and sellers so that trades can be executed within seconds, with buyers and sellers getting the best available price.",
+        "answer": "T"
+    },
+    "87": {
+        "question": "Most academic research supports markets as semi-strong efficient.",
+        "answer": "T"
+    },
+    "88": {
+        "question": "Informational efficiency has to do with the speed and accuracy of processing a buy or sell order at the best available price.",
+        "answer": "F"
+    },
+    "89": {
+        "question": "In weak-form efficient markets, current prices already reflect the price history and volume of the stock, as well as all available public information.",
+        "answer": "F"
+    }
+}

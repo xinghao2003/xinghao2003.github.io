@@ -1,0 +1,912 @@
+{
+    "1": {
+        "question": "Your employer has agreed to place year-end deposits of $1,000, $2,000 and $3,000 into your retirement account. The $1,000 deposit will be one year from today, the $2,000 deposit two years from today, and the $3,000 deposit three years from today. If your account earns 5% per year, how much money will you have in the account at the end of year three when the last deposit is made?",
+        "options": {
+            "A": "$5,357.95",
+            "B": "$6,000",
+            "C": "$6,202.50",
+            "D": "$6,727.88"
+        },
+        "answer": "C"
+    },
+    "2": {
+        "question": "Your company just sold a product with the following payment plan: $40,000 today, $35,000 next year, and $30,000 the following year. If your firm places the payments into an account earning 6% per year, how much money will be in the account after collecting the last payment?",
+        "options": {
+            "A": "$118,767",
+            "B": "$112,044",
+            "C": "$94,074",
+            "D": "$85,000"
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "Given the following cash flows, what is the future value at year six when compounded at an annual interest rate of 8.0%? \n\n|Year|0|2|4|6|\n|---|---|---|---|---|\n|Cash Flow|$9,000|$7,000|$5,000|$11,000|",
+        "options": {
+            "A": "$38,955.39",
+            "B": "$40,637.29",
+            "C": "$42,074.42",
+            "D": "$50,779.98"
+        },
+        "answer": "B"
+    },
+    "4": {
+        "question": "Given the following cash flows, what is the future value at year ten when compounded at an interest rate of 4.0%?\n\n|Year|7|8|9|10|\n|---|---|---|---|---|\n|Cash Flow|$4,000|$3,000|$2,000|$1,000|",
+        "options": {
+            "A": "$30,000.00",
+            "B": "$25,267.31",
+            "C": "$16,864.17",
+            "D": "$10,824.26"
+        },
+        "answer": "D"
+    },
+    "5": {
+        "question": "The future value of a combination of positive and negative cash flows cannot be determined.",
+        "answer": "F"
+    },
+    "6": {
+        "question": "When solving for the future value of a stream of unequal cash flows, it is important to add together the values BEFORE applying the future value formula to determine their future value.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "When solving for future value, we use the term compounding of cash flows rather than the term discounting of cash flows.",
+        "answer": "T"
+    },
+    "8": {
+        "question": "Your department at work places $8,000 every year-end into an account earning 5%. The money is used when the corporate office fails to fully finance your profitable projects. The money has not been touched since the first deposit was made exactly six years ago. If the most recent deposit was made today, how much money is currently in the account?",
+        "options": {
+            "A": "$55,256.31",
+            "B": "$60,000.00",
+            "C": "$65,136.07",
+            "D": "$68,019.13"
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "If for the next 35 years you place $4,000 in equal annual year-end-deposits into an account earning 8% per year, how much money will be in the account at the end of that time period?",
+        "options": {
+            "A": "$689,267.21",
+            "B": "$777,169.56",
+            "C": "$839,343.12",
+            "D": "$2,606,942.58"
+        },
+        "answer": "A"
+    },
+    "10": {
+        "question": "You are saving money for a down payment on a new house. You intend to place $7,500 at the end of each year for three years into an account earning 5% per year. At the end of the fourth year, you will place $10,000 into this account. How much money will be in the account at the end of the fourth year?",
+        "options": {
+            "A": "$26,873.08",
+            "B": "$34,825.94",
+            "C": "$37,918.00",
+            "D": "$39,000.00"
+        },
+        "answer": "B"
+    },
+    "11": {
+        "question": "You just won a lottery\u2014CONGRATULATIONS! Your parents have always told you to plan for the future, so since you already have a well-paying job you decide to invest rather than spend your lottery winnings. The payment schedule from the lottery commission is $100,000 after taxes at the end of year one and 19 more payments of exactly $100,000 after taxes in equal annual end-of-the-year deposits (i.e., 20 deposits of $100,000 each, the first deposit is one year from today) into your account paying 8.5% compounded annually. How much money will be in your account after the last deposit is made?",
+        "options": {
+            "A": "$2,000,000.00",
+            "B": "$3,637,896.48",
+            "C": "$4,099,549.23",
+            "D": "$4,837,701.32"
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "A/An ___________ is a series of equal end-of-the-period cash flows.",
+        "options": {
+            "A": "ordinary annuity",
+            "B": "annuity due",
+            "C": "perpetuity due",
+            "D": "None of the above"
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "Which of the following is NOT an example of annuity cash flows?",
+        "options": {
+            "A": "Regular equal monthly rent payments",
+            "B": "Equal annual deposits into a retirement account",
+            "C": "The $50 of gasoline you put into your car every two weeks on pay day",
+            "D": "All of the examples above are annuity cash flows."
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "Which of the following is NOT an example of annuity cash flows?",
+        "options": {
+            "A": "The university tuition bill you pay every month that is always the same",
+            "B": "The grocery bill that changes every week",
+            "C": "The $3.50 you pay every morning for a bagel and coffee as you run to your first morning class",
+            "D": "All of the examples above are annuity cash flows."
+        },
+        "answer": "B"
+    },
+    "15": {
+        "question": "Which of the following is NOT an example of ordinary annuity cash flows?",
+        "options": {
+            "A": "Insurance payments due at the start of the period",
+            "B": "Car loans due at the end of the period",
+            "C": "Mortgage payments due at the end of the period",
+            "D": "All of the examples above are ordinary annuity cash flows."
+        },
+        "answer": "A"
+    },
+    "16": {
+        "question": "Johnson has an annuity due that pays $600 per year for 15 years. (Note: There are 15 annual cash flows with the first cash flow occurring today.) What is the value of the cash flows 14 years from today (immediately after the last deposit is made) if they are placed in an account that earns 7.50%?",
+        "options": {
+            "A": "$9,000.00",
+            "B": "$9,675.00",
+            "C": "$15,671.02",
+            "D": "$16,846.35"
+        },
+        "answer": "C"
+    },
+    "17": {
+        "question": "On your first through fifth birthdays your parents placed $2,000 into your college fund (five total deposits of $2,000 each). The account has earned an average of 8.5% per year until today, your twenty-first birthday. How much money is in the account today?",
+        "options": {
+            "A": "$11,733.20",
+            "B": "$37,219.70",
+            "C": "$43,714.09",
+            "D": "$42,383.41"
+        },
+        "answer": "C"
+    },
+    "18": {
+        "question": "Which of the following choices will result in a greater future value at age 65? Choice number 1 is to invest $3,000 per year from ages 20 through 26 (a total of seven investments) into an account and then leave it untouched until you are 65 (another 39 years). Choice number 2 is to begin at age 27 and make $3,000 deposits into an investment account every year until you are 65 years old (a total of 39 investments). Each account earns an average of 10% per year. (The investments are end-of-year payments.)",
+        "options": {
+            "A": "Choice 1 is better than choice 2 because it has a FV of $1,304,146.89, which is greater than choice 2 FV of $1,204,343.33.",
+            "B": "Choice 2 is better than choice 1 because it has a FV of $1,304,146.89, which is greater than choice 1 FV of $1,204,343.33.",
+            "C": "Choice 2 is better than choice 1 because it has a FV of $1,204,343.33, which is greater than choice 1 FV of $1,171,042.63.",
+            "D": "Choice 1 is better than choice 2 because it has a FV of $1,288,146.89, which is greater than choice 2 FV of $1,204,343.33."
+        },
+        "answer": "C"
+    },
+    "19": {
+        "question": "What is the future value in year four of an ordinary annuity cash flow of $6,000 per year at an interest rate of 12.00% per year?",
+        "options": {
+            "A": "$90,154.83",
+            "B": "$93,761.02",
+            "C": "$28,675.97",
+            "D": "$32,117.08"
+        },
+        "answer": "C"
+    },
+    "20": {
+        "question": "What is the future value in year thirty-five of an ordinary annuity cash flow of $4,000 per year at an interest rate of 11.0% per year?",
+        "options": {
+            "A": "$1,366,358.22",
+            "B": "$555,000.32",
+            "C": "$196,694.12",
+            "D": "$140,000.00"
+        },
+        "answer": "A"
+    },
+    "21": {
+        "question": "Even with an interest rate of 0.0%, the future value of a 5-year $800 annual annuity will be greater than the present value of the same annuity.",
+        "answer": "F"
+    },
+    "22": {
+        "question": "Given positive equal annual cash flows and a positive interest rate, the future value of an annuity will be greater than the sum of the cash flows.",
+        "answer": "T"
+    },
+    "23": {
+        "question": "Given positive equal annual cash flows and a positive interest rate, the present value of an annuity will be greater than the sum of the cash flows.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "A trend among universities is to guarantee tuition to incoming freshmen for a four-year period. Further, the annual amount due is collected in equal payments collected every three months. Although the payments are equal as well as equally spaced, this is NOT an example of an annuity because the payments are made every three months rather than on a monthly or annual basis.",
+        "answer": "F"
+    },
+    "25": {
+        "question": "The formula for the Future Value Interest Factor of an Annuity (FVIFA) is (1+r)n-1",
+        "answer": "T"
+    },
+    "26": {
+        "question": "The furniture store offers you no-money-down on a new set of living room furniture. Further, you may pay for the furniture in three equal annual end-of-the-year payments of $750 each with the first payment to be made one year from today. If the discount rate is 5%, what is the present value of the furniture payments?",
+        "options": {
+            "A": "$2,042.44",
+            "B": "$2,214.27",
+            "C": "$2,333.39",
+            "D": "$2,673.01"
+        },
+        "answer": "A"
+    },
+    "27": {
+        "question": "You have an annuity of equal annual end-of-the-year cash flows of $500 that begin three years from today and last for a total of ten cash flows. Using a discount rate of 4%, what are those cash flows worth in today's dollars?",
+        "options": {
+            "A": "$3,899.47",
+            "B": "$4,055.45",
+            "C": "$3,749.49",
+            "D": "$3,957.61"
+        },
+        "answer": "C"
+    },
+    "28": {
+        "question": "What is the present value of a stream of annual end-of-the-year annuity cash flows if the discount rate is 0%, and the cash flows of $50 last for 25 years?",
+        "options": {
+            "A": "Less than $1,000",
+            "B": "Exactly $1,250",
+            "C": "Exactly $1,000",
+            "D": "This question cannot be answered because we have an interest rate of 0.0%."
+        },
+        "answer": "B"
+    },
+    "29": {
+        "question": "Which is greater, the present value of a five-year ordinary annuity of $300 discounted at 10%, or the present value of a five-year ordinary annuity of $300 discounted at 0% that has its first cash flow six years from today?",
+        "options": {
+            "A": "The first annuity because the cash flows occur sooner.",
+            "B": "The second annuity because the cash flows are discounted at a 0% interest rate.",
+            "C": "The two annuities are of equal value.",
+            "D": "The answer to this question cannot be determined."
+        },
+        "answer": "B"
+    },
+    "30": {
+        "question": "Which of the following is greater (answers rounded to the nearest cent)?",
+        "options": {
+            "A": "An ordinary annuity of $100.00 per year for three years discounted at 10% per year",
+            "B": "A present value of $248.69",
+            "C": "A future value of $331.00 three years from today, given an interest rate of 10% per year",
+            "D": "You would be indifferent to the three choices since they all have the same present value when using an interest rate of 10% per year."
+        },
+        "answer": "D"
+    },
+    "31": {
+        "question": "You have the opportunity to purchase mineral rights to a property in Wyoming with expected annual cash flows of $8,000 per year for ten years. If you discount these cash flows at a rate of 12% per year, what are these cash flows worth today if the cash flows occur at the end of each period?",
+        "options": {
+            "A": "$45,201.78",
+            "B": "$49,676.40",
+            "C": "$80,000.00",
+            "D": "$122,996.93"
+        },
+        "answer": "A"
+    },
+    "32": {
+        "question": "Five years ago, you paid for the right to receive twelve $25,000 annual end-of-the-year cash flows. If discounting the cash flows at an annual rate of 8%, what did you pay for these cash flows back then?",
+        "options": {
+            "A": "$474,428.16",
+            "B": "$300,000.00",
+            "C": "$128,223.20",
+            "D": "$188,401.95"
+        },
+        "answer": "D"
+    },
+    "33": {
+        "question": "You estimate that the drive-through coffee kiosk you own will generate ordinary annuity after- tax cash flows of $120,000 per year for the next ten years. If you discount these cash flows at an annual rate of 11%, what is the present value of your expected cash flows?",
+        "options": {
+            "A": "$706,707.84",
+            "B": "$782,417.35",
+            "C": "$1,200,000.00",
+            "D": "$2,900,594.27"
+        },
+        "answer": "A"
+    },
+    "34": {
+        "question": "You are paid to teach graduate-level classes for the university and want to determine how much money the university makes from your graduate-level classes. Based on historical data, you estimate that your graduate classes for the next six years will generate an average annual revenue of $99,850. If you discount these cash flows at an annual rate of 7.30%, what is the present value of the expected cash flows?",
+        "options": {
+            "A": "$895,133.52",
+            "B": "$483,644.36",
+            "C": "$471,562.95",
+            "D": "$423,786.85"
+        },
+        "answer": "C"
+    },
+    "35": {
+        "question": "You are presented with two cash flow options: Option Near, a $5,000 annuity for three years, with the first cash flow one year from today, or Option Far, a $5,000 annuity for six years with the first cash flow ten years from today. Assuming an interest rate of 7.0%, which set of cash flows has a greater present value?",
+        "options": {
+            "A": "Option Near has a greater PV of $13,121.58 vs. Option Far PV of $12,963.41.",
+            "B": "Option Far has a greater PV of $13,121.58 vs. Option Near PV of $12,963.41.",
+            "C": "Option Far has a greater PV of $30,000 vs. Option Near PV of $15,000.",
+            "D": "Option Near and Option Far have the same PV of $12,963.41."
+        },
+        "answer": "A"
+    },
+    "36": {
+        "question": "What is the present value today of an ordinary annuity cash flow of $4,000 per year for thirty years at an interest rate of 6.0% per year?",
+        "options": {
+            "A": "$120,000.00",
+            "B": "$55,059.32",
+            "C": "$45,139.89",
+            "D": "$32,270.87"
+        },
+        "answer": "B"
+    },
+    "37": {
+        "question": "What is the present value today of an ordinary annuity cash flow of $4,000 per year for thirty years at an interest rate of 6.0% per year if the first cash flow is six years from today?",
+        "options": {
+            "A": "$120,000.00",
+            "B": "$55,059.32",
+            "C": "$45,138.89",
+            "D": "$41,143.53"
+        },
+        "answer": "D"
+    },
+    "38": {
+        "question": "The formula for the Present Value Interest Factor of an Annuity (PVIFA) is (1+r)n - 1",
+        "answer": "F"
+    },
+    "39": {
+        "question": "Given positive equal annual cash flows and a positive interest rate, the present value of an annuity will be greater than the sum of the cash flows.",
+        "answer": "F"
+    },
+    "40": {
+        "question": "When solving for present value, we use the term compounding of cash flows rather than the term discounting of cash flows.",
+        "answer": "F"
+    },
+    "41": {
+        "question": "A series of equal periodic finite cash flows that occur at the beginning of the period are known as a/an",
+        "options": {
+            "A": "ordinary annuity",
+            "B": "annuity due",
+            "C": "perpetuity",
+            "D": "amortization"
+        },
+        "answer": "B"
+    },
+    "42": {
+        "question": "The present value of a $100 three-year annuity due (first cash flow occurs today) discounted at a rate of 10% is equal to ___________.",
+        "options": {
+            "A": "$248.69",
+            "B": "$273.55",
+            "C": "$135.17",
+            "D": "$300.00"
+        },
+        "answer": "B"
+    },
+    "43": {
+        "question": "Plimpton has an annuity due that pays $800 per year for 11 years. What is the present value of the cash flows if they are discounted at an annual rate of 7.50%?",
+        "options": {
+            "A": "$5,296.27",
+            "B": "$5,693.49",
+            "C": "$6,291.26",
+            "D": "$8,800.00"
+        },
+        "answer": "C"
+    },
+    "44": {
+        "question": "A never-ending stream of equal periodic, end-of-the-period cash flows is called a/an",
+        "options": {
+            "A": "annuity",
+            "B": "annuity due",
+            "C": "perpetuity",
+            "D": "amortization"
+        },
+        "answer": "C"
+    },
+    "45": {
+        "question": "You dream of endowing a chair in finance at the local university that will provide a salary of $250,000 per year forever, with the first cash flow to be one year from today. If the university promises to invest the money at a rate of 4% per year, how much money must you give the university today to make your dream a reality?",
+        "options": {
+            "A": "$3,000,000",
+            "B": "$6,250,000",
+            "C": "$8,857,143",
+            "D": "This question cannot be answered."
+        },
+        "answer": "B"
+    },
+    "46": {
+        "question": "Your neighbor owns a perpetuity of $100 per year that has a discount rate of 6% per year. He offers to sell to you all but the next 20 cash flows (the first to be received one year from today) for $500. In other words, he keeps the first 20 cash flows of his perpetuity and you get all of the rest. Is this a good price for you if the appropriate discount rate is 6%?",
+        "options": {
+            "A": "No, because the entire perpetuity is worth only $1,666.67 and your neighbor is taking the best cash flows worth more than $1,200 in present value terms",
+            "B": "Yes, because the present value of the remaining cash flows is $519.68 and you are buying them for only $500.",
+            "C": "No, because the cash flows you receive are only worth $482.16 and that is less than the $500 your neighbor is asking for the cash flows.",
+            "D": "This question cannot be answered."
+        },
+        "answer": "B"
+    },
+    "47": {
+        "question": "Which of the following is NOT a form of perpetuity?",
+        "options": {
+            "A": "A British consol bond",
+            "B": "Preferred stock that pays the same dividend forever",
+            "C": "A philanthropic endowment fund that pays the same charitable amount every year forever",
+            "D": "All are examples of perpetuities."
+        },
+        "answer": "D"
+    },
+    "48": {
+        "question": "You have just won the Publisher's Clearinghouse lottery of $50,000 per year for twenty years, with the first payment today followed by nineteen more start-of-the-year cash flows. At an interest rate of 4%, what is the present value of your winnings?",
+        "options": {
+            "A": "$1,000,000.00",
+            "B": "$706,696.97",
+            "C": "$650,426.60",
+            "D": "$470,641.18"
+        },
+        "answer": "B"
+    },
+    "49": {
+        "question": "You have just turned 27 and may now spend a portion of the trust fund your parents established for you. The terms of the trust fund allow you to withdraw 50 beginning-of-the-year cash flows of $40,000 each. An investment firm has offered to pay you cash for all of the fund today. If the rate they use to discount the cash flows is 14% per year, what is their offer price today for your pension fund?",
+        "options": {
+            "A": "$2,605,750,853",
+            "B": "$2000,000.00",
+            "C": "$624,915.20",
+            "D": "$325,249.13"
+        },
+        "answer": "D"
+    },
+    "50": {
+        "question": "You have accumulated $1,200,000 for your retirement. How much money can you withdraw in equal annual beginning-of-the-year cash flows if you invest the money at a rate of 5% for thirty years?",
+        "options": {
+            "A": "$74,344.50",
+            "B": "$60,251.52",
+            "C": "$58,469.12",
+            "D": "$39,061.96"
+        },
+        "answer": "A"
+    },
+    "51": {
+        "question": "What is the present value of a lottery paid as an annuity due for twenty years if the cash flows are $150,000 per year and the appropriate discount rate is 7.50%?",
+        "options": {
+            "A": "$5,000,000.00",
+            "B": "$3,186,045.39",
+            "C": "$2,739,769.55",
+            "D": "$1,643,861.73"
+        },
+        "answer": "D"
+    },
+    "52": {
+        "question": "A wealthy man just died and left his pet dogs the following estate: $20,000 per year for the next 11 years with the first cash flow today. At a discount rate of 4.2%, what is the doggy estate worth in today's dollars?",
+        "options": {
+            "A": "$98,352.84",
+            "B": "$180,614.80",
+            "C": "$220,000.00",
+            "D": "$607,180.14"
+        },
+        "answer": "B"
+    },
+    "53": {
+        "question": "The future value three years from today of a $200 three-year annuity due compounded at a rate of 10% is equal to _________.",
+        "options": {
+            "A": "$600.00",
+            "B": "$662.00",
+            "C": "$728.20",
+            "D": "$266.20"
+        },
+        "answer": "C"
+    },
+    "54": {
+        "question": "Severson has an annuity due that pays $400 per year for 20 years. What is the value of the cash flows 20 years from today if they are placed in an account that earns 7.50%? Note: You are asked to find the FV one year after the last cash flow is realized.",
+        "options": {
+            "A": "$9,000.00",
+            "B": "$9,675.00",
+            "C": "$16,846.35",
+            "D": "$18,621.01"
+        },
+        "answer": "D"
+    },
+    "55": {
+        "question": "Johnson has an annuity due that pays $600 per year for 15 years. (Note: There are 15 annual cash flows with the first cash flow occurring today.) What is the value of the cash flows 14 years from today (immediately after the last deposit is made) if they are placed in an account that earns 7.50%?",
+        "options": {
+            "A": "$9,000.00",
+            "B": "$9,675.00",
+            "C": "$15,671.02",
+            "D": "$16,846.35"
+        },
+        "answer": "C"
+    },
+    "56": {
+        "question": "Which is greater, the present value of a $1,000 five-year ordinary annuity discounted at 10%, or the present value of a $1,000 five-year annuity due discounted at 10%?",
+        "options": {
+            "A": "The ordinary annuity is worth more with a present value of $3,790.79.",
+            "B": "The annuity due is worth more with a present value of $4,169.87.",
+            "C": "The ordinary annuity is worth more with a present value of $4,169.87.",
+            "D": "The annuity due is worth more with a present value of $4,586.85."
+        },
+        "answer": "B"
+    },
+    "57": {
+        "question": "Ordinary annuity payments occur at the beginning of the period, whereas annuity due payments occur at the end of the period.",
+        "answer": "F"
+    },
+    "58": {
+        "question": "Given a positive interest rate and a positive cash flow, an ordinary annuity always has a greater present value than an annuity due of the same size and number of cash flows.",
+        "answer": "F"
+    },
+    "59": {
+        "question": "Given a positive interest rate and a positive cash flow, an annuity due always has a greater present value than an ordinary annuity of the same size and number of cash flows.",
+        "answer": "T"
+    },
+    "60": {
+        "question": "A British consol bond can be considered a type of perpetuity.",
+        "answer": "T"
+    },
+    "61": {
+        "question": "When you pay off the principal and all of the interest at one time at the maturity date of the loan, we call this type of loan a/an ___________",
+        "options": {
+            "A": "amortized loan",
+            "B": "interest-only loan",
+            "C": "discount loan",
+            "D": "compound loan"
+        },
+        "answer": "C"
+    },
+    "62": {
+        "question": "What type of loan makes interest payments throughout the life of the loan and then pays the principal and final interest payment at the maturity date?",
+        "options": {
+            "A": "Amortized loan",
+            "B": "Interest-only loan",
+            "C": "Discount loan",
+            "D": "Compound loan"
+        },
+        "answer": "B"
+    },
+    "63": {
+        "question": "What type of loan requires both principal and interest payments as you go by making equal payments each period?",
+        "options": {
+            "A": "Amortized loan",
+            "B": "Interest-only loan",
+            "C": "Discount loan",
+            "D": "Compound loan"
+        },
+        "answer": "A"
+    },
+    "64": {
+        "question": "If you borrow $100,000 at an annual rate of 8.00% for a 10-year period and repay the total amount of principal and interest due of $215,892.50 at the end of 10 years, what type of loan did you have?",
+        "options": {
+            "A": "Amortized loan",
+            "B": "Interest-only loan",
+            "C": "Discount loan",
+            "D": "Compound loan"
+        },
+        "answer": "C"
+    },
+    "65": {
+        "question": "If you borrow $100,000 at an annual rate of 8.00% for a 10-year period and repay the interest of $8,000 at the end of each year prior to maturity and the final payment of $108,000 at the end of 10 years, then you have just repaid what type of loan?",
+        "options": {
+            "A": "Amortized loan",
+            "B": "Interest-only loan",
+            "C": "Discount loan",
+            "D": "Compound loan"
+        },
+        "answer": "B"
+    },
+    "66": {
+        "question": "If you borrow $100,000 at an annual rate of 8.00% for a 10-year period and repay with 10 equal annual end-of-the-year payments of $14,902.95, then you have just repaid what type of loan?",
+        "options": {
+            "A": "Amortized loan",
+            "B": "Interest-only loan",
+            "C": "Discount loan",
+            "D": "Compound loan"
+        },
+        "answer": "A"
+    },
+    "67": {
+        "question": "If you borrow $40,000 at an annual interest rate of 11% for seven years, what is the annual payment (prior to maturity) on an interest-only type of loan?",
+        "options": {
+            "A": "$4,400.00",
+            "B": "$6,000.00",
+            "C": "$8,333.33",
+            "D": "$12,161.29"
+        },
+        "answer": "A"
+    },
+    "68": {
+        "question": "If you borrow $40,000 at an annual interest rate of 11% for seven years, what is the annual payment (prior to maturity) on a discount loan?",
+        "options": {
+            "A": "$0.00",
+            "B": "$6,000.00",
+            "C": "$8,333.33",
+            "D": "$12,161.29"
+        },
+        "answer": "A"
+    },
+    "69": {
+        "question": "If you borrow $40,000 at an annual interest rate of 11% for seven years, what is the annual payment (prior to maturity) on a fully amortized loan?",
+        "options": {
+            "A": "$0.00",
+            "B": "$3,000.00",
+            "C": "$8,333.33",
+            "D": "$8,488.61"
+        },
+        "answer": "D"
+    },
+    "70": {
+        "question": "You sign a contract to pay back all of the interest and principal of a loan at the maturity date. This is an example of an interest-only loan.",
+        "answer": "F"
+    },
+    "71": {
+        "question": "You sign a contract to pay back all of the interest and principal of a loan at the maturity date. This is an example of a discount loan.",
+        "answer": "T"
+    },
+    "72": {
+        "question": "Home mortgage loans are commonly paid off by making equal monthly payments consisting of both interest and principal. This is an example of an amortized loan.",
+        "answer": "T"
+    },
+    "73": {
+        "question": "Which of the following is NOT true with regard to an amortization table?",
+        "options": {
+            "A": "The interest payment for a period is equal to the periodic interest rate multiplied by the beginning-of-the-period principal balance.",
+            "B": "The remaining principal balance at the end of a payment period is equal to the beginning-of-the-period principal less the total payment.",
+            "C": "The total payment is calculated by using the present value of an annuity formula.",
+            "D": "All of the above are true."
+        },
+        "answer": "B"
+    },
+    "74": {
+        "question": "Assume a five-year equal payment amortization schedule with an annual interest rate of 7% and annual payments. If the beginning principal is $8,000, then the first interest payment will be how large?",
+        "options": {
+            "A": "$560.00",
+            "B": "$960.00",
+            "C": "$1,219.28",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "A"
+    },
+    "75": {
+        "question": "Which of the following is NOT true regarding the total payment in an equal payment amortization table?",
+        "options": {
+            "A": "The total payment for any period is equal to the principal plus interest payments for that same period.",
+            "B": "The total payment is calculated using the present value of an annuity formula rearranged to solve for the payment.",
+            "C": "The final total payment will be greater than the beginning principal for the final period, assuming a positive interest rate.",
+            "D": "All of the above are true."
+        },
+        "answer": "D"
+    },
+    "76": {
+        "question": "Amortization tables are common and can be used for all but which of the following?",
+        "options": {
+            "A": "Car loans",
+            "B": "Mortgage loans",
+            "C": "Consumer product loans",
+            "D": "Amortization tables may be used for all of the above."
+        },
+        "answer": "D"
+    },
+    "77": {
+        "question": "Amortization tables are useful for each of the following reasons EXCEPT ___________",
+        "options": {
+            "A": "determining the principal balance due if the loan is being paid off early",
+            "B": "determining how much of a total payment is interest and how much is principal for tax purposes",
+            "C": "determining the regular periodic total payment",
+            "D": "All of these are useful purposes of an amortization table."
+        },
+        "answer": "D"
+    },
+    "78": {
+        "question": "Your firm intends to finance the purchase of a new construction crane. The cost is $2,500,000. What is the size of the annual ordinary annuity payment if the loan is amortized over a ten-year period at a rate of 7.50%?",
+        "options": {
+            "A": "$228,611.56",
+            "B": "$364,214.82",
+            "C": "$3,391,475.16",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "B"
+    },
+    "79": {
+        "question": "Your firm intends to finance the purchase of a new construction crane. The cost is $2,500,000. What is the size of the first payment if the crane is financed with an interest-only loan at an annual rate of 7.50%?",
+        "options": {
+            "A": "$187,500.00",
+            "B": "$127,500.00",
+            "C": "$3,391,475.16",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "A"
+    },
+    "80": {
+        "question": "Your firm intends to finance the purchase of a new construction crane. The cost is $2,500,000. How large is the payment at the end of year ten if the crane is financed at a rate of 7.50% as a discount loan?",
+        "options": {
+            "A": "$5,152,578.91",
+            "B": "$4,158,364.87",
+            "C": "$3,391,475.16",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "A"
+    },
+    "81": {
+        "question": "You have a choice among three types of loan and wish to pay the LEAST total cash flows. An amortized loan will result in fewer dollars paid out than a discount or an interest-only loan for the same amount, positive interest rate, and time period.",
+        "answer": "T"
+    },
+    "82": {
+        "question": "The first interest payment on a 5-year, 8%, $100,000, fully-amortized loan with annual payments will be less than the last interest payment.",
+        "answer": "F"
+    },
+    "83": {
+        "question": "The last interest payment on a 12-year, 6%, $138,000, fully-amortized loan with annual payments will be less than the first interest payment.",
+        "answer": "T"
+    },
+    "84": {
+        "question": "Once you begin making payments on an amortization schedule for a loan such as a mortgage or car loan, most contracts clearly state that you may NOT pay off the loan early.",
+        "answer": "F"
+    },
+    "85": {
+        "question": "William wishes to save enough money to purchase a retirement lake cabin. He is willing to spend $200,000 for the cabin and he can save $20,000 per year and invest the money into an account earning 7.00% per year. If his investments come in the form of equal annual end-of-the-year cash flows and the first cash flow is in exactly one year, how long will it take him to save enough money to buy the lake cabin?",
+        "options": {
+            "A": "Between 7 and 8 years",
+            "B": "Between 9 and 10 years",
+            "C": "Between 10 and 11 years",
+            "D": "Exactly 10 years"
+        },
+        "answer": "A"
+    },
+    "86": {
+        "question": "Marie has a $1,200,000 investment portfolio and she wishes to spend $87,500 per year as an ordinary annuity. If the investment account earns 5% annually, how long will her portfolio last? Use a calculator to determine your answer.",
+        "options": {
+            "A": "11.43 years",
+            "B": "14.17 years",
+            "C": "19.86 years",
+            "D": "23.72 years"
+        },
+        "answer": "D"
+    },
+    "87": {
+        "question": "Your parents have an investment portfolio of $450,000, and they wish to take out cash flows of $60,000 per year as an ordinary annuity. How long will their portfolio last if the portfolio is invested at an annual rate of 4.50%? Use a calculator to determine your answer.",
+        "options": {
+            "A": "8.00 years",
+            "B": "9.10 years",
+            "C": "9.35 years",
+            "D": "10.14 years"
+        },
+        "answer": "C"
+    },
+    "88": {
+        "question": "You have saved $44,000 for college and wish to use $12,000 per year. If you use the money as an ordinary annuity and earn 5.15% on your investment, how many years will your annuity last? Use a calculator to determine your answer.",
+        "options": {
+            "A": "4.27 years",
+            "B": "4.17 years",
+            "C": "3.59 years",
+            "D": "3.36 years"
+        },
+        "answer": "B"
+    },
+    "89": {
+        "question": "You need to repay a loan with a future value of $304,071.00 in 17.5 years. If you can make annual year-end deposits of $12,000 into an account, what annual rate of return would you require to earn enough money to pay the loan in full at the due date?",
+        "options": {
+            "A": "7.92%",
+            "B": "8.73%",
+            "C": "4.39%",
+            "D": "4.30%"
+        },
+        "answer": "D"
+    },
+    "90": {
+        "question": "You currently have $67,000 in an interest-earning account. From this account, you wish to make 10 year-end payments of $8,500 each. What annual rate of return must you make on this account to meet your objective?",
+        "options": {
+            "A": "4.16%",
+            "B": "4.58%",
+            "C": "6.42%",
+            "D": "7.32%"
+        },
+        "answer": "B"
+    },
+    "91": {
+        "question": "Solving for an unknown interest rate for annuity cash flows is an iterative (or trial-and-error) process.",
+        "answer": "T"
+    },
+    "92": {
+        "question": "Present values and interest rates are inversely related. This means that if you deposit $1,000 into an interest-earning account today, it will take longer to reach a future value of $5,000 at an interest rate of 6% than at a rate of 4%.",
+        "answer": "F"
+    },
+    "93": {
+        "question": "Solving for an unknown interest rate given the PV, FV, PMT, and N is an iterative (or trial- and-error) process.",
+        "answer": "T"
+    },
+    "94": {
+        "question": "Arvidas recently won the Central States Lottery of $3,500,000. The lottery pays either a total of twenty $175,000 payments per year with the first payment today (i.e., an annuity due), or $2,000,000 today. At what interest rate would Arvidas be financially indifferent between these two payout choices?",
+        "options": {
+            "A": "6.04%",
+            "B": "6.36%",
+            "C": "6.88%",
+            "D": "8.00%"
+        },
+        "answer": "C"
+    },
+    "95": {
+        "question": "Jusef has won the $3,800,000 state lottery and intends to save all of the money for his retirement. He chooses to receive an annual cash flow of $190,000 for twenty years, with the first payment to be received one year from today. How much money will be in his retirement account in twenty years if he can reinvest his money at an annual rate of 8.75%?",
+        "options": {
+            "A": "$9,374,989",
+            "B": "$9,451,909",
+            "C": "$10,007,801",
+            "D": "$3,800,000"
+        },
+        "answer": "B"
+    },
+    "96": {
+        "question": "After winning the lottery, you state that you are indifferent between receiving twenty $500,000 end-of-the-year payments (first payment one year from today), or a lump sum of $5,297,007 today. What interest rate are you using in your decision-making process such that you are indifferent between the two choices?",
+        "options": {
+            "A": "5.00%",
+            "B": "6.00%",
+            "C": "7.00%",
+            "D": "8.00%"
+        },
+        "answer": "C"
+    },
+    "97": {
+        "question": "You have won the lottery and received a check for $1,275,156 today. You invest the lottery check today at an annual interest rate of 8% and allow it to build for a full ten years. At that point in time, you shift the money to an account paying only 6% per year. You plan to spend $175,000 per year in retirement (assume equal annual end-of-the-year cash flows) for 30 years, and your first retirement cash flow is exactly eleven years from today. Will you have enough money to fully fund your desired retirement? Use a calculator to determine your answer.",
+        "options": {
+            "A": "Yes, because your investment will allow you to spend up to $225,000 per year in retirement.",
+            "B": "No, because your investment will allow you to spend up to only $158,000 per year in retirement.",
+            "C": "Yes, because your investment will allow you to spend up to $200,000 per year in retirement.",
+            "D": "No, because your investment will allow you to spend up to only $137,000 per year in retirement."
+        },
+        "answer": "C"
+    },
+    "98": {
+        "question": "You just won the Publisher's Clearing House Sweepstakes and the right to 30 after-tax ordinary annuity cash flows of $123,291.18. Assuming a discount rate of 7.50%, what is the present value of your lottery winnings? Use a calculator to determine your answer.",
+        "options": {
+            "A": "$2,345,823.18",
+            "B": "$1,664,670.52",
+            "C": "$1,456,116.46",
+            "D": "There is not enough information to answer this question."
+        },
+        "answer": "C"
+    },
+    "99": {
+        "question": "You have a choice between a lottery lump sum payout of $3,300,000 today or a series of twenty annual annuity due payments. At a discount rate of 5.00%, how large must the annual annuity due payments be to make you indifferent between the two choices? Use a calculator to determine your answer.",
+        "options": {
+            "A": "$381,301.32",
+            "B": "$351,179.40",
+            "C": "$312,548.41",
+            "D": "$252,190.99"
+        },
+        "answer": "D"
+    },
+    "100": {
+        "question": "You have a choice between a lottery lump sum payout of $5,509,253.62 today or a series of twenty annual annuity payments of $500,000 each (first cash flow one year from today). At what discount rate are you indifferent between the two choices?",
+        "options": {
+            "A": "4.50%",
+            "B": "5.50%",
+            "C": "6.50%",
+            "D": "7.50%"
+        },
+        "answer": "C"
+    },
+    "101": {
+        "question": "You have a choice between a lottery lump sum payout of $10,000,000 today or a series of thirty annual annuity payments (first payment one year from today). At a discount rate of 7.50%, how large must the annual annuity payments be to make you indifferent between the two choices?",
+        "options": {
+            "A": "$819,814.81",
+            "B": "$833,102.77",
+            "C": "$846,712.36",
+            "D": "$400,000.00"
+        },
+        "answer": "C"
+    },
+    "102": {
+        "question": "It ALWAYS makes more sense financially to take the lump sum payout from winning a lottery than taking the annual cash flows.",
+        "answer": "F"
+    },
+    "103": {
+        "question": "If we discount the annual payments from winning the lottery at 10%, the corresponding present value is greater than if we discount the annual payments at 12%.",
+        "answer": "T"
+    },
+    "104": {
+        "question": "The present value of a lottery received as an annuity due is less than the present value of a lottery whose cash flows are received as an ordinary annuity. (Assume that the interest rate used to discount the cash flows is positive and equal between the two choices and that the magnitude and number of cash flows are equal for the two choices. Only the timing of the cash flows differs between the two choices.)",
+        "answer": "F"
+    },
+    "105": {
+        "question": "The main variables of the TVM equation are ___________",
+        "options": {
+            "A": "present value, future value, time, interest rate, and payment",
+            "B": "present value, future value, perpetuity, interest rate, and payment",
+            "C": "present value, future value, time, annuity, and interest rate",
+            "D": "present value, future value, perpetuity, interest rate, and principal"
+        },
+        "answer": "A"
+    },
+    "106": {
+        "question": "Present value calculations do which of the following?",
+        "options": {
+            "A": "Compound all future cash flows into the future",
+            "B": "Compound all future cash flows back to the present",
+            "C": "Discount all future cash flows back to the present",
+            "D": "Discount all future cash flows into the future"
+        },
+        "answer": "C"
+    },
+    "107": {
+        "question": "An annuity is a series of ___________.",
+        "options": {
+            "A": "variable cash payments at regular intervals across time",
+            "B": "equal cash payments at regular intervals across time",
+            "C": "variable cash payments at different intervals across time",
+            "D": "equal cash payments at different intervals across time"
+        },
+        "answer": "B"
+    },
+    "108": {
+        "question": "Amounts of money can be added or subtracted only if they are at the same point in time.",
+        "answer": "T"
+    },
+    "109": {
+        "question": "It is fortunate that we have formula, calculator, and spreadsheets as tools to solve for variables of the TVM equation, because there is no real way to visualize the timing and amount of cash flows.",
+        "answer": "F"
+    }
+}

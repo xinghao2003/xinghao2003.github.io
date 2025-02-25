@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -65,6 +66,11 @@
                 }
             }
         }
+        // Optional: configure marked if desired
+        marked.setOptions({
+            gfm: true,
+            breaks: true
+        });
     </script>
 </head>
 
@@ -163,9 +169,51 @@
                 questionElement.id = `question-${index}`;
                 if (index !== 0) questionElement.classList.add('hidden');
 
-                const questionText = document.createElement('p');
-                questionText.textContent = `${index + 1}. ${question.question}`;
-                questionText.classList.add('mb-4', 'font-bold');
+                const questionText = document.createElement('div'); // Changed from p to div
+                questionText.innerHTML = marked.parse(question.question);
+                questionText.classList.add('mb-4', 'font-bold', 'prose', 'dark:prose-invert', 'max-w-none');
+                // Add styles for markdown content
+                const style = document.createElement('style');
+                style.textContent = `
+                    .prose {
+                        color: inherit;
+                    }
+                    .prose code {
+                        background-color: rgba(0, 0, 0, 0.1);
+                        padding: 0.2em 0.4em;
+                        border-radius: 3px;
+                        font-size: 0.9em;
+                    }
+                    .dark .prose code {
+                        background-color: rgba(255, 255, 255, 0.1);
+                    }
+                    .prose pre {
+                        background-color: #f3f4f6;
+                        padding: 1em;
+                        border-radius: 0.375rem;
+                        overflow-x: auto;
+                    }
+                    .dark .prose pre {
+                        background-color: #374151;
+                    }
+                    .prose img {
+                        max-width: 100%;
+                        height: auto;
+                    }
+                    .prose table {
+                        border-collapse: collapse;
+                        width: 100%;
+                        margin: 1em 0;
+                    }
+                    .prose th, .prose td {
+                        border: 1px solid #d1d5db;
+                        padding: 0.5em;
+                    }
+                    .dark .prose th, .dark .prose td {
+                        border-color: #4b5563;
+                    }
+                `;
+                document.head.appendChild(style);
                 questionElement.appendChild(questionText);
 
                 const optionsContainer = document.createElement('div');

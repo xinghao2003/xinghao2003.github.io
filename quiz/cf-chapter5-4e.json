@@ -1,0 +1,788 @@
+{
+    "1": {
+        "question": "If you take out a loan from a bank, you will be charged",
+        "options": {
+            "A": "for principal but not interest",
+            "B": "for interest but not principal",
+            "C": "for both principal and interest",
+            "D": "for interest only"
+        },
+        "answer": "C"
+    },
+    "2": {
+        "question": "A company selling a bond is  money.",
+        "options": {
+            "A": "borrowing",
+            "B": "lending",
+            "C": "taking",
+            "D": "reinvesting"
+        },
+        "answer": "A"
+    },
+    "3": {
+        "question": "The phrase \"price to rent money\" is sometimes used to refer to ________.",
+        "options": {
+            "A": "historical prices",
+            "B": "compound rates",
+            "C": "discount rates",
+            "D": "interest rates"
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "Suppose you deposit money in a certificate of deposit (CD) at a bank. Which of the following statements is TRUE?",
+        "options": {
+            "A": "The bank is borrowing money from you without a promise to repay that money with interest.",
+            "B": "The bank is lending money to you with a promise to repay that money with interest.",
+            "C": "The bank is technically renting money from you with a promise to repay that money with interest.",
+            "D": "The bank is lending money to you, but not borrowing money from you."
+        },
+        "answer": "C"
+    },
+    "5": {
+        "question": "Which of the following statements is FALSE?",
+        "options": {
+            "A": "The APR can be referred to as a promised annual percentage rate.",
+            "B": "Although an APR is quoted on an annual basis, interest can be paid quarterly.",
+            "C": "The period in which interest is applied or the frequency of times interest is added to an account each year is called the compounding period or compounding periods per year.",
+            "D": "Although an APR is quoted on an annual basis, interest can be paid monthly but never daily."
+        },
+        "answer": "D"
+    },
+    "6": {
+        "question": "To determine the interest paid each compounding period, we take the advertised annual percentage rate and simply divide it by the ________ to get the appropriate periodic interest rate.",
+        "options": {
+            "A": "number of compounding periods for the length of an investment",
+            "B": "number of discounting periods for the length of an investment",
+            "C": "number of compounding periods per year",
+            "D": "number of compounding periods per month"
+        },
+        "answer": "C"
+    },
+    "7": {
+        "question": "Suppose you invest $1,000 today, compounded quarterly, with the annual interest rate of 8.00%. What is your investment worth in one year?",
+        "options": {
+            "A": "$1,080.00",
+            "B": "$1,800.00",
+            "C": "$1,082.43",
+            "D": "$1,824.30"
+        },
+        "answer": "C"
+    },
+    "8": {
+        "question": "Rodney invests $2,400 today, compounded monthly, with an annual interest rate of 6.25%. What is Rodney's investment worth in one year?",
+        "options": {
+            "A": "$2,554.37",
+            "B": "$2,532.00",
+            "C": "$2,515.66",
+            "D": "$2,503.57"
+        },
+        "answer": "A"
+    },
+    "9": {
+        "question": "What if Jennifer were to invest $2,750 today, compounded semiannually, with an annual interest rate of 5.25%. What amount of interest will Jennifer earn in one year?",
+        "options": {
+            "A": "$2,896.27",
+            "B": "$84.27",
+            "C": "$525.27",
+            "D": "$146.27"
+        },
+        "answer": "D"
+    },
+    "10": {
+        "question": "Kenna invests $5,000 today, compounded monthly, with an annual interest rate of 8.52%. What amount of interest will she earn in one year?",
+        "options": {
+            "A": "$334.04",
+            "B": "$5,443.04",
+            "C": "$443.04",
+            "D": "$5,334.04"
+        },
+        "answer": "C"
+    },
+    "11": {
+        "question": "What is the EAR if the APR is 5% and compounding is quarterly?",
+        "options": {
+            "A": "Slightly above 5.09%",
+            "B": "Slightly below 5.09%",
+            "C": "Under 5.00%",
+            "D": "Over 5.25%"
+        },
+        "answer": "A"
+    },
+    "12": {
+        "question": "What is the EAR if the APR is 10.52% and compounding is daily?",
+        "options": {
+            "A": "Slightly above 10.09%",
+            "B": "Slightly below 11.09%",
+            "C": "Slightly above 11.09%",
+            "D": "Over 11.25%"
+        },
+        "answer": "C"
+    },
+    "13": {
+        "question": "The EAR is 5.85% if the APR is 5.85% and compounding is annual.",
+        "answer": "T"
+    },
+    "14": {
+        "question": "The EAR is about 6.09% if the APR is 6.01% and compounding is monthly.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "The \"Truth in Savings Law\" requires banks to advertise their rates on investments such as CDs and savings accounts as annual percentage yields (APY).",
+        "answer": "T"
+    },
+    "16": {
+        "question": "When quoting rates on loans, the \"Truth in Lending Law\" requires the bank to state the rate as an APR, effectively understating the true cost of the loan when interest is computed more often than once a year.",
+        "answer": "T"
+    },
+    "17": {
+        "question": "Assume that Ray is 38 years old and has 27 years for saving until he retires. He expects an APR of 7.5% on his investments. How much does he need to save if he puts money away annually in equal end-of-the-year amounts to achieve a future value of $1,200,000 dollars in 27 years' time?",
+        "options": {
+            "A": "$44,444.44",
+            "B": "$20,670.97",
+            "C": "$14,882.44",
+            "D": "$13,844.13"
+        },
+        "answer": "C"
+    },
+    "18": {
+        "question": "When interest rates are stated or given for loan repayments, it is assumed that they are ________ unless specifically stated otherwise.",
+        "options": {
+            "A": "daily rates",
+            "B": "annual percentage rates",
+            "C": "effective annual rates",
+            "D": "APYS"
+        },
+        "answer": "B"
+    },
+    "19": {
+        "question": "APRs must be converted to the appropriate periodic rates when compounding is ________",
+        "options": {
+            "A": "more frequent than once a year",
+            "B": "less frequent than once a year",
+            "C": "more frequent than once a month",
+            "D": "less frequent than once every six months"
+        },
+        "answer": "A"
+    },
+    "20": {
+        "question": "Which of the following statements is TRUE?",
+        "options": {
+            "A": "On many calculators the TVM key for interest is I/Y; this is Interest per Year, or the EAR rate.",
+            "B": "On many calculators the TVM key for interest is Y/I; this is Interest per Year, or the APR rate.",
+            "C": "On many calculators the TVM key for interest is I/Y; this is Interest per Year, or the APR rate.",
+            "D": "On many calculators the TVM key for a period is I/Y."
+        },
+        "answer": "C"
+    },
+    "21": {
+        "question": "Which of the following statements is TRUE?",
+        "options": {
+            "A": "By DECREASING the number of payments per year, you REDUCE your total cash outflow but INCREASE your effective borrowing rate.",
+            "B": "By INCREASING the number of payments per year, you BOOST your total cash outflow but INCREASE your effective borrowing rate.",
+            "C": "By INCREASING the number of payments per year, you REDUCE your total cash outflow but INCREASE your effective borrowing rate.",
+            "D": "By INCREASING the number of payments per year, you REDUCE your total cash outflow but DECREASE your effective borrowing rate."
+        },
+        "answer": "C"
+    },
+    "22": {
+        "question": "As applied to mortgage loans, which of the following statements is FALSE?",
+        "options": {
+            "A": "Advertised rates are annual percentage rates.",
+            "B": "A spreadsheet uses the periodic interest rate, not the annual percentage rate.",
+            "C": "By increasing the number of payments per year you increase your effective borrowing rate.",
+            "D": "You can find a monthly payment by dividing the annual payment by 12."
+        },
+        "answer": "D"
+    },
+    "23": {
+        "question": "You put 20% down on a home with a purchase price of $250,000. The down payment is thus $50,000, leaving a balance owed of $200,000. The bank will loan the remaining balance at 3.91% APR. You will make annual payments with a 30-year payment schedule. What is the annual annuity payment under this schedule?",
+        "options": {
+            "A": "$18,100.23",
+            "B": "$11,439.96",
+            "C": "$6,666.67",
+            "D": "$11,009.49"
+        },
+        "answer": "B"
+    },
+    "24": {
+        "question": "You put 20% down on a home with a purchase price of $250,000. The down payment is thus $50,000, leaving a balance owed of $200,000. A bank will loan you this remaining balance at 3.91% APR. You will make monthly end-of-the-period payments with a 30-year payment schedule. What is the monthly annuity payment under this schedule?",
+        "options": {
+            "A": "$944.48",
+            "B": "$830.53",
+            "C": "$941.41",
+            "D": "$5,250.18"
+        },
+        "answer": "A"
+    },
+    "25": {
+        "question": "As applied to mortgage loans, which of the following statements is FALSE?",
+        "options": {
+            "A": "Advertised rates are EARs.",
+            "B": "A spreadsheet uses the periodic interest rate, not the annual percentage rate.",
+            "C": "It is essential to know the compounding periods per year in order to use the TVM equations or determine the actual cost to rent money.",
+            "D": "A mortgage problem is an annuity problem."
+        },
+        "answer": "A"
+    },
+    "26": {
+        "question": "When interest rates are stated or given for loan repayments, it is not assumed that they are annual percentage rates (APRs) unless specifically stated otherwise.",
+        "answer": "F"
+    },
+    "27": {
+        "question": "An annual percentage rate must be converted to the appropriate periodic rate when compounding is more frequent than once a year.",
+        "answer": "T"
+    },
+    "28": {
+        "question": "TVM formulas provide answers for periodic rates (e.g., annual, quarterly, monthly, daily, etc.) and the total number of periods over the length of the loan.",
+        "answer": "T"
+    },
+    "29": {
+        "question": "The number of periods for a consumer loan (n) is equal to the ________",
+        "options": {
+            "A": "number of years times compounding periods per year",
+            "B": "number of years",
+            "C": "number of years in a period",
+            "D": "number of compounding periods"
+        },
+        "answer": "A"
+    },
+    "30": {
+        "question": "The typical payments on a consumer loan are made at ________",
+        "options": {
+            "A": "the end of each day",
+            "B": "the end of each week",
+            "C": "the end of each month",
+            "D": "the beginning of each month"
+        },
+        "answer": "C"
+    },
+    "31": {
+        "question": "Monthly interest on a loan is equal to ________",
+        "options": {
+            "A": "the beginning balance times the APR",
+            "B": "the ending balance times the annual percentage rate",
+            "C": "the ending balance times the periodic interest rate",
+            "D": "the beginning balance times the periodic interest rate"
+        },
+        "answer": "D"
+    },
+    "32": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "Reducing principal at a faster pace reduces the overall interest paid on a loan.",
+            "B": "The more frequent the payment, the lower the total interest expense over the life of the loan, even though the effective rate of the loan is higher.",
+            "C": "Reducing principal at a faster pace increases the overall interest paid on a loan.",
+            "D": "Monthly interest on a loan is equal to the beginning balance times the periodic interest rate."
+        },
+        "answer": "C"
+    },
+    "33": {
+        "question": "Which of the following statements is TRUE if you increase your monthly payment above the required loan payment?",
+        "options": {
+            "A": "The extra portion of the payment does not go to the principal.",
+            "B": "You can significantly increase the number of payments needed to pay off the loan.",
+            "C": "The extra portion of the payment increases the principal.",
+            "D": "You can significantly reduce the number of payments needed to pay off the loan."
+        },
+        "answer": "D"
+    },
+    "34": {
+        "question": "Which of the following statements is FALSE if you increase your monthly payment above the required loan payment?",
+        "options": {
+            "A": "The extra portion of the payment goes to the principal.",
+            "B": "You can significantly decrease the number of payments needed to pay off the loan.",
+            "C": "The extra portion of the payment increases the principal.",
+            "D": "Besides lowering the principal, you can significantly reduce the number of payments needed to pay off the loan."
+        },
+        "answer": "C"
+    },
+    "35": {
+        "question": "Suppose that over the life of the loan, the total interest expense for a monthly loan is $7,000, while the total interest payment for an annual loan is $8,000. Which of the below statements is FALSE?",
+        "options": {
+            "A": "The difference reflects the reduction of the principal each month versus the annual reduction of the principal.",
+            "B": "The more frequent the payment, the lower the total interest expense over the life of the loan, even though the effective rate of the loan is higher.",
+            "C": "Reducing principal at a faster pace reduces the overall interest paid on a loan.",
+            "D": "The more frequent the payment, the lower the total interest expense over the life of the loan, even though the effective rate of the loan is lower."
+        },
+        "answer": "D"
+    },
+    "36": {
+        "question": "Suppose that over the life of the loan, the total interest expense for a monthly loan is $17,000, while the total interest payment for an annual loan is $19,000. Which of the below statements is FALSE?",
+        "options": {
+            "A": "The difference reflects the reduction of the principal each month versus the annual reduction of the principal.",
+            "B": "The more frequent the payment, the lower the total interest expense over the life of the loan, even though the effective rate of the loan is higher.",
+            "C": "Reducing principal at a slower pace reduces the overall interest paid on a loan.",
+            "D": "Reducing principal at a slower pace increases the overall interest paid on a loan."
+        },
+        "answer": "C"
+    },
+    "37": {
+        "question": "Assume you just bought a new car and now have a car loan to repay. The amount of the principal is $22,000, the loan is at 5.9% APR, and the monthly payments are spread out over 6 years. What is the loan payment? Use a calculator to determine your answer.",
+        "options": {
+            "A": "$305.56",
+            "B": "$363.57",
+            "C": "$331.14",
+            "D": "$297.70"
+        },
+        "answer": "B"
+    },
+    "38": {
+        "question": "Assume you just bought a new boat and now have a boat loan to repay. The amount of the principal is $68,000, the loan is at 6.75% APR, and the monthly payments are spread out over 7 years. What is the loan payment? Use a calculator to determine your answer.",
+        "options": {
+            "A": "$1,225.36",
+            "B": "$1,206.58",
+            "C": "$809.52",
+            "D": "$1,081.01"
+        },
+        "answer": "D"
+    },
+    "39": {
+        "question": "You just entered into a $150,000 30-year home mortgage at an annual interest rate of 4.25% making monthly payments of $737.91. Suppose you add an additional payment of $295.97 each month to the $737.91 house payment making your total monthly payments equal to $1,033.88. This extra amount is applied against the principal of the original loan. How long will it take you to pay off your loan of $150,000? Use a calculator to determine your answer.",
+        "options": {
+            "A": "It will take about 186 months.",
+            "B": "It will take about 206 months.",
+            "C": "It will take about 216 months.",
+            "D": "It will take about 265 months."
+        },
+        "answer": "B"
+    },
+    "40": {
+        "question": "You just bought a car and took out a loan for $30,000 and are scheduled to make monthly payments for 6 years at an annual rate of 3.9% APR. Suppose you add $132.01 each month to the contracted monthly car payment. This extra amount is applied to the principal. How long will it take you to pay off your loan of $30,000? Use a calculator to determine your answer.",
+        "options": {
+            "A": "It will take just over 54 months.",
+            "B": "It will take just over 45 months.",
+            "C": "It will take just over 38 months.",
+            "D": "It will take just over 30 months."
+        },
+        "answer": "A"
+    },
+    "41": {
+        "question": "Most consumer loans payments are monthly.",
+        "answer": "T"
+    },
+    "42": {
+        "question": "An abbreviated amortization schedule illustrates that each month more and more of the payment is applied to interest and more and more of the payment is applied to the principal.",
+        "answer": "F"
+    },
+    "43": {
+        "question": "If you read the fine print on a car loan that claims zero percent, you will probably find that it is for a period much shorter than the full loan period.",
+        "answer": "T"
+    },
+    "44": {
+        "question": "Nominal interest rates are the sum of two major components. These components are",
+        "options": {
+            "A": "the real interest rate and expected inflation",
+            "B": "the risk-free rate and expected inflation",
+            "C": "the real interest rate and default premium",
+            "D": "the real interest rate and the T-bill rate"
+        },
+        "answer": "A"
+    },
+    "45": {
+        "question": "Assume that you are willing to postpone consumption today and buy a certificate of deposit (CD) at your local bank. Your reward for postponing consumption implies that at the end of the year ________",
+        "options": {
+            "A": "you will be able to consume fewer goods",
+            "B": "you will be able to buy the same amount of goods or services",
+            "C": "you will be able to buy fewer goods or services",
+            "D": "you will be able to buy more goods or services"
+        },
+        "answer": "D"
+    },
+    "46": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The real interest rate is the reward for waiting.",
+            "B": "Nominal interest rates are the sum of two major components: the real interest rate and expected inflation.",
+            "C": "The reward for postponing consumption implies that at the end of the year you will be able to buy more goods.",
+            "D": "The prices of goods and services tend to decrease over time because of inflation."
+        },
+        "answer": "D"
+    },
+    "47": {
+        "question": "Assume that you are willing to postpone consumption of $1,000 today and buy a certificate of deposit (CD) at your local bank with the $1,000. Holding the CD for one year provides you with an 8% reward for saving or postponing consumption. This reward for postponing consumption implies that at the end of the year you will have how much more money for spending?",
+        "options": {
+            "A": "$79.50",
+            "B": "$79.75",
+            "C": "$79.90",
+            "D": "$80.00"
+        },
+        "answer": "D"
+    },
+    "48": {
+        "question": "Suppose you postpone consumption so that by investing at 5% you will have an extra $500 to spend in one year. Suppose that inflation is 2% during this time. What is the approximate real increase in your purchasing power?",
+        "options": {
+            "A": "$800",
+            "B": "$500",
+            "C": "$300",
+            "D": "$200"
+        },
+        "answer": "C"
+    },
+    "49": {
+        "question": "Suppose you postpone consumption and invest at 6% when inflation is 2%. What is the approximate real rate of your reward for saving?",
+        "options": {
+            "A": "6%",
+            "B": "5%",
+            "C": "4%",
+            "D": "3%"
+        },
+        "answer": "C"
+    },
+    "50": {
+        "question": "The real rate is 1.25% and inflation is 5.25%. What is the approximate nominal rate?",
+        "options": {
+            "A": "6.50%",
+            "B": "5.25%",
+            "C": "3.25%",
+            "D": "1.25%"
+        },
+        "answer": "A"
+    },
+    "51": {
+        "question": "Becky is seeking to expand her stamp collection. Each year, stamps increase in price at a seven percent rate. She believes that if she invests her money for one year, she should be able to buy 24 stamps for what 23 stamps would cost today. What is her real interest rate or reward for waiting?",
+        "options": {
+            "A": "4.35%",
+            "B": "3.35%",
+            "C": "2.25%",
+            "D": "1.00%"
+        },
+        "answer": "A"
+    },
+    "52": {
+        "question": "Angel is seeking to expand her rare stamp collection. Each year, rare stamps increase in price at a three percent rate. She believes that if she invests her money for one year, she should be able to buy 16 stamps for what 15 stamps would cost today. What is her real interest rate (or reward for waiting)?",
+        "options": {
+            "A": "Her real interest rate is about 4.23%.",
+            "B": "Her real interest rate is about 5.33%.",
+            "C": "Her real interest rate is about 6.33%.",
+            "D": "Her real interest rate is about 6.67%."
+        },
+        "answer": "D"
+    },
+    "53": {
+        "question": "Becky is seeking to expand her rare coin collection. Each year, rare coins increase in price at a three percent rate. She believes that if she invests her money for one year, she should be able to buy 26 coins for what 25 coins would cost today. What is the approximate nominal rate necessary to compensate for waiting and to cover inflation?",
+        "options": {
+            "A": "7.00%",
+            "B": "6.50%",
+            "C": "6.00%",
+            "D": "5.00%"
+        },
+        "answer": "A"
+    },
+    "54": {
+        "question": "Nancy is seeking to expand her rare stamp collection. Each year, rare stamps increase in price at a three percent rate. She believes that if she invests her money for one year, she should be able to buy 16 stamps for what 15 stamps would cost today. What is the approximate nominal rate necessary to compensate for waiting and to cover inflation?",
+        "options": {
+            "A": "3.00%",
+            "B": "3.67%",
+            "C": "6.67%",
+            "D": "9.67%"
+        },
+        "answer": "D"
+    },
+    "55": {
+        "question": "We can write the true relationship between the nominal interest rate and the real rate and expected inflation as",
+        "options": {
+            "A": "(1 + r) = (1 + r) \u00d7 (1 + h*)",
+            "B": "r = (1 + r*) \u00d7 (1 + h) - 1",
+            "C": "r* = (1 + r) \u00d7 (1 + h) -1",
+            "D": "r = (1 + r*) \u00d7 (1 + h) + 1"
+        },
+        "answer": "B"
+    },
+    "56": {
+        "question": "We can write the true relationship between the nominal interest rate and the real rate and expected inflation as",
+        "options": {
+            "A": "(1 + r) = (1 + r) \u00d7 (1 + h*)",
+            "B": "r = (1 + r*) \u00d7 (1 + h*) - 1",
+            "C": "(1 + r) = (1 + r*) \u00d7 (1 + h)",
+            "D": "r = (1 + r*) \u00d7 (1 + h) + 1"
+        },
+        "answer": "C"
+    },
+    "57": {
+        "question": "The Fisher Effect involves which of the items below?",
+        "options": {
+            "A": "Nominal rate, the real rate, and inflation",
+            "B": "Nominal rate and the real rate only",
+            "C": "Nominal rate and inflation only",
+            "D": "Nominal rate, the bond rate, and inflation"
+        },
+        "answer": "A"
+    },
+    "58": {
+        "question": "A more precise calculation of the Fisher Effect includes ________",
+        "options": {
+            "A": "nominal rate, the bond rate, and inflation",
+            "B": "nominal rate the real rate, expected inflation, and the product of the real rate and expected inflation",
+            "C": "nominal rate and inflation only",
+            "D": "nominal rate and the real rate only"
+        },
+        "answer": "D"
+    },
+    "59": {
+        "question": "The Fisher Effect tells us that the true nominal rate is actually made up of three components. These three components are",
+        "options": {
+            "A": "the nominal rate, the real rate, and the inflation rate",
+            "B": "the real rate, the inflation rate, and the product of the real rate and the nominal rate",
+            "C": "the real rate, the inflation rate, and the product of the real rate and inflation",
+            "D": "the real rate and the product of the real rate and inflation"
+        },
+        "answer": "C"
+    },
+    "60": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "The Fisher Effect is the relationship between three items: the nominal rate, the real rate, and inflation.",
+            "B": "In the Fisher Effect, r* is the real interest rate.",
+            "C": "The product of the real rate and the inflation rate can be thought of as the additional compensation needed for the fact that the interest being earned during the year is not subject to inflation.",
+            "D": "In the Fisher Effect, r is the nominal interest rate."
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "Nominal interest rates are the sum of two major components: the real interest rate and the maturity premium.",
+        "answer": "F"
+    },
+    "62": {
+        "question": "The Fisher Effect is the relationship between three items: the nominal rate, the real rate, and inflation.",
+        "answer": "T"
+    },
+    "63": {
+        "question": "The true nominal interest rate equals the real rate plus inflation plus (real rate \u00d7 inflation).",
+        "answer": "T"
+    },
+    "64": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "An advertised rate is a nominal rate.",
+            "B": "An advertised rate can be referred to as the annual percentage rate or annual percentage yield.",
+            "C": "An advertised rate can be referred to as the APR or APY.",
+            "D": "When you visit any financial institution, you will see only one advertised rate."
+        },
+        "answer": "D"
+    },
+    "65": {
+        "question": "The two major components of the interest rate that cause rates to vary across different investment opportunities or loans are",
+        "options": {
+            "A": "the default premium and the bankruptcy premium",
+            "B": "the liquidity premium and the maturity premium",
+            "C": "the default premium and the maturity premium",
+            "D": "the inflation premium and the maturity premium"
+        },
+        "answer": "C"
+    },
+    "66": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "No part of the default premium has to do with the frequency of default by the borrower.",
+            "B": "For the home loan, the collateral (the house) is an asset that will increase in value over time (in general) compared to a car loan where the collateral (the car) decreases in value over time.",
+            "C": "With a house, the potential loss due to default is less than a car because the growing value of the asset should be sufficient to cover the outstanding balance (principal) of the loan.",
+            "D": "A personal credit card essentially has no collateral so the potential loss is even higher if the customer defaults on his or her credit card payments."
+        },
+        "answer": "A"
+    },
+    "67": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "A part of the default premium has to do with the frequency of default by the borrower.",
+            "B": "For the home loan, the collateral (the house) is an asset that will increase in value over time (in general), compared with a car loan in which the collateral (the car) decreases in value over time.",
+            "C": "With a car, the potential loss due to default is less than a house because the growing value of the asset should be sufficient to cover the outstanding balance (principal) of the loan.",
+            "D": "A personal credit card essentially has no collateral, so the potential loss is even higher if the customer defaults on his or her credit card payments."
+        },
+        "answer": "C"
+    },
+    "68": {
+        "question": "The ________ compensates the investor for the additional risk that the loan will not be repaid in full.",
+        "options": {
+            "A": "default premium",
+            "B": "inflation premium",
+            "C": "real rate",
+            "D": "interest rate"
+        },
+        "answer": "A"
+    },
+    "69": {
+        "question": "The frequency of default on a home loan is ________ the frequency of default on a credit card.",
+        "options": {
+            "A": "much lower than",
+            "B": "much higher than",
+            "C": "a bit lower than",
+            "D": "a bit higher than"
+        },
+        "answer": "A"
+    },
+    "70": {
+        "question": "Which of the statements below is TRUE?",
+        "options": {
+            "A": "The frequency of bankruptcy for a high-tech up-start firm is lower than for a blue-chip firm, so we see higher borrowing rates for start-ups than for mature firms.",
+            "B": "The frequency of bankruptcy for a high-tech up-start firm is higher than for a blue-chip firm, so we see lower borrowing rates for start-ups than for mature firms.",
+            "C": "The frequency of bankruptcy for a high-tech up-start firm is lower than for a blue-chip firm, so we see lower borrowing rates for start-ups than for mature firms.",
+            "D": "The frequency of bankruptcy for a high-tech up-start firm is higher than for a blue-chip firm, so we see higher borrowing rates for start-ups than for mature firms."
+        },
+        "answer": "D"
+    },
+    "71": {
+        "question": "Which of the statements below is FALSE?",
+        "options": {
+            "A": "If you invest money for a short period and buy a six-month CD, you will not receive as high an interest rate as if you bought a CD with a longer maturity period.",
+            "B": "The difference in rates as the borrowing time or investment horizon increases is due to the maturity premium of the investments.",
+            "C": "The maturity premium represents that portion of the yield that compensates the investor for the additional waiting time or the lender for the additional time it takes to receive repayment in full.",
+            "D": "The longer the loan, the greater the risk of nonpayment and the lower the interest rate the lender demands."
+        },
+        "answer": "D"
+    },
+    "72": {
+        "question": "Which of the below is NOT a major component of interest rates?",
+        "options": {
+            "A": "Real rate",
+            "B": "Inflation premium",
+            "C": "Historical interest rates",
+            "D": "Default premium"
+        },
+        "answer": "C"
+    },
+    "73": {
+        "question": "The borrowing rate for real estate is more than the borrowing rates for autos, boats, and VISA Reward credit cards.",
+        "answer": "F"
+    },
+    "74": {
+        "question": "Differences in borrowing rates can generally be explained by the level of risk of the investment or loan and by the length of the investment or loan.",
+        "answer": "T"
+    },
+    "75": {
+        "question": "We assign a very low probability of default to the U.S. Treasury and thus assume that all Treasury bills will be paid in full at maturity and thus have a zero default premium.",
+        "answer": "T"
+    },
+    "76": {
+        "question": "A yield curve constructed using Treasury securities has each of the following components embedded in the nominal interest rates",
+        "options": {
+            "A": "the real rate, expected inflation and a default risk premium",
+            "B": "expected inflation, a default risk premium and a maturity premium",
+            "C": "the real rate, expected inflation, and a maturity premium",
+            "D": "the real rate, a default risk premium and expected inflation"
+        },
+        "answer": "C"
+    },
+    "77": {
+        "question": "James is a rational investor wishing to maximize his return over a 20-year period. The current yield curve is inverted with one-year rates at 5.00% and 20-year rates at 3.50%. James will invest in the lower-rate 20-year bonds if",
+        "options": {
+            "A": "he thinks rates will fall in the future and locking in long-term rates today may provide the highest long-run average return",
+            "B": "he thinks rates will rise in the future and locking in long-term rates today may provide the lowest long-run average return",
+            "C": "he thinks rates will remain flat at 5% in the future and locking in long-term rates today will prevent him from appearing greedy to those without this investment opportunity",
+            "D": "he thinks rates will rise in the future and locking in long-term rates today may provide the highest long-run average return"
+        },
+        "answer": "A"
+    },
+    "78": {
+        "question": "The most common shape for a yield curve is upward sloping.",
+        "answer": "T"
+    },
+    "79": {
+        "question": "In constructing a yield curve you place interest rates on the vertical axis, and risk on the horizontal axis.",
+        "answer": "F"
+    },
+    "80": {
+        "question": "Annual rates of inflation in the United States has ________ since 1950.",
+        "options": {
+            "A": "been stationary",
+            "B": "been below 3%",
+            "C": "been above 10%",
+            "D": "varied over time"
+        },
+        "answer": "D"
+    },
+    "81": {
+        "question": "We can get an average real rate if we assume expected inflation and actual inflation are on average the same",
+        "options": {
+            "A": "when we look over a relatively long period of time",
+            "B": "when we look over a relatively short period of time",
+            "C": "among different countries",
+            "D": "among neighboring countries"
+        },
+        "answer": "A"
+    },
+    "82": {
+        "question": "Which of the statements below is FALSE regarding interest rates in the United States from 2000 through 2013?",
+        "options": {
+            "A": "The average annual rate for the 3-month Treasury bill has varied from a low of 0.03% to a high of 5.66%.",
+            "B": "The average annual rate for the 3-month U.S. Treasury bill was 3.93%.",
+            "C": "The average annual rate of Treasury Bonds was 3.93%.",
+            "D": "The average annual rate of AAA Corporate Bonds was 5.32%."
+        },
+        "answer": "B"
+    },
+    "83": {
+        "question": "If we want to get some idea about a/an ________ over time between two specific assets, we can compare the returns on top-rated corporate bonds and U.S. government bonds.",
+        "options": {
+            "A": "inflation premium",
+            "B": "default premium",
+            "C": "maturity premium",
+            "D": "liquidity premium"
+        },
+        "answer": "B"
+    },
+    "84": {
+        "question": "Which of the four interest rate components had the greatest average annual percentage increase in the period from 1950-1999?",
+        "options": {
+            "A": "Real rate",
+            "B": "Inflation premium",
+            "C": "Historical interest rates",
+            "D": "Default premium"
+        },
+        "answer": "B"
+    },
+    "85": {
+        "question": "Which of the four interest rate components had the smallest average annual percentage in the period from 1950-1999?",
+        "options": {
+            "A": "Maturity premium",
+            "B": "Real rate",
+            "C": "Inflation premium",
+            "D": "Default premium"
+        },
+        "answer": "D"
+    },
+    "86": {
+        "question": "Which of the statements below is FALSE regarding interest rates in the period 1950-1999?",
+        "options": {
+            "A": "Inflation averaged 4.05%.",
+            "B": "The real rate averaged 1.18%.",
+            "C": "The default premium averaged 7.05%.",
+            "D": "The maturity premium averaged 1.28% (for twenty-year maturity differences)."
+        },
+        "answer": "C"
+    },
+    "87": {
+        "question": "Which of the statements below is TRUE regarding interest rates in the period 2000-2013?",
+        "options": {
+            "A": "The average annual rate of return earned by T-bills exceeded the average annual rate of return earned by T-bonds.",
+            "B": "The average annual rate of return earned by T-bills exceeded the average annual rate of return earned by Corporate bonds.",
+            "C": "The average annual rate of return earned by AAA Corporate bonds exceeded the average annual rate of return earned by T-bonds.",
+            "D": "The average annual rate of return earned by T-bills exceeded the average annual rate of return earned by AAA Corporate bonds."
+        },
+        "answer": "C"
+    },
+    "88": {
+        "question": "The rates on Treasury bills in the United States have been lower on average since the year 2000 than in the 50 years from 1950-1999.",
+        "answer": "T"
+    },
+    "89": {
+        "question": "The default risk premium for U.S. corporate bonds was greater in the last 50 years of the 20th century than in the first decade of the 21st century.",
+        "answer": "F"
+    },
+    "90": {
+        "question": "The maturity premium for Treasury Bonds over Treasury bills rose in the first part of the 21st century compared to the premium over the last 50 years of the 20th century.",
+        "answer": "T"
+    },
+    "91": {
+        "question": "If we want to get some idea about a default premium over time between two specific assets, we can compare the returns on short-term or medium-term bonds with those on large company stocks.",
+        "answer": "F"
+    },
+    "92": {
+        "question": "The risk-free rate (for the three-month U.S. Treasury bill) in the United States has varied from slightly under 1% to a high of 15% in the period from 1950 to 1999.",
+        "answer": "T"
+    },
+    "93": {
+        "question": "The historically low Treasury bill rates between 2008 and 2013 reflect the Federal Reserve's action to stimulate the economy following the 2008 financial meltdown.",
+        "answer": "T"
+    }
+}
