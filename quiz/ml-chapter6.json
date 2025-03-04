@@ -1,0 +1,1012 @@
+{
+  "1": {
+    "question": "Which of the following best describes unsupervised learning?",
+    "answer": "B",
+    "options": {
+      "A": "A method that uses labeled data to train models.",
+      "B": "A method that identifies patterns in data without pre-existing labels.",
+      "C": "A method primarily used for prediction tasks.",
+      "D": "A method that requires significant human supervision."
+    }
+  },
+  "2": {
+    "question": "What is a key characteristic of unsupervised learning regarding data labels?",
+    "answer": "B",
+    "options": {
+      "A": "It generates labels during the training process.",
+      "B": "It works with datasets that have no pre-existing labels.",
+      "C": "It uses partially labeled data for training.",
+      "D": "It requires clearly defined output labels."
+    }
+  },
+  "3": {
+    "question": "How does the data used in unsupervised learning differ from that used in supervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "Unsupervised learning uses labeled data; supervised learning uses unlabeled data.",
+      "B": "Both use unlabeled data, but in different ways.",
+      "C": "Unsupervised learning uses unlabeled data; supervised learning uses labeled data.",
+      "D": "Both use labeled data, but in different ways."
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT a typical application of unsupervised learning?",
+    "answer": "A",
+    "options": {
+      "A": "Predicting house prices based on features.",
+      "B": "Anomaly detection",
+      "C": "Association rule mining",
+      "D": "Clustering"
+    }
+  },
+  "5": {
+    "question": "Identifying fraudulent transactions is an example of which unsupervised learning application?",
+    "answer": "D",
+    "options": {
+      "A": "Clustering",
+      "B": "Association mining",
+      "C": "Latent variable modeling",
+      "D": "Anomaly detection"
+    }
+  },
+  "6": {
+    "question": "Why might unsupervised learning results be less accurate than supervised learning results?",
+    "answer": "C",
+    "options": {
+      "A": "Because unsupervised learning is a newer field of study.",
+      "B": "Because unsupervised learning algorithms are less complex.",
+      "C": "Because the input data is not labeled or known in advance.",
+      "D": "Because unsupervised learning requires more computational power."
+    }
+  },
+  "7": {
+    "question": "What is a common task required of users after applying unsupervised learning techniques?",
+    "answer": "B",
+    "options": {
+      "A": "Adjusting the learning rate of the algorithm.",
+      "B": "Interpreting and labeling the resulting clusters or classes.",
+      "C": "Selecting the appropriate supervised learning model.",
+      "D": "Providing labeled data for validation."
+    }
+  },
+  "8": {
+    "question": "What is the primary goal of clustering?",
+    "answer": "C",
+    "options": {
+      "A": "To reduce the number of features in a dataset.",
+      "B": "To classify data into predefined categories.",
+      "C": "To identify groups of similar data points.",
+      "D": "To predict a continuous target variable."
+    }
+  },
+  "9": {
+    "question": "Which statement best describes the K-means algorithm?",
+    "answer": "D",
+    "options": {
+      "A": "It creates a hierarchy of clusters.",
+      "B": "It is primarily used for association rule mining.",
+      "C": "It requires pre-labeled data.",
+      "D": "It organizes data into clusters with high intra-cluster similarity."
+    }
+  },
+  "10": {
+    "question": "The 'E' and 'M' steps in the K-means algorithm stand for:",
+    "answer": "C",
+    "options": {
+      "A": "Estimation and Minimization",
+      "B": "Extraction and Modeling",
+      "C": "Expectation and Maximization",
+      "D": "Evaluation and Modification"
+    }
+  },
+  "11": {
+    "question": "What needs to be specified before running the K-means algorithm?",
+    "answer": "B",
+    "options": {
+      "A": "The distance metric between the data points themselves",
+      "B": "The number of clusters (k)",
+      "C": "The initial centroid locations",
+      "D": "The learning rate"
+    }
+  },
+  "12": {
+    "question": "What are the two main types of hierarchical clustering?",
+    "answer": "C",
+    "options": {
+      "A": "K-means and DBSCAN",
+      "B": "Linear and non-linear",
+      "C": "Agglomerative and divisive",
+      "D": "Supervised and unsupervised"
+    }
+  },
+  "13": {
+    "question": "Which type of hierarchical clustering starts with individual points as clusters and merges them?",
+    "answer": "C",
+    "options": {
+      "A": "K-means",
+      "B": "Partitioning",
+      "C": "Agglomerative",
+      "D": "Divisive"
+    }
+  },
+  "14": {
+    "question": "What is the purpose of association rule mining?",
+    "answer": "C",
+    "options": {
+      "A": "To group similar data points into clusters.",
+      "B": "To reduce the dimensionality of a dataset.",
+      "C": "To discover relationships between variables in a database.",
+      "D": "To predict future customer purchases."
+    }
+  },
+  "15": {
+    "question": "In association rule mining, {milk, bread} -> {butter} is an example of:",
+    "answer": "A",
+    "options": {
+      "A": "An association rule",
+      "B": "A principal component",
+      "C": "An anomaly",
+      "D": "A cluster"
+    }
+  },
+  "16": {
+    "question": "What does 'support' measure in association rule mining?",
+    "answer": "C",
+    "options": {
+      "A": "The number of transactions in a database.",
+      "B": "The strength of the relationship between two itemsets.",
+      "C": "The frequency of an itemset.",
+      "D": "The accuracy of a rule."
+    }
+  },
+  "17": {
+    "question": "If the confidence of the rule {beer} -> {diapers} is high, what does this suggest?",
+    "answer": "A",
+    "options": {
+      "A": "Customers who buy beer often also buy diapers.",
+      "B": "Beer and diapers are independent purchases.",
+      "C": "Beer and diapers are rarely purchased together.",
+      "D": "The store should stop selling beer."
+    }
+  },
+  "18": {
+    "question": "A lift value greater than 1 for the rule {X} -> {Y} indicates:",
+    "answer": "C",
+    "options": {
+      "A": "X and Y are independent.",
+      "B": "X and Y are negatively correlated.",
+      "C": "X and Y are positively correlated.",
+      "D": "There is no correlation between X and Y."
+    }
+  },
+  "19": {
+    "question": "What is the main goal of dimensionality reduction?",
+    "answer": "D",
+    "options": {
+      "A": "To improve the accuracy of supervised learning models.",
+      "B": "To create new features from existing ones.",
+      "C": "To increase the number of variables in a dataset.",
+      "D": "To transform data to a lower-dimensional space while preserving important information."
+    }
+  },
+  "20": {
+    "question": "Which of the following is NOT a dimensionality reduction technique?",
+    "answer": "B",
+    "options": {
+      "A": "UMAP",
+      "B": "K-means clustering",
+      "C": "PCA",
+      "D": "t-SNE"
+    }
+  },
+  "21": {
+    "question": "Removing variables with many missing values is an example of:",
+    "answer": "A",
+    "options": {
+      "A": "Missing Value Ratio technique",
+      "B": "PCA",
+      "C": "High Correlation filter",
+      "D": "Low Variance Filter"
+    }
+  },
+  "22": {
+    "question": "Dropping a variable due to high correlation with another variable is:",
+    "answer": "A",
+    "options": {
+      "A": "High Correlation Filter",
+      "B": "t-SNE",
+      "C": "PCA",
+      "D": "ICA"
+    }
+  },
+  "23": {
+    "question": "What are principal components in PCA?",
+    "answer": "B",
+    "options": {
+      "A": "Randomly selected variables.",
+      "B": "Linear combinations of the original variables.",
+      "C": "The original variables in the dataset.",
+      "D": "Clusters of similar data points."
+    }
+  },
+  "24": {
+    "question": "How are principal components ordered in PCA?",
+    "answer": "A",
+    "options": {
+      "A": "By the amount of variance they explain in the dataset",
+      "B": "Randomly",
+      "C": "By the alphabetical order of the original feature",
+      "D": "By their correlation with the target variable"
+    }
+  },
+  "25": {
+    "question": "What is the main difference between PCA and ICA?",
+    "answer": "A",
+    "options": {
+      "A": "PCA finds uncorrelated factors; ICA finds independent factors.",
+      "B": "PCA is used for clustering; ICA is used for association rule mining.",
+      "C": "PCA is used for supervised learning; ICA is used for unsupervised learning.",
+      "D": "PCA finds independent factors; ICA finds uncorrelated factors."
+    }
+  },
+  "26": {
+    "question": "Which of the following is an advantage of UMAP over t-SNE?",
+    "answer": "C",
+    "options": {
+      "A": "UMAP requires labeled data.",
+      "B": "UMAP is slower but more accurate.",
+      "C": "UMAP preserves more global structure and is generally faster.",
+      "D": "UMAP is only suitable for small datasets."
+    }
+  },
+  "27": {
+    "question": "What is the correct order of phases in the CRISP-DM model?",
+    "answer": "C",
+    "options": {
+      "A": "Data Understanding, Business Understanding, Data Preparation, Modeling, Evaluation, Deployment",
+      "B": "Business Understanding, Data Understanding, Data Preparation, Evaluation, Modeling, Deployment",
+      "C": "Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment",
+      "D": "Business Understanding, Data Preparation, Data Understanding, Modeling, Evaluation, Deployment"
+    }
+  },
+  "28": {
+    "question": "Which comes after Data Preparation in Standard Machine Learning pipeline?",
+    "answer": "A",
+    "options": {
+      "A": "Modeling",
+      "B": "Deployment & Monitoring",
+      "C": "Data Retrieval",
+      "D": "Data Processing & Wrangling"
+    }
+  },
+  "29": {
+    "question": "What is the primary characteristic of unsupervised learning?",
+    "answer": "D",
+    "options": {
+      "A": "A) Using labeled data to train models",
+      "B": "B) Predicting future outcomes with high accuracy",
+      "C": "D) Requiring extensive human intervention",
+      "D": "C) Discovering patterns in unlabeled data"
+    }
+  },
+  "30": {
+    "question": "Which of the following best describes the data used in unsupervised learning?",
+    "answer": "B",
+    "options": {
+      "A": "A) Data that is pre-classified and labeled",
+      "B": "B) Data with no pre-existing labels",
+      "C": "C) Data that requires significant human supervision for interpretation",
+      "D": "D) Data used primarily for regression tasks"
+    }
+  },
+  "31": {
+    "question": "How does the data preparation phase in unsupervised learning compare to supervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "A) Data preparation is completely different in unsupervised learning.",
+      "B": "D) Supervised learning does not involve data preparation.",
+      "C": "B) Data preparation steps are similar in both supervised and unsupervised learning.",
+      "D": "C) Unsupervised learning requires more extensive data labeling."
+    }
+  },
+  "32": {
+    "question": "What is a key difference in the unsupervised learning pipeline compared to the supervised pipeline?",
+    "answer": "D",
+    "options": {
+      "A": "A) Unsupervised learning uses labeled data.",
+      "B": "D) Supervised learning focuses on pattern detection, while unsupervised learning focuses on prediction.",
+      "C": "B) Unsupervised learning does not involve feature selection.",
+      "D": "C) Unsupervised learning does not use pre-labeled data."
+    }
+  },
+  "33": {
+    "question": "Which application of unsupervised learning is useful for automatically splitting a dataset into groups based on similarities?",
+    "answer": "A",
+    "options": {
+      "A": "C) Clustering",
+      "B": "B) Association mining",
+      "C": "D) Latent variable models",
+      "D": "A) Anomaly detection"
+    }
+  },
+  "34": {
+    "question": "Identifying fraudulent transactions is a typical application of which unsupervised learning technique?",
+    "answer": "C",
+    "options": {
+      "A": "B) Association mining",
+      "B": "A) Clustering",
+      "C": "C) Anomaly detection",
+      "D": "D) Dimensionality reduction"
+    }
+  },
+  "35": {
+    "question": "What is the purpose of Latent variable models in the context of unsupervised learning applications?",
+    "answer": "A",
+    "options": {
+      "A": "D) To preprocess data, such as reducing the number of features",
+      "B": "A) To identify sets of items that often occur together",
+      "C": "C) To split datasets into groups based on similarities",
+      "D": "B) To discover unusual data points"
+    }
+  },
+  "36": {
+    "question": "Which of the following is a known disadvantage of unsupervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "B) Requirement for pre-labeled data",
+      "B": "A) High accuracy in data sorting",
+      "C": "C) Difficulty in obtaining precise data sorting information",
+      "D": "D) Minimal need for user interpretation"
+    }
+  },
+  "37": {
+    "question": "Why might unsupervised learning results have less accuracy?",
+    "answer": "A",
+    "options": {
+      "A": "C) Because the input data is not known and not labeled in advance.",
+      "B": "D) Because it always corresponds to informational classes.",
+      "C": "B) Because it requires extensive human supervision.",
+      "D": "A) Because the input data is always labeled."
+    }
+  },
+  "38": {
+    "question": "What is the primary objective of clustering in unsupervised learning?",
+    "answer": "D",
+    "options": {
+      "A": "D) To reduce the number of variables in a dataset",
+      "B": "C) To find strong rules in large databases",
+      "C": "A) To predict a target variable based on input features",
+      "D": "B) To identify distinct groups based on similarity within a dataset"
+    }
+  },
+  "39": {
+    "question": "Clustering is best described as a:",
+    "answer": "A",
+    "options": {
+      "A": "C) Unsupervised learning technique for grouping similar data points",
+      "B": "D) Supervised learning technique for anomaly detection",
+      "C": "B) Unsupervised learning technique for regression",
+      "D": "A) Supervised learning technique for classification"
+    }
+  },
+  "40": {
+    "question": "What is the main objective of the k-means algorithm?",
+    "answer": "B",
+    "options": {
+      "A": "B) To maximize both intra-cluster and inter-cluster similarity",
+      "B": "C) To maximize intra-cluster similarity and minimize inter-cluster similarity",
+      "C": "A) To minimize inter-cluster similarity and maximize intra-cluster similarity",
+      "D": "D) To minimize both intra-cluster and inter-cluster similarity"
+    }
+  },
+  "41": {
+    "question": "K-means algorithm is an example of which type of algorithm?",
+    "answer": "C",
+    "options": {
+      "A": "D) Decision Tree algorithm",
+      "B": "B) Classification algorithm",
+      "C": "C) Expectation Maximization (EM) algorithm",
+      "D": "A) Regression algorithm"
+    }
+  },
+  "42": {
+    "question": "What are the two main steps in the Expectation Maximization (EM) algorithm used by K-means?",
+    "answer": "A",
+    "options": {
+      "A": "C) Expectation (E) and Maximization (M)",
+      "B": "A) Initialization and Prediction",
+      "C": "D) Feature Selection and Model Building",
+      "D": "B) Training and Testing"
+    }
+  },
+  "43": {
+    "question": "In the first step of the k-means algorithm, how are centroids initially determined?",
+    "answer": "A",
+    "options": {
+      "A": "C) Randomly picked",
+      "B": "D) Based on the first k data points",
+      "C": "B) Determined by user input",
+      "D": "A) Calculated based on data density"
+    }
+  },
+  "44": {
+    "question": "What happens in the 'Expectation' step of the k-means algorithm?",
+    "answer": "C",
+    "options": {
+      "A": "A) Centroids are recalculated.",
+      "B": "C) The number of clusters is determined.",
+      "C": "B) Data points are assigned to the nearest centroid.",
+      "D": "D) The algorithm checks for convergence."
+    }
+  },
+  "45": {
+    "question": "How are centroids recalculated in the 'Maximization' step of the k-means algorithm?",
+    "answer": "A",
+    "options": {
+      "A": "C) As the arithmetic mean of all points in that cluster",
+      "B": "B) Randomly re-assigned",
+      "C": "A) Using a median of data points in the cluster",
+      "D": "D) Based on the farthest points in the cluster"
+    }
+  },
+  "46": {
+    "question": "What is a major limitation of the k-means clustering algorithm?",
+    "answer": "D",
+    "options": {
+      "A": "A) It does not work with numerical data.",
+      "B": "B) It requires labeled data for training.",
+      "C": "D) It is highly effective with clusters of varying sizes and densities.",
+      "D": "C) It needs the number of clusters to be specified beforehand."
+    }
+  },
+  "47": {
+    "question": "K-means clustering may not perform well when:",
+    "answer": "B",
+    "options": {
+      "A": "B) Clusters are of globular shapes.",
+      "B": "C) Clusters are of differing sizes, densities, and non-globular shapes.",
+      "C": "A) Clusters are of similar size and density.",
+      "D": "D) Outliers are absent from the data."
+    }
+  },
+  "48": {
+    "question": "How do outliers affect the k-means clustering algorithm?",
+    "answer": "B",
+    "options": {
+      "A": "B) Outliers have no impact on k-means.",
+      "B": "C) Outliers can skew the results of k-means.",
+      "C": "A) Outliers improve the accuracy of k-means.",
+      "D": "D) K-means is specifically designed to handle outliers effectively."
+    }
+  },
+  "49": {
+    "question": "What is the fundamental concept behind hierarchical clustering?",
+    "answer": "C",
+    "options": {
+      "A": "D) Discovering association rules between variables",
+      "B": "C) Assigning data points to the nearest centroid",
+      "C": "B) Building a hierarchy of clusters",
+      "D": "A) Partitioning data into a pre-defined number of clusters"
+    }
+  },
+  "50": {
+    "question": "What are the two main types of hierarchical clustering?",
+    "answer": "D",
+    "options": {
+      "A": "C) Supervised and Unsupervised",
+      "B": "A) K-means and K-medoids",
+      "C": "D) Linear and Non-linear",
+      "D": "B) Agglomerative and Divisive"
+    }
+  },
+  "51": {
+    "question": "Which approach does Agglomerative hierarchical clustering follow?",
+    "answer": "C",
+    "options": {
+      "A": "A) Top-down, starting with one cluster and splitting it",
+      "B": "C) Randomly assigning points to clusters",
+      "C": "B) Bottom-up, starting with each point as a cluster and merging them",
+      "D": "D) Iteratively re-assigning points based on centroids"
+    }
+  },
+  "52": {
+    "question": "How does Divisive hierarchical clustering operate?",
+    "answer": "D",
+    "options": {
+      "A": "A) By merging the closest pairs of clusters iteratively",
+      "B": "C) By randomly assigning data points to clusters",
+      "C": "D) By calculating centroids and assigning points to them",
+      "D": "B) By starting with a single cluster and splitting it into smaller clusters"
+    }
+  },
+  "53": {
+    "question": "Agglomerative hierarchical clustering is also known as:",
+    "answer": "C",
+    "options": {
+      "A": "D) Density-based clustering",
+      "B": "C) K-means clustering",
+      "C": "B) Additive hierarchical clustering",
+      "D": "A) Divisive hierarchical clustering"
+    }
+  },
+  "54": {
+    "question": "What is the starting point for Agglomerative hierarchical clustering?",
+    "answer": "C",
+    "options": {
+      "A": "A) A single cluster containing all data points",
+      "B": "C) Randomly initialized clusters",
+      "C": "B) Each data point in its own cluster",
+      "D": "D) Clusters determined by user input"
+    }
+  },
+  "55": {
+    "question": "In each iteration, Agglomerative hierarchical clustering performs which action?",
+    "answer": "C",
+    "options": {
+      "A": "A) Splits a cluster into two",
+      "B": "C) Reassigns data points to clusters",
+      "C": "B) Merges the closest pair of clusters",
+      "D": "D) Calculates new centroids"
+    }
+  },
+  "56": {
+    "question": "Divisive hierarchical clustering is also known as:",
+    "answer": "D",
+    "options": {
+      "A": "C) K-means clustering",
+      "B": "D) Density-based clustering",
+      "C": "A) Additive hierarchical clustering",
+      "D": "B) Subtractive hierarchical clustering"
+    }
+  },
+  "57": {
+    "question": "What is the initial state of Divisive hierarchical clustering?",
+    "answer": "C",
+    "options": {
+      "A": "D) Clusters are determined by user input",
+      "B": "A) Each data point is in its own cluster",
+      "C": "B) All data points are in a single cluster",
+      "D": "C) Clusters are randomly initialized"
+    }
+  },
+  "58": {
+    "question": "What operation is performed in each step of Divisive hierarchical clustering?",
+    "answer": "D",
+    "options": {
+      "A": "C) Reassigning data points",
+      "B": "D) Calculating centroids",
+      "C": "A) Merging of clusters",
+      "D": "B) Splitting of clusters"
+    }
+  },
+  "59": {
+    "question": "What is the primary purpose of association rule mining?",
+    "answer": "C",
+    "options": {
+      "A": "B) To predict continuous variables based on input features",
+      "B": "D) To reduce the dimensionality of datasets",
+      "C": "C) To discover interesting relations between variables in large databases",
+      "D": "A) To classify data into predefined categories"
+    }
+  },
+  "60": {
+    "question": "Association rule mining is based on which concept regarding customer behavior?",
+    "answer": "A",
+    "options": {
+      "A": "C) Customer purchase behavior has a pattern that can be exploited for selling more items",
+      "B": "D) Purchase behavior is solely influenced by external factors",
+      "C": "B) Purchase behavior lacks any exploitable pattern",
+      "D": "A) Random and unpredictable purchase patterns"
+    }
+  },
+  "61": {
+    "question": "In association rule mining, what is an 'itemset'?",
+    "answer": "B",
+    "options": {
+      "A": "A) A single item in a transaction",
+      "B": "B) A collection of one or more items that occur together in a transaction",
+      "C": "C) A set of rules derived from transaction data",
+      "D": "D) The total number of items in a database"
+    }
+  },
+  "62": {
+    "question": "Which of the following is an example of an itemset?",
+    "answer": "C",
+    "options": {
+      "A": "C) {diaper, beer}",
+      "B": "A) {milk}",
+      "C": "D) All of the above",
+      "D": "B) {bread, butter, cheese}"
+    }
+  },
+  "63": {
+    "question": "What does 'support' measure in association rule mining?",
+    "answer": "C",
+    "options": {
+      "A": "A) The strength of a rule's implication",
+      "B": "C) The confidence in a rule's prediction",
+      "C": "B) The frequency of an itemset in the dataset",
+      "D": "D) The lift of a rule"
+    }
+  },
+  "64": {
+    "question": "How is 'support' mathematically defined?",
+    "answer": "A",
+    "options": {
+      "A": "B) Number of transactions with itemset divided by total transactions",
+      "B": "D) Number of rules divided by number of transactions",
+      "C": "A) Ratio of confidence to lift",
+      "D": "C) Ratio of observed support to expected support"
+    }
+  },
+  "65": {
+    "question": "What does 'confidence' measure in association rule mining?",
+    "answer": "C",
+    "options": {
+      "A": "A) The frequency of an itemset",
+      "B": "C) The lift of the rule",
+      "C": "B) The strength of the rule's implication",
+      "D": "D) The support of the rule"
+    }
+  },
+  "66": {
+    "question": "For a rule {X -> Y}, how is confidence mathematically defined?",
+    "answer": "B",
+    "options": {
+      "A": "A) supp(X) / supp(X U Y)",
+      "B": "B) supp(X U Y) / supp(X)",
+      "C": "C) supp(X U Y) / supp(Y)",
+      "D": "D) supp(Y) / supp(X U Y)"
+    }
+  },
+  "67": {
+    "question": "What does 'lift' measure in association rule mining?",
+    "answer": "D",
+    "options": {
+      "A": "A) The frequency of an itemset",
+      "B": "D) The support of a rule",
+      "C": "B) The confidence of a rule",
+      "D": "C) The correlation between items in a rule compared to independence"
+    }
+  },
+  "68": {
+    "question": "How is 'lift' mathematically defined for a rule {X -> Y}?",
+    "answer": "B",
+    "options": {
+      "A": "C) supp(X) * supp(Y) / supp(X U Y)",
+      "B": "B) supp(X U Y) / (supp(X) * supp(Y))",
+      "C": "D) (supp(X) + supp(Y)) / supp(X U Y)",
+      "D": "A) supp(X U Y) / (supp(X) + supp(Y))"
+    }
+  },
+  "69": {
+    "question": "What is the main goal of dimensionality reduction?",
+    "answer": "C",
+    "options": {
+      "A": "D) To improve the accuracy of supervised learning models",
+      "B": "B) To transform data from low-dimensional to high-dimensional space",
+      "C": "C) To transform data from high-dimensional to low-dimensional space while retaining meaningful properties",
+      "D": "A) To increase the number of dimensions in a dataset"
+    }
+  },
+  "70": {
+    "question": "Dimensionality reduction is also known as:",
+    "answer": "B",
+    "options": {
+      "A": "D) Feature scaling",
+      "B": "C) Dimension reduction or dimension reduction",
+      "C": "A) Feature engineering",
+      "D": "B) Dimension expansion"
+    }
+  },
+  "71": {
+    "question": "Which of the following is a benefit of dimensionality reduction?",
+    "answer": "A",
+    "options": {
+      "A": "C) Reduced space required to store data",
+      "B": "B) Longer computation and training time",
+      "C": "D) Increased multicollinearity",
+      "D": "A) Increased data storage requirements"
+    }
+  },
+  "72": {
+    "question": "How does dimensionality reduction affect computation and training time?",
+    "answer": "C",
+    "options": {
+      "A": "A) Increases computation and training time",
+      "B": "D) Makes computation time unpredictable",
+      "C": "C) Leads to less computation and training time",
+      "D": "B) Has no effect on computation and training time"
+    }
+  },
+  "73": {
+    "question": "Dimensionality reduction helps in handling multicollinearity by:",
+    "answer": "B",
+    "options": {
+      "A": "C) Ignoring redundant features",
+      "B": "B) Removing redundant features",
+      "C": "A) Increasing redundant features",
+      "D": "D) Enhancing redundant features"
+    }
+  },
+  "74": {
+    "question": "What is the primary approach of feature selection techniques in dimensionality reduction?",
+    "answer": "A",
+    "options": {
+      "A": "B) Selecting a subset of original features",
+      "B": "A) Transforming features into a new space",
+      "C": "C) Creating new features from existing ones",
+      "D": "D) Ignoring all features and starting fresh"
+    }
+  },
+  "75": {
+    "question": "Which of the following is an example of a feature selection technique for dimensionality reduction?",
+    "answer": "B",
+    "options": {
+      "A": "A) Principal Component Analysis (PCA)",
+      "B": "C) Low Variance Filter",
+      "C": "D) Isometric Embedding (ISOMAP)",
+      "D": "B) Independent Component Analysis (ICA)"
+    }
+  },
+  "76": {
+    "question": "In 'Missing Value Ratio' technique, features are selected or dropped based on:",
+    "answer": "B",
+    "options": {
+      "A": "A) High variance",
+      "B": "C) Proportion of missing values",
+      "C": "B) Low correlation",
+      "D": "D) Feature importance from Random Forest"
+    }
+  },
+  "77": {
+    "question": "Why might features with a high missing value ratio be considered for removal?",
+    "answer": "C",
+    "options": {
+      "A": "D) They always improve model performance.",
+      "B": "A) They are always highly informative.",
+      "C": "C) They might not be informative or reliable for modeling.",
+      "D": "B) They are always reliable for modeling."
+    }
+  },
+  "78": {
+    "question": "What is the principle behind the 'Low Variance Filter' technique?",
+    "answer": "C",
+    "options": {
+      "A": "C) Removing features with high correlation",
+      "B": "D) Removing features with missing values",
+      "C": "B) Removing features with low variance",
+      "D": "A) Removing features with high variance"
+    }
+  },
+  "79": {
+    "question": "Why are features with low variance considered less important for modeling?",
+    "answer": "C",
+    "options": {
+      "A": "D) They always improve model performance.",
+      "B": "C) They have a high proportion of missing values.",
+      "C": "B) They have little change in their values and may not contribute much to learning.",
+      "D": "A) They are highly correlated with the target variable."
+    }
+  },
+  "80": {
+    "question": "What is the main idea behind the 'High Correlation Filter' technique?",
+    "answer": "D",
+    "options": {
+      "A": "A) Removing features with low correlation",
+      "B": "D) Removing features with missing values",
+      "C": "C) Removing features with low variance",
+      "D": "B) Removing one of the highly correlated features"
+    }
+  },
+  "81": {
+    "question": "Why can highly correlated features negatively impact model performance?",
+    "answer": "A",
+    "options": {
+      "A": "C) They provide similar information and can degrade the performance of some models.",
+      "B": "D) They reduce multicollinearity.",
+      "C": "A) They provide unique and diverse information.",
+      "D": "B) They always improve model accuracy."
+    }
+  },
+  "82": {
+    "question": "How does Random Forest aid in feature selection?",
+    "answer": "B",
+    "options": {
+      "A": "A) By directly transforming features into lower dimensions",
+      "B": "B) By providing in-built feature importance scores",
+      "C": "C) By removing features with high variance",
+      "D": "D) By removing features with missing values"
+    }
+  },
+  "83": {
+    "question": "In Random Forest based feature selection, features with _______ importance scores are considered for removal.",
+    "answer": "D",
+    "options": {
+      "A": "D) Unpredictable",
+      "B": "A) Higher",
+      "C": "C) Medium",
+      "D": "B) Lower"
+    }
+  },
+  "84": {
+    "question": "What is the starting point for Backward Feature Elimination?",
+    "answer": "D",
+    "options": {
+      "A": "D) Selecting features based on variance",
+      "B": "A) Starting with no features and adding them iteratively",
+      "C": "C) Randomly selecting a subset of features",
+      "D": "B) Starting with all features and removing them iteratively"
+    }
+  },
+  "85": {
+    "question": "In Backward Feature Elimination, which feature is removed in each iteration?",
+    "answer": "A",
+    "options": {
+      "A": "B) The least significant feature based on model performance",
+      "B": "D) The feature with the highest variance",
+      "C": "C) A randomly selected feature",
+      "D": "A) The most important feature"
+    }
+  },
+  "86": {
+    "question": "How does Forward Feature Selection differ from Backward Feature Elimination?",
+    "answer": "D",
+    "options": {
+      "A": "A) Forward selection starts with all features, backward selection starts with none.",
+      "B": "D) Both start with no features and add iteratively.",
+      "C": "C) Both start with all features and remove iteratively.",
+      "D": "B) Forward selection starts with no features and adds, backward selection starts with all and removes."
+    }
+  },
+  "87": {
+    "question": "In Forward Feature Selection, which feature is added in each iteration?",
+    "answer": "D",
+    "options": {
+      "A": "D) The feature with the lowest variance",
+      "B": "A) The least significant feature",
+      "C": "B) A randomly selected feature",
+      "D": "C) The most significant feature that improves model performance"
+    }
+  },
+  "88": {
+    "question": "How does Factor Analysis group variables for dimensionality reduction?",
+    "answer": "D",
+    "options": {
+      "A": "C) Based on missing values",
+      "B": "A) Based on their variance",
+      "C": "D) Based on feature importance",
+      "D": "B) Based on their correlation"
+    }
+  },
+  "89": {
+    "question": "In Factor Analysis, variables within the same factor are expected to have:",
+    "answer": "D",
+    "options": {
+      "A": "A) Low correlation with each other and high with other factors",
+      "B": "C) No correlation with each other or other factors",
+      "C": "D) Medium correlation with each other and other factors",
+      "D": "B) High correlation with each other and low with other factors"
+    }
+  },
+  "90": {
+    "question": "What are Principal Components in PCA?",
+    "answer": "B",
+    "options": {
+      "A": "A) Subsets of original variables",
+      "B": "C) New sets of variables extracted from original variables",
+      "C": "D) Features selected based on importance scores",
+      "D": "B) Non-linear transformations of original variables"
+    }
+  },
+  "91": {
+    "question": "How are Principal Components ordered in PCA?",
+    "answer": "D",
+    "options": {
+      "A": "A) Randomly",
+      "B": "B) By feature importance",
+      "C": "D) Alphabetically",
+      "D": "C) By the amount of variance they explain"
+    }
+  },
+  "92": {
+    "question": "What is the first principal component designed to explain?",
+    "answer": "B",
+    "options": {
+      "A": "B) Average variance in the dataset",
+      "B": "C) Maximum variance in the dataset",
+      "C": "D) No variance in the dataset",
+      "D": "A) Minimum variance in the dataset"
+    }
+  },
+  "93": {
+    "question": "What is the major difference between PCA and ICA?",
+    "answer": "D",
+    "options": {
+      "A": "B) PCA is based on information theory, ICA is not.",
+      "B": "A) PCA looks for independent factors, ICA looks for uncorrelated factors.",
+      "C": "D) ICA is used for feature selection, PCA is not.",
+      "D": "C) PCA looks for uncorrelated factors, ICA looks for independent factors."
+    }
+  },
+  "94": {
+    "question": "ICA is based on principles from which field?",
+    "answer": "D",
+    "options": {
+      "A": "B) Statistics",
+      "B": "D) Optimization",
+      "C": "A) Linear Algebra",
+      "D": "C) Information Theory"
+    }
+  },
+  "95": {
+    "question": "When is ISOMAP most appropriately used for dimensionality reduction?",
+    "answer": "D",
+    "options": {
+      "A": "C) When data has high variance",
+      "B": "A) When data has a linear structure",
+      "C": "D) When data has low variance",
+      "D": "B) When data has a non-linear structure"
+    }
+  },
+  "96": {
+    "question": "What type of distances does ISOMAP aim to preserve?",
+    "answer": "B",
+    "options": {
+      "A": "C) Manhattan distances",
+      "B": "B) Geodesic distances",
+      "C": "D) Cosine distances",
+      "D": "A) Euclidean distances"
+    }
+  },
+  "97": {
+    "question": "What is a key capability of t-SNE algorithm?",
+    "answer": "A",
+    "options": {
+      "A": "C) Retaining both local and global data structure",
+      "B": "B) Retaining only local data structure",
+      "C": "D) Primarily used for feature selection",
+      "D": "A) Handling linear data structures only"
+    }
+  },
+  "98": {
+    "question": "What type of similarity does t-SNE calculate in both high and low dimensional space?",
+    "answer": "D",
+    "options": {
+      "A": "A) Euclidean similarity",
+      "B": "B) Manhattan similarity",
+      "C": "D) Cosine similarity",
+      "D": "C) Probability similarity"
+    }
+  },
+  "99": {
+    "question": "What is a primary advantage of UMAP over t-SNE?",
+    "answer": "C",
+    "options": {
+      "A": "B) Slower computation time",
+      "B": "D) Inability to handle large datasets",
+      "C": "C) Shorter runtime and better global structure preservation",
+      "D": "A) Better at preserving local structure only"
+    }
+  },
+  "100": {
+    "question": "UMAP is designed to handle which types of datasets effectively?",
+    "answer": "C",
+    "options": {
+      "A": "A) Small datasets only",
+      "B": "D) Datasets with low variance",
+      "C": "B) Large datasets and high dimensional data",
+      "D": "C) Linearly structured datasets"
+    }
+  },
+  "101": {
+    "question": "Besides local structure, what other type of data structure does UMAP aim to preserve?",
+    "answer": "A",
+    "options": {
+      "A": "B) Global structure",
+      "B": "C) Linear structure",
+      "C": "A) No structure",
+      "D": "D) Hierarchical structure"
+    }
+  }
+}

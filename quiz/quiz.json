@@ -64,6 +64,10 @@
         "file": "ml-chapter5.json"
     },
     {
+        "name": "Machine Learning Chapter 6 - Unsupervised Machine Learning",
+        "file": "ml-chapter6.json"
+    },
+    {
         "name": "Big Data Analytics Topic 1 - Understanding Big Data",
         "file": "bda-topic1.json"
     },
