@@ -80,6 +80,18 @@
         "file": "bda-topic3.json"
     },
     {
+        "name": "Big Data Analytics Topic 4 - Data Visualization",
+        "file": "bda-topic4.json"
+    },
+    {
+        "name": "Big Data Analytics Topic 5 - Big Data Application",
+        "file": "bda-topic5.json"
+    },
+    {
+        "name": "Big Data Analytics Topic 6 - Big Data Quality & Data Management",
+        "file": "bda-topic6.json"
+    },
+    {
         "name": "Big Data Analytics - Hadoop",
         "file": "bda-hadoop.json"
     },

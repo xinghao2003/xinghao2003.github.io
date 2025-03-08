@@ -1,0 +1,962 @@
+{
+  "1": {
+    "question": "What has happened to the volume of data produced in recent years?",
+    "answer": "B",
+    "options": {
+      "A": "It has grown linearly.",
+      "B": "It has grown exponentially, equaling all prior data.",
+      "C": "It has decreased.",
+      "D": "It has remained constant."
+    }
+  },
+  "2": {
+    "question": "How is machine learning related to Big Data, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Machine learning and Big Data are unrelated.",
+      "B": "Machine learning is used to extract insights and make predictions from Big Data.",
+      "C": "Machine learning makes Big Data smaller.",
+      "D": "Big Data is used to train machine learning algorithms, but not for predictions."
+    }
+  },
+  "3": {
+    "question": "Which of the following best describes the focus of Traditional Analytics?",
+    "answer": "C",
+    "options": {
+      "A": "Predictive analytics",
+      "B": "Correlation and new insights",
+      "C": "Descriptive and diagnostic analytics",
+      "D": "Data science"
+    }
+  },
+  "4": {
+    "question": "What type of data sets does Big Data Analytics typically use?",
+    "answer": "C",
+    "options": {
+      "A": "Limited and cleansed data sets",
+      "B": "Simple models",
+      "C": "Large scale, raw, and varied data sets",
+      "D": "Only structured data"
+    }
+  },
+  "5": {
+    "question": "Traditional Analytics (BI) primarily supports understanding:",
+    "answer": "B",
+    "options": {
+      "A": "More accurate answers",
+      "B": "Causation",
+      "C": "New insights",
+      "D": "Correlation"
+    }
+  },
+  "6": {
+    "question": "Which type of Big Data Analytics answers the question \"What happened?\"",
+    "answer": "D",
+    "options": {
+      "A": "Predictive Analytics",
+      "B": "Diagnostic Analytics",
+      "C": "Prescriptive Analytics",
+      "D": "Descriptive Analytics"
+    }
+  },
+  "7": {
+    "question": "Which type of analytics focuses on determining *why* something happened?",
+    "answer": "D",
+    "options": {
+      "A": "Descriptive",
+      "B": "Prescriptive",
+      "C": "Predictive",
+      "D": "Diagnostic"
+    }
+  },
+  "8": {
+    "question": "Predictive analytics is primarily concerned with:",
+    "answer": "C",
+    "options": {
+      "A": "Why did it happen",
+      "B": "How can we make it happen",
+      "C": "What will happen",
+      "D": "What happened"
+    }
+  },
+  "9": {
+    "question": "Which type of big data analytics suggests actions to benefit from predicted outcomes?",
+    "answer": "D",
+    "options": {
+      "A": "Predictive Analytics",
+      "B": "Diagnostic Analytics",
+      "C": "Descriptive Analytics",
+      "D": "Prescriptive Analytics"
+    }
+  },
+  "10": {
+    "question": "Which of the following is NOT listed as a common Big Data problem?",
+    "answer": "D",
+    "options": {
+      "A": "Ad targeting",
+      "B": "Recommendation engine",
+      "C": "Customer churn analysis",
+      "D": "Website design"
+    }
+  },
+  "11": {
+    "question": "Which industry uses Big Data Analytics for algorithmic trading and risk analysis?",
+    "answer": "C",
+    "options": {
+      "A": "Manufacturing",
+      "B": "Retail",
+      "C": "Financial Services",
+      "D": "Energy"
+    }
+  },
+  "12": {
+    "question": "Big Data Analytics in healthcare can be applied to:",
+    "answer": "A",
+    "options": {
+      "A": "All of the above",
+      "B": "Bio-Informatics",
+      "C": "Pharmaco-Genomics",
+      "D": "Clinical Outcomes Research"
+    }
+  },
+  "13": {
+    "question": "What is Hadoop?",
+    "answer": "A",
+    "options": {
+      "A": "An open-source framework for large-scale data storage and processing",
+      "B": "A database system",
+      "C": "A data visualization tool",
+      "D": "A programming language"
+    }
+  },
+  "14": {
+    "question": "What is the core principle behind MapReduce?",
+    "answer": "D",
+    "options": {
+      "A": "Sequential processing",
+      "B": "Centralized processing",
+      "C": "Object-oriented programming",
+      "D": "Divide-and-conquer"
+    }
+  },
+  "15": {
+    "question": "What are the two main types of tasks in MapReduce?",
+    "answer": "A",
+    "options": {
+      "A": "Map and Reduce",
+      "B": "Input and Output",
+      "C": "Combine and Partition",
+      "D": "Sort and Shuffle"
+    }
+  },
+  "16": {
+    "question": "In MapReduce, what is the purpose of the 'Combine' stage?",
+    "answer": "C",
+    "options": {
+      "A": "To sort the intermediate data",
+      "B": "To divide the input data",
+      "C": "To perform local aggregation of intermediate results",
+      "D": "To send data to reducers"
+    }
+  },
+  "17": {
+    "question": "The Shuffle and Sort phase occurs during which task?",
+    "answer": "C",
+    "options": {
+      "A": "Partition Task",
+      "B": "Combine Task",
+      "C": "Reduce Task",
+      "D": "Map Task"
+    }
+  },
+  "18": {
+    "question": "Which of the following is NOT a data mining process framework mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "MAPLE",
+      "B": "KDD",
+      "C": "SEMMA",
+      "D": "CRISP-DM"
+    }
+  },
+  "19": {
+    "question": "What does KDD stand for?",
+    "answer": "C",
+    "options": {
+      "A": "Key Data Distribution",
+      "B": "Kernel Density Data",
+      "C": "Knowledge Discovery Databases",
+      "D": "Knowledge Data Discovery"
+    }
+  },
+  "20": {
+    "question": "What is the first step in the KDD process?",
+    "answer": "A",
+    "options": {
+      "A": "Selection",
+      "B": "Data Mining",
+      "C": "Transformation",
+      "D": "Preprocessing"
+    }
+  },
+  "21": {
+    "question": "Which step in KDD involves applying machine learning algorithms?",
+    "answer": "C",
+    "options": {
+      "A": "Preprocessing",
+      "B": "Interpretation/Evaluation",
+      "C": "Data Mining",
+      "D": "Transformation"
+    }
+  },
+  "22": {
+    "question": "What is the purpose of the Pre-processing stage in KDD?",
+    "answer": "D",
+    "options": {
+      "A": "Visualize the results",
+      "B": "Transform data for mining",
+      "C": "Apply ML algorithms",
+      "D": "Clean and prepare data for analysis"
+    }
+  },
+  "23": {
+    "question": "How many phases are there in the CRISP-DM methodology?",
+    "answer": "C",
+    "options": {
+      "A": "Seven",
+      "B": "Four",
+      "C": "Six",
+      "D": "Five"
+    }
+  },
+  "24": {
+    "question": "Which phase of CRISP-DM focuses on understanding the project objectives from a business perspective?",
+    "answer": "C",
+    "options": {
+      "A": "Modeling",
+      "B": "Data Understanding",
+      "C": "Business Understanding",
+      "D": "Data Preparation"
+    }
+  },
+  "25": {
+    "question": "Which of the following phases in CRISP-DM involves data cleaning, merging, and wrangling?",
+    "answer": "D",
+    "options": {
+      "A": "Business Understanding",
+      "B": "Data Understanding",
+      "C": "Modeling",
+      "D": "Data Preparation"
+    }
+  },
+  "26": {
+    "question": "What does SEMMA stand for?",
+    "answer": "B",
+    "options": {
+      "A": "System, Evaluate, Manage, Merge, Access",
+      "B": "Sample, Explore, Modify, Model, Assess",
+      "C": "Study, Examine, Model, Mine, Approve",
+      "D": "Select, Explore, Manipulate, Model, Analyze"
+    }
+  },
+  "27": {
+    "question": "Which phase of SEMMA is about data visualization and understanding data gaps?",
+    "answer": "D",
+    "options": {
+      "A": "Modify",
+      "B": "Model",
+      "C": "Sample",
+      "D": "Explore"
+    }
+  },
+  "28": {
+    "question": "In which fields has CRISP-DM been adapted, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Healthcare",
+      "B": "All of the above",
+      "C": "Software Engineering",
+      "D": "Bioinformatics"
+    }
+  },
+  "29": {
+    "question": "According to the document, how is the growth of available data best described?",
+    "answer": "C",
+    "options": {
+      "A": "Linear growth",
+      "B": "Stagnant growth",
+      "C": "Exponential growth",
+      "D": "Logarithmic growth"
+    }
+  },
+  "30": {
+    "question": "What is highlighted about the volume of data produced in recent years compared to historical data?",
+    "answer": "D",
+    "options": {
+      "A": "It is significantly less than all historical data.",
+      "B": "It is negligible compared to all historical data.",
+      "C": "It is slightly more than all historical data.",
+      "D": "It is roughly equal to all data produced up to the dawn of civilization."
+    }
+  },
+  "31": {
+    "question": "What is the primary focus of Big Data Analytics as opposed to Traditional Analytics (BI)?",
+    "answer": "D",
+    "options": {
+      "A": "Descriptive analytics",
+      "B": "Causation analysis",
+      "C": "Diagnostic analytics",
+      "D": "Predictive analytics"
+    }
+  },
+  "32": {
+    "question": "Which type of data sets is characteristic of Big Data Analytics?",
+    "answer": "A",
+    "options": {
+      "A": "Large scale data sets",
+      "B": "Cleansed data",
+      "C": "Simple models data",
+      "D": "Limited data sets"
+    }
+  },
+  "33": {
+    "question": "What type of analytical question does Traditional Analytics (BI) primarily support?",
+    "answer": "D",
+    "options": {
+      "A": "Complex data modeling",
+      "B": "Predictive modeling",
+      "C": "Correlation: new insight",
+      "D": "Causation: what happened, and why?"
+    }
+  },
+  "34": {
+    "question": "Which type of Big Data Analytics aims to answer the question 'What will happen?'?",
+    "answer": "B",
+    "options": {
+      "A": "Descriptive Analytics",
+      "B": "Predictive Analytics",
+      "C": "Prescriptive Analytics",
+      "D": "Diagnostic Analytics"
+    }
+  },
+  "35": {
+    "question": "Which type of Big Data Analytics is concerned with 'How can we make it happen?'?",
+    "answer": "C",
+    "options": {
+      "A": "Diagnostic Analytics",
+      "B": "Predictive Analytics",
+      "C": "Prescriptive Analytics",
+      "D": "Descriptive Analytics"
+    }
+  },
+  "36": {
+    "question": "In terms of value and difficulty, how do the types of Big Data Analytics generally progress?",
+    "answer": "A",
+    "options": {
+      "A": "From information to optimization",
+      "B": "Difficulty decreases as value increases",
+      "C": "They are equal in value and difficulty",
+      "D": "From optimization to information"
+    }
+  },
+  "37": {
+    "question": "Which of the following is listed as a common Big Data problem?",
+    "answer": "B",
+    "options": {
+      "A": "Small data analysis",
+      "B": "Customer churn analysis",
+      "C": "Traditional report generation",
+      "D": "Simple data aggregation"
+    }
+  },
+  "38": {
+    "question": "Predicting network failure using network data is an example of which type of application?",
+    "answer": "D",
+    "options": {
+      "A": "Small Data problem",
+      "B": "Traditional Analytics application",
+      "C": "Descriptive Analytics application",
+      "D": "Common Big Data problem"
+    }
+  },
+  "39": {
+    "question": "Which of these is NOT mentioned as a common Big Data problem in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Search quality",
+      "B": "Ad targeting",
+      "C": "Database normalization",
+      "D": "Customer churn analysis"
+    }
+  },
+  "40": {
+    "question": "Which industry uses Big Data Analytics for 'CRM - Customer Scoring' and 'Store Siting and Layout'?",
+    "answer": "A",
+    "options": {
+      "A": "Retail",
+      "B": "Manufacturing",
+      "C": "Energy",
+      "D": "Financial Services"
+    }
+  },
+  "41": {
+    "question": "In the Financial Services industry, which of the following is NOT mentioned as an application of Big Data Analytics?",
+    "answer": "C",
+    "options": {
+      "A": "Fraud Detection",
+      "B": "Risk Analysis",
+      "C": "Supply Chain Optimization",
+      "D": "Algorithmic Trading"
+    }
+  },
+  "42": {
+    "question": "Which industry applies Big Data Analytics for 'Smart Grid' and 'Exploration'?",
+    "answer": "D",
+    "options": {
+      "A": "Media & Telecommunications",
+      "B": "Healthcare & Life Sciences",
+      "C": "Government",
+      "D": "Energy"
+    }
+  },
+  "43": {
+    "question": "Which of the following is an application area of Big Data Analytics in the context of the COVID-19 pandemic, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Personal finance",
+      "B": "Small business management",
+      "C": "Pharmaceutical development",
+      "D": "Traditional marketing"
+    }
+  },
+  "44": {
+    "question": "What type of data is NOT mentioned as a source for Big Data Analytics applications in controlling the COVID-19 pandemic?",
+    "answer": "B",
+    "options": {
+      "A": "Social Media Data",
+      "B": "Stock Market Data",
+      "C": "ED and ICU Records",
+      "D": "Mobile and Sensor Data"
+    }
+  },
+  "45": {
+    "question": "Estimating or predicting the COVID-19 risk score is categorized under which application of Big Data Analytics in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Healthcare Decision Making",
+      "B": "Diagnosis",
+      "C": "Estimate or Predict Risk Score",
+      "D": "Pharmaceutical"
+    }
+  },
+  "46": {
+    "question": "What is Hadoop described as in the document?",
+    "answer": "A",
+    "options": {
+      "A": "An open-source framework",
+      "B": "A programming language",
+      "C": "A type of database",
+      "D": "A hardware component"
+    }
+  },
+  "47": {
+    "question": "For what type of data processing is Hadoop designed?",
+    "answer": "B",
+    "options": {
+      "A": "Small-scale data processing",
+      "B": "Large-scale data storage and processing",
+      "C": "Real-time transaction processing",
+      "D": "Relational database management"
+    }
+  },
+  "48": {
+    "question": "Which processing framework does Hadoop implement?",
+    "answer": "B",
+    "options": {
+      "A": "SQL",
+      "B": "MapReduce",
+      "C": "ETL",
+      "D": "BI"
+    }
+  },
+  "49": {
+    "question": "What is the core principle behind the MapReduce framework?",
+    "answer": "D",
+    "options": {
+      "A": "Single-node processing",
+      "B": "In-memory computation",
+      "C": "Real-time processing",
+      "D": "Divide-and-conquer"
+    }
+  },
+  "50": {
+    "question": "Which of the following is a characteristic of MapReduce?",
+    "answer": "C",
+    "options": {
+      "A": "Low reliability",
+      "B": "Sequential processing",
+      "C": "Built-in fault tolerance",
+      "D": "Limited scalability"
+    }
+  },
+  "51": {
+    "question": "What are the two main types of tasks in the MapReduce framework?",
+    "answer": "A",
+    "options": {
+      "A": "Map and Reduce tasks",
+      "B": "Storage and Processing tasks",
+      "C": "ETL and Analytics tasks",
+      "D": "Input and Output tasks"
+    }
+  },
+  "52": {
+    "question": "What does KDD stand for in the context of data mining?",
+    "answer": "B",
+    "options": {
+      "A": "Knowledge Driven Design",
+      "B": "Knowledge Discovery Databases",
+      "C": "Kernel Data Distribution",
+      "D": "Key Data Discovery"
+    }
+  },
+  "53": {
+    "question": "Which of the following is NOT a stage in the KDD process?",
+    "answer": "A",
+    "options": {
+      "A": "Deployment",
+      "B": "Selection",
+      "C": "Transformation",
+      "D": "Data Mining"
+    }
+  },
+  "54": {
+    "question": "What is the final stage of the KDD process?",
+    "answer": "B",
+    "options": {
+      "A": "Pre-processing",
+      "B": "Interpretation/Evaluation",
+      "C": "Transformation",
+      "D": "Data Mining"
+    }
+  },
+  "55": {
+    "question": "What does CRISP-DM stand for?",
+    "answer": "C",
+    "options": {
+      "A": "Comprehensive Reporting and Information System Processing - Data Mining",
+      "B": "Critical Resource Integration and System Platform - Data Mining",
+      "C": "Cross-Industry Standard Process for Data Mining",
+      "D": "Cross-Regional Information System Processing - Data Mining"
+    }
+  },
+  "56": {
+    "question": "How many phases are there in the CRISP-DM process?",
+    "answer": "D",
+    "options": {
+      "A": "4",
+      "B": "7",
+      "C": "5",
+      "D": "6"
+    }
+  },
+  "57": {
+    "question": "Which phase of CRISP-DM is often considered to be the most time-consuming?",
+    "answer": "D",
+    "options": {
+      "A": "Model Building",
+      "B": "Deployment",
+      "C": "Evaluation",
+      "D": "Data Preparation"
+    }
+  },
+  "58": {
+    "question": "What does SEMMA stand for in the context of data mining?",
+    "answer": "D",
+    "options": {
+      "A": "Structured Engineering and Model Management Architecture",
+      "B": "Systematic Evaluation and Model Management Approach",
+      "C": "Sample, Evaluate, Model, Modify, Assess",
+      "D": "Sample, Explore, Modify, Model, Assess"
+    }
+  },
+  "59": {
+    "question": "In the SEMMA methodology, what does the 'Explore' phase primarily involve?",
+    "answer": "D",
+    "options": {
+      "A": "Model assessment",
+      "B": "Model building",
+      "C": "Data sampling",
+      "D": "Data visualization and basic description"
+    }
+  },
+  "60": {
+    "question": "Which phase of SEMMA focuses on evaluating the accuracy and usefulness of the models?",
+    "answer": "A",
+    "options": {
+      "A": "Assess",
+      "B": "Explore",
+      "C": "Modify",
+      "D": "Model"
+    }
+  },
+  "61": {
+    "question": "What trend does the Big Data market size revenue forecast show from 2011-2027?",
+    "answer": "D",
+    "options": {
+      "A": "Steady decline",
+      "B": "No change",
+      "C": "Fluctuations",
+      "D": "Rapid growth"
+    }
+  },
+  "62": {
+    "question": "Which of the following data types is NOT mentioned as being used in weather forecasting?",
+    "answer": "A",
+    "options": {
+      "A": "Stock market trends",
+      "B": "Wind direction",
+      "C": "Previous weather reports",
+      "D": "Climate change details"
+    }
+  },
+  "63": {
+    "question": "The University of Melbourne developed a tool to predict what, using Big Data?",
+    "answer": "A",
+    "options": {
+      "A": "Landslides",
+      "B": "Hurricanes",
+      "C": "Tornadoes",
+      "D": "Floods"
+    }
+  },
+  "64": {
+    "question": "How far in advance can the University of Melbourne's tool predict landslides?",
+    "answer": "D",
+    "options": {
+      "A": "Two days",
+      "B": "Two years",
+      "C": "Two months",
+      "D": "Two weeks"
+    }
+  },
+  "65": {
+    "question": "How do media companies use Big Data for advertising?",
+    "answer": "D",
+    "options": {
+      "A": "By randomly displaying ads",
+      "B": "By using print media only",
+      "C": "By showing only celebrity endorsements",
+      "D": "By analyzing user data like browsing history and purchases"
+    }
+  },
+  "66": {
+    "question": "What is customer churn analysis used for in the media and entertainment industry?",
+    "answer": "D",
+    "options": {
+      "A": "To design new shows.",
+      "B": "To understand customer behavior.",
+      "C": "To increase advertising revenue.",
+      "D": "To identify customers likely to cancel their subscriptions."
+    }
+  },
+  "67": {
+    "question": "What kind data is used for building personalized lists in the media and entertainment sector?",
+    "answer": "B",
+    "options": {
+      "A": "Past watch history",
+      "B": "All of the above",
+      "C": "Subscriptions",
+      "D": "Browsing history"
+    }
+  },
+  "68": {
+    "question": "How does Big Data contribute to medical research?",
+    "answer": "C",
+    "options": {
+      "A": "By speeding up clinical trials.",
+      "B": "By automating surgical procedures.",
+      "C": "By enabling the discovery of new treatments and medicines.",
+      "D": "By reducing the cost of healthcare equipment."
+    }
+  },
+  "69": {
+    "question": "What does United Healthcare use Big Data for, as mentioned in the video?",
+    "answer": "D",
+    "options": {
+      "A": "To predict patient preferences.",
+      "B": "To automate billing processes.",
+      "C": "To schedule doctor appointments.",
+      "D": "To detect medical fraud and identity threats."
+    }
+  },
+  "70": {
+    "question": "In healthcare, how personalized care is given to each patient?",
+    "answer": "C",
+    "options": {
+      "A": "Based on patient's age",
+      "B": "Based on their address",
+      "C": "Based on their past medical history",
+      "D": "Based on patient's gender"
+    }
+  },
+  "71": {
+    "question": "What factors do sensors within vehicles analyze to optimize routes in logistics?",
+    "answer": "C",
+    "options": {
+      "A": "Driver preferences",
+      "B": "Fuel prices",
+      "C": "Weather, traffic, and orders",
+      "D": "Vehicle color"
+    }
+  },
+  "72": {
+    "question": "How does Big Data contribute to smart warehousing?",
+    "answer": "A",
+    "options": {
+      "A": "By improving resource allocation and reducing costs.",
+      "B": "By automating the packaging process.",
+      "C": "By replacing warehouse workers with robots.",
+      "D": "By predicting customer demand."
+    }
+  },
+  "73": {
+    "question": "UPS uses Big Data to optimize which of the following?",
+    "answer": "C",
+    "options": {
+      "A": "Customer base",
+      "B": "Package Size",
+      "C": "Routes Dynamically",
+      "D": "All of the above"
+    }
+  },
+  "74": {
+    "question": "How customer satisfaction is achieved in the logistics sector?",
+    "answer": "D",
+    "options": {
+      "A": "by increasing the prices",
+      "B": "all of the above",
+      "C": "by reducing the workforce",
+      "D": "by analyzing the customer's reactions to create instant feedback loop"
+    }
+  },
+  "75": {
+    "question": "How does the New York Police Department use Big Data?",
+    "answer": "D",
+    "options": {
+      "A": "To train new officers.",
+      "B": "To manage police budgets.",
+      "C": "To schedule patrols.",
+      "D": "To identify crime trends and prevent crimes."
+    }
+  },
+  "76": {
+    "question": "What kind of information can governments analyze to address unemployment?",
+    "answer": "B",
+    "options": {
+      "A": "The weather patterns in different regions.",
+      "B": "The number of students graduating and job openings.",
+      "C": "The number of tourists visiting the country.",
+      "D": "The stock market performance."
+    }
+  },
+  "77": {
+    "question": "In Government and Law Enforcement, what is the use of Predictive policing?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce traffic",
+      "B": "All of the above",
+      "C": "To forecast the weather.",
+      "D": "To predict the criminal activity before it happens."
+    }
+  },
+  "78": {
+    "question": "How can governments use Big Data to address poverty?",
+    "answer": "B",
+    "options": {
+      "A": "All of the above",
+      "B": "By developing the under-developed area",
+      "C": "By identifying the developed area",
+      "D": "By analyzing the developed area"
+    }
+  },
+  "79": {
+    "question": "Which of the following information does Big Data helps hotels and resorts to analyze?",
+    "answer": "C",
+    "options": {
+      "A": "Tourists' likes and preferences",
+      "B": "Tourists' travel histories",
+      "C": "All of the above",
+      "D": "Information about their competitors"
+    }
+  },
+  "80": {
+    "question": "According to the video, what trend is observed in the big data market revenue forecast from 2011 to 2027?",
+    "answer": "D",
+    "options": {
+      "A": "A stagnant growth",
+      "B": "A steady decline",
+      "C": "Fluctuating growth",
+      "D": "A rapid growth"
+    }
+  },
+  "81": {
+    "question": "What is the primary reason cited for the growth of big data market revenue?",
+    "answer": "C",
+    "options": {
+      "A": "Reduced data analysis capabilities",
+      "B": "Decreased data generation",
+      "C": "Companies using big data to boost revenue",
+      "D": "Limited applications of big data"
+    }
+  },
+  "82": {
+    "question": "What types of data are analyzed in weather forecasting using big data?",
+    "answer": "A",
+    "options": {
+      "A": "Climate change details, wind direction, precipitation, historical weather reports",
+      "B": "Financial market data",
+      "C": "Social media trends only",
+      "D": "Customer purchase history"
+    }
+  },
+  "83": {
+    "question": "What is the benefit of using big data in weather forecasting?",
+    "answer": "C",
+    "options": {
+      "A": "To make weather forecasts less accurate",
+      "B": "To eliminate the need for weather reports",
+      "C": "To enable better preparedness for natural calamities",
+      "D": "To reduce the amount of data collected"
+    }
+  },
+  "84": {
+    "question": "Which university developed a tool to predict landslides using big data?",
+    "answer": "C",
+    "options": {
+      "A": "Massachusetts Institute of Technology",
+      "B": "Stanford University",
+      "C": "University of Melbourne",
+      "D": "University of Oxford"
+    }
+  },
+  "85": {
+    "question": "In media and entertainment, big data is NOT used for:",
+    "answer": "B",
+    "options": {
+      "A": "Targeted advertisement",
+      "B": "Manufacturing process optimization",
+      "C": "Recommendation engines",
+      "D": "Customer sentiment analysis"
+    }
+  },
+  "86": {
+    "question": "What is the purpose of recommendation engines in the media and entertainment industry?",
+    "answer": "B",
+    "options": {
+      "A": "To predict stock market fluctuations",
+      "B": "To suggest content based on user preferences",
+      "C": "To track employee performance",
+      "D": "To manage warehouse inventory"
+    }
+  },
+  "87": {
+    "question": "Customer churn analysis in media and entertainment aims to:",
+    "answer": "B",
+    "options": {
+      "A": "Improve employee satisfaction",
+      "B": "Understand and reduce customer attrition",
+      "C": "Increase customer churn rate",
+      "D": "Boost customer satisfaction"
+    }
+  },
+  "88": {
+    "question": "How does big data contribute to medical research?",
+    "answer": "B",
+    "options": {
+      "A": "By slowing down the research process",
+      "B": "By enabling efficient analysis of medical histories to discover new treatments",
+      "C": "By limiting access to medical data",
+      "D": "By increasing healthcare costs"
+    }
+  },
+  "89": {
+    "question": "What is 'personalized treatment' in healthcare, enabled by big data?",
+    "answer": "C",
+    "options": {
+      "A": "Treatment based on general guidelines only",
+      "B": "A standard treatment for all patients",
+      "C": "Tailored care based on patient medical history and body parameters",
+      "D": "Reduced attention to patient history"
+    }
+  },
+  "90": {
+    "question": "How does big data contribute to cost reduction in healthcare?",
+    "answer": "D",
+    "options": {
+      "A": "By reducing medical research efforts",
+      "B": "By increasing hospital readmissions",
+      "C": "By limiting personalized treatments",
+      "D": "By minimizing hospital readmissions through predictive insights"
+    }
+  },
+  "91": {
+    "question": "What is 'flexible routing' in logistics, as enabled by big data?",
+    "answer": "D",
+    "options": {
+      "A": "Ignoring weather and traffic conditions",
+      "B": "A fixed route for all deliveries",
+      "C": "Routing based only on distance",
+      "D": "Analyzing real-time data to find the fastest route"
+    }
+  },
+  "92": {
+    "question": "How does big data analytics improve smart warehousing?",
+    "answer": "D",
+    "options": {
+      "A": "By reducing the need for tracking sensors",
+      "B": "By increasing warehouse space",
+      "C": "By slowing down warehouse operations",
+      "D": "By enabling efficient resource allocation and cost reduction"
+    }
+  },
+  "93": {
+    "question": "Which company is cited as an example of leveraging big data in logistics?",
+    "answer": "C",
+    "options": {
+      "A": "Amazon",
+      "B": "DHL",
+      "C": "UPS",
+      "D": "FedEx"
+    }
+  },
+  "94": {
+    "question": "What is 'predictive policing'?",
+    "answer": "B",
+    "options": {
+      "A": "Focusing only on past crime records",
+      "B": "Forecasting criminal activity before it happens using big data",
+      "C": "Ignoring crime data",
+      "D": "Reducing police presence in high-crime areas"
+    }
+  },
+  "95": {
+    "question": "How does big data help governments tackle unemployment?",
+    "answer": "B",
+    "options": {
+      "A": "By reducing educational opportunities",
+      "B": "By analyzing student graduation and job opening data to understand unemployment",
+      "C": "By increasing unemployment rates",
+      "D": "By ignoring job market trends"
+    }
+  },
+  "96": {
+    "question": "Which police department is mentioned as using big data analytics to protect its citizens?",
+    "answer": "C",
+    "options": {
+      "A": "Los Angeles Police Department",
+      "B": "Miami Police Department",
+      "C": "New York Police Department",
+      "D": "Chicago Police Department"
+    }
+  }
+}

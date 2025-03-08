@@ -1,0 +1,1452 @@
+{
+  "1": {
+    "question": "What is a negative consequence of poor data governance in a company?",
+    "answer": "D",
+    "options": {
+      "A": "Faster customer service",
+      "B": "Increased customer satisfaction",
+      "C": "Reduced operational costs",
+      "D": "Customers repeating information to multiple agents"
+    }
+  },
+  "2": {
+    "question": "What is the purpose of a central data repository in a company?",
+    "answer": "C",
+    "options": {
+      "A": "To have multiple locations for the same data.",
+      "B": "To store only non-confidential data",
+      "C": "To store all types of data in a single location",
+      "D": "To prevent data from being shared between departments"
+    }
+  },
+  "3": {
+    "question": "Which of these is an example of Non-Confidential data?",
+    "answer": "C",
+    "options": {
+      "A": "SSN",
+      "B": "Account Number",
+      "C": "Name",
+      "D": "Credit Card Pin"
+    }
+  },
+  "4": {
+    "question": "What are the three main components of a data governance framework?",
+    "answer": "C",
+    "options": {
+      "A": "Centralization, Security, and Access",
+      "B": "Policy, Marketing, and Loans",
+      "C": "Policy, Rules, and Classification",
+      "D": "Repository, Sharing, and Protection"
+    }
+  },
+  "5": {
+    "question": "What is GDPR an example of in the context of data governance?",
+    "answer": "D",
+    "options": {
+      "A": "A specific rule for data sharing",
+      "B": "An internal data protection policy",
+      "C": "A type of data classification",
+      "D": "A national guideline for data protection"
+    }
+  },
+  "6": {
+    "question": "Which of the following best describes data protection rules?",
+    "answer": "A",
+    "options": {
+      "A": "Rules that apply to specific types of data assets",
+      "B": "Policies that apply to all organizational data",
+      "C": "Written descriptions of data handling procedures",
+      "D": "General guidelines for data management"
+    }
+  },
+  "7": {
+    "question": "Which type of rule provides a written description of how data should be handled?",
+    "answer": "A",
+    "options": {
+      "A": "Governance rule",
+      "B": "Classification rule",
+      "C": "Policy rule",
+      "D": "Data protection rule"
+    }
+  },
+  "8": {
+    "question": "What is the purpose of classification in a data governance framework?",
+    "answer": "C",
+    "options": {
+      "A": "To create rules for data protection",
+      "B": "To describe how to handle data",
+      "C": "To categorize data flowing into the organization",
+      "D": "To write policies for data governance"
+    }
+  },
+  "9": {
+    "question": "Which of the following is NOT a component of classification within a data governance framework?",
+    "answer": "C",
+    "options": {
+      "A": "Data Classes",
+      "B": "Metadata",
+      "C": "Reference Data",
+      "D": "Business Terms"
+    }
+  },
+  "10": {
+    "question": "What is the primary function of business terms in data governance?",
+    "answer": "B",
+    "options": {
+      "A": "To classify data based on its source",
+      "B": "To standardize the interpretation of data across departments",
+      "C": "To protect confidential customer information",
+      "D": "To create rules for data access"
+    }
+  },
+  "11": {
+    "question": "What does metadata provide in the context of data classes?",
+    "answer": "C",
+    "options": {
+      "A": "A detailed analysis of the data",
+      "B": "A classification of the data based on its sensitivity",
+      "C": "A summary of the data within a data source",
+      "D": "A set of rules for accessing the data"
+    }
+  },
+  "12": {
+    "question": "What information would most likely NOT be part of Metadata?",
+    "answer": "B",
+    "options": {
+      "A": "The number of rows in a spreadsheet",
+      "B": "The formula used in a specific cell of a spreadsheet.",
+      "C": "The date a document was created.",
+      "D": "The names of columns in a spreadsheet"
+    }
+  },
+  "13": {
+    "question": "How can reference data be used within a data governance framework?",
+    "answer": "A",
+    "options": {
+      "A": "To automate the application of policies and rules",
+      "B": "To manually classify data",
+      "C": "To create new business terms",
+      "D": "To replace metadata"
+    }
+  },
+  "14": {
+    "question": "What is the primary purpose of data governance, as described in the video?",
+    "answer": "B",
+    "options": {
+      "A": "To complicate data access for employees.",
+      "B": "To protect data and ensure efficient sharing within an organization.",
+      "C": "To increase customer service wait times.",
+      "D": "To reduce the amount of data collected by companies."
+    }
+  },
+  "15": {
+    "question": "According to the video, poor data governance can lead to which of the following customer experiences?",
+    "answer": "B",
+    "options": {
+      "A": "Efficient and personalized customer service.",
+      "B": "Repetitive questioning and inefficient customer service.",
+      "C": "Faster resolution of customer issues.",
+      "D": "Improved data security and privacy."
+    }
+  },
+  "16": {
+    "question": "In the context of data governance, what is a central repository primarily used for?",
+    "answer": "A",
+    "options": {
+      "A": "To store all types of organizational data in one place.",
+      "B": "To restrict data access across departments.",
+      "C": "To confuse customer service agents.",
+      "D": "To slow down data flow within a company."
+    }
+  },
+  "17": {
+    "question": "According to the video, where does data flow into the central repository from?",
+    "answer": "B",
+    "options": {
+      "A": "Only from internal company databases.",
+      "B": "From websites and mobile apps where customers input information.",
+      "C": "Exclusively from marketing departments.",
+      "D": "Only from loan departments."
+    }
+  },
+  "18": {
+    "question": "What are the three main components of a data governance framework, as outlined in the video?",
+    "answer": "C",
+    "options": {
+      "A": "Input, Process, Output.",
+      "B": "Security, Privacy, Compliance.",
+      "C": "Policy, Rules, Classification.",
+      "D": "Data Collection, Data Storage, Data Analysis."
+    }
+  },
+  "19": {
+    "question": "Which of the following is an example of a 'Policy' in a data governance framework, according to the video?",
+    "answer": "C",
+    "options": {
+      "A": "Classifying data based on business terms.",
+      "B": "A rule that dictates how customer service uses data.",
+      "C": "GDPR (General Data Protection Regulation).",
+      "D": "Using metadata to understand data classes."
+    }
+  },
+  "20": {
+    "question": "What are the two main types of 'Rules' within a data governance framework, as mentioned in the video?",
+    "answer": "C",
+    "options": {
+      "A": "Internal and External Rules.",
+      "B": "Simple and Complex Rules.",
+      "C": "Data Protection and Governance Rules.",
+      "D": "Confidential and Non-confidential Rules."
+    }
+  },
+  "21": {
+    "question": "'Classification' in data governance involves using which of the following?",
+    "answer": "A",
+    "options": {
+      "A": "Business terms and data classes (metadata).",
+      "B": "Physical security measures for data centers.",
+      "C": "Strict access control policies only.",
+      "D": "Data encryption and firewalls."
+    }
+  },
+  "22": {
+    "question": "What is the main focus of 'Data Protection Rules' within a data governance framework?",
+    "answer": "B",
+    "options": {
+      "A": "To classify data based on metadata.",
+      "B": "To protect specific sensitive data assets like SSNs.",
+      "C": "To define business terms for data.",
+      "D": "To describe how marketing departments use data."
+    }
+  },
+  "23": {
+    "question": "According to the video, which of the following is an example of data that would be protected by 'Data Protection Rules'?",
+    "answer": "C",
+    "options": {
+      "A": "Website visit history.",
+      "B": "Product preferences.",
+      "C": "Social Security Numbers and account numbers.",
+      "D": "Customer names and addresses."
+    }
+  },
+  "24": {
+    "question": "What is the role of 'Governance Rules' in data governance?",
+    "answer": "D",
+    "options": {
+      "A": "To encrypt sensitive data.",
+      "B": "To classify data using metadata.",
+      "C": "To implement GDPR policies.",
+      "D": "To provide written descriptions of how to handle data."
+    }
+  },
+  "25": {
+    "question": "The video suggests that 'Governance Rules' are important for which organizational function?",
+    "answer": "C",
+    "options": {
+      "A": "Setting up data encryption.",
+      "B": "Defining data protection policies.",
+      "C": "Explaining data usage across different departments.",
+      "D": "Implementing data classes and business terms."
+    }
+  },
+  "26": {
+    "question": "What is the purpose of 'Business Terms' in data classification?",
+    "answer": "D",
+    "options": {
+      "A": "To define data protection rules.",
+      "B": "To manage data access control.",
+      "C": "To encrypt data for security.",
+      "D": "To standardize the language for data interpretation across an organization."
+    }
+  },
+  "27": {
+    "question": "In the video example, how are 'Business Terms' used to standardize the understanding of 'utilization rate'?",
+    "answer": "A",
+    "options": {
+      "A": "By defining a consistent way to measure and understand utilization rate.",
+      "B": "By restricting access to utilization rate data.",
+      "C": "By encrypting the utilization rate data.",
+      "D": "By measuring utilization rate in different units across departments."
+    }
+  },
+  "28": {
+    "question": "What is 'Metadata' in the context of 'Data Classes'?",
+    "answer": "C",
+    "options": {
+      "A": "The actual data content itself.",
+      "B": "Encryption keys for data protection.",
+      "C": "Data about data, providing a summary of a data source.",
+      "D": "Access control lists for data security."
+    }
+  },
+  "29": {
+    "question": "According to the video, how can metadata help in data governance?",
+    "answer": "D",
+    "options": {
+      "A": "By making data interpretation more complex.",
+      "B": "By slowing down data access.",
+      "C": "By encrypting the entire data source.",
+      "D": "By providing a summary of data source content without opening it."
+    }
+  },
+  "30": {
+    "question": "How can data governance frameworks be automated, as described in the video?",
+    "answer": "C",
+    "options": {
+      "A": "By increasing the number of customer service agents.",
+      "B": "By simplifying data policies and rules.",
+      "C": "Through reference data, which is essentially code.",
+      "D": "By manual data inspection."
+    }
+  },
+  "31": {
+    "question": "What is the benefit of automating data governance frameworks using reference data?",
+    "answer": "B",
+    "options": {
+      "A": "It slows down data flow within the organization.",
+      "B": "It ensures consistent data handling and reduces human error.",
+      "C": "It increases the cost of data management.",
+      "D": "It makes data governance more complex."
+    }
+  },
+  "32": {
+    "question": "How is poor data quality compared to in the analogy in the context of business outcomes?",
+    "answer": "B",
+    "options": {
+      "A": "Strong customer relationships",
+      "B": "Poor-quality ingredients",
+      "C": "Efficient marketing strategies",
+      "D": "High-quality software"
+    }
+  },
+  "33": {
+    "question": "In the context of a lead generation company, what does data accuracy refer to?",
+    "answer": "B",
+    "options": {
+      "A": "The speed of data processing.",
+      "B": "The alignment of data with real-world conditions.",
+      "C": "The cost per lead.",
+      "D": "The number of leads generated."
+    }
+  },
+  "34": {
+    "question": "What would cause a sudden and inaccurate spike in website usage data?",
+    "answer": "B",
+    "options": {
+      "A": "Human visitors",
+      "B": "Bots",
+      "C": "Marketing campaign",
+      "D": "Regular traffic"
+    }
+  },
+  "35": {
+    "question": "What characterizes data completeness?",
+    "answer": "C",
+    "options": {
+      "A": "Data is collected from a single source.",
+      "B": "Data is free of duplicates.",
+      "C": "All required fields in a dataset are filled with data.",
+      "D": "All data fields are present, but some may be incorrect."
+    }
+  },
+  "36": {
+    "question": "Which factor can cause incompleteness when collecting survey data?",
+    "answer": "C",
+    "options": {
+      "A": "All participants fill out all fields.",
+      "B": "The system verifies every input automatically.",
+      "C": "Some participants skip optional fields.",
+      "D": "All fields are marked as required."
+    }
+  },
+  "37": {
+    "question": "What does data consistency ensure?",
+    "answer": "A",
+    "options": {
+      "A": "Data is presented uniformly across different data sources.",
+      "B": "Data is unique across all records.",
+      "C": "Data is complete and accurate.",
+      "D": "Data is collected at regular intervals."
+    }
+  },
+  "38": {
+    "question": "In the context of different departments, what can cause inconsistency in data collection?",
+    "answer": "D",
+    "options": {
+      "A": "Departments synchronize every transaction.",
+      "B": "There is a centralized database.",
+      "C": "Each department uses the same standards for collection.",
+      "D": "Different departments use different formats for the same type of data."
+    }
+  },
+  "39": {
+    "question": "What does data uniqueness primarily address?",
+    "answer": "C",
+    "options": {
+      "A": "The accuracy of the data.",
+      "B": "The completeness of data fields.",
+      "C": "The presence of duplicate records.",
+      "D": "The consistency of data formats."
+    }
+  },
+  "40": {
+    "question": "If 20% of 50,000 leads are duplicates, how many unique leads are there?",
+    "answer": "A",
+    "options": {
+      "A": "40,000",
+      "B": "50,000",
+      "C": "20,000",
+      "D": "10,000"
+    }
+  },
+  "41": {
+    "question": "How can machine learning and AI assist in maintaining data quality?",
+    "answer": "B",
+    "options": {
+      "A": "By increasing the volume of data collected.",
+      "B": "By automatically detecting data quality issues.",
+      "C": "By manually reviewing all data entries.",
+      "D": "By creating more complex data models."
+    }
+  },
+  "42": {
+    "question": "According to the video, how can data quality affect business outcomes?",
+    "answer": "B",
+    "options": {
+      "A": "It improves business outcomes regardless of its quality.",
+      "B": "It can significantly impact business outcomes negatively.",
+      "C": "It has no impact if the company generates large amounts of data.",
+      "D": "It only affects small businesses, not large corporations."
+    }
+  },
+  "43": {
+    "question": "What analogy is used to explain the impact of poor data quality?",
+    "answer": "B",
+    "options": {
+      "A": "A computer with a slow processor.",
+      "B": "A chef using poor quality ingredients.",
+      "C": "A car with flat tires.",
+      "D": "A house with a weak foundation."
+    }
+  },
+  "44": {
+    "question": "What does 'accuracy' in data quality primarily refer to?",
+    "answer": "A",
+    "options": {
+      "A": "The degree to which data reflects reality.",
+      "B": "The consistency of data across sources.",
+      "C": "The uniqueness of data entries.",
+      "D": "The completeness of the data."
+    }
+  },
+  "45": {
+    "question": "In the context of website traffic, what makes data inaccurate according to the video?",
+    "answer": "B",
+    "options": {
+      "A": "Traffic from international users.",
+      "B": "Unaccounted bot traffic inflating usage metrics.",
+      "C": "Traffic during peak hours.",
+      "D": "High volume of traffic."
+    }
+  },
+  "46": {
+    "question": "What does 'completeness' in data quality mean?",
+    "answer": "A",
+    "options": {
+      "A": "Ensuring all necessary fields in a dataset are filled.",
+      "B": "Having data that is consistent across all platforms.",
+      "C": "Having data from all possible sources.",
+      "D": "Ensuring data is free of duplicate entries."
+    }
+  },
+  "47": {
+    "question": "In a survey campaign example, what makes the data 'incomplete'?",
+    "answer": "C",
+    "options": {
+      "A": "Having too many fields in the survey.",
+      "B": "Collecting only names and emails.",
+      "C": "Not requiring participants to fill in all fields like name or email.",
+      "D": "Collecting data from too many participants."
+    }
+  },
+  "48": {
+    "question": "What is 'consistency' in the context of data quality?",
+    "answer": "A",
+    "options": {
+      "A": "How uniformly data is represented across different sources.",
+      "B": "How well all fields in a dataset are filled.",
+      "C": "How accurately the data reflects reality.",
+      "D": "How free of duplicates the data is."
+    }
+  },
+  "49": {
+    "question": "What example is used to illustrate data inconsistency in the video?",
+    "answer": "A",
+    "options": {
+      "A": "Zip codes stored in different digit formats across databases.",
+      "B": "Inconsistent dates in transaction logs.",
+      "C": "Different spellings of customer names.",
+      "D": "Varying currency formats in financial records."
+    }
+  },
+  "50": {
+    "question": "What does 'uniqueness' as a data quality dimension refer to?",
+    "answer": "B",
+    "options": {
+      "A": "The originality of the data sources.",
+      "B": "The absence of duplicate entries in a dataset.",
+      "C": "The specific attributes that make data valuable.",
+      "D": "The unique format of each data entry."
+    }
+  },
+  "51": {
+    "question": "Why are duplicate leads problematic for a lead generation company, according to the video?",
+    "answer": "D",
+    "options": {
+      "A": "They can lead to inconsistent data.",
+      "B": "They increase data storage costs.",
+      "C": "They make data processing slower.",
+      "D": "They inflate the perceived number of new leads."
+    }
+  },
+  "52": {
+    "question": "What technology is suggested to improve data quality and reduce manual inspection?",
+    "answer": "C",
+    "options": {
+      "A": "Database management systems.",
+      "B": "Spreadsheet software.",
+      "C": "AI and Machine Learning.",
+      "D": "Cloud storage solutions."
+    }
+  },
+  "53": {
+    "question": "How can AI and Machine Learning help with data quality?",
+    "answer": "A",
+    "options": {
+      "A": "By automating the detection of data quality issues.",
+      "B": "By making data analysis more complex.",
+      "C": "By replacing human data analysts entirely.",
+      "D": "By increasing the volume of data collected."
+    }
+  },
+  "54": {
+    "question": "Which of the following best describes the relationship between data quality and data governance?",
+    "answer": "B",
+    "options": {
+      "A": "Data governance is a subset of data quality.",
+      "B": "They are related but distinct concepts.",
+      "C": "Data quality is a subset of data governance.",
+      "D": "They are the same thing."
+    }
+  },
+  "55": {
+    "question": "Data governance provides _________ to manage data as an asset",
+    "answer": "A",
+    "options": {
+      "A": "Necessary policies, processes, standards, roles and responsibilities",
+      "B": "Only processes",
+      "C": "Only policies",
+      "D": "Only standards"
+    }
+  },
+  "56": {
+    "question": "Which of the following is NOT a dimension of data quality?",
+    "answer": "B",
+    "options": {
+      "A": "Completeness",
+      "B": "Accessibility",
+      "C": "Validity",
+      "D": "Accuracy"
+    }
+  },
+  "57": {
+    "question": "What term is used to summarize data that meets data quality standards, according to Dr Peter Aiken?",
+    "answer": "A",
+    "options": {
+      "A": "Fit for Purpose",
+      "B": "Managed Data",
+      "C": "Clean Data",
+      "D": "Governed Data"
+    }
+  },
+  "58": {
+    "question": "According to DAMA, data governance involves:",
+    "answer": "D",
+    "options": {
+      "A": "Only enforcement",
+      "B": "Only planning",
+      "C": "Only monitoring",
+      "D": "The exercise of authority, control, and shared decision-making."
+    }
+  },
+  "59": {
+    "question": "Data governance can be seen as an _______ of data quality",
+    "answer": "D",
+    "options": {
+      "A": "Ending",
+      "B": "Involution",
+      "C": "Beginning",
+      "D": "Evolution"
+    }
+  },
+  "60": {
+    "question": "How many data management knowledge areas does the DAMA-DMBOK2 framework identify?",
+    "answer": "B",
+    "options": {
+      "A": "13",
+      "B": "11",
+      "C": "12",
+      "D": "10"
+    }
+  },
+  "61": {
+    "question": "According to DAMA-DMBOK2 Data Management Framework, which knowledge area is placed in the middle?",
+    "answer": "A",
+    "options": {
+      "A": "Data governance",
+      "B": "Data quality",
+      "C": "Data security",
+      "D": "Metadata"
+    }
+  },
+  "62": {
+    "question": "Which of the following elements are part of the overlap between data quality and data governance?",
+    "answer": "C",
+    "options": {
+      "A": "Data profiling and data matching",
+      "B": "Data cleansing and root cause analysis",
+      "C": "Data rules and data standards",
+      "D": "Data architecture and data modeling"
+    }
+  },
+  "63": {
+    "question": "What is a potential consequence of having data quality initiatives without formal data governance?",
+    "answer": "B",
+    "options": {
+      "A": "Better data integration",
+      "B": "Lack of common standards and roles",
+      "C": "Clear enterprise-wide standards",
+      "D": "Improved data consistency"
+    }
+  },
+  "64": {
+    "question": "Data Quality programs without data governance, in comparison to those with data governance, are generally:",
+    "answer": "C",
+    "options": {
+      "A": "Formal",
+      "B": "Comprehensive",
+      "C": "Reactive",
+      "D": "Proactive"
+    }
+  },
+  "65": {
+    "question": "What is \"undercover data governance\"?",
+    "answer": "B",
+    "options": {
+      "A": "Having no data standards.",
+      "B": "Having elements of data governance without a formal framework.",
+      "C": "Having a fully implemented data governance program.",
+      "D": "Having no data quality policies."
+    }
+  },
+  "66": {
+    "question": "What is the primary focus of Data Quality Management?",
+    "answer": "D",
+    "options": {
+      "A": "Defining roles and responsibilities for data.",
+      "B": "Enforcing data compliance policies.",
+      "C": "Implementing data security measures.",
+      "D": "Ensuring data adheres to quality dimensions."
+    }
+  },
+  "67": {
+    "question": "Which of the following is NOT mentioned as a data quality dimension in the video?",
+    "answer": "A",
+    "options": {
+      "A": "Relevancy",
+      "B": "Validity",
+      "C": "Timeliness",
+      "D": "Accuracy"
+    }
+  },
+  "68": {
+    "question": "According to Dr. Peter Aiken, what term best describes data quality?",
+    "answer": "A",
+    "options": {
+      "A": "Fit for purpose",
+      "B": "Data integrity",
+      "C": "Data compliance",
+      "D": "Data governance"
+    }
+  },
+  "69": {
+    "question": "What does 'fit for purpose' imply about data quality?",
+    "answer": "A",
+    "options": {
+      "A": "Data is of good quality and suitable for its intended use.",
+      "B": "Data is complex and detailed.",
+      "C": "Data is compliant with all regulations.",
+      "D": "Data is stored in a centralized repository."
+    }
+  },
+  "70": {
+    "question": "According to DAMA-DMBOK2, how is Data Quality categorized within data management?",
+    "answer": "C",
+    "options": {
+      "A": "As a subset of Data Governance",
+      "B": "As a separate and independent function",
+      "C": "As one of the eleven data management domains",
+      "D": "As the foundation of Data Security"
+    }
+  },
+  "71": {
+    "question": "How many data management domains are identified in the DAMA-DMBOK2 framework?",
+    "answer": "A",
+    "options": {
+      "A": "11",
+      "B": "8",
+      "C": "15",
+      "D": "5"
+    }
+  },
+  "72": {
+    "question": "According to DAMA International, Data Quality Management includes which activities?",
+    "answer": "B",
+    "options": {
+      "A": "Automating data validation processes.",
+      "B": "Planning, implementation, and control of quality management techniques.",
+      "C": "Primarily data cleansing and profiling.",
+      "D": "Focusing solely on data accuracy."
+    }
+  },
+  "73": {
+    "question": "What is the ultimate goal of Data Quality Management according to DAMA's definition?",
+    "answer": "A",
+    "options": {
+      "A": "To ensure data is fit for consumption and meets the needs of data consumers.",
+      "B": "To comply with data regulations.",
+      "C": "To reduce data storage costs.",
+      "D": "To improve data security."
+    }
+  },
+  "74": {
+    "question": "What role does Data Governance play in relation to Data Quality?",
+    "answer": "A",
+    "options": {
+      "A": "Data Governance acts as an enabler and connector for Data Quality.",
+      "B": "Data Governance focuses only on data security, not quality.",
+      "C": "Data Governance is completely independent of Data Quality.",
+      "D": "Data Governance is a subset of Data Quality."
+    }
+  },
+  "75": {
+    "question": "Which elements does Data Governance provide to support data management?",
+    "answer": "A",
+    "options": {
+      "A": "Policies, processes, standards, roles, and responsibilities.",
+      "B": "Data analysis and reporting dashboards.",
+      "C": "Data cleansing tools and techniques.",
+      "D": "Data storage and infrastructure."
+    }
+  },
+  "76": {
+    "question": "What is a potential limitation of implementing Data Quality initiatives without Data Governance?",
+    "answer": "C",
+    "options": {
+      "A": "Reduced data accessibility for users.",
+      "B": "Overly complex data quality rules.",
+      "C": "Lack of enterprise-wide scope and common standards.",
+      "D": "Increased data storage costs."
+    }
+  },
+  "77": {
+    "question": "Data Quality efforts without Data Governance are often described as:",
+    "answer": "B",
+    "options": {
+      "A": "Standardized",
+      "B": "Reactive",
+      "C": "Enterprise-wide",
+      "D": "Proactive"
+    }
+  },
+  "78": {
+    "question": "What is meant by 'undercover data governance' in the video?",
+    "answer": "D",
+    "options": {
+      "A": "Data governance practices hidden from management.",
+      "B": "Data governance implemented secretly for security reasons.",
+      "C": "Data governance practices focused only on data security.",
+      "D": "Informal data governance elements existing without a formal framework."
+    }
+  },
+  "79": {
+    "question": "Which of these could be an example of 'undercover data governance'?",
+    "answer": "A",
+    "options": {
+      "A": "Data quality metrics defined only for a specific ERP system.",
+      "B": "Regular data governance audits conducted across the organization.",
+      "C": "A dedicated data governance team with a clear mandate.",
+      "D": "A fully documented and enterprise-wide data governance policy."
+    }
+  },
+  "80": {
+    "question": "The video describes the relationship between Data Governance and Data Quality as:",
+    "answer": "B",
+    "options": {
+      "A": "Independent",
+      "B": "Symbiotic",
+      "C": "Hierarchical",
+      "D": "Antagonistic"
+    }
+  },
+  "81": {
+    "question": "According to Dr. David Marco, Data Governance can be seen as an evolution of:",
+    "answer": "B",
+    "options": {
+      "A": "Data Security",
+      "B": "Data Quality",
+      "C": "Data Architecture",
+      "D": "Master Data Management"
+    }
+  },
+  "82": {
+    "question": "Which of the following is NOT one of the six core data quality dimensions defined by DAMA?",
+    "answer": "D",
+    "options": {
+      "A": "Timeliness",
+      "B": "Accuracy",
+      "C": "Completeness",
+      "D": "Redundancy"
+    }
+  },
+  "83": {
+    "question": "What data quality dimension refers to the degree to which data represents reality from the required point in time?",
+    "answer": "B",
+    "options": {
+      "A": "Validity",
+      "B": "Timeliness",
+      "C": "Accuracy",
+      "D": "Consistency"
+    }
+  },
+  "84": {
+    "question": "If a student's date of birth is recorded differently across multiple databases, which data quality dimension is violated?",
+    "answer": "B",
+    "options": {
+      "A": "Timeliness",
+      "B": "Consistency",
+      "C": "Uniqueness",
+      "D": "Completeness"
+    }
+  },
+  "85": {
+    "question": "What data quality dimension refers to no thing is recorded more than once?",
+    "answer": "B",
+    "options": {
+      "A": "Completeness",
+      "B": "Uniqueness",
+      "C": "Timeliness",
+      "D": "Validity"
+    }
+  },
+  "86": {
+    "question": "What dimension ensures that data conforms to its defined syntax (format, type, range)?",
+    "answer": "D",
+    "options": {
+      "A": "Timeliness",
+      "B": "Accuracy",
+      "C": "Completeness",
+      "D": "Validity"
+    }
+  },
+  "87": {
+    "question": "__________ refers to the proportion of stored data against the potential of '100% complete'.",
+    "answer": "A",
+    "options": {
+      "A": "Completeness",
+      "B": "Consistency",
+      "C": "Timeliness",
+      "D": "Accuracy"
+    }
+  },
+  "88": {
+    "question": "Data challenges in a Data Quality Assessment relate to:",
+    "answer": "B",
+    "options": {
+      "A": "The database software",
+      "B": "The characteristics of the data itself",
+      "C": "The network speed",
+      "D": "The storage medium"
+    }
+  },
+  "89": {
+    "question": "Which of the following is an example of a data characteristic considered in a Data Quality Assessment?",
+    "answer": "A",
+    "options": {
+      "A": "Data volume",
+      "B": "Data security protocols",
+      "C": "Data backup frequency",
+      "D": "Data access permissions"
+    }
+  },
+  "90": {
+    "question": "Which component of the Data Maturity Model focuses on establishing data quality strategies, profiling, and cleansing?",
+    "answer": "C",
+    "options": {
+      "A": "Data Governance",
+      "B": "Data Management Strategy",
+      "C": "Data Quality",
+      "D": "Data Operations"
+    }
+  },
+  "91": {
+    "question": "Which element is NOT part of the Data Maturity Model presented?",
+    "answer": "C",
+    "options": {
+      "A": "Data Governance",
+      "B": "Data Operations",
+      "C": "Data Security",
+      "D": "Data Quality"
+    }
+  },
+  "92": {
+    "question": "The Data Maturity Model assesses an organization's:",
+    "answer": "A",
+    "options": {
+      "A": "Data management capabilities",
+      "B": "Data storage capacity",
+      "C": "Software development skills",
+      "D": "Network security"
+    }
+  },
+  "93": {
+    "question": "Which of the following best describes the relationship between Data Governance and Data Management?",
+    "answer": "B",
+    "options": {
+      "A": "Data Management is a sub-capability of Data Governance",
+      "B": "Data Governance is a sub-capability of Data Management",
+      "C": "They are the same thing",
+      "D": "They are unrelated concepts"
+    }
+  },
+  "94": {
+    "question": "Data Governance primarily focuses on:",
+    "answer": "A",
+    "options": {
+      "A": "Establishing the data governance framework",
+      "B": "Conducting business operations",
+      "C": "Safeguarding data resources",
+      "D": "Optimizing data value chains"
+    }
+  },
+  "95": {
+    "question": "Data governance helps to prevent which of the following?",
+    "answer": "B",
+    "options": {
+      "A": "Hardware malfunctions",
+      "B": "Data breaches",
+      "C": "Network outages",
+      "D": "Software failures"
+    }
+  },
+  "96": {
+    "question": "One of the goals of data governance is to:",
+    "answer": "B",
+    "options": {
+      "A": "Increase data redundancy",
+      "B": "Eliminate silos in the system",
+      "C": "Complicate data access",
+      "D": "Decentralize data ownership"
+    }
+  },
+  "97": {
+    "question": "Data Governance ensures data sets are:",
+    "answer": "D",
+    "options": {
+      "A": "Uncategorized and accessible to everyone",
+      "B": "Redundant and duplicated",
+      "C": "Large and complex",
+      "D": "Reliable and consistent"
+    }
+  },
+  "98": {
+    "question": "According to the DAMA Wheel, which element is at the center of data management activities?",
+    "answer": "C",
+    "options": {
+      "A": "Metadata",
+      "B": "Data Quality",
+      "C": "Data Governance",
+      "D": "Data Security"
+    }
+  },
+  "99": {
+    "question": "Which of the following is NOT a Data Management Knowledge Area defined by DAMA?",
+    "answer": "D",
+    "options": {
+      "A": "Data Security",
+      "B": "Data Warehousing & Business Intelligence",
+      "C": "Document & Content Management",
+      "D": "Artificial Intelligence"
+    }
+  },
+  "100": {
+    "question": "Clarifying data ownership involves understanding:",
+    "answer": "A",
+    "options": {
+      "A": "Who owns a particular data object?",
+      "B": "The cost of data storage",
+      "C": "The brand of database software used",
+      "D": "The speed of data processing"
+    }
+  },
+  "101": {
+    "question": "Data ownership aims to make data:",
+    "answer": "B",
+    "options": {
+      "A": "Completely open and transparent",
+      "B": "More secure by limiting access levels",
+      "C": "More accessible to everyone",
+      "D": "Redundant across multiple systems"
+    }
+  },
+  "102": {
+    "question": "Who are the decision-makers for establishing data quality requirements?",
+    "answer": "A",
+    "options": {
+      "A": "Data Owners",
+      "B": "Technology Stewards",
+      "C": "Data Stewards",
+      "D": "Data Users"
+    }
+  },
+  "103": {
+    "question": "Which role is responsible for managing the technology to maintain data?",
+    "answer": "A",
+    "options": {
+      "A": "Technology Stewards",
+      "B": "Data Stewards",
+      "C": "Data Analysts",
+      "D": "Data Owners"
+    }
+  },
+  "104": {
+    "question": "Data Stewards are responsible for:",
+    "answer": "A",
+    "options": {
+      "A": "Documenting data definitions",
+      "B": "Developing applications",
+      "C": "Approving governance matters",
+      "D": "Setting data quality requirements"
+    }
+  },
+  "105": {
+    "question": "The Data Governance Council (GDC) typically includes:",
+    "answer": "B",
+    "options": {
+      "A": "External consultants",
+      "B": "Senior managers and executives",
+      "C": "Only junior employees",
+      "D": "Only IT personnel"
+    }
+  },
+  "106": {
+    "question": "Who is accountable for the data asset?",
+    "answer": "D",
+    "options": {
+      "A": "Data Custodian",
+      "B": "Data User",
+      "C": "Data Steward",
+      "D": "Data Owner"
+    }
+  },
+  "107": {
+    "question": "Who is responsible for the data content, context and associated business rules?",
+    "answer": "C",
+    "options": {
+      "A": "Data User",
+      "B": "Data Custodian",
+      "C": "Data Steward",
+      "D": "Data Owner"
+    }
+  },
+  "108": {
+    "question": "One challenge of governing big data is:",
+    "answer": "D",
+    "options": {
+      "A": "Lower data volume",
+      "B": "Slow data velocity",
+      "C": "Limited data sources",
+      "D": "Dealing with sparse, incomplete data"
+    }
+  },
+  "109": {
+    "question": "The 'Volume' challenge in big data governance refers to:",
+    "answer": "D",
+    "options": {
+      "A": "The speed of data generation",
+      "B": "The trustworthiness of data",
+      "C": "The variety of data types",
+      "D": "The higher amount of data"
+    }
+  },
+  "110": {
+    "question": "A Data Maturity Model Assessment helps determine:",
+    "answer": "A",
+    "options": {
+      "A": "The current and desired state of data management",
+      "B": "The cost of data storage",
+      "C": "The speed of data processing",
+      "D": "The number of data breaches"
+    }
+  },
+  "111": {
+    "question": "What is the purpose of conducting a Gap Analysis?",
+    "answer": "D",
+    "options": {
+      "A": "None of the above.",
+      "B": "To create a roadmap for future.",
+      "C": "Only for planning.",
+      "D": "To assess the current situation versus desired."
+    }
+  },
+  "112": {
+    "question": "Which of the following is NOT a component of a typical Data Governance Framework?",
+    "answer": "C",
+    "options": {
+      "A": "Business Glossary",
+      "B": "Metadata Management",
+      "C": "Employee Training Programs",
+      "D": "Data Quality Strategy"
+    }
+  },
+  "113": {
+    "question": "Architecture domains in a Data Governance Framework typically include:",
+    "answer": "C",
+    "options": {
+      "A": "Hardware, Software, Network, Security",
+      "B": "Finance, HR, Marketing, Sales",
+      "C": "Business, Data, Application, Technology",
+      "D": "Local, Cloud, Hybrid, Edge"
+    }
+  },
+  "114": {
+    "question": "According to the Data Management Association (DAMA), how many core data quality dimensions are there?",
+    "answer": "A",
+    "options": {
+      "A": "Six",
+      "B": "Seven",
+      "C": "Four",
+      "D": "Five"
+    }
+  },
+  "115": {
+    "question": "Which of the following is NOT one of the six core data quality dimensions defined by DAMA?",
+    "answer": "B",
+    "options": {
+      "A": "Validity",
+      "B": "Relevancy",
+      "C": "Consistency",
+      "D": "Completeness"
+    }
+  },
+  "116": {
+    "question": "What does the data quality dimension 'Completeness' primarily measure?",
+    "answer": "B",
+    "options": {
+      "A": "The accuracy of data values.",
+      "B": "The proportion of data that is not missing or blank.",
+      "C": "The timeliness of data updates.",
+      "D": "The absence of duplicate records."
+    }
+  },
+  "117": {
+    "question": "Which of the following is an example of assessing 'Completeness' in a dataset?",
+    "answer": "A",
+    "options": {
+      "A": "Checking if all required fields in a customer record are filled.",
+      "B": "Ensuring that there are no duplicate customer IDs.",
+      "C": "Verifying if all dates are in the correct format.",
+      "D": "Measuring the delay in data entry after an event."
+    }
+  },
+  "118": {
+    "question": "What does 'Uniqueness' as a data quality dimension aim to ensure?",
+    "answer": "C",
+    "options": {
+      "A": "Data values conform to defined formats.",
+      "B": "Data is updated in a timely manner.",
+      "C": "Each record represents a distinct entity and is not duplicated.",
+      "D": "Data accurately reflects real-world values."
+    }
+  },
+  "119": {
+    "question": "Which scenario best exemplifies a violation of the 'Uniqueness' data quality dimension?",
+    "answer": "B",
+    "options": {
+      "A": "A customer's address is misspelled in the database.",
+      "B": "The same product is listed twice with identical details in the inventory.",
+      "C": "Sales data from last year is not yet available in the system.",
+      "D": "A required field for customer email is left empty."
+    }
+  },
+  "120": {
+    "question": "What is the primary focus of the 'Timeliness' data quality dimension?",
+    "answer": "C",
+    "options": {
+      "A": "Eliminating redundant data entries.",
+      "B": "Ensuring data values are accurate.",
+      "C": "Making sure data is available when needed and reflects the current situation.",
+      "D": "Verifying data conforms to syntax."
+    }
+  },
+  "121": {
+    "question": "An emergency contact detail change effective on June 1st is entered into the system on June 4th. This is an example of an issue related to:",
+    "answer": "D",
+    "options": {
+      "A": "Data Accuracy",
+      "B": "Data Validity",
+      "C": "Data Uniqueness",
+      "D": "Data Timeliness"
+    }
+  },
+  "122": {
+    "question": "The data quality dimension 'Validity' is concerned with:",
+    "answer": "A",
+    "options": {
+      "A": "Whether data conforms to defined rules and formats.",
+      "B": "Whether data is consistently represented across systems.",
+      "C": "Whether data is free of errors.",
+      "D": "Whether data is up-to-date."
+    }
+  },
+  "123": {
+    "question": "Which of the following is an example of a 'Validity' check?",
+    "answer": "B",
+    "options": {
+      "A": "Counting the number of missing values in a dataset.",
+      "B": "Checking if a 'Date of Birth' field is in the correct date format (YYYY-MM-DD).",
+      "C": "Comparing data values across different databases for consistency.",
+      "D": "Ensuring that all addresses in a database are real and deliverable."
+    }
+  },
+  "124": {
+    "question": "What does 'Accuracy' in data quality primarily assess?",
+    "answer": "B",
+    "options": {
+      "A": "The absence of duplicate data.",
+      "B": "The correctness of data in representing real-world facts.",
+      "C": "The availability of data when needed.",
+      "D": "The format and syntax of data."
+    }
+  },
+  "125": {
+    "question": "An incorrect date of birth recorded in a student database due to a differing date format is an example of a violation of which data quality dimension?",
+    "answer": "A",
+    "options": {
+      "A": "Accuracy",
+      "B": "Completeness",
+      "C": "Consistency",
+      "D": "Validity"
+    }
+  },
+  "126": {
+    "question": "The data quality dimension 'Consistency' focuses on:",
+    "answer": "C",
+    "options": {
+      "A": "Data being current and up-to-date.",
+      "B": "Data being error-free.",
+      "C": "Data being uniform and coherent across different instances.",
+      "D": "Data being recorded only once."
+    }
+  },
+  "127": {
+    "question": "If a student's date of birth is recorded differently in the school register and the student database, this violates which data quality dimension?",
+    "answer": "D",
+    "options": {
+      "A": "Accuracy",
+      "B": "Validity",
+      "C": "Timeliness",
+      "D": "Consistency"
+    }
+  },
+  "128": {
+    "question": "What is the main purpose of data governance?",
+    "answer": "A",
+    "options": {
+      "A": "To establish policies and procedures for managing data.",
+      "B": "To implement new database technologies.",
+      "C": "To improve the speed of data processing.",
+      "D": "To reduce the volume of data stored."
+    }
+  },
+  "129": {
+    "question": "Data governance primarily focuses on:",
+    "answer": "D",
+    "options": {
+      "A": "Technical aspects of data storage.",
+      "B": "Data analysis techniques.",
+      "C": "Data entry processes.",
+      "D": "Strategic and procedural aspects of data management."
+    }
+  },
+  "130": {
+    "question": "Which of the following is a key goal of data governance?",
+    "answer": "D",
+    "options": {
+      "A": "To optimize database performance.",
+      "B": "To train employees on data entry.",
+      "C": "To automate data backups.",
+      "D": "To define and communicate data strategies and policies."
+    }
+  },
+  "131": {
+    "question": "Enforcing regulatory compliance related to data is a goal of:",
+    "answer": "B",
+    "options": {
+      "A": "Data migration.",
+      "B": "Data governance.",
+      "C": "Data security.",
+      "D": "Data quality assessment."
+    }
+  },
+  "132": {
+    "question": "Why is data governance considered important for businesses?",
+    "answer": "A",
+    "options": {
+      "A": "It protects against data breaches and reduces management costs.",
+      "B": "It automates report generation.",
+      "C": "It increases server capacity.",
+      "D": "It speeds up data retrieval."
+    }
+  },
+  "133": {
+    "question": "One of the key benefits of data governance is that it:",
+    "answer": "D",
+    "options": {
+      "A": "Automates data analysis.",
+      "B": "Eliminates the need for data storage.",
+      "C": "Simplifies software development.",
+      "D": "Reduces the cost of managing data and increases ROI."
+    }
+  },
+  "134": {
+    "question": "What is the relationship between data management and data governance?",
+    "answer": "D",
+    "options": {
+      "A": "They are independent and unrelated concepts.",
+      "B": "Data management is a subset of data governance.",
+      "C": "They are interchangeable terms.",
+      "D": "Data governance is a subset of data management."
+    }
+  },
+  "135": {
+    "question": "Which statement best distinguishes data management from data governance?",
+    "answer": "D",
+    "options": {
+      "A": "Data governance is technical, while data management is strategic.",
+      "B": "Data management focuses on policies, while data governance focuses on technology.",
+      "C": "Data management is short-term, while data governance is long-term.",
+      "D": "Data management is about doing things right, while data governance is about doing the right things."
+    }
+  },
+  "136": {
+    "question": "What is the purpose of conducting a Data Maturity Model Assessment?",
+    "answer": "A",
+    "options": {
+      "A": "To assess the current state of data management and plan improvements.",
+      "B": "To train staff on data entry procedures.",
+      "C": "To measure data storage capacity.",
+      "D": "To implement new data analysis tools."
+    }
+  },
+  "137": {
+    "question": "In a Data Maturity Model, a higher level of maturity generally indicates:",
+    "answer": "D",
+    "options": {
+      "A": "More manual data processes.",
+      "B": "Lower data quality.",
+      "C": "Less data is being collected.",
+      "D": "More sophisticated and integrated data management capabilities."
+    }
+  },
+  "138": {
+    "question": "What is the key benefit of clarifying data ownership within an organization?",
+    "answer": "C",
+    "options": {
+      "A": "Reduced data storage costs.",
+      "B": "Simplified data analysis.",
+      "C": "Improved data security and accountability.",
+      "D": "Faster data processing speeds."
+    }
+  },
+  "139": {
+    "question": "Data ownership policies aim to answer questions such as:",
+    "answer": "D",
+    "options": {
+      "A": "How much data storage is needed?",
+      "B": "Which software should be used for data analysis?",
+      "C": "How often should data be backed up?",
+      "D": "Who is responsible for data quality and access?"
+    }
+  },
+  "140": {
+    "question": "What is the primary responsibility of a Data Steward?",
+    "answer": "D",
+    "options": {
+      "A": "Defining data access policies.",
+      "B": "Managing data storage infrastructure.",
+      "C": "Developing data analysis reports.",
+      "D": "Maintaining data content, context, and business rules."
+    }
+  },
+  "141": {
+    "question": "Which task is typically performed by a Data Steward?",
+    "answer": "D",
+    "options": {
+      "A": "Managing data backup and recovery processes.",
+      "B": "Developing data integration solutions.",
+      "C": "Implementing database security measures.",
+      "D": "Documenting data definitions and business glossaries."
+    }
+  },
+  "142": {
+    "question": "What is the primary focus of a Data Custodian's role?",
+    "answer": "B",
+    "options": {
+      "A": "Analyzing data for business insights.",
+      "B": "Managing data transport, storage, and technical implementation.",
+      "C": "Creating data governance policies.",
+      "D": "Defining data quality metrics."
+    }
+  },
+  "143": {
+    "question": "Which of the following activities is typically associated with the Data Custodian role?",
+    "answer": "A",
+    "options": {
+      "A": "Ensuring data security and accessibility.",
+      "B": "Communicating data governance policies.",
+      "C": "Defining data standards.",
+      "D": "Resolving data quality issues."
+    }
+  },
+  "144": {
+    "question": "Which of the following is identified as a key challenge in governing Big Data?",
+    "answer": "B",
+    "options": {
+      "A": "Limited data volume.",
+      "B": "Lack of enterprise data management strategy.",
+      "C": "Slow data processing speeds.",
+      "D": "Homogeneous data sources."
+    }
+  },
+  "145": {
+    "question": "The 'four V's' of Big Data (Volume, Variety, Velocity, Veracity) contribute to which of the following challenges in data governance?",
+    "answer": "A",
+    "options": {
+      "A": "Complexity in data governance and management.",
+      "B": "Reduced data security risks.",
+      "C": "Increased data accuracy.",
+      "D": "Simplified data management."
+    }
+  }
+}

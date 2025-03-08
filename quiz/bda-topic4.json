@@ -1,0 +1,652 @@
+{
+  "1": {
+    "question": "Which of the following best describes data?",
+    "answer": "B",
+    "options": {
+      "A": "A collection of predictions.",
+      "B": "A collection of facts obtained from experiences, observations, or experiments.",
+      "C": "A collection of stories.",
+      "D": "A collection of opinions."
+    }
+  },
+  "2": {
+    "question": "Data is the __________ level of abstraction.",
+    "answer": "A",
+    "options": {
+      "A": "Lowest",
+      "B": "Secondary",
+      "C": "Intermediate",
+      "D": "Highest"
+    }
+  },
+  "3": {
+    "question": "Which of these is NOT a characteristic of data mentioned in the document?",
+    "answer": "D",
+    "options": {
+      "A": "May consist of numbers, words and images",
+      "B": "It is the source for information and knowledge",
+      "C": "Data quality is critical",
+      "D": "Always structured"
+    }
+  },
+  "4": {
+    "question": "What are the two main types of data based on structure?",
+    "answer": "C",
+    "options": {
+      "A": "Qualitative and Quantitative",
+      "B": "Internal and External",
+      "C": "Structured and Unstructured",
+      "D": "Primary and Secondary"
+    }
+  },
+  "5": {
+    "question": "Who is credited with providing the first visual representation of statistical data?",
+    "answer": "D",
+    "options": {
+      "A": "John Snow",
+      "B": "William Playfair",
+      "C": "Charles Minard",
+      "D": "Michael Florent Van Langren"
+    }
+  },
+  "6": {
+    "question": "Which visualization is Charles Minard known for?",
+    "answer": "B",
+    "options": {
+      "A": "Visualizing black America",
+      "B": "Chart of Napoleon's Russian campaign",
+      "C": "Map of cholera outbreaks in London",
+      "D": "Price of wheat, weekly wages, and reigning monarch"
+    }
+  },
+  "7": {
+    "question": "In what year did Michael Florent Van Langren is belived to have provided the first visual representation of statistical data?",
+    "answer": "C",
+    "options": {
+      "A": "1900",
+      "B": "1854",
+      "C": "1644",
+      "D": "1821"
+    }
+  },
+  "8": {
+    "question": "Playfair's 1821 chart shows the relationship between what factors?",
+    "answer": "D",
+    "options": {
+      "A": "Army size, location, and temperature",
+      "B": "Population, taxes and location",
+      "C": "Cholera cases, location, and time",
+      "D": "Price of wheat, weekly wages, and reigning monarch"
+    }
+  },
+  "9": {
+    "question": "Which chart type is best for comparing data across categories?",
+    "answer": "D",
+    "options": {
+      "A": "Pie chart",
+      "B": "Radar chart",
+      "C": "Scatter plot",
+      "D": "Bar chart"
+    }
+  },
+  "10": {
+    "question": "Which chart type is most suitable for displaying geographical data?",
+    "answer": "C",
+    "options": {
+      "A": "Line chart",
+      "B": "Waterfall chart",
+      "C": "Choropleth map",
+      "D": "Funnel chart"
+    }
+  },
+  "11": {
+    "question": "What type of visualization is best for showing part-to-whole relationships?",
+    "answer": "B",
+    "options": {
+      "A": "Scatter plot",
+      "B": "Pie chart",
+      "C": "Line graph",
+      "D": "Histogram"
+    }
+  },
+  "12": {
+    "question": "Which chart type is commonly used to represent data distribution?",
+    "answer": "D",
+    "options": {
+      "A": "Waterfall Chart",
+      "B": "Gantt Chart",
+      "C": "Radar chart",
+      "D": "Histogram"
+    }
+  },
+  "13": {
+    "question": "What are the three layers of information typically found in dashboards?",
+    "answer": "B",
+    "options": {
+      "A": "Planning, Execution, Review",
+      "B": "Monitoring, Analysis, Management",
+      "C": "Data, Information, Knowledge",
+      "D": "Input, Processing, Output"
+    }
+  },
+  "14": {
+    "question": "Which of the following is NOT a best practice in dashboard design?",
+    "answer": "C",
+    "options": {
+      "A": "Wrap the dashboard metrics with contextual metadata.",
+      "B": "Benchmark key performance indicators with industry standards.",
+      "C": "Ignore user comments.",
+      "D": "Prioritize and rank alerts/exceptions."
+    }
+  },
+  "15": {
+    "question": "Data _________ means that data is recorded at or near the time of the event.",
+    "answer": "D",
+    "options": {
+      "A": "Validity",
+      "B": "Consistency",
+      "C": "Granularity",
+      "D": "Currency"
+    }
+  },
+  "16": {
+    "question": "The data readiness levels includes the following except:",
+    "answer": "D",
+    "options": {
+      "A": "Data source reliability",
+      "B": "Data relevancy",
+      "C": "Data accessibility",
+      "D": "Data transformation"
+    }
+  },
+  "17": {
+    "question": "Which step of the data storytelling process is crucial to ensure the audience understands the main point of the data?",
+    "answer": "A",
+    "options": {
+      "A": "Focus attention",
+      "B": "All of the above",
+      "C": "Understand the context",
+      "D": "Choose an effective visual"
+    }
+  },
+  "18": {
+    "question": "What is the primary goal of data storytelling?",
+    "answer": "D",
+    "options": {
+      "A": "To impress the audience with technical skills",
+      "B": "To present all available data",
+      "C": "To create complex visualizations",
+      "D": "To influence a business decision or action"
+    }
+  },
+  "19": {
+    "question": "Visual analytics is a combination of:",
+    "answer": "C",
+    "options": {
+      "A": "Data collection and visualization",
+      "B": "Data storage and retrieval",
+      "C": "Visualization and predictive analytics",
+      "D": "Descriptive statistics and data mining"
+    }
+  },
+  "20": {
+    "question": "Which question is visual analytics primarily aimed at answering?",
+    "answer": "A",
+    "options": {
+      "A": "Why is it happening?",
+      "B": "What is happening?",
+      "C": "What happened?",
+      "D": "All of the above"
+    }
+  },
+  "21": {
+    "question": "According to the presentation, what is the primary source of data?",
+    "answer": "C",
+    "options": {
+      "A": "Actionable insights",
+      "B": "Processed information",
+      "C": "Collection of facts from experiences",
+      "D": "Interpreted knowledge"
+    }
+  },
+  "22": {
+    "question": "Which of the following best describes 'Data' in the context of data analysis?",
+    "answer": "B",
+    "options": {
+      "A": "A set of conclusions derived from analysis",
+      "B": "A raw, unorganized collection of facts and figures",
+      "C": "Information presented in a visually appealing format",
+      "D": "A collection of organized and processed information"
+    }
+  },
+  "23": {
+    "question": "In the hierarchy of data abstraction presented, which level is considered the most basic?",
+    "answer": "B",
+    "options": {
+      "A": "Insight",
+      "B": "Data",
+      "C": "Knowledge",
+      "D": "Information"
+    }
+  },
+  "24": {
+    "question": "Which of the following sequences correctly represents the increasing order of data abstraction?",
+    "answer": "B",
+    "options": {
+      "A": "Insight, Knowledge, Information, Data",
+      "B": "Data, Information, Knowledge, Insight",
+      "C": "Information, Data, Insight, Knowledge",
+      "D": "Knowledge, Data, Insight, Information"
+    }
+  },
+  "25": {
+    "question": "Which of the following is NOT mentioned as a type of unstructured data in the presentation?",
+    "answer": "C",
+    "options": {
+      "A": "Multimedia",
+      "B": "XML/JSON",
+      "C": "Categorical",
+      "D": "Textual"
+    }
+  },
+  "26": {
+    "question": "What are the two main categories of structured data mentioned in the presentation?",
+    "answer": "A",
+    "options": {
+      "A": "Categorical and Numerical",
+      "B": "Textual and Multimedia",
+      "C": "Nominal and Ordinal",
+      "D": "XML and JSON"
+    }
+  },
+  "27": {
+    "question": "Which data type is considered the 'lowest level of abstraction' from which information and knowledge are derived?",
+    "answer": "A",
+    "options": {
+      "A": "Data",
+      "B": "Knowledge",
+      "C": "Information",
+      "D": "Insight"
+    }
+  },
+  "28": {
+    "question": "According to the presentation, what is crucial for effective data analytics?",
+    "answer": "D",
+    "options": {
+      "A": "Advanced visualization techniques",
+      "B": "High-performance computing",
+      "C": "Complex algorithms",
+      "D": "Data quality and data integrity"
+    }
+  },
+  "29": {
+    "question": "What is the primary purpose of data visualization as defined in the presentation?",
+    "answer": "B",
+    "options": {
+      "A": "To perform complex statistical calculations",
+      "B": "To explore, understand, and communicate data using visuals",
+      "C": "To store large datasets efficiently",
+      "D": "To replace traditional data analysis methods"
+    }
+  },
+  "30": {
+    "question": "Data visualization is most appropriately referred to as:",
+    "answer": "C",
+    "options": {
+      "A": "Predictive analytics",
+      "B": "Raw data presentation",
+      "C": "Information visualization",
+      "D": "Statistical modeling"
+    }
+  },
+  "31": {
+    "question": "Data visualization primarily portrays:",
+    "answer": "B",
+    "options": {
+      "A": "Complex statistical algorithms",
+      "B": "Summarizations and contextualizations of data (information)",
+      "C": "Raw, unprocessed data",
+      "D": "Database structures"
+    }
+  },
+  "32": {
+    "question": "According to the presentation, which field is NOT closely related to data visualization?",
+    "answer": "A",
+    "options": {
+      "A": "Database management",
+      "B": "Scientific visualization",
+      "C": "Information graphics",
+      "D": "Statistical graphics"
+    }
+  },
+  "33": {
+    "question": "What distinguishes visual analytics from data visualization according to the presentation?",
+    "answer": "A",
+    "options": {
+      "A": "Visual analytics combines visualization with predictive analytics",
+      "B": "Visual analytics focuses on past data, while data visualization is about future predictions",
+      "C": "Data visualization is used in business, while visual analytics is for scientific research",
+      "D": "Visual analytics uses static images, while data visualization is dynamic"
+    }
+  },
+  "34": {
+    "question": "Visual analytics is primarily aimed at answering which type of questions?",
+    "answer": "B",
+    "options": {
+      "A": "What happened in the past?",
+      "B": "Why is it happening and what is likely to happen?",
+      "C": "How to collect data more efficiently?",
+      "D": "What is currently happening?"
+    }
+  },
+  "35": {
+    "question": "What is the 'focus intention' in data visualization primarily concerned with?",
+    "answer": "A",
+    "options": {
+      "A": "The specific goal or purpose of the visualization",
+      "B": "The amount of data being visualized",
+      "C": "The aesthetic appeal of the visualization",
+      "D": "The technical complexity of the charts used"
+    }
+  },
+  "36": {
+    "question": "Which of the following is NOT listed as a category of 'focus intention' in data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "Identify relationship in data",
+      "B": "Compare data",
+      "C": "Data storage optimization",
+      "D": "Visualize geographical data"
+    }
+  },
+  "37": {
+    "question": "Which chart type is recommended for straightforward comparison of quantitative values across categories?",
+    "answer": "D",
+    "options": {
+      "A": "Pie chart",
+      "B": "Scatter plot",
+      "C": "Line chart",
+      "D": "Bar chart"
+    }
+  },
+  "38": {
+    "question": "For visualizing cyclic data comparison, which chart type is suggested?",
+    "answer": "C",
+    "options": {
+      "A": "Funnel chart",
+      "B": "Waterfall chart",
+      "C": "Radar chart",
+      "D": "Stacked chart"
+    }
+  },
+  "39": {
+    "question": "Which chart type is most suitable for visualizing the percentage composition of a value?",
+    "answer": "D",
+    "options": {
+      "A": "Bar chart",
+      "B": "Line chart",
+      "C": "Scatter plot",
+      "D": "Pie chart"
+    }
+  },
+  "40": {
+    "question": "For visualizing complex hierarchical data, which chart type is recommended?",
+    "answer": "A",
+    "options": {
+      "A": "Treemap chart",
+      "B": "Pyramid chart",
+      "C": "Donut chart",
+      "D": "Funnel chart"
+    }
+  },
+  "41": {
+    "question": "Which chart type is recommended for revealing trends and peaks in data over time?",
+    "answer": "C",
+    "options": {
+      "A": "Pie chart",
+      "B": "Scatter plot",
+      "C": "Line chart",
+      "D": "Bar chart"
+    }
+  },
+  "42": {
+    "question": "For visualizing financial data and stock market trends, which chart type is specifically mentioned?",
+    "answer": "A",
+    "options": {
+      "A": "Stock chart",
+      "B": "Candlestick chart",
+      "C": "Sparkline chart",
+      "D": "Area chart"
+    }
+  },
+  "43": {
+    "question": "Which type of chart is suggested for evaluating performance data using a radial scale?",
+    "answer": "D",
+    "options": {
+      "A": "Linear gauge",
+      "B": "Bullet chart",
+      "C": "Bar chart",
+      "D": "Circular gauge"
+    }
+  },
+  "44": {
+    "question": "For a space-efficient visualization of performance on a linear scale, which chart type is recommended?",
+    "answer": "A",
+    "options": {
+      "A": "Bullet chart",
+      "B": "Linear gauge",
+      "C": "Pie chart",
+      "D": "Circular gauge"
+    }
+  },
+  "45": {
+    "question": "Which chart type is primarily used for keeping track of activities on a project schedule?",
+    "answer": "A",
+    "options": {
+      "A": "Gantt chart",
+      "B": "Resource chart",
+      "C": "Scatter plot",
+      "D": "Pie chart"
+    }
+  },
+  "46": {
+    "question": "To review resource occupancy in project data, which chart type is recommended?",
+    "answer": "D",
+    "options": {
+      "A": "Gantt chart",
+      "B": "Bar chart",
+      "C": "Line chart",
+      "D": "Resource chart"
+    }
+  },
+  "47": {
+    "question": "Which type of map is used to identify differences across geographical areas?",
+    "answer": "D",
+    "options": {
+      "A": "Bubble map",
+      "B": "Dot map",
+      "C": "Flow map",
+      "D": "Choropleth map"
+    }
+  },
+  "48": {
+    "question": "To visualize the direction of movement between locations on a map, which type of map is appropriate?",
+    "answer": "A",
+    "options": {
+      "A": "Flow map",
+      "B": "Bubble map",
+      "C": "Dot map",
+      "D": "Choropleth map"
+    }
+  },
+  "49": {
+    "question": "Which chart type is used to examine trends in distribution and correlation between two variables?",
+    "answer": "D",
+    "options": {
+      "A": "Heat map chart",
+      "B": "Polar chart",
+      "C": "Box-and-whisker chart",
+      "D": "Dot (scatter) chart"
+    }
+  },
+  "50": {
+    "question": "For a matrix-based view of multiple subcategories in data distribution, which chart type is recommended?",
+    "answer": "D",
+    "options": {
+      "A": "Range chart",
+      "B": "Error chart",
+      "C": "Bubble chart",
+      "D": "Heat map chart"
+    }
+  },
+  "51": {
+    "question": "Which chart type is recommended for exploring the cumulative effect of sequential positive and negative financial values?",
+    "answer": "B",
+    "options": {
+      "A": "Pie chart",
+      "B": "Waterfall chart",
+      "C": "Bar chart",
+      "D": "Line chart"
+    }
+  },
+  "52": {
+    "question": "What is another name for a Waterfall Chart, as mentioned in the presentation?",
+    "answer": "B",
+    "options": {
+      "A": "Radar Chart",
+      "B": "Flying Bricks Chart",
+      "C": "Treemap Chart",
+      "D": "Scatter Chart"
+    }
+  },
+  "53": {
+    "question": "What is the primary purpose of a dashboard as described in the presentation?",
+    "answer": "A",
+    "options": {
+      "A": "To provide at-a-glance insights and highlight exceptions for quick action",
+      "B": "To perform complex data transformations",
+      "C": "To store large volumes of data",
+      "D": "To replace detailed reports and analyses"
+    }
+  },
+  "54": {
+    "question": "Dashboards utilize various visual widgets including:",
+    "answer": "C",
+    "options": {
+      "A": "Raw data feeds",
+      "B": "Spreadsheets and tables",
+      "C": "Charts, gauges, and maps",
+      "D": "Text documents and emails"
+    }
+  },
+  "55": {
+    "question": "According to the presentation, what is the first layer of information typically found in dashboards?",
+    "answer": "B",
+    "options": {
+      "A": "Operational",
+      "B": "Monitoring",
+      "C": "Management",
+      "D": "Analysis"
+    }
+  },
+  "56": {
+    "question": "Which layer of dashboard information is focused on identifying actions to resolve a problem?",
+    "answer": "A",
+    "options": {
+      "A": "Management",
+      "B": "Reporting",
+      "C": "Monitoring",
+      "D": "Analysis"
+    }
+  },
+  "57": {
+    "question": "The 'Analysis' layer in dashboards is primarily used for:",
+    "answer": "B",
+    "options": {
+      "A": "Displaying key performance indicators",
+      "B": "Summarized dimensional data to analyze root cause of problems",
+      "C": "Tracking real-time data",
+      "D": "Detailed operational data"
+    }
+  },
+  "58": {
+    "question": "Which of the following is considered a best practice in dashboard design according to the presentation?",
+    "answer": "C",
+    "options": {
+      "A": "Avoiding user comments to maintain objectivity",
+      "B": "Displaying raw data directly on the dashboard",
+      "C": "Benchmarking key performance indicators with industry standards",
+      "D": "Using as many colors as possible for visual appeal"
+    }
+  },
+  "59": {
+    "question": "Wrapping dashboard metrics with contextual metadata is a best practice that includes:",
+    "answer": "B",
+    "options": {
+      "A": "Adding decorative images",
+      "B": "Including data source and refresh schedule",
+      "C": "Hiding data sources for security",
+      "D": "Using complex statistical formulas"
+    }
+  },
+  "60": {
+    "question": "Which aspect of data readiness focuses on ensuring data is recorded close to the event time to prevent misrepresentation?",
+    "answer": "A",
+    "options": {
+      "A": "Data currency/data timeliness",
+      "B": "Data granularity",
+      "C": "Data validity",
+      "D": "Data consistency"
+    }
+  },
+  "61": {
+    "question": "Data 'granularity' in data readiness refers to:",
+    "answer": "A",
+    "options": {
+      "A": "The level of detail in data values",
+      "B": "The relevance of data to the study",
+      "C": "The accuracy of data content",
+      "D": "The security of data access"
+    }
+  },
+  "62": {
+    "question": "Ensuring that data is secured to allow access only to authorized personnel relates to which data readiness level?",
+    "answer": "C",
+    "options": {
+      "A": "Data consistency",
+      "B": "Data accessibility",
+      "C": "Data security and data privacy",
+      "D": "Data relevancy"
+    }
+  },
+  "63": {
+    "question": "Who is credited with providing the first visual representation of statistical data in 1644?",
+    "answer": "A",
+    "options": {
+      "A": "Michael Florent Van Langren",
+      "B": "John Snow",
+      "C": "Charles Minard",
+      "D": "William Playfair"
+    }
+  },
+  "64": {
+    "question": "William Playfair is known for inventing which of the following?",
+    "answer": "C",
+    "options": {
+      "A": "Geographical maps",
+      "B": "Scatter plots",
+      "C": "Pie charts, line charts, and bar charts",
+      "D": "Choropleth maps"
+    }
+  },
+  "65": {
+    "question": "John Snow's famous map visualized which event?",
+    "answer": "A",
+    "options": {
+      "A": "London Cholera Outbreaks",
+      "B": "Interstate migration in the US",
+      "C": "Price of wheat in England",
+      "D": "Napoleon's Russian Campaign"
+    }
+  }
+}
