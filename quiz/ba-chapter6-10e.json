@@ -1,0 +1,1216 @@
+{
+    "1": {
+        "question": "Internal control is an organizational plan that ensures that the financial statements are prepared and submitted in time.",
+        "answer": "F"
+    },
+    "2": {
+        "question": "Sarbanes-Oxley Act requires all the private companies in the U.S. to maintain an internal control system.",
+        "answer": "F"
+    },
+    "3": {
+        "question": "The Public Company Accounting Oversight Board oversees the work of auditors of public companies.",
+        "answer": "T"
+    },
+    "4": {
+        "question": "Under the Sarbanes-Oxley Act, accounting firms are allowed to audit a public company and provide certain consulting services for the same client.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "Violators of Sarbanes-Oxley Act may be sentenced to prison for making false sworn statements.",
+        "answer": "T"
+    },
+    "6": {
+        "question": "A system cannot be overcome or broken into if its internal controls are properly designed and structured.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "Separation of duties is a part of the definition of internal control.",
+        "answer": "F"
+    },
+    "8": {
+        "question": "An information system is one of the five components by which a company can achieve its internal control objectives.",
+        "answer": "T"
+    },
+    "9": {
+        "question": "The environment is the culture of a business, and it starts with the owner and the top managers.",
+        "answer": "T"
+    },
+    "10": {
+        "question": "Internal auditors monitor company controls to safeguard assets and ensure that employees are following company policies.",
+        "answer": "T"
+    },
+    "11": {
+        "question": "External auditors evaluate company controls to ensure the financial statements are presented fairly in accordance with Generally Accepted Accounting Principles.",
+        "answer": "T"
+    },
+    "12": {
+        "question": "The Sarbanes-Oxley Act was passed by the Public Company Accounting Oversight Board.",
+        "answer": "F"
+    },
+    "13": {
+        "question": "Burglar alarms, fire alarms, and security cameras improve internal control.",
+        "answer": "T"
+    },
+    "14": {
+        "question": "Separating the custody of assets from accounting implies that the accountants must not handle cash, and the cashier must not have access to the accounting records.",
+        "answer": "T"
+    },
+    "15": {
+        "question": "A strong computer firewall is an essential element of good internal controls for e-commerce.",
+        "answer": "T"
+    },
+    "16": {
+        "question": "Which of the following is true of internal control?\nA) A company's outside auditor is responsible for the company's internal control system.\nB) One of the major purposes of internal control is to ensure that the assets are safeguarded.\nC) Internal control procedures tend to diminish the importance of operational efficiency.\nD) Internal controls are mainly used to ensure timely payment of liabilities.",
+        "options": {
+            "A": "A company's outside auditor is responsible for the company's internal control system.",
+            "B": "One of the major purposes of internal control is to ensure that the assets are safeguarded.",
+            "C": "Internal control procedures tend to diminish the importance of operational efficiency.",
+            "D": "Internal controls are mainly used to ensure timely payment of liabilities."
+        },
+        "answer": "B"
+    },
+    "17": {
+        "question": "Which of the following is one of the purposes of internal control?\nA) to encourage employees to follow company policy\nB) to ensure timely payment of Accounts Payables\nC) to ensure timely collection of Accounts Receivable\nD) to guarantee that a business makes a profit",
+        "options": {
+            "A": "to encourage employees to follow company policy",
+            "B": "to ensure timely payment of Accounts Payables",
+            "C": "to ensure timely collection of Accounts Receivable",
+            "D": "to guarantee that a business makes a profit"
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "Reducing expenses to increase operating profit is representative of:\nA) safeguarding assets.\nB) following company policies.\nC) promoting operational efficiency.\nD) ensuring accurate, reliable accounting records.",
+        "options": {
+            "A": "safeguarding assets.",
+            "B": "following company policies.",
+            "C": "promoting operational efficiency.",
+            "D": "ensuring accurate, reliable accounting records."
+        },
+        "answer": "C"
+    },
+    "19": {
+        "question": "Which of the following is representative of safeguarding assets?\nA) keeping office supplies under lock and key\nB) reducing expense to increase operating profit\nC) increasing operating profit to increase net income\nD) ensuring maximum use of resources",
+        "options": {
+            "A": "keeping office supplies under lock and key",
+            "B": "reducing expense to increase operating profit",
+            "C": "increasing operating profit to increase net income",
+            "D": "ensuring maximum use of resources"
+        },
+        "answer": "A"
+    },
+    "20": {
+        "question": "Which of the following is one of the benefits provided by internal control?\nA) ensures timely collection of Accounts Receivables\nB) ensures that financial statements are produced timely\nC) guarantees that a business makes profit\nD) promotes operational efficiency",
+        "options": {
+            "A": "ensures timely collection of Accounts Receivables",
+            "B": "ensures that financial statements are produced timely",
+            "C": "guarantees that a business makes profit",
+            "D": "promotes operational efficiency"
+        },
+        "answer": "D"
+    },
+    "21": {
+        "question": "Which of the following is a requirement of the Sarbanes-Oxley Act?\nA) An outside auditor must issue an internal control report for each public company.\nB) The Public Company Oversight Board must conduct audits of public companies.\nC) The accounting firm that audits a public client must also provide consulting services for the same client.\nD) The Public Company Oversight Board must create new accounting standards.",
+        "options": {
+            "A": "An outside auditor must issue an internal control report for each public company.",
+            "B": "The Public Company Oversight Board must conduct audits of public companies.",
+            "C": "The accounting firm that audits a public client must also provide consulting services for the same client.",
+            "D": "The Public Company Oversight Board must create new accounting standards."
+        },
+        "answer": "A"
+    },
+    "22": {
+        "question": "Which of the following led to the passage of the Sarbanes-Oxley Act?\nA) the stock market crash of 2002\nB) the savings and loan bailout\nC) the accounting scandals of WorldCom and Enron\nD) the mounting government deficit",
+        "options": {
+            "A": "the stock market crash of 2002",
+            "B": "the savings and loan bailout",
+            "C": "the accounting scandals of WorldCom and Enron",
+            "D": "the mounting government deficit"
+        },
+        "answer": "C"
+    },
+    "23": {
+        "question": "Which of the following statements is true of the Sarbanes-Oxley Act?\nA) Accounting firms are allowed to provide both auditing services and a full range of consulting services to their public company clients.\nB) Those who commit securities fraud must be sentenced to 10 years in prison.\nC) All private and foreign companies must issue an internal control report evaluated by an outside auditor.\nD) Auditors of public companies are under the scrutiny of the Public Company Accounting Oversight Board.",
+        "options": {
+            "A": "Accounting firms are allowed to provide both auditing services and a full range of consulting services to their public company clients.",
+            "B": "Those who commit securities fraud must be sentenced to 10 years in prison.",
+            "C": "All private and foreign companies must issue an internal control report evaluated by an outside auditor.",
+            "D": "Auditors of public companies are under the scrutiny of the Public Company Accounting Oversight Board."
+        },
+        "answer": "D"
+    },
+    "24": {
+        "question": "Which of the following statements about internal control is true?\nA) Internal auditors ensure that the employees follow company policies.\nB) The treasurer and controller have the same responsibilities.\nC) External auditors are employees of the company.\nD) The control procedures are known as the \"tone at the top.\"",
+        "options": {
+            "A": "Internal auditors ensure that the employees follow company policies.",
+            "B": "The treasurer and controller have the same responsibilities.",
+            "C": "External auditors are employees of the company.",
+            "D": "The control procedures are known as the \"tone at the top.\""
+        },
+        "answer": "A"
+    },
+    "25": {
+        "question": "Which of the following components of internal control consist of internal and external auditors?\nA) monitoring of controls\nB) information systems\nC) control procedures\nD) control environment",
+        "options": {
+            "A": "monitoring of controls",
+            "B": "information systems",
+            "C": "control procedures",
+            "D": "control environment"
+        },
+        "answer": "A"
+    },
+    "26": {
+        "question": "Before any internal control procedure is initiated, which of the following questions must be primarily addressed by a company?\nA) Will this put an end to theft?\nB) Is this the best security, money can buy?\nC) How much benefit will be derived from the cost of the procedure?\nD) Will this prevent accounting errors?",
+        "options": {
+            "A": "Will this put an end to theft?",
+            "B": "Is this the best security, money can buy?",
+            "C": "How much benefit will be derived from the cost of the procedure?",
+            "D": "Will this prevent accounting errors?"
+        },
+        "answer": "C"
+    },
+    "27": {
+        "question": "Which of the following is a key element of good internal control?\nA) having latest version of information system installed\nB) having audits at periodic intervals\nC) having a good working environment for employees\nD) allowing no vacations and job rotations",
+        "options": {
+            "A": "having latest version of information system installed",
+            "B": "having audits at periodic intervals",
+            "C": "having a good working environment for employees",
+            "D": "allowing no vacations and job rotations"
+        },
+        "answer": "B"
+    },
+    "28": {
+        "question": "Which of the following describes \"firewall\"?\nA) a malicious program that enters program code or destroys data without authorization\nB) when two or more people cooperate together to defraud a company\nC) a technique for protecting data\nD) when a company defrauds its suppliers by making false claims",
+        "options": {
+            "A": "a malicious program that enters program code or destroys data without authorization",
+            "B": "when two or more people cooperate together to defraud a company",
+            "C": "a technique for protecting data",
+            "D": "when a company defrauds its suppliers by making false claims"
+        },
+        "answer": "C"
+    },
+    "29": {
+        "question": "Which of the following describes the control environment?\nA) Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.\nB) The control environment is the \"tone at the top\" of the business.\nC) The control environment is designed to ensure that the business earns profit.\nD) A company must identify its risks.",
+        "options": {
+            "A": "Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.",
+            "B": "The control environment is the \"tone at the top\" of the business.",
+            "C": "The control environment is designed to ensure that the business earns profit.",
+            "D": "A company must identify its risks."
+        },
+        "answer": "B"
+    },
+    "30": {
+        "question": "Which of the following describes the internal control component \"risk assessment?\"\nA) Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.\nB) Risk assessment is the \"tone at the top\" of the business.\nC) A company must identify its risks and take necessary steps to minimize it.\nD) Risk assessment is designed to ensure that the business's goals are achieved.",
+        "options": {
+            "A": "Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.",
+            "B": "Risk assessment is the \"tone at the top\" of the business.",
+            "C": "A company must identify its risks and take necessary steps to minimize it.",
+            "D": "Risk assessment is designed to ensure that the business's goals are achieved."
+        },
+        "answer": "C"
+    },
+    "31": {
+        "question": "Which of the following describes the internal control component \"monitoring of controls?\"\nA) Internal auditors monitor company controls to safeguard assets, and external auditors evaluate the controls to ensure that the accounting records are accurate.\nB) Monitoring of controls is the \"tone at the top\" of the business.\nC) Monitoring of controls is designed to ensure that the business's goals are achieved.\nD) A company must identify its risks.",
+        "options": {
+            "A": "Internal auditors monitor company controls to safeguard assets, and external auditors evaluate the controls to ensure that the accounting records are accurate.",
+            "B": "Monitoring of controls is the \"tone at the top\" of the business.",
+            "C": "Monitoring of controls is designed to ensure that the business's goals are achieved.",
+            "D": "A company must identify its risks."
+        },
+        "answer": "A"
+    },
+    "32": {
+        "question": "Which of the following describes the internal control procedure \"competent, reliable, and ethical personnel?\"\nA) the criticality of information system\nB) the need of training and supervision of employees\nC) monitoring of internal controls by external auditors\nD) purchase of burglar alarms.",
+        "options": {
+            "A": "the criticality of information system",
+            "B": "the need of training and supervision of employees",
+            "C": "monitoring of internal controls by external auditors",
+            "D": "purchase of burglar alarms."
+        },
+        "answer": "B"
+    },
+    "33": {
+        "question": "Which of the following describes the internal control procedure \"assignment of responsibilities?\"\nA) To validate their accounting records, a company should have an audit by an external accountant.\nB) A company should separate the custody of assets from accounting.\nC) The external auditors will monitor internal controls.\nD) A company should have clearly assigned responsibilities for each position.",
+        "options": {
+            "A": "To validate their accounting records, a company should have an audit by an external accountant.",
+            "B": "A company should separate the custody of assets from accounting.",
+            "C": "The external auditors will monitor internal controls.",
+            "D": "A company should have clearly assigned responsibilities for each position."
+        },
+        "answer": "D"
+    },
+    "34": {
+        "question": "Which of the following describes the internal control procedure \"separation of duties?\"\nA) Cashiers must not have access to accounting records.\nB) External auditors will monitor internal controls.\nC) The information system is critical.\nD) The invoices and other documents must be pre-numbered.",
+        "options": {
+            "A": "Cashiers must not have access to accounting records.",
+            "B": "External auditors will monitor internal controls.",
+            "C": "The information system is critical.",
+            "D": "The invoices and other documents must be pre-numbered."
+        },
+        "answer": "A"
+    },
+    "35": {
+        "question": "Which of the following describes the internal control procedure \"documents?\"\nA) Mandatory vacations will improve internal control.\nB) Separate the custody of assets from accounting.\nC) The invoices and other documents must be pre-numbered.\nD) A company should purchase a fireproof vault to protect legal documents.",
+        "options": {
+            "A": "Mandatory vacations will improve internal control.",
+            "B": "Separate the custody of assets from accounting.",
+            "C": "The invoices and other documents must be pre-numbered.",
+            "D": "A company should purchase a fireproof vault to protect legal documents."
+        },
+        "answer": "C"
+    },
+    "36": {
+        "question": "Which of the following describes the internal control component \"information system?\"\nA) Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.\nB) Control procedures are designed to ensure that the business's goals are achieved.\nC) Only authorized users have access to various parts of the information system.\nD) The information system is the \"tone at the top\" of the business.",
+        "options": {
+            "A": "Internal auditors monitor company controls to safeguard assets, and external auditors monitor the controls to ensure that the accounting records are accurate.",
+            "B": "Control procedures are designed to ensure that the business's goals are achieved.",
+            "C": "Only authorized users have access to various parts of the information system.",
+            "D": "The information system is the \"tone at the top\" of the business."
+        },
+        "answer": "C"
+    },
+    "37": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nSyria Services hired a new clerk to keep custody of and maintain all the equipment in the equipment yard. The clerk has not yet been adequately trained on the maintenance needs of the equipment.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "B"
+    },
+    "38": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nThe controller's duties at New Era Inc. include approving bank reconciliations, approving general journal entries, hiring administrative staff, and approving various types of administrative expenses. She needs new computer equipment for the accounting office, but there are no guidelines specifying whether she can approve purchases of office equipment.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "A"
+    },
+    "39": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nAt Syria Services, the junior accountant collects checks and cash from customers and records the transactions into the journal. The controller approves the journal entries and bank reconciliations. The treasurer signs checks and approves contracts.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "C"
+    },
+    "40": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nSanthom Inc. does not have a separate accounting department. Its operating departments are also responsible for recording transactions in the books of accounts of the company apart from their main operations.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "C"
+    },
+    "41": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nAt Syria Services, the accounting clerk fills out unnumbered purchase order forms for purchases of supplies. An operations engineer completes the form with a detailed description of the supplies being ordered, and the operations manager approves the purchase and passes the purchase order back to the accountant for processing.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "D"
+    },
+    "42": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nSyria Services hired a new accountant to be responsible for the petty cash fund and the cash receipts. The newly hired employee has an accounting degree and a criminal record.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "B"
+    },
+    "43": {
+        "question": "In the following situation, which internal control procedure needs strengthening?\nSyria Services hired a new accounting manager. He signed a contract for a new accounting information system, but his position did not specify whether he was authorized to do so or not.\nA) assignment of responsibilities\nB) competent, reliable, and ethical personnel\nC) separation of duties\nD) documents",
+        "options": {
+            "A": "assignment of responsibilities",
+            "B": "competent, reliable, and ethical personnel",
+            "C": "separation of duties",
+            "D": "documents"
+        },
+        "answer": "A"
+    },
+    "44": {
+        "question": "A pharmaceutical company testing drugs to determine possible side effects is a part of:\nA) monitoring controls.\nB) information systems.\nC) control procedures.\nD) risk assessment.",
+        "options": {
+            "A": "monitoring controls.",
+            "B": "information systems.",
+            "C": "control procedures.",
+            "D": "risk assessment."
+        },
+        "answer": "D"
+    },
+    "45": {
+        "question": "Which of the following is a problem that must be addressed in the internal controls for e-commerce?\nA) encryption\nB) firewall\nC) phishing expeditions\nD) separation of duties",
+        "options": {
+            "A": "encryption",
+            "B": "firewall",
+            "C": "phishing expeditions",
+            "D": "separation of duties"
+        },
+        "answer": "C"
+    },
+    "46": {
+        "question": "A(n) ________ is a security procedure designed for e-commerce.\nA) burglar alarm\nB) firewall\nC) fireproof vault\nD) inventory storage",
+        "options": {
+            "A": "burglar alarm",
+            "B": "firewall",
+            "C": "fireproof vault",
+            "D": "inventory storage"
+        },
+        "answer": "B"
+    },
+    "47": {
+        "question": "Rearranging plain-text messages by a mathematical process is known as:\nA) password.\nB) phishing.\nC) encryption.\nD) virus.",
+        "options": {
+            "A": "password.",
+            "B": "phishing.",
+            "C": "encryption.",
+            "D": "virus."
+        },
+        "answer": "C"
+    },
+    "48": {
+        "question": "Two or more people working together to circumvent internal controls and defraud a company is known as:\nA) encryption.\nB) firewalls.\nC) collusion.\nD) separation of duties.",
+        "options": {
+            "A": "encryption.",
+            "B": "firewalls.",
+            "C": "collusion.",
+            "D": "separation of duties."
+        },
+        "answer": "C"
+    },
+    "49": {
+        "question": "A point-of-sale terminal provides control over cash receipts over the counter.",
+        "answer": "T"
+    },
+    "50": {
+        "question": "As a part of the internal control over cash receipts by mail, the mailroom sends both the customer checks and the remittance advices to the accounting department.",
+        "answer": "F"
+    },
+    "51": {
+        "question": "Regarding controls over cash receipts by mail, the bank deposit slip should be compared to the remittance advices by the accounting department.",
+        "answer": "F"
+    },
+    "52": {
+        "question": "For strong controls over cash receipts, the checks to be deposited should be sent to the treasurer, and the remittance advices should be sent to the accounting department.",
+        "answer": "T"
+    },
+    "53": {
+        "question": "As long as the same person deposits customer checks and records the deposits into the journal, there will be good internal control over cash receipts.",
+        "answer": "F"
+    },
+    "54": {
+        "question": "A basic principle of internal control over cash receipts is that the deposit of the cash and the recording of the receipts into the journal should be separated.",
+        "answer": "T"
+    },
+    "55": {
+        "question": "Which of the following is used by companies to separate cash duties and establish stronger control over cash receipts?\nA) an encryption system\nB) an imprest system\nC) a lock-box system\nD) a firewall system",
+        "options": {
+            "A": "an encryption system",
+            "B": "an imprest system",
+            "C": "a lock-box system",
+            "D": "a firewall system"
+        },
+        "answer": "C"
+    },
+    "56": {
+        "question": "Which of the following is the last step in the daily control over cash receipts by mail?\nA) A mailroom employee sends all customer checks to the treasurer who has the cashier make the bank deposit.\nB) The controller opens the mail and sends the remittance advices to the accounting department.\nC) The controller compares the records of the day's bank deposit amount from the treasurer and the debit to cash from the accounting department.\nD) The accounting department prepares journal entries to cash and the customers' accounts.",
+        "options": {
+            "A": "A mailroom employee sends all customer checks to the treasurer who has the cashier make the bank deposit.",
+            "B": "The controller opens the mail and sends the remittance advices to the accounting department.",
+            "C": "The controller compares the records of the day's bank deposit amount from the treasurer and the debit to cash from the accounting department.",
+            "D": "The accounting department prepares journal entries to cash and the customers' accounts."
+        },
+        "answer": "C"
+    },
+    "57": {
+        "question": "Which of the following is described as a system where customers send their checks directly to a post office box that belongs to a bank?\nA) an encryption system\nB) an imprest system\nC) a lock-box system\nD) a firewall system",
+        "options": {
+            "A": "an encryption system",
+            "B": "an imprest system",
+            "C": "a lock-box system",
+            "D": "a firewall system"
+        },
+        "answer": "C"
+    },
+    "58": {
+        "question": "In a large company, the person who is responsible for comparing cash and the bank balance is the:\nA) CEO.\nB) CFO.\nC) controller.\nD) treasurer.",
+        "options": {
+            "A": "CEO.",
+            "B": "CFO.",
+            "C": "controller.",
+            "D": "treasurer."
+        },
+        "answer": "C"
+    },
+    "59": {
+        "question": "Before signing a check, the controller or the treasurer should examine the purchase order, the invoice, and the receiving report to determine that the company received the goods and that the company is paying only for the goods received.",
+        "answer": "T"
+    },
+    "60": {
+        "question": "A receiving report should be matched with the supplier invoice before a payment to the supplier is approved.",
+        "answer": "T"
+    },
+    "61": {
+        "question": "For good controls over cash payments, the company officer approving a payment voucher should be the same as the person who ordered the goods, to ensure that the correct amount of cash is paid.",
+        "answer": "F"
+    },
+    "62": {
+        "question": "For good controls over cash payments, the person who orders goods from a supplier should always be different from the person who approves the payment.",
+        "answer": "T"
+    },
+    "63": {
+        "question": "Which of the following is the first step in the purchasing and payment process?\nA) The supplier ships the goods and sends an invoice to the purchaser.\nB) The purchaser sends a check to the supplier.\nC) The purchaser sends a purchase order to the supplier.\nD) The purchase receives the inventory and prepares a receiving report.",
+        "options": {
+            "A": "The supplier ships the goods and sends an invoice to the purchaser.",
+            "B": "The purchaser sends a check to the supplier.",
+            "C": "The purchaser sends a purchase order to the supplier.",
+            "D": "The purchase receives the inventory and prepares a receiving report."
+        },
+        "answer": "C"
+    },
+    "64": {
+        "question": "Which of the following is included in a voucher?\nA) rate of profit\nB) a check\nC) the invoice number\nD) company identification number",
+        "options": {
+            "A": "rate of profit",
+            "B": "a check",
+            "C": "the invoice number",
+            "D": "company identification number"
+        },
+        "answer": "C"
+    },
+    "65": {
+        "question": "Which of the following items must be examined by the controller or treasurer before signing a check?\nA) the ledger\nB) the purchase order\nC) the confirmation report\nD) the journal entry",
+        "options": {
+            "A": "the ledger",
+            "B": "the purchase order",
+            "C": "the confirmation report",
+            "D": "the journal entry"
+        },
+        "answer": "B"
+    },
+    "66": {
+        "question": "A company check for payment must be signed by:\nA) any employee of the company.\nB) a bank employee.\nC) an employee specifically authorized by the company.\nD) the external auditor.",
+        "options": {
+            "A": "any employee of the company.",
+            "B": "a bank employee.",
+            "C": "an employee specifically authorized by the company.",
+            "D": "the external auditor."
+        },
+        "answer": "C"
+    },
+    "67": {
+        "question": "A sequentially numbered document authorizing a cash payment is known as a:\nA) cash register.\nB) voucher.\nC) voucher register.\nD) ledger folio.",
+        "options": {
+            "A": "cash register.",
+            "B": "voucher.",
+            "C": "voucher register.",
+            "D": "ledger folio."
+        },
+        "answer": "B"
+    },
+    "68": {
+        "question": "Which of the following statements describes a voucher?\nA) It is an order to purchase goods from a supplier.\nB) It is a statement from the supplier showing the goods purchased, and the amount due.\nC) It is a report showing that the goods have been received in good condition, as ordered.\nD) It is a document authorizing payment to a supplier.",
+        "options": {
+            "A": "It is an order to purchase goods from a supplier.",
+            "B": "It is a statement from the supplier showing the goods purchased, and the amount due.",
+            "C": "It is a report showing that the goods have been received in good condition, as ordered.",
+            "D": "It is a document authorizing payment to a supplier."
+        },
+        "answer": "D"
+    },
+    "69": {
+        "question": "A streamlined process that bypasses paper documents altogether and in which computers of retailers communicate directly with the computers of suppliers to automate routine business transactions is known as:\nA) Real Time Gross Settlement.\nB) Electronic Data Interchange.\nC) Electronic Fund Transfer.\nD) Evaluated Receipts Settlement.",
+        "options": {
+            "A": "Real Time Gross Settlement.",
+            "B": "Electronic Data Interchange.",
+            "C": "Electronic Fund Transfer.",
+            "D": "Evaluated Receipts Settlement."
+        },
+        "answer": "B"
+    },
+    "70": {
+        "question": "Which of the following statements describes a purchase order?\nA) It is an order to purchase goods from a supplier.\nB) It is a statement from the supplier showing the goods purchased and the amount due.\nC) It is a report showing that the goods have been received in good condition, as ordered.\nD) It is a document authorizing a payment to a supplier.",
+        "options": {
+            "A": "It is an order to purchase goods from a supplier.",
+            "B": "It is a statement from the supplier showing the goods purchased and the amount due.",
+            "C": "It is a report showing that the goods have been received in good condition, as ordered.",
+            "D": "It is a document authorizing a payment to a supplier."
+        },
+        "answer": "A"
+    },
+    "71": {
+        "question": "Which of the following statements describes an invoice from a supplier?\nA) It is an order to purchase goods from a supplier.\nB) It is a statement from the supplier showing the goods purchased and the amount due.\nC) It is a report showing that the goods have been received in good condition, as ordered.\nD) It is a document authorizing a payment to a supplier.",
+        "options": {
+            "A": "It is an order to purchase goods from a supplier.",
+            "B": "It is a statement from the supplier showing the goods purchased and the amount due.",
+            "C": "It is a report showing that the goods have been received in good condition, as ordered.",
+            "D": "It is a document authorizing a payment to a supplier."
+        },
+        "answer": "B"
+    },
+    "72": {
+        "question": "Which of the following statements describes a receiving report?\nA) It is an order to purchase goods from a supplier.\nB) It is a statement from the supplier showing the goods purchased and the amount due.\nC) It is a report showing that the goods have been received in good condition, as ordered.\nD) It is a document authorizing a payment to a supplier.",
+        "options": {
+            "A": "It is an order to purchase goods from a supplier.",
+            "B": "It is a statement from the supplier showing the goods purchased and the amount due.",
+            "C": "It is a report showing that the goods have been received in good condition, as ordered.",
+            "D": "It is a document authorizing a payment to a supplier."
+        },
+        "answer": "C"
+    },
+    "73": {
+        "question": "In a good internal control system, which of the following documents are required for proper approval of a payment to a supplier?\nA) a journal entry, a supplier invoice, and a description of the goods being purchased\nB) a receiving report, an invoice, and a purchase order\nC) a purchase order, a journal entry, and a price catalog\nD) a supplier invoice, a bill of lading, and the supplier's financial statements",
+        "options": {
+            "A": "a journal entry, a supplier invoice, and a description of the goods being purchased",
+            "B": "a receiving report, an invoice, and a purchase order",
+            "C": "a purchase order, a journal entry, and a price catalog",
+            "D": "a supplier invoice, a bill of lading, and the supplier's financial statements"
+        },
+        "answer": "B"
+    },
+    "74": {
+        "question": "A document authorizing a cash payment is a(n):\nA) check.\nB) invoice.\nC) voucher.\nD) bill of lading.",
+        "options": {
+            "A": "check.",
+            "B": "invoice.",
+            "C": "voucher.",
+            "D": "bill of lading."
+        },
+        "answer": "C"
+    },
+    "75": {
+        "question": "Cash in the bank is more liquid than a petty cash fund.",
+        "answer": "F"
+    },
+    "76": {
+        "question": "Petty cash is a fund containing a small amount of cash that is used to pay for minor expenditures.",
+        "answer": "T"
+    },
+    "77": {
+        "question": "The journal entry to replenish a petty cash fund includes a debit to the Petty Cash account and a credit to the Expense account.",
+        "answer": "F"
+    },
+    "78": {
+        "question": "The journal entry to open a new petty cash fund includes a debit to the Petty Cash account and a credit to the Cash account.",
+        "answer": "T"
+    },
+    "79": {
+        "question": "A key to strong control over petty cash is to ensure that several persons serve as custodian at one time.",
+        "answer": "F"
+    },
+    "80": {
+        "question": "An imprest system is a way to account for petty cash by maintaining a constant balance in the petty cash account, supported by the fund, cash plus payment tickets, totaling the same amount.",
+        "answer": "T"
+    },
+    "81": {
+        "question": "Which is the most liquid form of assets?\nA) Cash\nB) Accounts Receivable\nC) Inventory\nD) Supplies",
+        "options": {
+            "A": "Cash",
+            "B": "Accounts Receivable",
+            "C": "Inventory",
+            "D": "Supplies"
+        },
+        "answer": "A"
+    },
+    "82": {
+        "question": "A company has a petty cash fund amount of $300. When replenished, it has petty cash receipts of $30 for gas expense, $32 for postage expense, $16 for supplies expense and $10 for miscellaneous expenses. Assume the cash balance is not over or short. In the journal entry, Cash would be credited with:\nA) $88\nB) $72\nC) $62\nD) $78",
+        "options": {
+            "A": "$88",
+            "B": "$72",
+            "C": "$62",
+            "D": "$78"
+        },
+        "answer": "A"
+    },
+    "83": {
+        "question": "The petty cash fund had an initial imprest balance of $200. It currently has $17 in cash, $3 in miscellaneous cash receipts and an additional $180 in specific cash receipts. The debit to Cash Short & Over would be:\nA) $0.\nB) $17.\nC) $180.\nD) $183.",
+        "options": {
+            "A": "$0.",
+            "B": "$17.",
+            "C": "$180.",
+            "D": "$183."
+        },
+        "answer": "A"
+    },
+    "84": {
+        "question": "Which of the following would be included in the entry to record the replenishment of a petty cash fund?\nA) a credit to Petty cash\nB) a debit to Accounts Receivable\nC) a credit to Cash\nD) a credit to various expenses and assets",
+        "options": {
+            "A": "a credit to Petty cash",
+            "B": "a debit to Accounts Receivable",
+            "C": "a credit to Cash",
+            "D": "a credit to various expenses and assets"
+        },
+        "answer": "C"
+    },
+    "85": {
+        "question": "A petty cash fund was established with a $350 balance. It currently has cash of $41 and petty cash tickets totaling $309. Which of the following would be included in the entry to replenish the fund?\nA) a credit to Petty Cash for $309\nB) a debit to Petty Cash for $41\nC) a credit to Cash for $41\nD) debits to various expenses for $309",
+        "options": {
+            "A": "a credit to Petty Cash for $309",
+            "B": "a debit to Petty Cash for $41",
+            "C": "a credit to Cash for $41",
+            "D": "debits to various expenses for $309"
+        },
+        "answer": "D"
+    },
+    "86": {
+        "question": "A petty cash fund was established with a $350 balance. It currently has cash of $41 and petty cash tickets totaling $309. Which of the following would be included in the entry to replenish the fund?\nA) a credit to Petty Cash for $309\nB) a debit to Petty Cash for $41\nC) a credit to Cash for $41\nD) a credit to Cash for $309",
+        "options": {
+            "A": "a credit to Petty Cash for $309",
+            "B": "a debit to Petty Cash for $41",
+            "C": "a credit to Cash for $41",
+            "D": "a credit to Cash for $309"
+        },
+        "answer": "D"
+    },
+    "87": {
+        "question": "Petty cash is accounted for by maintaining a constant balance in the petty cash account, supported by the fund, cash plus payment tickets, totaling the same amount. Such a system is known as the:\nA) control system.\nB) voucher system.\nC) balanced system.\nD) imprest system.",
+        "options": {
+            "A": "control system.",
+            "B": "voucher system.",
+            "C": "balanced system.",
+            "D": "imprest system."
+        },
+        "answer": "D"
+    },
+    "88": {
+        "question": "A petty cash fund was established with a $500 balance. It currently has cash of $20 and petty cash tickets as shown below.\n\nTravel expense $130\nOffice supplies expense 300\nEquipment rental expense 50\n\nWhich of the following would be the journal entry to replenish the Petty Cash account?\nA) debit various expenses $480; credit Cash $480\nB) debit various expenses $480; credit Petty Cash $480\nC) debit Cash $20; credit various expenses $20\nD) credit Petty Cash $480; debit Cash $480",
+        "options": {
+            "A": "debit various expenses $480; credit Cash $480",
+            "B": "debit various expenses $480; credit Petty Cash $480",
+            "C": "debit Cash $20; credit various expenses $20",
+            "D": "credit Petty Cash $480; debit Cash $480"
+        },
+        "answer": "A"
+    },
+    "89": {
+        "question": "A petty cash fund was established with a $500 balance. It currently has cash of $19 and petty cash tickets as shown below.\n\nTravel expense $110\nOffice supplies $290\nEquipment rental expense $80\n\nWhich of the following would be the journal entry to replenish the Petty Cash account?\nA) debit to Cash Short & Over for $1\nB) credit Cash Short & Over for $1\nC) debit Petty Cash $1\nD) credit Petty Cash $1",
+        "options": {
+            "A": "debit to Cash Short & Over for $1",
+            "B": "credit Cash Short & Over for $1",
+            "C": "debit Petty Cash $1",
+            "D": "credit Petty Cash $1"
+        },
+        "answer": "A"
+    },
+    "90": {
+        "question": "A petty cash fund was established with a $600 balance. It currently has cash of $25 and petty cash tickets as shown below.\n\nTravel expense $130\nOffice supplies $305\nEquipment rental expense $85\n\nWhich of the following would be the journal entry to replenish the Petty Cash account?\nA) Debit to Cash Short & Over for $55\nB) Credit Cash Short & Over for $55\nC) Debit Petty Cash $55\nD) Credit Petty Cash $55",
+        "options": {
+            "A": "Debit to Cash Short & Over for $55",
+            "B": "Credit Cash Short & Over for $55",
+            "C": "Debit Petty Cash $55",
+            "D": "Credit Petty Cash $55"
+        },
+        "answer": "A"
+    },
+    "91": {
+        "question": "A demand deposit at a bank is the most liquid of all company assets.",
+        "answer": "F"
+    },
+    "92": {
+        "question": "The cash balance in a company's general ledger and the bank's balance on the bank statement will always be the same.",
+        "answer": "F"
+    },
+    "93": {
+        "question": "All items on the book side of the bank reconciliation require journal entries.",
+        "answer": "T"
+    },
+    "94": {
+        "question": "Bank errors are posting errors made by the bank that either incorrectly increase or decrease the bank balance.",
+        "answer": "T"
+    },
+    "95": {
+        "question": "On a bank reconciliation, deposits in transit are added on the bank side of the reconciliation.",
+        "answer": "T"
+    },
+    "96": {
+        "question": "If the bank reconciliation includes a bank service charge, a journal entry is required, which debits Bank Expense and credits Cash.",
+        "answer": "T"
+    },
+    "97": {
+        "question": "If the bank reconciliation includes a deposit in transit, a journal entry is required which includes a debit to cash.",
+        "answer": "F"
+    },
+    "98": {
+        "question": "Journal entries are required if the bank reconciliation includes outstanding checks.",
+        "answer": "F"
+    },
+    "99": {
+        "question": "Journal entries are required if the bank reconciliation includes a book error.",
+        "answer": "T"
+    },
+    "100": {
+        "question": "Journal entries that are necessitated by reconciling items on the book side of the reconciliation include either a debit to Cash or a credit to Cash.",
+        "answer": "T"
+    },
+    "101": {
+        "question": "If a bank reconciliation includes interest revenue, a journal entry is required which credits Cash and debits Interest Revenue.",
+        "answer": "F"
+    },
+    "102": {
+        "question": "In a bank reconciliation, a book error will be shown on the bank side of the reconciliation.",
+        "answer": "F"
+    },
+    "103": {
+        "question": "In a bank reconciliation, outstanding checks will be shown on the bank side of the reconciliation.",
+        "answer": "T"
+    },
+    "104": {
+        "question": "In a bank reconciliation, a deposit in transit will be shown on the bank side of the reconciliation.",
+        "answer": "T"
+    },
+    "105": {
+        "question": "In a bank reconciliation, an NSF check will be shown on the book side of the reconciliation.",
+        "answer": "T"
+    },
+    "106": {
+        "question": "The difference that arises between the balance on the bank statement and the balance on the company's books because of a time lag in recording transactions is known as a permanent difference.",
+        "answer": "F"
+    },
+    "107": {
+        "question": "Which of the following is the most basic internal control measure for cash?\nA) keeping money in a bank account\nB) checking for counterfeit bills\nC) counting cash receipts twice\nD) internal audit of cash procedures",
+        "options": {
+            "A": "keeping money in a bank account",
+            "B": "checking for counterfeit bills",
+            "C": "counting cash receipts twice",
+            "D": "internal audit of cash procedures"
+        },
+        "answer": "A"
+    },
+    "108": {
+        "question": "Which one of the following documents is retained by the customer as proof of a deposit transaction?\nA) a deposit receipt\nB) a cancelled check\nC) a bank reconciliation\nD) a signature card",
+        "options": {
+            "A": "a deposit receipt",
+            "B": "a cancelled check",
+            "C": "a bank reconciliation",
+            "D": "a signature card"
+        },
+        "answer": "A"
+    },
+    "109": {
+        "question": "Which one of the following documents must be signed by the person authorized to write checks drawn on a checking account at a bank?\nA) a signature card\nB) a bank statement\nC) a deposit ticket\nD) a bank reconciliation",
+        "options": {
+            "A": "a signature card",
+            "B": "a bank statement",
+            "C": "a deposit ticket",
+            "D": "a bank reconciliation"
+        },
+        "answer": "A"
+    },
+    "110": {
+        "question": "When a check is issued, the party being paid the cash is referred to as the:\nA) payee.\nB) maker.\nC) bank signatory.\nD) depositor.",
+        "options": {
+            "A": "payee.",
+            "B": "maker.",
+            "C": "bank signatory.",
+            "D": "depositor."
+        },
+        "answer": "A"
+    },
+    "111": {
+        "question": "When a check is issued, the party who is paying the cash is referred to as the:\nA) payee.\nB) maker.\nC) bank signatory.\nD) depositor.",
+        "options": {
+            "A": "payee.",
+            "B": "maker.",
+            "C": "bank signatory.",
+            "D": "depositor."
+        },
+        "answer": "B"
+    },
+    "112": {
+        "question": "Which of the following is a benefit of online banking to a business?\nA) The business can reconcile to the bank's balance at any time.\nB) The bank reconciliation is not necessary.\nC) The business can reduce their internal controls over cash receipts.\nD) A company's book balance will always equal the bank's balance.",
+        "options": {
+            "A": "The business can reconcile to the bank's balance at any time.",
+            "B": "The bank reconciliation is not necessary.",
+            "C": "The business can reduce their internal controls over cash receipts.",
+            "D": "A company's book balance will always equal the bank's balance."
+        },
+        "answer": "A"
+    },
+    "113": {
+        "question": "A check was written by a business for $507, but was recorded in the cash payments journal as $705. How would this error be included on the bank reconciliation?\nA) a deduction on the bank side\nB) an addition on the book side\nC) an addition on the bank side\nD) a deduction on the book side",
+        "options": {
+            "A": "a deduction on the bank side",
+            "B": "an addition on the book side",
+            "C": "an addition on the bank side",
+            "D": "a deduction on the book side"
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "The bank recorded a $3,000 deposit as $300. How would this information be included on the bank reconciliation?\nA) a deduction on the bank side\nB) a deduction on the book side\nC) an addition on the book side\nD) an addition on the bank side",
+        "options": {
+            "A": "a deduction on the bank side",
+            "B": "a deduction on the book side",
+            "C": "an addition on the book side",
+            "D": "an addition on the bank side"
+        },
+        "answer": "D"
+    },
+    "115": {
+        "question": "The bank made an EFT payment of a telephone bill of $5,000. How would this information be included on the bank reconciliation?\nA) an addition on the bank side\nB) a deduction on the book side\nC) an addition on the book side\nD) a deduction on the bank side",
+        "options": {
+            "A": "an addition on the bank side",
+            "B": "a deduction on the book side",
+            "C": "an addition on the book side",
+            "D": "a deduction on the book side"
+        },
+        "answer": "B"
+    },
+    "116": {
+        "question": "A check of $300,000, deposited by a company, was returned to the bank for nonsufficient funds. How would this information be included on the bank reconciliation?\nA) a deduction on the bank side\nB) an addition on the bank side\nC) an addition on the book side\nD) a deduction on the book side",
+        "options": {
+            "A": "a deduction on the bank side",
+            "B": "an addition on the bank side",
+            "C": "an addition on the book side",
+            "D": "a deduction on the book side"
+        },
+        "answer": "D"
+    },
+    "117": {
+        "question": "Check payment for $658 was incorrectly entered in the cash account as $856. Which adjustment needs to be made?\nA) decrease the book balance\nB) decrease the bank statement balance\nC) increase the book balance\nD) increase the bank statement balance",
+        "options": {
+            "A": "decrease the book balance",
+            "B": "decrease the bank statement balance",
+            "C": "increase the book balance",
+            "D": "increase the bank statement balance"
+        },
+        "answer": "C"
+    },
+    "118": {
+        "question": "The bank charged a service fee of $55. How would this information be included on the bank reconciliation?\nA) a deduction on the bank side\nB) an addition on the book side\nC) a deduction on the book side\nD) an addition on the bank side",
+        "options": {
+            "A": "a deduction on the bank side",
+            "B": "an addition on the book side",
+            "C": "a deduction on the book side",
+            "D": "an addition on the bank side"
+        },
+        "answer": "C"
+    },
+    "119": {
+        "question": "Which of the following items require an adjustment on the bank side of the bank reconciliation?\nA) interest earned\nB) a bank service charge\nC) a note collected by the bank\nD) deposits in transit",
+        "options": {
+            "A": "interest earned",
+            "B": "a bank service charge",
+            "C": "a note collected by the bank",
+            "D": "deposits in transit"
+        },
+        "answer": "D"
+    },
+    "120": {
+        "question": "Which of the following is true of the bank reconciliation?\nA) It should not be prepared by an employee who handles cash transactions.\nB) It is prepared in place of the cash ledger.\nC) It is a financial statement.\nD) It guarantees that no errors have been made.",
+        "options": {
+            "A": "It should not be prepared by an employee who handles cash transactions.",
+            "B": "It is prepared in place of the cash ledger.",
+            "C": "It is a financial statement.",
+            "D": "It guarantees that no errors have been made."
+        },
+        "answer": "A"
+    },
+    "121": {
+        "question": "A check for which a maker's bank account has inadequate money to pay the check is known as:\nA) a nonsufficient funds check.\nB) an outstanding check.\nC) a restrictive check.\nD) a canceled check.",
+        "options": {
+            "A": "a nonsufficient funds check.",
+            "B": "an outstanding check.",
+            "C": "a restrictive check.",
+            "D": "a canceled check."
+        },
+        "answer": "A"
+    },
+    "122": {
+        "question": "The following information is available for Jack's Unlimited Company for the current month.\n\n|                               |       |\n|-------------------------------|-------|\n| Book balance end of the month | $6,875|\n| Outstanding checks            |   655 |\n| Deposits in transit            | 3,500 |\n| Service charges               |    85 |\n| Interest revenue              |    35 |\n\nWhat is the adjusted book balance on the bank reconciliation?",
+        "options": {
+            "A": "$9,600",
+            "B": "$7,480",
+            "C": "$6,755",
+            "D": "$6,825"
+        },
+        "answer": "D"
+    },
+    "123": {
+        "question": "A company received a bank statement showing a balance of $75,100. Reconciling items included outstanding checks of $2,250, and a deposit in transit of $9,500. What is the company's adjusted bank balance?\nA) $63,350\nB) $67,850\nC) $82,350\nD) $65,600",
+        "options": {
+            "A": "$63,350",
+            "B": "$67,850",
+            "C": "$82,350",
+            "D": "$65,600"
+        },
+        "answer": "C"
+    },
+    "124": {
+        "question": "A company received a bank statement with a balance of $6,350. Reconciling items included a bookkeeper error of $300\u2014a $300 check recorded as $600\u2014two outstanding checks totaling $820, a service charge of $25, a deposit in transit of $280, and interest revenue of $21. What is the adjusted bank balance?\nA) $5,636\nB) $5,610\nC) $5,016\nD) $5,810",
+        "options": {
+            "A": "$5,636",
+            "B": "$5,610",
+            "C": "$5,016",
+            "D": "$5,810"
+        },
+        "answer": "D"
+    },
+    "125": {
+        "question": "A company's cash ledger shows an ending balance of $4,000. Reconciling items included a bookkeeper error of $100 (a $500 check recorded as $600), two outstanding checks totaling $820, a service charge of $25, a deposit in transit of $280, and interest revenue of $31. What is the adjusted book balance?\nA) $3,894\nB) $3,460\nC) $4,106\nD) $4,540",
+        "options": {
+            "A": "$3,894",
+            "B": "$3,460",
+            "C": "$4,106",
+            "D": "$4,540"
+        },
+        "answer": "C"
+    },
+    "126": {
+        "question": "Which of the following would be included in the journal to record an NSF check?\nA) a debit to Accounts Payable and a credit to Cash\nB) a debit to Accounts Receivable and a credit to Cash\nC) a debit to Cash and a credit to Accounts Receivable\nD) a debit to Bank Expense and a credit to Cash",
+        "options": {
+            "A": "a debit to Accounts Payable and a credit to Cash",
+            "B": "a debit to Accounts Receivable and a credit to Cash",
+            "C": "a debit to Cash and a credit to Accounts Receivable",
+            "D": "a debit to Bank Expense and a credit to Cash"
+        },
+        "answer": "B"
+    },
+    "127": {
+        "question": "Which of the following items would require an adjusting entry after preparation of the bank reconciliation?\nA) errors made by the bank revealed by the bank reconciliation\nB) all items on the bank's side\nC) errors made on the books revealed by the bank reconciliation\nD) outstanding checks",
+        "options": {
+            "A": "errors made by the bank revealed by the bank reconciliation",
+            "B": "all items on the bank's side",
+            "C": "errors made on the books revealed by the bank reconciliation",
+            "D": "outstanding checks"
+        },
+        "answer": "C"
+    },
+    "128": {
+        "question": "In reconciling a bank statement, the bank balance is $1,500 and the checkbook balance is $2,105. Which of the following is the most probable reason for the checkbook balance being larger than the bank balance?\nA) The bank has not cleared certain outstanding checks.\nB) The bank has added interest revenue to the account balance.\nC) A deposit in transit was made at the end of the month.\nD) The bank received an EFT from a customer.",
+        "options": {
+            "A": "The bank has not cleared certain outstanding checks.",
+            "B": "The bank has added interest revenue to the account balance.",
+            "C": "A deposit in transit was made at the end of the month.",
+            "D": "The bank received an EFT from a customer."
+        },
+        "answer": "C"
+    },
+    "129": {
+        "question": "In reconciling a bank statement, the bank balance is $2,100 and the checkbook balance is $2,001. Which of the following is the most probable reason for the bank balance being larger than the book balance?\nA) There are outstanding checks.\nB) The bank has deducted certain amounts for bank service charges.\nC) A deposit in transit was made at the end of the month.\nD) The company erroneously recorded a check for an amount less than actual.",
+        "options": {
+            "A": "There are outstanding checks.",
+            "B": "The bank has deducted certain amounts for bank service charges.",
+            "C": "A deposit in transit was made at the end of the month.",
+            "D": "The company erroneously recorded a check for an amount less than actual."
+        },
+        "answer": "A"
+    },
+    "130": {
+        "question": "A check was written by a business for $549, but was recorded erroneously in the cash ledger as $459. How would this error be included on the bank reconciliation?\nA) an addition on the book side\nB) a deduction on the bank side\nC) a deduction on the book side\nD) an addition on the bank side",
+        "options": {
+            "A": "an addition on the book side",
+            "B": "a deduction on the bank side",
+            "C": "a deduction on the book side",
+            "D": "an addition on the bank side"
+        },
+        "answer": "C"
+    },
+    "131": {
+        "question": "The bank statement reveals an EFT received from a customer that has not yet been recorded in the ledger. How would this information be included on the bank reconciliation?\nA) an addition on the bank side\nB) a deduction on the bank side\nC) a deduction on the book side\nD) an addition on the book side",
+        "options": {
+            "A": "an addition on the bank side",
+            "B": "a deduction on the bank side",
+            "C": "a deduction on the book side",
+            "D": "an addition on the book side"
+        },
+        "answer": "D"
+    },
+    "132": {
+        "question": "The bank statement reveals an EFT payment made to one of the company's suppliers that has not yet been recorded in the ledger. How would this information be included on the bank reconciliation?\nA) an addition on the bank side\nB) a deduction on the bank side\nC) a deduction on the book side\nD) an addition on the book side",
+        "options": {
+            "A": "an addition on the bank side",
+            "B": "a deduction on the bank side",
+            "C": "a deduction on the book side",
+            "D": "an addition on the book side"
+        },
+        "answer": "C"
+    },
+    "133": {
+        "question": "A ________ is a document explaining the reasons for the difference between a depositor's cash records and the depositor's cash balance in its bank account.\nA) bank statement\nB) deposit receipt\nC) bank reconciliation\nD) remittance advice",
+        "options": {
+            "A": "bank statement",
+            "B": "deposit receipt",
+            "C": "bank reconciliation",
+            "D": "remittance advice"
+        },
+        "answer": "C"
+    },
+    "134": {
+        "question": "The following information is available for Jade Company for the month ending June 30, 2014.\n\n*   Balance as per the bank statement is $11,240.\n*   Balance as per books is $10,200.\n*   Check #506 for $1,200 and check #510 for $900 were not shown on the June 30, bank statement.\n*   A deposit in transit of $3,110 had not been received by the bank when the bank statement was generated.\n*   A bank debit memo indicated an NSF check for $85 written by Jane Smith to Jade Company on June 13.\n*   A bank credit memo indicated a note collected by the bank of $2,100 and interest revenue of $55 on June 20.\n*   The bank statement indicated service charges of $20.\n\nWhat is the adjusted book balance?",
+        "options": {
+            "A": "$12,740",
+            "B": "$12,250",
+            "C": "$8,150",
+            "D": "$8,200"
+        },
+        "answer": "B"
+    },
+    "135": {
+        "question": "No journal entries are required for the reconciling items on the bank side because:\nA) those transactions have already been recorded in the company ledger.\nB) the adjusted balances on both sides are the same amounts.\nC) the amounts are immaterial.\nD) those transactions are already included in the bank balance.",
+        "options": {
+            "A": "those transactions have already been recorded in the company ledger.",
+            "B": "the adjusted balances on both sides are the same amounts.",
+            "C": "the amounts are immaterial.",
+            "D": "those transactions are already included in the bank balance."
+        },
+        "answer": "A"
+    },
+    "136": {
+        "question": "Journal entries are required for the reconciling items on the book side because:\nA) those transactions have not yet been recorded by the bank.\nB) the adjusted balances on both sides are the same amounts.\nC) the amounts are immaterial.\nD) those transactions have not yet been recorded on the company books.",
+        "options": {
+            "A": "those transactions have not yet been recorded by the bank.",
+            "B": "the adjusted balances on both sides are the same amounts.",
+            "C": "the amounts are immaterial.",
+            "D": "those transactions have not yet been recorded on the company books."
+        },
+        "answer": "D"
+    },
+    "137": {
+        "question": "The bookkeeper of Fire Steel Inc. recorded a $1,524.00 check as $15,240 in payment of the current month's rent. Which of the following journal entries is needed to adjust for this error in the books of the company?\nA)\n|          |           |           |\n|----------|-----------|-----------|\n| Cash     |           | 13,716    |\n| Sales Revenue|           |           |\n|          |           | 13,716    |\nB)\n|             |           |           |\n|-------------|-----------|-----------|\n| Rent Expense|           | 15,240    |\n| Cash        |           |           |\n|             |           | 15,240    |\nC)\n|          |           |           |\n|----------|-----------|-----------|\n| Cash     | 13,716    |           |\n| Rent Expense|           |           |\n|          | 13,716    |           |\nD)\n|             |           |           |\n|-------------|-----------|-----------|\n| Booking Error| 1,524     |           |\n| Cash        |           |           |\n|             | 1,524     |           |",
+        "options": {
+            "A": ")\n|          |           |           |\n|----------|-----------|-----------|\n| Cash     |           | 13,716    |\n| Sales Revenue|           |           |\n|          |           | 13,716    |",
+            "B": ")\n|             |           |           |\n|-------------|-----------|-----------|\n| Rent Expense|           | 15,240    |\n| Cash        |           |           |\n|             |           | 15,240    |",
+            "C": ")\n|          |           |           |\n|----------|-----------|-----------|\n| Cash     | 13,716    |           |\n| Rent Expense|           |           |\n|          | 13,716    |           |",
+            "D": ")\n|             |           |           |\n|-------------|-----------|-----------|\n| Booking Error| 1,524     |           |\n| Cash        |           |           |\n|             | 1,524     |           |"
+        },
+        "answer": "C"
+    },
+    "138": {
+        "question": "A customer's check for $1,280 was returned for nonsufficient funds. Which of the following journal entries is needed to adjust for the NSF check?\nA)\n|------------------|-------|-------|\n| Accounts receivable| 1,280 |       |\n| Cash              |       |       |\n|                   |       | 1,280 |\nB)\n|              |       |       |\n|--------------|-------|-------|\n| Cash         | 1,280 |       |\n| Sales revenue|       |       |\n|              |       | 1,280 |\nC)\n|        |       |       |\n|--------|-------|-------|\n| NSF check| 1,280 |       |\n| Cash     |       |       |\n|        |       | 1,280 |\nD)\n|                |       |       |\n|----------------|-------|-------|\n| Accounts payable| 1,280 |       |\n| Cash            |       |       |\n|                |       | 1,280 |",
+        "options": {
+            "A": ")\n|------------------|-------|-------|\n| Accounts receivable| 1,280 |       |\n| Cash              |       |       |\n|                   |       | 1,280 |",
+            "B": ")\n|              |       |       |\n|--------------|-------|-------|\n| Cash         | 1,280 |       |\n| Sales revenue|       |       |\n|              |       | 1,280 |",
+            "C": ")\n|        |       |       |\n|--------|-------|-------|\n| NSF check| 1,280 |       |\n| Cash     |       |       |\n|        |       | 1,280 |",
+            "D": ")\n|                |       |       |\n|----------------|-------|-------|\n| Accounts payable| 1,280 |       |\n| Cash            |       |       |\n|                |       | 1,280 |"
+        },
+        "answer": "A"
+    },
+    "139": {
+        "question": "The following information is needed to reconcile the cash balance for Fire Steel Inc.\n\n*   A deposit of $5,800 is in transit.\n*   Outstanding checks total $1,500.\n*   The book balance is $6,800 at February 28, 2013.\n*   The bookkeeper recorded a $1,740 check as $17,400 in payment of the current month's rent.\n*   The bank balance at February 28, 2013 was $18,000.\n*   A deposit of $400 was credited by the bank for $4,000.\n*   A customer's check for $3,700 was returned for nonsufficient funds.\n*   The bank service charge is $60.\n\nWhat was the adjusted book balance?",
+        "options": {
+            "A": "$18,720",
+            "B": "$18,060",
+            "C": "$18,700",
+            "D": "$18,820"
+        },
+        "answer": "C"
+    },
+    "140": {
+        "question": "The following information is needed to reconcile the cash balance for Fire Steel Inc.\n* A deposit of $5,800 is in transit.\n* Outstanding checks total $1,500.\n* The book balance is $6,800 at February 28, 2013.\n* The bookkeeper recorded a $1,740 check as $17,400 in payment of the current month's rent.\n* The bank balance at February 28, 2013 was $18,000.\n* A deposit of $400 was credited by the bank for $4,000.\n* A customer's check for $3,700 was returned for nonsufficient funds.\n* The bank service charge is $60.\nWhat was the adjusted bank balance?",
+        "options": {
+            "A": "$18,720",
+            "B": "$18,700",
+            "C": "$18,820",
+            "D": "$18,060"
+        },
+        "answer": "B"
+    },
+    "141": {
+        "question": "Which of the following items are reconciling items on the bank side of the reconciliation?\nA) outstanding checks and correction of book error\nB) deposit in transit and NSF check\nC) deposit in transit and outstanding checks\nD) bank service charge and correction of book error",
+        "options": {
+            "A": "outstanding checks and correction of book error",
+            "B": "deposit in transit and NSF check",
+            "C": "deposit in transit and outstanding checks",
+            "D": "bank service charge and correction of book error"
+        },
+        "answer": "C"
+    },
+    "142": {
+        "question": "Which of the following items are reconciling items on the book side of the reconciliation?\nA) outstanding checks and correction of book error\nB) deposit in transit and NSF check\nC) bank service charge and outstanding checks\nD) bank service charge and correction of book error",
+        "options": {
+            "A": "outstanding checks and correction of book error",
+            "B": "deposit in transit and NSF check",
+            "C": "bank service charge and outstanding checks",
+            "D": "bank service charge and correction of book error"
+        },
+        "answer": "D"
+    },
+    "143": {
+        "question": "When calculating the cash ratio, the numerator includes cash equivalents.",
+        "answer": "T"
+    },
+    "144": {
+        "question": "A cash equivalent is a highly liquid investment that can be converted into cash in three years or less.",
+        "answer": "F"
+    },
+    "145": {
+        "question": "Having a cash ratio below 1 is a good thing.",
+        "answer": "T"
+    },
+    "146": {
+        "question": "Cash is a highly liquid asset, but cash equivalents are not highly liquid assets.",
+        "answer": "F"
+    },
+    "147": {
+        "question": "Cash and cash equivalents are divided by _________ to determine the cash ratio.\nA) total current liabilities\nB) fixed assets\nC) equity\nD) total long-term liabilities",
+        "options": {
+            "A": "total current liabilities",
+            "B": "fixed assets",
+            "C": "equity",
+            "D": "total long-term liabilities"
+        },
+        "answer": "A"
+    },
+    "148": {
+        "question": "The _________ helps to determine a company's ability to meet its short-term obligations from cash and cash equivalents.\nA) accounts receivable turnover\nB) cash ratio\nC) gross profit\nD) debt equity ratio",
+        "options": {
+            "A": "accounts receivable turnover",
+            "B": "cash ratio",
+            "C": "gross profit",
+            "D": "debt equity ratio"
+        },
+        "answer": "B"
+    },
+    "149": {
+        "question": "The Fingertips Company had the following financial data for the year ended December 31, 2015:\n\n|                   |         |\n|-------------------|---------|\n| Cash                | $45,000 |\n| Cash equivalents    | 80,000  |\n| Long term investments| 60,000  |\n| Total current liabilities| 150,000 |\n\nWhat is the cash ratio as of December 31, 2015, for Fingertips Company?",
+        "options": {
+            "A": "0.30",
+            "B": "0.40",
+            "C": "0.53",
+            "D": "0.83"
+        },
+        "answer": "D"
+    },
+    "150": {
+        "question": "The cash ratios of four companies are listed below.\n\n| COMPANY       | CASH RATIO |\n|---------------|------------|\n| Juan Corp.    | 0.26       |\n| Rose Inc.     | 0.15       |\n| Freelance Inc.  | 0.18       |\n| Pioneer Corp. | 0.27       |\n\nWhich company has the maximum ability to repay its short-term debts?",
+        "options": {
+            "A": "Juan Corp.",
+            "B": "Rose Inc.",
+            "C": "Freelance Inc.",
+            "D": "Pioneer Corp."
+        },
+        "answer": "D"
+    },
+    "151": {
+        "question": "A company has the cash ratio of 2.3. What does this imply?\nA) The company has an unnecessarily large amount of cash supply.\nB) The company does not have enough cash supply.\nC) The company is not in a position to pay off its long term liabilities.\nD) The company is not in a position to pay off its current liabilities.",
+        "options": {
+            "A": "The company has an unnecessarily large amount of cash supply.",
+            "B": "The company does not have enough cash supply.",
+            "C": "The company is not in a position to pay off its long term liabilities.",
+            "D": "The company is not in a position to pay off its current liabilities."
+        },
+        "answer": "A"
+    },
+    "152": {
+        "question": "The data of Franklin Brothers Corp. for two years are given below:\n\n|                           | 2014    | 2015    |\n|---------------------------|---------|---------|\n| Cash and cash equivalents | $5,400 | $12,500 |\n| Total current liabilities  | 24,000  | 30,000  |\n\nBased on the above information, which of the following statements is true?\nA) Cash ratio has increased from 0.02 in 2014 to 0.03 in 2015.\nB) Cash ratio has increased from 0.05 in 2014 to 0.08 in 2015.\nC) Cash ratio has increased from 0.417 in 2014 to 0.225 in 2015.\nD) Cash ratio has increased from 0.225 in 2014 to 0.417 in 2015.",
+        "options": {
+            "A": "Cash ratio has increased from 0.02 in 2014 to 0.03 in 2015.",
+            "B": "Cash ratio has increased from 0.05 in 2014 to 0.08 in 2015.",
+            "C": "Cash ratio has increased from 0.417 in 2014 to 0.225 in 2015.",
+            "D": "Cash ratio has increased from 0.225 in 2014 to 0.417 in 2015."
+        },
+        "answer": "D"
+    }
+}

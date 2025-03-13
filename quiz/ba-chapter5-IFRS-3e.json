@@ -1,0 +1,1372 @@
+{
+    "1": {
+        "question": "Retailers and wholesalers are both considered merchandisers.",
+        "answer": "T"
+    },
+    "2": {
+        "question": "The steps in the accounting cycle are different for a merchandising company than for a service company.",
+        "answer": "F"
+    },
+    "3": {
+        "question": "Companies using International Financial Reporting Standards (IFRS) use a perpetual inventory system, while companies using U.S. GAAP use a periodic inventory system.",
+        "answer": "F"
+    },
+    "4": {
+        "question": "Companies using a perpetual inventory system record credit purchases of inventory on the statement of financial position by increasing inventory and decreasing liabilities.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "Companies using a perpetual inventory system record all credit purchases on the statement of financial position by increasing inventory and increasing liabilities.",
+        "answer": "F"
+    },
+    "6": {
+        "question": "Global Care uses a perpetual inventory system and purchased wheelchairs under terms FOB destination. The freight charges associated with the wheelchairs will be added to the inventory account on Global Care\u20acs statement of financial position.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "When the buyer pays an invoice within the discount period, the amount of the discount increases the merchandise inventory account reported on the statement of financial position.",
+        "answer": "F"
+    },
+    "8": {
+        "question": "Inventory purchased for $2,500 subject to terms 2/10, net 30 could end up being reported on the statement of financial position at an amount greater than $2,500 if the discount isnet taken by the buyer.",
+        "answer": "F"
+    },
+    "9": {
+        "question": "Purchase returns are recorded by the buyer as a decrease to inventory on the statement of financial position.",
+        "answer": "T"
+    },
+    "10": {
+        "question": "Under a perpetual inventory system, the cost of goods sold is determined each time a sale occurs.",
+        "answer": "T"
+    },
+    "11": {
+        "question": "A periodic inventory system requires a detailed inventory record of inventory items.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "Freight terms of FOB Destination means that the seller pays the freight costs.",
+        "answer": "T"
+    },
+    "13": {
+        "question": "Freight costs incurred by the seller on outgoing merchandise are an operating expense to the seller.",
+        "answer": "T"
+    },
+    "14": {
+        "question": "Sales revenues are earned during the period cash is collected from the buyer.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "The Sales Returns and Allowances account and the Sales Discounts account are both classified as expense accounts.",
+        "answer": "F"
+    },
+    "16": {
+        "question": "The revenue recognition principle applies to merchandisers by recognizing sales revenues when they are earned.",
+        "answer": "T"
+    },
+    "17": {
+        "question": "Sales allowances and sales discounts are both designed to encourage customers to pay their accounts promptly.",
+        "answer": "F"
+    },
+    "18": {
+        "question": "To grant a customer a sales return, the seller credits Sales Returns and Allowances.",
+        "answer": "F"
+    },
+    "19": {
+        "question": "Sales returns and allowances is reported on the statement of financial position as a contra account to cost of goods sold.",
+        "answer": "F"
+    },
+    "20": {
+        "question": "Sales of $2,500 subject to terms 2/10, net 30 could end up being reported on the statement of financial position as an account receivable at an amount greater than $2,500 if the discount isnet taken by the buyer.",
+        "answer": "F"
+    },
+    "21": {
+        "question": "When goods are returned, the seller reduces the account receivable and increases the merchandise inventory accounts reported on the statement of financial position.",
+        "answer": "T"
+    },
+    "22": {
+        "question": "When goods are returned, the seller records the returned merchandise at its market value on the statement of financial position.",
+        "answer": "F"
+    },
+    "23": {
+        "question": "Closing entries impact the income statement but do not have an impact on the statement of financial position.",
+        "answer": "F"
+    },
+    "24": {
+        "question": "Under International Financial Reporting Standards (IFRS) use of a worksheet by a merchandising company is strictly optional.",
+        "answer": "T"
+    },
+    "25": {
+        "question": "A company's unadjusted balance in Inventory will usually not agree with the actual amount of inventory on hand at year-end.",
+        "answer": "T"
+    },
+    "26": {
+        "question": "For a merchandising company, all accounts that affect the determination of income are closed to the Income Summary account.",
+        "answer": "T"
+    },
+    "27": {
+        "question": "A merchandising company has different types of adjusting entries than a service company.",
+        "answer": "F"
+    },
+    "28": {
+        "question": "Net sales is sales revenue less sales returns and allowances and sales discounts.",
+        "answer": "T"
+    },
+    "29": {
+        "question": "Other income and expense excludes revenues and expenses that are unrelated to the companyes main line of operations.",
+        "answer": "F"
+    },
+    "30": {
+        "question": "Operating expenses are different for merchandising and service companies.",
+        "answer": "F"
+    },
+    "31": {
+        "question": "Merchandise inventory is classified as a current asset in a classified statement of financial position.",
+        "answer": "T"
+    },
+    "32": {
+        "question": "Gain on sale of equipment and interest expense are reported under other income and expense in a merchandiser income statement.",
+        "answer": "F"
+    },
+    "33": {
+        "question": "If net sales are $800,000 and cost of goods sold is $600,000, the gross profit rate is 25%.",
+        "answer": "T"
+    },
+    "34": {
+        "question": "Gross profit represents the merchandising profit of a company.",
+        "answer": "T"
+    },
+    "35": {
+        "question": "Gross profit rate is computed by dividing cost of goods sold by net sales.",
+        "answer": "F"
+    },
+    "36": {
+        "question": "Under International Financial Reporting Standards (IFRS) operating expenses may be presented by nature or by function.",
+        "answer": "T"
+    },
+    "37": {
+        "question": "Under International Financial Reporting Standards (IFRS) when operating expenses are presented by nature additional disclosures are required regarding the function of certain expenses.",
+        "answer": "F"
+    },
+    "38": {
+        "question": "International Financial Reporting Standards allow different presentation formats for operating expenses including by magnitude.",
+        "answer": "F"
+    },
+    "39": {
+        "question": "IFRS requires companies to mark the recorded values of certain types of assets and liabilities to their historical cost at the end of each reporting period.",
+        "answer": "F"
+    },
+    "40": {
+        "question": "IFRS requires a single-step income statement, but U.S GAAP allows either the single-step or the multiple-step income statement.",
+        "answer": "F"
+    },
+    "41": {
+        "question": "IFRS requires 3 years of income statements, U.S. GAAP requires 2 years of income statements.",
+        "answer": "F"
+    },
+    "42": {
+        "question": "The International Accounting Standards Board (IASB) and the Financial Accounting Standards Board (FASB) are undertaking a project to rework the structure of financial statements. The proposed structure will adopt the major groupings used on the statement of financial position: current and non-current assets and liabilities, followed by equity.",
+        "answer": "F"
+    },
+    "43": {
+        "question": "In a worksheet, cost of goods sold will be shown in the trial balance (Dr.), adjusted trial balance (Dr.) and income statement (Dr.) columns.",
+        "answer": "T"
+    },
+    "44": {
+        "question": "Freight-in is an account that is subtracted from the Purchases account to arrive at cost of goods purchased.",
+        "answer": "F"
+    },
+    "45": {
+        "question": "Under a periodic inventory system, the acquisition of inventory is charged to the Purchases account.",
+        "answer": "T"
+    },
+    "46": {
+        "question": "Under a periodic inventory system, freight-in on merchandise purchases should be charged to the Inventory account.",
+        "answer": "F"
+    },
+    "47": {
+        "question": "Purchase Returns and Allowances and Purchase Discounts are subtracted from Purchases to produce net purchases.",
+        "answer": "T"
+    },
+    "48": {
+        "question": "Merchandise inventory is reported as a long-term asset on the statement of financial position.",
+        "answer": "F"
+    },
+    "49": {
+        "question": "Under a perpetual inventory system, inventory shrinkage and lost or stolen goods are more readily determined.",
+        "answer": "T"
+    },
+    "50": {
+        "question": "The terms 2/10, n/30 state that a 2% discount is available if the invoice is paid within the first 10 days of the next month.",
+        "answer": "F"
+    },
+    "51": {
+        "question": "Sales should be recorded in accordance with the expense recognition principle.",
+        "answer": "F"
+    },
+    "52": {
+        "question": "Sales returns and allowances and sales discounts are subtracted from sales revenue in reporting net sales in the income statement.",
+        "answer": "T"
+    },
+    "53": {
+        "question": "A merchandising company using a perpetual inventory system will usually need to make an adjusting entry to ensure that the recorded inventory agrees with physical inventory count.",
+        "answer": "T"
+    },
+    "54": {
+        "question": "If a merchandising company sells land at more than its cost, the gain should be reported in the sales revenue section of the income statement.",
+        "answer": "F"
+    },
+    "55": {
+        "question": "The major difference between the statement of financial position of a service company and a merchandising company is inventory.",
+        "answer": "T"
+    },
+    "56": {
+        "question": "Net income from operations is gross profit less",
+        "options": {
+            "A": ". financing expenses.",
+            "B": ". operating expenses.",
+            "C": ". other income and expense.",
+            "D": ". other expenses."
+        },
+        "answer": "B"
+    },
+    "57": {
+        "question": "Which of the following would not be considered a merchandising company?",
+        "options": {
+            "A": ". Retailer",
+            "B": ". Wholesaler",
+            "C": ". Service firm",
+            "D": ". Dot Com firm"
+        },
+        "answer": "C"
+    },
+    "58": {
+        "question": "A merchandising company that sells directly to consumers is a",
+        "options": {
+            "A": ". retailer.",
+            "B": ". wholesaler.",
+            "C": ". broker.",
+            "D": ". service company."
+        },
+        "answer": "A"
+    },
+    "59": {
+        "question": "Two categories of expenses for merchandising companies are",
+        "options": {
+            "A": ". cost of goods sold and financing expenses.",
+            "B": ". operating expenses and financing expenses.",
+            "C": ". cost of goods sold and operating expenses.",
+            "D": ". sales and cost of goods sold."
+        },
+        "answer": "C"
+    },
+    "60": {
+        "question": "The primary source of revenue for merchandising companies is",
+        "options": {
+            "A": ". investment income.",
+            "B": ". service fees.",
+            "C": ". the sale of merchandise.",
+            "D": ". the sale of fixed assets the company owns."
+        },
+        "answer": "C"
+    },
+    "61": {
+        "question": "Sales revenue less cost of goods sold is called",
+        "options": {
+            "A": ". gross profit.",
+            "B": ". net profit.",
+            "C": ". net income.",
+            "D": ". marginal income."
+        },
+        "answer": "A"
+    },
+    "62": {
+        "question": "After gross profit is calculated, operating expenses are deducted to determine",
+        "options": {
+            "A": ". gross margin.",
+            "B": ". net income.",
+            "C": ". gross profit on sales.",
+            "D": ". net margin."
+        },
+        "answer": "B"
+    },
+    "63": {
+        "question": "Cost of goods sold is determined only at the end of the accounting period in",
+        "options": {
+            "A": ". a perpetual inventory system.",
+            "B": ". a periodic inventory system.",
+            "C": ". both a perpetual and a periodic inventory system.",
+            "D": ". neither a perpetual nor a periodic inventory system."
+        },
+        "answer": "B"
+    },
+    "64": {
+        "question": "Which of the following expressions is incorrect?",
+        "options": {
+            "A": ". Gross profit - operating expenses = net income",
+            "B": ". Sales cost of goods sold - operating expenses = net income",
+            "C": ". Net income + operating expenses = gross profit",
+            "D": ". Operating expenses - cost of goods sold = gross profit"
+        },
+        "answer": "D"
+    },
+    "65": {
+        "question": "Detailed records of the cost of each inventory purchase and sale are not maintained under a",
+        "options": {
+            "A": ". perpetual inventory system.",
+            "B": ". periodic inventory system.",
+            "C": ". double entry accounting system.",
+            "D": ". single entry accounting system."
+        },
+        "answer": "B"
+    },
+    "66": {
+        "question": "Which of the following is a true statement about inventory systems?",
+        "options": {
+            "A": ". Periodic inventory systems require more detailed inventory records.",
+            "B": ". Perpetual inventory systems require more detailed inventory records.",
+            "C": ". A periodic system requires cost of goods sold be determined after each sale.",
+            "D": ". A perpetual system determines cost of goods sold only at the end of the accounting period."
+        },
+        "answer": "B"
+    },
+    "67": {
+        "question": "In a perpetual inventory system, cost of goods sold is recorded",
+        "options": {
+            "A": ". on a daily basis.",
+            "B": ". on a monthly basis.",
+            "C": ". on an annual basis.",
+            "D": ". with each sale."
+        },
+        "answer": "D"
+    },
+    "68": {
+        "question": "If a company determines cost of goods sold each time a sale occurs, it",
+        "options": {
+            "A": ". must have a computer accounting system.",
+            "B": ". uses a combination of the perpetual and periodic inventory systems.",
+            "C": ". uses a periodic inventory system.",
+            "D": ". uses a perpetual inventory system."
+        },
+        "answer": "D"
+    },
+    "69": {
+        "question": "Under a perpetual inventory system, acquisition of merchandise for resale is debited to the",
+        "options": {
+            "A": ". Inventory account.",
+            "B": ". Purchases account.",
+            "C": ". Supplies account.",
+            "D": ". Cost of Goods Sold account."
+        },
+        "answer": "A"
+    },
+    "70": {
+        "question": "The journal entry to record a return of merchandise purchased on account under a perpetual inventory system would credit",
+        "options": {
+            "A": ". Accounts Payable.",
+            "B": ". Purchase Returns and Allowances.",
+            "C": ". Sales.",
+            "D": ". Inventory."
+        },
+        "answer": "D"
+    },
+    "71": {
+        "question": "The Inventory account is used in each of the following except the entry to record",
+        "options": {
+            "A": ". goods purchased on account.",
+            "B": ". the return of goods purchased.",
+            "C": ". payment of freight on goods sold.",
+            "D": ". payment within the discount period."
+        },
+        "answer": "C"
+    },
+    "72": {
+        "question": "A buyer would record a payment within the discount period under a perpetual inventory system by crediting",
+        "options": {
+            "A": ". Accounts Payable.",
+            "B": ". Inventory.",
+            "C": ". Purchase Discounts.",
+            "D": ". Sales Discounts."
+        },
+        "answer": "B"
+    },
+    "73": {
+        "question": "If a purchaser using a perpetual system agrees to freight terms of FOB shipping point, then the",
+        "options": {
+            "A": ". Inventory account will be increased.",
+            "B": ". Inventory account will not be affected.",
+            "C": ". seller will bear the freight cost.",
+            "D": ". carrier will bear the freight cost."
+        },
+        "answer": "A"
+    },
+    "74": {
+        "question": "Freight costs paid by a seller on merchandise sold to customers will cause an increase",
+        "options": {
+            "A": ". in the selling expense of the buyer.",
+            "B": ". in operating expenses for the seller.",
+            "C": ". to the cost of goods sold of the seller.",
+            "D": ". to a contra-revenue account of the seller."
+        },
+        "answer": "B"
+    },
+    "75": {
+        "question": "Hicks Company purchased merchandise from Beyer Company with freight terms of FOB shipping point. The freight costs will be paid by the",
+        "options": {
+            "A": ". seller.",
+            "B": ". buyer.",
+            "C": ". transportation company.",
+            "D": ". buyer and the seller."
+        },
+        "answer": "B"
+    },
+    "76": {
+        "question": "Geran Company purchased merchandise inventory with an invoice price of $15,000 and credit terms of 2/10, n/30. What is the net cost of the goods if Geran Company pays within the discount period?",
+        "options": {
+            "A": ". $15,000",
+            "B": ". $14,700",
+            "C": ". $13,500",
+            "D": ". $13,800"
+        },
+        "answer": "B"
+    },
+    "77": {
+        "question": "Reese Company purchased merchandise with an invoice price of $3,000 and credit terms of 1/10, n/30. Assuming a 360 day year, what is the implied annual interest rate inherent in the credit terms?",
+        "options": {
+            "A": ". 10%",
+            "B": ". 12%",
+            "C": ". 18%",
+            "D": ". 36%"
+        },
+        "answer": "C"
+    },
+    "78": {
+        "question": "If a company is given credit terms of 2/10, n/30, it should",
+        "options": {
+            "A": ". hold off paying the bill until the end of the credit period, while investing the money at 10% annual interest during this time.",
+            "B": ". pay within the discount period and recognize a savings.",
+            "C": ". pay within the credit period but don't take the trouble to invest the cash while waiting to pay the bill.",
+            "D": ". recognize that the supplier is desperate for cash and withhold payment until the end of the credit period while negotiating a lower sales price."
+        },
+        "answer": "B"
+    },
+    "79": {
+        "question": "In a perpetual inventory system, the amount of the discount allowed for paying for merchandise purchased within the discount period is credited by the buyer to",
+        "options": {
+            "A": ". Inventory.",
+            "B": ". Purchase Discounts.",
+            "C": ". Purchase Allowance.",
+            "D": ". Sales Discounts."
+        },
+        "answer": "A"
+    },
+    "80": {
+        "question": "Tony\u20acs Market recorded the following events involving a recent purchase of merchandise:\nReceived goods for $90,000, terms 2/10, n/30.\nReturned $1,800 of the shipment for credit.\nPaid $450 freight on the shipment.\nPaid the invoice within the discount period.\nAs a result of these events, the companyes inventory",
+        "options": {
+            "A": ". increased by $86,436.",
+            "B": ". increased by $88,650.",
+            "C": ". increased by $86,877.",
+            "D": ". increased by $86,886."
+        },
+        "answer": "D"
+    },
+    "81": {
+        "question": "Stanes Market recorded the following events involving a recent purchase of merchandise:\nReceived goods for $50,000, terms 2/10, n/30.\nReturned $1,000 of the shipment for credit.\nPaid $250 freight on the shipment.\nPaid the invoice within the discount period.\nAs a result of these events, the companyes inventory",
+        "options": {
+            "A": ". increased by $48,020.",
+            "B": ". increased by $49,250.",
+            "C": ". increased by $48,265.",
+            "D": ". increased by $48,270."
+        },
+        "answer": "D"
+    },
+    "82": {
+        "question": "Under the perpetual system, cash freight costs incurred by the buyer for the transporting of goods are recorded in",
+        "options": {
+            "A": ". Freight Expense.",
+            "B": ". Freight-In.",
+            "C": ". Inventory.",
+            "D": "Freight-Out."
+        },
+        "answer": "C"
+    },
+    "83": {
+        "question": "Rasner Co. returned defective goods costing $9,000 to Markum Company on April 19, for credit. The goods were purchased April 10, on credit, terms 3/10, n/30. The entry by Rasner Co. on April 19, in receiving full credit is:",
+        "options": {
+            "A": ". Accounts Payable\nInventory",
+            "B": ". Accounts Payable\nInventory\nCash",
+            "C": ". Accounts Payable\nPurchase Discounts\nInventory",
+            "D": ". Accounts Payable\nInventory\nCash"
+        },
+        "answer": "A"
+    },
+    "84": {
+        "question": "Mather Company made a purchase of merchandise on credit from Underwood Company on August 8, for $8,000, terms 3/10, n/30. On August 17, Mather makes the appropriate payment to Underwood. The entry on August 17 for Mather Company is:",
+        "options": {
+            "A": ". Accounts Payable\nCash",
+            "B": ". Accounts Payable\nCash",
+            "C": ". Accounts Payable\nPurchase Returns and Allowances\nCash",
+            "D": ". Accounts Payable\nInventory\nCash"
+        },
+        "answer": "D"
+    },
+    "85": {
+        "question": "Computers For You is a retailer specializing in selling computers and related equipment. Which of the following would not be reported in the merchandise inventory account reported on the statement of the financial position for Computers For You at December 31, 2017?",
+        "options": {
+            "A": ". Computers purchased for resale during November 2017.",
+            "B": ". Shelving materials purchased during December 2017.",
+            "C": ". Freight costs related to the computers purchased in November.",
+            "D": "All of these answer choices are correct."
+        },
+        "answer": "B"
+    },
+    "86": {
+        "question": "Computers For You is a retailer specializing in selling computers and related equipment. During 2017, Computers For You sells $200,000 of merchandise to Sandcastles, Inc. Computers For You incurs $24,000 of freight costs associated with these sales. Which of the following is true regarding how this $24,000 is treated on the financial statements?",
+        "options": {
+            "A": ". Computers For You will report the $24,000 as part of inventory on the statement of financial position.",
+            "B": ". Sandcastles, Inc. will report the $24,000 as part of inventory on the statement of financial position.",
+            "C": ". Computers For You will report the $24,000 as part of operating expenses on the income statement.",
+            "D": ". Sandcastles, Inc. will report the $24,000 as an accounts receivable on the statement of financial position."
+        },
+        "answer": "C"
+    },
+    "87": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. During December 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Advanced Communications, Inc. was dissatisfied with 25% of the merchandise it received due to inferior quality. On December 21, 2017, Advanced Communications, Inc. returns the goods to Touch Tronix, Inc. for credit. Which of the following is true regarding the statement of financial position for Advanced Communications, Inc. at December 31, 2017?",
+        "options": {
+            "A": ". Assets will increase by \u20ac425,000 and liabilities will increase by \u20ac425,000.",
+            "B": ". Assets will decrease by \u20ac425,000 and liabilities will decrease by \u20ac425,000.",
+            "C": ". Assets will decrease by \u20ac550,000 and liabilities will decrease by \u20ac550,000.",
+            "D": "Assets will increase by \u20ac550,000 and liabilities will increase by \u20ac550,000."
+        },
+        "answer": "C"
+    },
+    "88": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. On December 10, 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Terms of the sale were 2/10, net 30. On December 18, 2017, Advanced Communications, Inc. paid the account in full. Advanced Communications, Inc. uses a perpetual inventory system. Which of the following is true regarding the impact on the statement of financial position for Advanced Communications, Inc. when the payment is made on December 18, 2017?",
+        "options": {
+            "A": ". Cash decreased by \u20ac1,666,000.",
+            "B": ". Inventory decreased by \u20ac34,000.",
+            "C": ". Accounts payable decreases by \u20ac1,700,000.",
+            "D": "Inventory decreased by \u20ac44,000."
+        },
+        "answer": "D"
+    },
+    "89": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. On December 10, 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Terms of the sale were 2/10, net 30. On December 18, 2017, Advanced Communications, Inc. paid the account in full. Advanced Communications, Inc. uses a perpetual inventory system. Which of the following is true regarding the impact on the statement of financial position for Advanced Communications, Inc. when the payment is made on December 18, 2017?",
+        "options": {
+            "A": ". Assets decreased by \u20ac2,200,000.",
+            "B": ". Assets increased by \u20ac44,400.",
+            "C": ". Liabilities decreased by \u20ac2,156,000.",
+            "D": "Liabilities decreased by \u20ac1,700,000."
+        },
+        "answer": "A"
+    },
+    "90": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. On December 10, 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Terms of the sale were 2/10, net 30. Advanced Communications, Inc. paid \u20ac32,500 in freight charges. On December 13, 2017, Advanced Communications, Inc. returned 5% of the goods due to inferior quality. On December 18, 2017, Advanced Communications, Inc. paid the account in full. Advanced Communications, Inc. uses a perpetual inventory system. If Advanced Communications, Inc. has not yet sold any of these goods, what is the ending balance in the inventory account after the payment is made?",
+        "options": {
+            "A": ". \u20ac0",
+            "B": ". \u20ac1,615,200.",
+            "C": ". \u20ac2,080,700.",
+            "D": "\u20ac2,164,300."
+        },
+        "answer": "C"
+    },
+    "91": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. During December 10, 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Advanced Communications, Inc. was dissatisfied with 25% of the merchandise it receives due to inferior quality. On December 21, 2017, Advanced Communications, Inc. returns the goods to Touch Tronix, Inc. for credit. Which of the following is true regarding the statement of financial position and the income statement for Touch Tronix, Inc. at December 31, 2017?",
+        "options": {
+            "A": ". Assets will decrease by \u20ac125,000 and income will decrease by \u20ac125,000.",
+            "B": ". Assets will decrease by \u20ac425,000 and income will decrease by \u20ac425,000.",
+            "C": ". Assets will increase by \u20ac425,000 and income will decrease by \u20ac425,000.",
+            "D": "Assets will increase by \u20ac550,000 and income will decrease by \u20ac550,000."
+        },
+        "answer": "A"
+    },
+    "92": {
+        "question": "Touch Tronix, Inc. sells component parts to Advanced Communications, Inc. a cell phone manufacturer. On December 10, 2017, Touch Tronix, Inc. sold \u20ac1,700,000 of goods to Advanced Communications, Inc. on account for \u20ac2,200,000. Terms of the sale were 2/10, net 30. On December 18, 2017, Advanced Communications, Inc. paid the account in full. Which of the following is true regarding the impact on the statement of financial position for Touch Tronix, Inc. when the payment is made on December 18, 2017?",
+        "options": {
+            "A": ". Assets decreased by \u20ac2,200,000.",
+            "B": ". Assets decreased by \u20ac44,000.",
+            "C": ". Assets increased by \u20ac2,156,000.",
+            "D": "Assets decreased by \u20ac32,500."
+        },
+        "answer": "B"
+    },
+    "93": {
+        "question": "On July 9, Neal Company sells goods on credit to Al Dolan for $9,000, terms 1/10, n/60. Neal receives payment on July 18. The entry by Neal on July 18 is:",
+        "options": {
+            "A": ". Cash\nAccounts Receivable",
+            "B": ". Cash\nSales Discounts\nAccounts Receivable",
+            "C": ". Cash\nSales Discounts\nAccounts Receivable",
+            "D": ". Cash\nSales Discounts\nAccounts Receivable"
+        },
+        "answer": "C"
+    },
+    "94": {
+        "question": "On November 2, 2017, Griffey Company has cash sales of \u20ac7,000 from merchandise having a cost of \u20ac5,000. The entries to record the day's cash sales will include:",
+        "options": {
+            "A": ". a \u20ac5,000 credit to Cost of Goods Sold.",
+            "B": ". a \u20ac7,000 credit to Cash.",
+            "C": ". a \u20ac5,000 credit to Inventory.",
+            "D": "a \u20ac7,000 debit to Accounts Receivable."
+        },
+        "answer": "C"
+    },
+    "95": {
+        "question": "A credit sale of \u00a36,400 is made on April 25, terms 2/10, n/30, on which a return of \u00a3400 is granted on April 28. What amount is received as payment in full on May 4?",
+        "options": {
+            "A": ". \u00a35,880",
+            "B": ". \u00a36,272",
+            "C": ". \u00a36,400",
+            "D": "\u00a36,000"
+        },
+        "answer": "A"
+    },
+    "96": {
+        "question": "The entry to record the receipt of payment within the discount period on a sale of \u00a517,500 with terms of 2/10, n/30 will include a credit to",
+        "options": {
+            "A": ". Sales Discounts for \u00a5350.",
+            "B": ". Cash for \u00a51,715.",
+            "C": ". Accounts Receivable for \u00a517,500.",
+            "D": ". Sales Revenue for \u00a517,500."
+        },
+        "answer": "C"
+    },
+    "97": {
+        "question": "The collection of a \u00a512,000 account within the 2 percent discount period will result in a",
+        "options": {
+            "A": ". debit to Sales Discounts for \u00a5240.",
+            "B": ". debit to Accounts Receivable for \u00a511,760.",
+            "C": ". credit to Cash for \u00a511,760.",
+            "D": ". credit to Accounts Receivable for \u00a511,760."
+        },
+        "answer": "A"
+    },
+    "98": {
+        "question": "Company X sells $1,000 of merchandise on account to Company Y with credit terms of 2/10, n/30. If Company Y remits a check taking advantage of the discount offered, what is the amount of Company Y's check?",
+        "options": {
+            "A": ". $700",
+            "B": ". $980",
+            "C": ". $900",
+            "D": ". $800"
+        },
+        "answer": "B"
+    },
+    "99": {
+        "question": "Birk Company sells merchandise on account for $8,000 to Kiner Company with credit terms of 2/10, n/30. Kiner Company returns $1,600 of merchandise that was damaged, along with a check to settle the account within the discount period. What is the amount of the check?",
+        "options": {
+            "A": ". $7,840",
+            "B": ". $7,872",
+            "C": ". $6,400",
+            "D": ". $6,272"
+        },
+        "answer": "D"
+    },
+    "100": {
+        "question": "The collection of a $1,500 account after the 2 percent discount period will result in a",
+        "options": {
+            "A": ". debit to Cash for $1,470.",
+            "B": ". debit to Accounts Receivable for $1,500.",
+            "C": ". debit to Cash for $1,500.",
+            "D": ". debit to Sales Discounts for $30."
+        },
+        "answer": "C"
+    },
+    "101": {
+        "question": "The collection of a \u00a512,000 account after the 2 percent discount period will result in a",
+        "options": {
+            "A": ". debit to Cash for \u00a511,760.",
+            "B": ". credit to Accounts Receivable for \u00a512,000.",
+            "C": ". credit to Cash for \u00a512,000.",
+            "D": ". debit to Sales Discounts for \u00a5240."
+        },
+        "answer": "B"
+    },
+    "102": {
+        "question": "In a perpetual inventory system, the Cost of Goods Sold account is used",
+        "options": {
+            "A": ". only when a cash sale of merchandise occurs.",
+            "B": ". only when a credit sale of merchandise occurs.",
+            "C": ". only when a sale of merchandise occurs.",
+            "D": ". whenever there is a sale of merchandise or a return of merchandise sold."
+        },
+        "answer": "D"
+    },
+    "103": {
+        "question": "Sales revenues are usually considered earned when",
+        "options": {
+            "A": ". cash is received from credit sales.",
+            "B": ". an order is received.",
+            "C": ". goods have been transferred from the seller to the buyer.",
+            "D": ". adjusting entries are made."
+        },
+        "answer": "C"
+    },
+    "104": {
+        "question": "A sales invoice is a source document that",
+        "options": {
+            "A": ". provides support for goods purchased for resale.",
+            "B": ". provides evidence of incurred operating expenses.",
+            "C": ". provides support for credit sales.",
+            "D": ". serves only as a customer receipt."
+        },
+        "answer": "C"
+    },
+    "105": {
+        "question": "Sales revenue",
+        "options": {
+            "A": ". may be recorded before cash is collected.",
+            "B": ". will always equal cash collections in a month.",
+            "C": ". only results from credit sales.",
+            "D": ". is only recorded after cash is collected."
+        },
+        "answer": "A"
+    },
+    "106": {
+        "question": "The journal entry to record a credit sale is",
+        "options": {
+            "A": ". Cash\nSales Revenue",
+            "B": ". Cash\nService Revenue",
+            "C": ". Accounts Receivable\nService Revenue",
+            "D": ". Accounts Receivable\nSales Revenue"
+        },
+        "answer": "D"
+    },
+    "107": {
+        "question": "The Sales Returns and Allowances account is classified as a(n)",
+        "options": {
+            "A": ". asset account.",
+            "B": ". contra asset account.",
+            "C": ". expense account.",
+            "D": ". contra revenue account."
+        },
+        "answer": "D"
+    },
+    "108": {
+        "question": "A credit sale of $3,600 is made on July 15, terms 2/10, n/30, on which a return of $200 is granted on July 18. What amount is received as payment in full on July 24?",
+        "options": {
+            "A": ". $3,600",
+            "B": ". $3,332",
+            "C": ". $3,400",
+            "D": "$3,528"
+        },
+        "answer": "B"
+    },
+    "109": {
+        "question": "When goods are returned that relate to a prior cash sale,",
+        "options": {
+            "A": ". the Sales Returns and Allowances account should not be used.",
+            "B": ". the Cash account will be credited.",
+            "C": ". Sales Returns and Allowances will be credited.",
+            "D": ". Accounts Receivable will be credited."
+        },
+        "answer": "B"
+    },
+    "110": {
+        "question": "The Sales Returns and Allowances account does not provide information to management about",
+        "options": {
+            "A": ". inferior merchandise.",
+            "B": ". the percentage of credit sales versus cash sales.",
+            "C": ". inefficiencies in filling orders.",
+            "D": ". errors in billing customers."
+        },
+        "answer": "B"
+    },
+    "111": {
+        "question": "As an incentive for customers to pay their accounts promptly, a business may offer its customers",
+        "options": {
+            "A": ". a sales discount.",
+            "B": ". free delivery.",
+            "C": ". a sales allowance.",
+            "D": ". a sales return."
+        },
+        "answer": "A"
+    },
+    "112": {
+        "question": "The credit terms offered to a customer by a business firm are 2/10, n/30, which means that",
+        "options": {
+            "A": ". the customer must pay the bill within 10 days.",
+            "B": ". the customer can deduct a 2% discount if the bill is paid between the 10th and 30th day from the invoice date.",
+            "C": ". the customer can deduct a 2% discount if the bill is paid within 10 days of the invoice date.",
+            "D": ". two sales returns can be made within 10 days of the invoice date and no returns thereafter."
+        },
+        "answer": "C"
+    },
+    "113": {
+        "question": "Company A sells \u00a59,000 of merchandise on account to Company B with credit terms of 2/10, n/30. If Company B remits a check taking advantage of the discount offered, what is the amount of Company B's check?",
+        "options": {
+            "A": ". \u00a56,300",
+            "B": ". \u00a58,820",
+            "C": ". \u00a58,100",
+            "D": ". \u00a57,200"
+        },
+        "answer": "B"
+    },
+    "114": {
+        "question": "Ball Company sells merchandise on account for \u00a35,000 to Edds Company with credit terms of 2/10, n/30. Edds Company returns \u00a31,000 of merchandise that was damaged, along with a check to settle the account within the discount period. What is the amount of the check?",
+        "options": {
+            "A": ". \u00a34,900",
+            "B": ". \u00a34,920",
+            "C": ". \u00a34,000",
+            "D": ". \u00a33,920"
+        },
+        "answer": "D"
+    },
+    "115": {
+        "question": "Moses Company sells merchandise on account for $8,000 to Lane Company with credit terms of 2/10, n/30. Lane Company returns $1,200 of merchandise that was damaged, along with a check to settle the account within the discount period. What entry does Moses Company make upon receipt of the check?",
+        "options": {
+            "A": ". Cash\nAccounts Receivable",
+            "B": ". Cash\nSales Returns and Allowances\nAccounts Receivable",
+            "C": ". Cash\nSales Returns and Allowances\nSales Discounts\nAccounts Receivable",
+            "D": ". Cash\nSales Discounts\nSales Returns and Allowances\nAccounts Receivable"
+        },
+        "answer": "C"
+    },
+    "116": {
+        "question": "Which of the following would not be classified as a contra account?",
+        "options": {
+            "A": ". Sales Revenue",
+            "B": ". Sales Returns and Allowances",
+            "C": ". Accumulated Depreciation",
+            "D": ". Sales Discounts"
+        },
+        "answer": "A"
+    },
+    "117": {
+        "question": "Which of the following accounts has a normal credit balance?",
+        "options": {
+            "A": ". Sales Returns and Allowances",
+            "B": ". Sales Discounts",
+            "C": ". Sales",
+            "D": ". Freight-Out"
+        },
+        "answer": "C"
+    },
+    "118": {
+        "question": "When a seller grants credit for returned goods, the account that is credited is",
+        "options": {
+            "A": ". Sales Revenue.",
+            "B": ". Sales Returns and Allowances.",
+            "C": ". Inventory.",
+            "D": ". Accounts Receivable."
+        },
+        "answer": "D"
+    },
+    "119": {
+        "question": "The respective normal account balances of Sales Revenue, Sales Returns and Allowances, and Sales Discounts are",
+        "options": {
+            "A": ". credit, credit, credit.",
+            "B": ". debit, credit, debit.",
+            "C": ". credit, debit, debit.",
+            "D": ". credit, debit, credit."
+        },
+        "answer": "C"
+    },
+    "120": {
+        "question": "A merchandising company using a perpetual system will make",
+        "options": {
+            "A": ". the same number of adjusting entries as a service company does.",
+            "B": ". one more adjusting entry than a service company does.",
+            "C": ". one less adjusting entry than a service company does.",
+            "D": ". different types of adjusting entries compared to a service company."
+        },
+        "answer": "B"
+    },
+    "121": {
+        "question": "In preparing closing entries for a merchandising company, the Income Summary account will be credited for the balance of",
+        "options": {
+            "A": ". sales revenue.",
+            "B": ". inventory.",
+            "C": ". sales discounts.",
+            "D": ". freight-out."
+        },
+        "answer": "A"
+    },
+    "122": {
+        "question": "A merchandising company using a perpetual system may record an adjusting entry by",
+        "options": {
+            "A": ". debiting Income Summary.",
+            "B": ". crediting Income Summary.",
+            "C": ". debiting Cost of Goods Sold.",
+            "D": ". debiting Sales Revenue."
+        },
+        "answer": "C"
+    },
+    "123": {
+        "question": "When the physical count of RNA Company inventory had a cost of $3,500 at year end and the unadjusted balance in Inventory was $3,600, RNA will have to make the following entry:",
+        "options": {
+            "A": ". Cost of Goods Sold\nInventory",
+            "B": ". Inventory\nCost of Goods Sold",
+            "C": ". Income Summary\nInventory",
+            "D": ". Cost of Goods Sold\nInventory"
+        },
+        "answer": "A"
+    },
+    "124": {
+        "question": "Mineral Makers (MM) Company keeps its inventory records using a perpetual system. At December 31, 2017 the unadjusted balance in the Inventory account is $64,000. Through a physical count on December 31, 2017, MM determines that its actual inventory at year- end is $62,500. Which of the following is true regarding the statement of financial position and the income statement of MM at December 31, 2017?",
+        "options": {
+            "A": ". Inventory is increased and cost of goods sold is decreased by $1,500.",
+            "B": ". Inventory is decreased and cost of goods sold is increased by $1,500.",
+            "C": ". Inventory is increased and cost of goods sold is increased by $1,500.",
+            "D": ". Inventory is decreased and cost of goods sold is decreased by $1,500."
+        },
+        "answer": "B"
+    },
+    "125": {
+        "question": "The sales revenue section of an income statement for a retailer would not include",
+        "options": {
+            "A": ". Sales discounts.",
+            "B": ". Sales revenue.",
+            "C": ". Net sales.",
+            "D": ". Gross profit."
+        },
+        "answer": "D"
+    },
+    "126": {
+        "question": "Rowland Company reported the following balances at June 30, 2017:\nSales Revenue $32,000\nSales Returns and Allowances 1,000\nSales Discounts 500\nCost of Goods Sold 15,500\nNet sales for the month is",
+        "options": {
+            "A": ". $32,000.",
+            "B": ". $31,000.",
+            "C": ". $30,500.",
+            "D": ". $16,500."
+        },
+        "answer": "C"
+    },
+    "127": {
+        "question": "Maxwell Company's financial information is presented below.\nSales Revenue \u20ac ????\nSales Returns and Allowances 50,000\nNet Sales 780,000\nCost of Goods Sold \u20ac450,000\nGross Profit ????\nThe missing amounts above are:\nSales Revenue Gross Profit",
+        "options": {
+            "A": ". \u20ac830,000 \u20ac330,000",
+            "B": ". \u20ac730,000 \u20ac330,000",
+            "C": ". \u20ac830,000 \u20ac380,000",
+            "D": ". \u20ac730,000 \u20ac380,000"
+        },
+        "answer": "A"
+    },
+    "128": {
+        "question": "The operating expense section of an income statement for a wholesaler would not include",
+        "options": {
+            "A": ". freight-out.",
+            "B": ". utilities expense.",
+            "C": ". cost of goods sold.",
+            "D": ". insurance expense."
+        },
+        "answer": "C"
+    },
+    "129": {
+        "question": "Income from operations will always result if",
+        "options": {
+            "A": ". the cost of goods sold exceeds operating expenses.",
+            "B": ". revenues exceed cost of goods sold.",
+            "C": ". revenues exceed operating expenses.",
+            "D": ". gross profit exceeds operating expenses."
+        },
+        "answer": "D"
+    },
+    "130": {
+        "question": "All of the following items would be reported as other income and expense except",
+        "options": {
+            "A": ". interest expense.",
+            "B": ". casualty losses.",
+            "C": ". dividend revenue.",
+            "D": ". loss from employees' strikes."
+        },
+        "answer": "A"
+    },
+    "131": {
+        "question": "If a company has net sales of $800,000 and cost of goods sold of $520,000, the gross profit rate is",
+        "options": {
+            "A": ". 65%.",
+            "B": ". 35%.",
+            "C": ". 46%.",
+            "D": ". 54%."
+        },
+        "answer": "B"
+    },
+    "132": {
+        "question": "A company shows the following balances:\nSales Revenue \u00a51,500,000\nSales Returns and Allowances 270,000\nSales Discounts 30,000\nCost of Goods Sold 900,000\nWhat is the gross profit rate?",
+        "options": {
+            "A": ". 60%",
+            "B": ". 75%",
+            "C": ". 40%",
+            "D": ". 25%"
+        },
+        "answer": "D"
+    },
+    "133": {
+        "question": "The gross profit rate is computed by dividing gross profit by",
+        "options": {
+            "A": ". cost of goods sold.",
+            "B": ". net income.",
+            "C": ". net sales.",
+            "D": ". sales revenue."
+        },
+        "answer": "C"
+    },
+    "134": {
+        "question": "In terms of liquidity, inventory is",
+        "options": {
+            "A": ". more liquid than cash.",
+            "B": ". more liquid than accounts receivable.",
+            "C": ". more liquid than prepaid expenses.",
+            "D": ". less liquid than store equipment."
+        },
+        "answer": "C"
+    },
+    "135": {
+        "question": "On a classified statement of financial position, inventory is classified as",
+        "options": {
+            "A": ". an intangible asset.",
+            "B": ". property, plant, and equipment.",
+            "C": ". a current asset.",
+            "D": ". a long-term investment."
+        },
+        "answer": "C"
+    },
+    "136": {
+        "question": "Gross profit for a merchandiser is net sales minus",
+        "options": {
+            "A": ". operating expenses.",
+            "B": ". cost of goods sold.",
+            "C": ". sales discounts.",
+            "D": ". cost of goods available for sale."
+        },
+        "answer": "B"
+    },
+    "137": {
+        "question": "During 2017, Yoder Enterprises generated revenues of $180,000. The companyes expenses were as follows: cost of goods sold of $90,000, operating expenses of $36,000 and a loss on the sale of equipment of $6,000.\nYoderes gross profit is",
+        "options": {
+            "A": ". $180,000.",
+            "B": ". $90,000.",
+            "C": ". $54,000.",
+            "D": ". $48,000."
+        },
+        "answer": "B"
+    },
+    "138": {
+        "question": "During 2017, Yoder Enterprises generated revenues of $180,000. The companyes expenses were as follows: cost of goods sold of $90,000, operating expenses of $36,000 and a loss on the sale of equipment of $6,000.\nYoderes income from operations is",
+        "options": {
+            "A": ". $180,000.",
+            "B": ". $90,000.",
+            "C": ". $54,000.",
+            "D": ". $36,000."
+        },
+        "answer": "C"
+    },
+    "139": {
+        "question": "During 2017, Yoder Enterprises generated revenues of $180,000. The companyes expenses were as follows: cost of goods sold of $90,000, operating expenses of $36,000 and a loss on the sale of equipment of $6,000.\nYoderes net income is",
+        "options": {
+            "A": ". $180,000.",
+            "B": ". $90,000.",
+            "C": ". $54,000.",
+            "D": ". $48,000."
+        },
+        "answer": "D"
+    },
+    "140": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 90,000\nNet Sales 300,000\nCost of Goods Sold 165,000\nGross profit would be",
+        "options": {
+            "A": ". \u20ac210,000.",
+            "B": ". \u20ac45,000.",
+            "C": ". \u20ac135,000.",
+            "D": ". \u20ac300,000."
+        },
+        "answer": "C"
+    },
+    "141": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 90,000\nNet Sales 300,000\nCost of Goods Sold 165,000\nThe gross profit rate would be",
+        "options": {
+            "A": ". .70.",
+            "B": ". .15.",
+            "C": ". .30.",
+            "D": ". .45."
+        },
+        "answer": "D"
+    },
+    "142": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 270,000\nSales Returns and Allowances 78,000\nSales Discounts 36,000\nSales Revenue 900,000\nCost of Goods Sold 402,000\nGross profit would be",
+        "options": {
+            "A": ". \u20ac462,000.",
+            "B": ". \u20ac384,000.",
+            "C": ". \u20ac420,000.",
+            "D": ". \u20ac498,000."
+        },
+        "answer": "B"
+    },
+    "143": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 270,000\nSales Returns and Allowances 78,000\nSales Discounts 36,000\nSales Revenue 960,000\nCost of Goods Sold 462,000\nThe gross profit rate would be",
+        "options": {
+            "A": ". .535.",
+            "B": ". .489.",
+            "C": ". .511.",
+            "D": ". .553."
+        },
+        "answer": "B"
+    },
+    "144": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 270,000\nSales Returns and Allowances 78,000\nSales Discounts 36,000\nSales Revenue 960,000\nCost of Goods Sold 462,000\nThe amount of net sales on the income statement would be",
+        "options": {
+            "A": ". \u20ac924,000.",
+            "B": ". \u20ac846,000.",
+            "C": ". \u20ac960,000.",
+            "D": ". \u20ac996,000."
+        },
+        "answer": "B"
+    },
+    "145": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 270,000\nSales Returns and Allowances 78,000\nSales Discounts 36,000\nSales Revenue 960,000\nCost of Goods Sold 462,000\nGross profit would be",
+        "options": {
+            "A": ". \u20ac462,000.",
+            "B": ". \u20ac420,000.",
+            "C": ". \u20ac384,000.",
+            "D": ". \u20ac498,000."
+        },
+        "answer": "C"
+    },
+    "146": {
+        "question": "Financial information is presented below:\nOperating Expenses \u20ac 270,000\nSales Returns and Allowances 78,000\nSales Discounts 36,000\nSales Revenue 960,000\nCost of Goods Sold 462,000\nThe gross profit rate would be",
+        "options": {
+            "A": ". .454.",
+            "B": ". .546.",
+            "C": ". .500.",
+            "D": ". .538."
+        },
+        "answer": "A"
+    },
+    "147": {
+        "question": "If a company has sales of $630,000, net sales of $600,000, and cost of goods sold of $450,000, the gross profit rate is",
+        "options": {
+            "A": ". 71%.",
+            "B": ". 75%",
+            "C": ". 25%.",
+            "D": ". 29%."
+        },
+        "answer": "C"
+    },
+    "148": {
+        "question": "Murray\u20acs Fashions sold merchandise for $152,000 cash during the month of July. Returns that month totaled $3,200. If the companyes gross profit rate is 40%, Murray\u20acs will report monthly net sales revenue and cost of goods sold of",
+        "options": {
+            "A": ". $152,000 and $60,800.",
+            "B": ". $148,800 and $59,520.",
+            "C": ". $148,800 and $89,280.",
+            "D": ". $152,000 and $89,280."
+        },
+        "answer": "C"
+    },
+    "149": {
+        "question": "During August, 2017, Joe\u20acs Supply Store generated revenues of $150,000. The companyes expenses were as follows: cost of goods sold of $60,000 and operating expenses of $10,000. The company also had rent revenue of $2,500 and a gain on the sale of a delivery truck of $5,000.\nJoees gross profit for August, 2017 is",
+        "options": {
+            "A": ". $150,000.",
+            "B": ". $95,000.",
+            "C": ". $90,000.",
+            "D": ". $80,000."
+        },
+        "answer": "C"
+    },
+    "150": {
+        "question": "During August, 2017, Joe\u20acs Supply Store generated revenues of $150,000. The companyes expenses were as follows: cost of goods sold of $60,000 and operating expenses of $10,000. The company also had rent revenue of $2,500 and a gain on the sale of a delivery truck of $5,000.\nJoees other income and expense (loss) for the month of August, 2017 is",
+        "options": {
+            "A": ". $0.",
+            "B": ". $2,500.",
+            "C": ". $5,000.",
+            "D": ". $7,500."
+        },
+        "answer": "D"
+    },
+    "151": {
+        "question": "During August, 2017, Joe\u20acs Supply Store generated revenues of $150,000. The companyes expenses were as follows: cost of goods sold of $60,000 and operating expenses of $10,000. The company also had rent revenue of $2,500 and a gain on the sale of a delivery truck of $5,000.\nJoe\u20acs income from operations for the month of August, 2017 is",
+        "options": {
+            "A": ". $150,000.",
+            "B": ". $97,500.",
+            "C": ". $92,500.",
+            "D": ". $80,000."
+        },
+        "answer": "D"
+    },
+    "152": {
+        "question": "During August, 2017, Joe\u20acs Supply Store generated revenues of $150,000. The companyes expenses were as follows: cost of goods sold of $60,000 and operating expenses of $10,000. The company also had rent revenue of $2,500 and a gain on the sale of a delivery truck of $5,000.\nJoe\u20acs net income for August, 2017 is",
+        "options": {
+            "A": ". $90,000.",
+            "B": ". $87,500.",
+            "C": ". $82,500.",
+            "D": ". $80,000."
+        },
+        "answer": "B"
+    },
+    "153": {
+        "question": "Operating expenses include salaries, utilities, advertising, and depreciation. International Financial Reporting Standards allow different presentation formats including by",
+        "options": {
+            "A": ". magnitude.",
+            "B": ". nature.",
+            "C": ". position.",
+            "D": ". classification."
+        },
+        "answer": "B"
+    },
+    "154": {
+        "question": "Operating expenditures include salaries, utilities, advertising, and depreciation. Presentation of operating expenses by nature",
+        "options": {
+            "A": ". provides very detailed information, with numerous line items.",
+            "B": ". aggregates costs into groupings based on the primary functional activities in which the company engages.",
+            "C": ". requires disclosures of additional details regarding the nature of certain expenses.",
+            "D": ". All of these answer choices are correct."
+        },
+        "answer": "A"
+    },
+    "155": {
+        "question": "International Financial Reporting Standards call for companies to mark the recorded values of certain types of assets and liabilities to fair value each period. These unrealized gains and losses are excluded from net income but included in comprehensive income and include all of the following except",
+        "options": {
+            "A": ". adjustments to pension plan assets.",
+            "B": ". gains from foreign currency translation.",
+            "C": ". unrealized losses on certain types of investments.",
+            "D": ". adjustment to fixed assets for depreciation."
+        },
+        "answer": "D"
+    },
+    "156": {
+        "question": "Which of the following statements is true regarding International Financial Reporting Standards (IFRS) and U.S. GAAP?",
+        "options": {
+            "A": ". IFRS allows both the perpetual and periodic systems, but U.S GAAP permits only the perpetual system.",
+            "B": ". IFRS requires a single-step income statement, but U.S. GAAP allows either the single-step or the multiple-step income statement.",
+            "C": ". U.S. GAAP allows operating expenses to be reported by either function or nature, IFRS requires reporting by function.",
+            "D": ". IFRS requires 2 years of income statements, U.S. GAAP requires 3 years of income statements."
+        },
+        "answer": "D"
+    },
+    "157": {
+        "question": "Which of the following statements is true regarding the project to rework the structure of financial statements undertaken by the International Accounting Standard Board (IASB) and the Financial Accounting Standards Board (FASB)?",
+        "options": {
+            "A": ". The proposed changes to the financial statements would result in considerably more detail than currently seen under IFRS and U.S. GAAP.",
+            "B": ". The proposed structure is meant to draw attention away from net income.",
+            "C": ". The proposed structure will adopt major groupings similar to those currently used by the statement of cash flows (operating, investing, and financial).",
+            "D": ". All of these answer choices are correct."
+        },
+        "answer": "D"
+    },
+    "158": {
+        "question": "Sampson Company's accounting records show the following for the year ending December 31, 2017:\nPurchase Discounts \u00a3 28,000\nFreight-In 39,000\nPurchases 1,000,050\nBeginning Inventory 117,500\nEnding Inventory 144,000\nPurchase Returns 32,000\nUsing the periodic system, the cost of goods purchased is",
+        "options": {
+            "A": ". \u00a3901,050.",
+            "B": ". \u00a31,021,050.",
+            "C": ". \u00a31,043,050.",
+            "D": ". \u00a3979,050."
+        },
+        "answer": "D"
+    },
+    "159": {
+        "question": "Sampson Company's accounting records show the following for the year ending December 31, 2017:\nPurchase Discounts \u00a3 28,000\nFreight-In 39,000\nPurchases 1,000,050\nBeginning Inventory 117,500\nEnding Inventory 144,000\nPurchase Returns 32,000\nUsing the periodic system, the cost of goods sold is",
+        "options": {
+            "A": ". \u00a31,005,550.",
+            "B": ". \u00a3994,550.",
+            "C": ". \u00a3952,550.",
+            "D": ". \u00a31,047,550."
+        },
+        "answer": "C"
+    },
+    "160": {
+        "question": "The following information is available for Norton Company:\nSales Revenue $390,000\nEnding Inventory 36,000\nPurchases 290,000\nFreight-In $30,000\nPurchase Returns and Allowances 15,000\nBeginning Inventory 45,000\nNorton's cost of goods sold is",
+        "options": {
+            "A": ". $365,000.",
+            "B": ". $350,000.",
+            "C": ". $314,000.",
+            "D": ". $305,000."
+        },
+        "answer": "C"
+    },
+    "161": {
+        "question": "At the beginning of September, 2017, GLF Company reported Inventory of $8,000. During the month, the company made purchases of $28,400. At September 30, 2017, a physical count of inventory reported $9,600 on hand. Cost of goods sold for the month is",
+        "options": {
+            "A": ". $1,600.",
+            "B": ". $28,400.",
+            "C": ". $26,800.",
+            "D": ". $36,400."
+        },
+        "answer": "C"
+    },
+    "162": {
+        "question": "At the beginning of the year, Meng Company had an inventory of \u00a5500,000. During the year, the company purchased goods costing \u00a52,000,000. If Meng Company reported ending inventory of \u00a5600,000 and sales of \u00a52,500,000, the companyes cost of goods sold and gross profit rate must be",
+        "options": {
+            "A": ". \u00a51,250,000 and 50%.",
+            "B": ". \u00a51,900,000 and 24%.",
+            "C": ". \u00a51,250,000 and 24%.",
+            "D": ". \u00a51,900,000 and 76%."
+        },
+        "answer": "B"
+    },
+    "163": {
+        "question": "During the year, Carla\u20acs Pet Shop\u20acs merchandise inventory decreased by $40,000. If the companyes cost of goods sold for the year was $650,000, purchases must have been",
+        "options": {
+            "A": ". $690,000.",
+            "B": ". $610,000.",
+            "C": ". $570,000.",
+            "D": ". Unable to determine."
+        },
+        "answer": "B"
+    },
+    "164": {
+        "question": "Cost of goods available for sale is computed by adding",
+        "options": {
+            "A": ". beginning inventory to net purchases.",
+            "B": ". beginning inventory to the cost of goods purchased.",
+            "C": ". net purchases and freight-in.",
+            "D": ". purchases to beginning inventory."
+        },
+        "answer": "B"
+    },
+    "165": {
+        "question": "The Freight-In account",
+        "options": {
+            "A": ". increases the cost of merchandise purchased.",
+            "B": ". is contra to the Purchases account.",
+            "C": ". is a permanent account.",
+            "D": ". has a normal credit balance."
+        },
+        "answer": "A"
+    },
+    "166": {
+        "question": "Net purchases plus freight-in determines",
+        "options": {
+            "A": ". cost of goods sold.",
+            "B": ". cost of goods available for sale.",
+            "C": ". cost of goods purchased.",
+            "D": ". total goods available for sale."
+        },
+        "answer": "C"
+    },
+    "167": {
+        "question": "Powers Company has the following account balances:\nPurchases $99,000\nSales Returns and Allowances 12,800\nPurchase Discounts 8,000\nFreight-In 6,000\nDelivery Expense 8,000\nThe cost of goods purchased for the period is",
+        "options": {
+            "A": ". $107,000.",
+            "B": ". $97,000.",
+            "C": ". $105,000.",
+            "D": ". $92,200."
+        },
+        "answer": "B"
+    },
+    "168": {
+        "question": "Gould Shoe Store has a beginning inventory of \u20ac45,000. During the period, purchases were \u20ac250,000; purchase returns, \u20ac6,000; and freight-in \u20ac15,000. A physical count of inventory at the end of the period revealed that \u20ac30,000 was still on hand. The cost of goods available for sale was",
+        "options": {
+            "A": ". \u20ac286,000.",
+            "B": ". \u20ac274,000.",
+            "C": ". \u20ac304,000.",
+            "D": ". \u20ac316,000."
+        },
+        "answer": "C"
+    },
+    "169": {
+        "question": "In a periodic inventory system, a return of defective merchandise to a supplier is recorded by crediting",
+        "options": {
+            "A": ". Accounts Payable.",
+            "B": ". Inventory.",
+            "C": ". Purchases.",
+            "D": ". Purchase Returns and Allowances."
+        },
+        "answer": "D"
+    },
+    "170": {
+        "question": "Which one of the following transactions is recorded with the same entry in a perpetual and a periodic inventory system?",
+        "options": {
+            "A": ". Cash received on account with a discount",
+            "B": ". Payment of freight costs on a purchase",
+            "C": ". Return of merchandise sold",
+            "D": ". Sale of merchandise on credit"
+        },
+        "answer": "A"
+    }
+}

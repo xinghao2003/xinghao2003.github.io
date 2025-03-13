@@ -44,6 +44,14 @@
         "file": "ba-chapter4-IFRS-3e.json"
     },
     {
+        "name": "Business Accounting Chapter 5 - IFRS - 3e",
+        "file": "ba-chapter5-IFRS-3e.json"
+    },
+    {
+        "name": "Business Accounting Chapter 6 - 10e",
+        "file": "ba-chapter6-10e.json"
+    },
+    {
         "name": "Machine Learning Chapter 1 - Introduction",
         "file": "ml-chapter1.json"
     },
