@@ -1,0 +1,382 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a primary learning outcome mentioned for optimizing data stories?",
+    "answer": "C",
+    "options": {
+      "A": "To create strategies to minimize overload",
+      "B": "To create strategies to maximize retention",
+      "C": "To master all data visualization software",
+      "D": "To understand and optimize the data story for audience"
+    }
+  },
+  "2": {
+    "question": "According to the document, which question is essential when guiding explanations of data graphics?",
+    "answer": "C",
+    "options": {
+      "A": "Who collected the data for the chart?",
+      "B": "How long did it take to collect the data?",
+      "C": "What is the key takeaway by my audience from the chart(s)?",
+      "D": "What is the most expensive software used to create the graphic?"
+    }
+  },
+  "3": {
+    "question": "Which of the following is one of the five questions that guide explanations of data graphics?",
+    "answer": "D",
+    "options": {
+      "A": "What font was used in the labels?",
+      "B": "What software was used to generate the graphic?",
+      "C": "What is the resolution of the graphic?",
+      "D": "What do the encodings mean (the value of the data points)?"
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT one of the primary types of chart axes mentioned?",
+    "answer": "C",
+    "options": {
+      "A": "Category axis",
+      "B": "Numeric axis",
+      "C": "Complex axis",
+      "D": "Geographical scale"
+    }
+  },
+  "5": {
+    "question": "When is a logarithmic scale particularly useful for data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "When data is perfectly linear",
+      "B": "When using only categorical data",
+      "C": "When data points are very close to each other",
+      "D": "When there is huge variance in data"
+    }
+  },
+  "6": {
+    "question": "What is recommended to minimize when using data axes?",
+    "answer": "D",
+    "options": {
+      "A": "The explanation of x- and y-axes",
+      "B": "The use of logarithmic scales",
+      "C": "The number of data points",
+      "D": "The use of prefixes and suffixes"
+    }
+  },
+  "7": {
+    "question": "What does 'encoding mean' primarily refer to in data graphics?",
+    "answer": "A",
+    "options": {
+      "A": "The meaning of visual elements like colors, shapes, or lines representing data",
+      "B": "The software used to create the graphic",
+      "C": "The mathematical formula behind the chart",
+      "D": "The total number of data points displayed"
+    }
+  },
+  "8": {
+    "question": "In the example provided, what do different shades of gray represent?",
+    "answer": "D",
+    "options": {
+      "A": "Different visualization types",
+      "B": "Different years",
+      "C": "Different GDP values",
+      "D": "Different countries"
+    }
+  },
+  "9": {
+    "question": "What does 'level of detail' refer to in data graphic presentation?",
+    "answer": "A",
+    "options": {
+      "A": "The way the data is aggregated or summarized",
+      "B": "The complexity of the chart's design",
+      "C": "The number of colors used in the graphic",
+      "D": "The size of the chart on the screen"
+    }
+  },
+  "10": {
+    "question": "If data on bicycle rentals is viewed 'daily', what level of detail is being used?",
+    "answer": "D",
+    "options": {
+      "A": "Monthly",
+      "B": "Yearly",
+      "C": "Hourly",
+      "D": "A specific, granular level"
+    }
+  },
+  "11": {
+    "question": "What is the main purpose of focusing on 'data points' in data graphics?",
+    "answer": "B",
+    "options": {
+      "A": "To make the chart visually appealing",
+      "B": "To draw the audience's attention to the most important part of the chart",
+      "C": "To minimize the chart's complexity",
+      "D": "To increase the data storage requirements"
+    }
+  },
+  "12": {
+    "question": "Which of the following is a technique to draw attention to critical data points?",
+    "answer": "A",
+    "options": {
+      "A": "Highlighting a data series or building it incrementally",
+      "B": "Removing all labels from the chart",
+      "C": "Using only black and white colors",
+      "D": "Reducing the chart's size"
+    }
+  },
+  "13": {
+    "question": "What should the key takeaway primarily achieve for the audience?",
+    "answer": "B",
+    "options": {
+      "A": "Demonstrate the presenter's technical skills",
+      "B": "Prompt discussion, a result, conclusion, or finding",
+      "C": "List every data point in the chart",
+      "D": "Provide irrelevant historical context"
+    }
+  },
+  "14": {
+    "question": "Which concept helps the audience remember the main insight from a visualization?",
+    "answer": "B",
+    "options": {
+      "A": "Data encodings",
+      "B": "Key takeaway",
+      "C": "Level of detail",
+      "D": "Data axes"
+    }
+  },
+  "15": {
+    "question": "What are the two simple ways to optimize a data story?",
+    "answer": "B",
+    "options": {
+      "A": "Minimize audience interaction and maximize direct instruction",
+      "B": "Minimize information overload and maximize retention",
+      "C": "Minimize cost and maximize aesthetics",
+      "D": "Minimize presentation time and maximize data points"
+    }
+  },
+  "16": {
+    "question": "Why is it important to design data graphics to make the key message obvious?",
+    "answer": "B",
+    "options": {
+      "A": "To impress the audience with complex designs",
+      "B": "Because human beings process information in specific ways that can lead to overload",
+      "C": "To ensure the presentation is as long as possible",
+      "D": "To hide subtle details from the audience"
+    }
+  },
+  "17": {
+    "question": "Human beings have separate channels for processing which types of information?",
+    "answer": "B",
+    "options": {
+      "A": "Textual and numerical",
+      "B": "Visual and auditory",
+      "C": "Emotional and logical",
+      "D": "Kinesthetic and tactile"
+    }
+  },
+  "18": {
+    "question": "What is a key recommendation for designing a presentation to avoid information overload?",
+    "answer": "C",
+    "options": {
+      "A": "Include as much detail as possible on each slide.",
+      "B": "Avoid allowing time for audience discussion.",
+      "C": "Deconstruct every presentation into words, images, and sound.",
+      "D": "Speak as quickly as possible to cover more content."
+    }
+  },
+  "19": {
+    "question": "Overwhelming a single processing channel (e.g., visual or auditory) can lead to what?",
+    "answer": "C",
+    "options": {
+      "A": "Improved focus",
+      "B": "Increased retention",
+      "C": "Information overload",
+      "D": "Faster processing speed"
+    }
+  },
+  "20": {
+    "question": "What is the ultimate objective of data visualization concerning information retention?",
+    "answer": "B",
+    "options": {
+      "A": "To entertain the audience with flashy graphics",
+      "B": "To present information that is learned and stored in long-term memory",
+      "C": "To minimize the cognitive effort of the audience",
+      "D": "To provide as much raw data as possible"
+    }
+  },
+  "21": {
+    "question": "Which aspect is crucial for the audience to remember information more easily?",
+    "answer": "C",
+    "options": {
+      "A": "Memorizing by rote",
+      "B": "Speed reading",
+      "C": "Active learning",
+      "D": "Passive observation"
+    }
+  },
+  "22": {
+    "question": "In the human information processing system, what is the stage where information is temporarily held and processed?",
+    "answer": "A",
+    "options": {
+      "A": "Working memory",
+      "B": "Retrieval",
+      "C": "Sensory memory",
+      "D": "Long-term memory"
+    }
+  },
+  "23": {
+    "question": "Which of the following is a strategy for maximizing retention and minimizing overload?",
+    "answer": "A",
+    "options": {
+      "A": "Design visual information that is easily perceived.",
+      "B": "Overwhelm the audience with complex visuals.",
+      "C": "Avoid reinforcing the message.",
+      "D": "Present cryptic and unclear results."
+    }
+  },
+  "24": {
+    "question": "To integrate new knowledge effectively, what should data visualization aim to build upon?",
+    "answer": "A",
+    "options": {
+      "A": "Prior knowledge",
+      "B": "Hypothetical scenarios",
+      "C": "Future technologies",
+      "D": "Unrelated concepts"
+    }
+  },
+  "25": {
+    "question": "According to Colin Ware, which of the following is NOT one of the four pre-attentive visual properties?",
+    "answer": "C",
+    "options": {
+      "A": "Color",
+      "B": "Form",
+      "C": "Sound",
+      "D": "Movement"
+    }
+  },
+  "26": {
+    "question": "What is the typical time threshold for a task to be considered preattentive on multi-element displays?",
+    "answer": "C",
+    "options": {
+      "A": "Exactly 1 second",
+      "B": "More than 1 minute",
+      "C": "Less than 200 to 250 milliseconds",
+      "D": "More than 500 milliseconds"
+    }
+  },
+  "27": {
+    "question": "How can 'movement or animation' be effectively used in data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "To hide data points from the audience.",
+      "B": "To make static charts dynamic without purpose.",
+      "C": "To distract the audience from the main message.",
+      "D": "To show time series data slowly, one data point at a time."
+    }
+  },
+  "28": {
+    "question": "Which technique helps reinforce a message in data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "Omitting all explanatory text",
+      "B": "Making the text as small as possible",
+      "C": "Using irrelevant words and pictures",
+      "D": "Presenting the Data Graphic and Related Words Near Each Other"
+    }
+  },
+  "29": {
+    "question": "What role do words play in reinforcing a data visualization's message?",
+    "answer": "B",
+    "options": {
+      "A": "They complicate the message.",
+      "B": "They help reinforce the message.",
+      "C": "They should be avoided completely.",
+      "D": "They are only for decorative purposes."
+    }
+  },
+  "30": {
+    "question": "What are two simple ways to determine the prior knowledge of an audience?",
+    "answer": "B",
+    "options": {
+      "A": "Provide no context and expect them to adapt.",
+      "B": "Survey them in advance and ask questions during the presentation.",
+      "C": "Guess their knowledge based on their job titles and age.",
+      "D": "Observe their clothing and analyze their social media presence."
+    }
+  },
+  "31": {
+    "question": "Which type of questions should a survey for assessing prior knowledge contain?",
+    "answer": "A",
+    "options": {
+      "A": "Content questions and perception questions.",
+      "B": "Personal opinion questions and unrelated trivia questions.",
+      "C": "Trick questions and philosophical questions.",
+      "D": "Future prediction questions and historical questions."
+    }
+  },
+  "32": {
+    "question": "What is the purpose of asking questions during a presentation regarding data graphics?",
+    "answer": "D",
+    "options": {
+      "A": "To test the audience's memory of past lectures.",
+      "B": "To fill silence during transitions.",
+      "C": "To show off the presenter's extensive knowledge.",
+      "D": "To get feedback to revise the chart and clarify unclear points."
+    }
+  },
+  "33": {
+    "question": "What is an important aspect of prior knowledge related to visual displays?",
+    "answer": "A",
+    "options": {
+      "A": "Visual literacy",
+      "B": "Culinary skills",
+      "C": "Musical aptitude",
+      "D": "Physical strength"
+    }
+  },
+  "34": {
+    "question": "Why might a Line Chart be easier to compare variables than a Radar Chart, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Radar Charts are designed for single variables only.",
+      "B": "Line Charts align better with established visual literacy and display variable performance more clearly.",
+      "C": "Line Charts are only used for simpler data.",
+      "D": "Line Charts are always more colorful."
+    }
+  },
+  "35": {
+    "question": "What is a primary goal when designing visualizations regarding the key message?",
+    "answer": "D",
+    "options": {
+      "A": "To include as many complex design elements as possible.",
+      "B": "To make the audience struggle to decipher the message.",
+      "C": "To present results that are cryptic and ambiguous.",
+      "D": "To ensure data insights shine through the displays."
+    }
+  },
+  "36": {
+    "question": "Why are design aesthetics important in data visualization?",
+    "answer": "B",
+    "options": {
+      "A": "To make the visualization complex and hard to interpret.",
+      "B": "To keep the visualization simple and interpretable.",
+      "C": "To increase the file size of the visualization.",
+      "D": "To make the visualization cryptic."
+    }
+  },
+  "37": {
+    "question": "What types of charts are students asked to build in Exercise 1?",
+    "answer": "C",
+    "options": {
+      "A": "Tree map, heat map, and box plot",
+      "B": "Line chart, area chart, and bubble chart",
+      "C": "Vertical bar chart, radar chart, and stacked bar chart",
+      "D": "Pie chart, scatter plot, and histogram"
+    }
+  },
+  "38": {
+    "question": "What is the focus of Exercise 2?",
+    "answer": "D",
+    "options": {
+      "A": "Redesigning chart legends.",
+      "B": "Analyzing new datasets.",
+      "C": "Writing a summary of the lecture.",
+      "D": "Applying pre-attentive attributes to previously created charts."
+    }
+  }
+}

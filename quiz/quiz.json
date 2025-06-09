@@ -1,5 +1,17 @@
 [
     {
+        "name": "Data Visualization Lecture 1 - Introduction",
+        "file": "dv-lecture1.json"
+    },
+    {
+        "name": "Data Visualization Lecture 2 - Design Principles for Visualization",
+        "file": "dv-lecture2.json"
+    },
+    {
+        "name": "Data Visualization Lecture 3 - The Audience",
+        "file": "dv-lecture3.json"
+    },
+    {
         "name": "Corporate Finance Chapter 1 - 6e",
         "file": "cf-chapter1-6e.json"
     },

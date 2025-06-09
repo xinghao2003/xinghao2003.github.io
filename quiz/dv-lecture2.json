@@ -1,0 +1,472 @@
+{
+  "1": {
+    "question": "Which of the following is a learning outcome for this data visualization lecture?",
+    "answer": "D",
+    "options": {
+      "A": "To develop advanced data algorithms.",
+      "B": "To analyze complex statistical models.",
+      "C": "To program interactive web applications.",
+      "D": "To describe design principles for visualization."
+    }
+  },
+  "2": {
+    "question": "What is the second stated learning outcome for this lecture?",
+    "answer": "C",
+    "options": {
+      "A": "To create predictive analytical models.",
+      "B": "To understand database management systems.",
+      "C": "To map data onto aesthetics.",
+      "D": "To perform data cleaning procedures."
+    }
+  },
+  "3": {
+    "question": "Which of the following elements can make a chart difficult to read?",
+    "answer": "C",
+    "options": {
+      "A": "A concise, descriptive title.",
+      "B": "Inclusion of data source and author information.",
+      "C": "Bolded and italicized font for the chart title.",
+      "D": "Clearly labeled axes with natural increments."
+    }
+  },
+  "4": {
+    "question": "What common issue is associated with a 'gray filled background' in a chart?",
+    "answer": "B",
+    "options": {
+      "A": "It enhances visual hierarchy.",
+      "B": "It can make the chart difficult to read due to visual clutter.",
+      "C": "It improves data integrity.",
+      "D": "It is a recommended practice for all chart types."
+    }
+  },
+  "5": {
+    "question": "What is often missing from a poorly designed chart, making it less trustworthy?",
+    "answer": "C",
+    "options": {
+      "A": "A detailed legend.",
+      "B": "Tool tips for interactive elements.",
+      "C": "Data source, year, and chart author.",
+      "D": "X and Y axis labels."
+    }
+  },
+  "6": {
+    "question": "What is the primary purpose of using 'Color' in data visualization according to design principles?",
+    "answer": "D",
+    "options": {
+      "A": "To make the chart decorative.",
+      "B": "To increase file size for higher resolution.",
+      "C": "To hide certain data points.",
+      "D": "To emphasize or reinforce value."
+    }
+  },
+  "7": {
+    "question": "When selecting 'Font' for data visualization, what is a key recommendation?",
+    "answer": "C",
+    "options": {
+      "A": "Always use decorative fonts to capture attention.",
+      "B": "Use as many font types as possible for variety.",
+      "C": "Stick to 2-3 font types at most and be consistent.",
+      "D": "Avoid sans-serif fonts completely."
+    }
+  },
+  "8": {
+    "question": "The principle of 'Balance' in design aims to achieve what for a graphic?",
+    "answer": "D",
+    "options": {
+      "A": "To embed hidden messages.",
+      "B": "To reduce the number of data points.",
+      "C": "To make it load faster.",
+      "D": "To make it visually pleasing."
+    }
+  },
+  "9": {
+    "question": "How is 'Contrast' used as a design principle in visualization?",
+    "answer": "A",
+    "options": {
+      "A": "By employing light/dark, big/small, thick/thin to highlight/emphasize.",
+      "B": "By minimizing the difference between elements.",
+      "C": "By ensuring all elements are the same size.",
+      "D": "By using only bright colors."
+    }
+  },
+  "10": {
+    "question": "'Hierarchy' in data visualization primarily serves to:",
+    "answer": "A",
+    "options": {
+      "A": "Give the audience visual cues for the most important part of the message.",
+      "B": "Minimize the amount of data displayed.",
+      "C": "Ensure the graphic is printable.",
+      "D": "Automate data collection."
+    }
+  },
+  "11": {
+    "question": "Which of the following is NOT one of the ten design standards for charts and graphs mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Data processing",
+      "B": "Chartjunk",
+      "C": "Chart format",
+      "D": "Attribution"
+    }
+  },
+  "12": {
+    "question": "The design standard that focuses on 'non-data-ink or redundant data-ink' is called:",
+    "answer": "A",
+    "options": {
+      "A": "Chartjunk",
+      "B": "Data richness",
+      "C": "Data density",
+      "D": "Data integrity"
+    }
+  },
+  "13": {
+    "question": "What is the design standard that dictates including the data source and author information?",
+    "answer": "D",
+    "options": {
+      "A": "Scales",
+      "B": "Data integrity",
+      "C": "Readability",
+      "D": "Attribution"
+    }
+  },
+  "14": {
+    "question": "What is the ideal resolution for charts intended for paper publications?",
+    "answer": "B",
+    "options": {
+      "A": "150 ppi",
+      "B": "300 dpi",
+      "C": "600 dpi",
+      "D": "72 dpi"
+    }
+  },
+  "15": {
+    "question": "Which file type is recommended for charts in paper publications?",
+    "answer": "C",
+    "options": {
+      "A": "BMP",
+      "B": "JPEG",
+      "C": "TIFF",
+      "D": "GIF"
+    }
+  },
+  "16": {
+    "question": "What is the minimum recommended resolution for static data graphics presented on a web page?",
+    "answer": "C",
+    "options": {
+      "A": "300 ppi",
+      "B": "50 ppi",
+      "C": "150 ppi",
+      "D": "100 ppi"
+    }
+  },
+  "17": {
+    "question": "For projected slide presentations, which image format is recommended for the highest quality?",
+    "answer": "C",
+    "options": {
+      "A": "JPEG",
+      "B": "GIF",
+      "C": "PNG-24",
+      "D": "BMP"
+    }
+  },
+  "18": {
+    "question": "When should color be primarily used in data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "To match corporate branding.",
+      "B": "To make the chart more attractive.",
+      "C": "As a decorative element.",
+      "D": "Only when it corresponds to differences in the data."
+    }
+  },
+  "19": {
+    "question": "What should be avoided when using color in data visualizations?",
+    "answer": "C",
+    "options": {
+      "A": "Highlighting a single data point.",
+      "B": "Differentiating a data series.",
+      "C": "Thematic or decorative presentations (e.g., red and green together).",
+      "D": "Using contrasting colors."
+    }
+  },
+  "20": {
+    "question": "Why is it important to ensure high contrast values for colors in a visualization?",
+    "answer": "A",
+    "options": {
+      "A": "To allow those with color vision deficiency to distinguish shades.",
+      "B": "To simplify the design process.",
+      "C": "To make the chart load faster.",
+      "D": "To reduce printing costs."
+    }
+  },
+  "21": {
+    "question": "What is a recommended method to test the contrast of colors in a graph?",
+    "answer": "C",
+    "options": {
+      "A": "Use only primary colors.",
+      "B": "Ask a focus group for feedback.",
+      "C": "Convert the graph to grayscale or print it in black and white.",
+      "D": "Increase the brightness of all colors."
+    }
+  },
+  "22": {
+    "question": "What is the purpose of adding a description to a visualization?",
+    "answer": "B",
+    "options": {
+      "A": "To increase the overall word count.",
+      "B": "To guide readers in interpreting the visualization.",
+      "C": "To make the chart appear more complex.",
+      "D": "To fill empty space on the page."
+    }
+  },
+  "23": {
+    "question": "Where should the key insight of a chart be communicated?",
+    "answer": "A",
+    "options": {
+      "A": "In the title or in your notes.",
+      "B": "Only in the presentation notes.",
+      "C": "Only in a separate document.",
+      "D": "It should be implied by the data alone."
+    }
+  },
+  "24": {
+    "question": "Why is it important to label data points in a chart?",
+    "answer": "A",
+    "options": {
+      "A": "To ensure the audience can identify specific values.",
+      "B": "To make the chart longer.",
+      "C": "To increase the data density.",
+      "D": "To add decorative elements."
+    }
+  },
+  "25": {
+    "question": "Which factors primarily affect the legibility of text in a visualization?",
+    "answer": "B",
+    "options": {
+      "A": "Chart border and background color.",
+      "B": "Font face, size, direction, and color.",
+      "C": "The number of data series.",
+      "D": "Only the chart title."
+    }
+  },
+  "26": {
+    "question": "What is a recommended practice regarding text orientation for readability?",
+    "answer": "A",
+    "options": {
+      "A": "Avoiding setting text vertically or at an angle.",
+      "B": "Setting text vertically to save space.",
+      "C": "Using diagonal text for emphasis.",
+      "D": "Setting text at an angle for visual appeal."
+    }
+  },
+  "27": {
+    "question": "Why should the use of italicized and bold-faced fonts be limited in abundance?",
+    "answer": "A",
+    "options": {
+      "A": "They inhibit readability when used excessively.",
+      "B": "They are not supported by all software.",
+      "C": "They consume more ink.",
+      "D": "They are considered outdated styles."
+    }
+  },
+  "28": {
+    "question": "Which of the following is an example of a natural increment for an x-axis or y-axis scale?",
+    "answer": "D",
+    "options": {
+      "A": "0, 1.5, 3, 4.5, 6",
+      "B": "0, 7, 14, 21, 28",
+      "C": "0, 13, 26, 39, 52",
+      "D": "0, 2, 4, 6, 8, 10"
+    }
+  },
+  "29": {
+    "question": "What is the recommended practice for setting the maximum value of the y-axis in a chart?",
+    "answer": "D",
+    "options": {
+      "A": "At a fixed, arbitrary number for consistency across all charts.",
+      "B": "Slightly below the highest data value to emphasize growth potential.",
+      "C": "Significantly higher than the highest data value to show headroom.",
+      "D": "Equal to or just above the highest value in the data set."
+    }
+  },
+  "30": {
+    "question": "For which type of chart is it explicitly recommended to use a zero-point y-axis to maintain data integrity?",
+    "answer": "A",
+    "options": {
+      "A": "Vertical bar charts.",
+      "B": "Line charts showing trends.",
+      "C": "Scatter plots.",
+      "D": "Pie charts."
+    }
+  },
+  "31": {
+    "question": "According to Edward Tufte's 'lie factor' principle, what is the ideal value for the lie factor to ensure data integrity?",
+    "answer": "C",
+    "options": {
+      "A": "0.5",
+      "B": "2",
+      "C": "1",
+      "D": "0"
+    }
+  },
+  "32": {
+    "question": "The lie factor is calculated by dividing the size effect shown in the graphic by what?",
+    "answer": "A",
+    "options": {
+      "A": "The size effect shown in the data.",
+      "B": "The number of colors used.",
+      "C": "The resolution of the image.",
+      "D": "The total number of data points."
+    }
+  },
+  "33": {
+    "question": "Why should 'fake perspective' or 3D charts be avoided for data integrity?",
+    "answer": "D",
+    "options": {
+      "A": "They are too simple for complex data.",
+      "B": "They are aesthetically displeasing.",
+      "C": "They increase chart loading time.",
+      "D": "They make it impossible to accurately determine the height/values of elements."
+    }
+  },
+  "34": {
+    "question": "A bar chart shows values of 100 in 2020 and 120 in 2021. The bar for 2020 is 2 inches tall, and the bar for 2021 is 3 inches tall. What is the lie factor?",
+    "answer": "D",
+    "options": {
+      "A": "1.5",
+      "B": "0.5",
+      "C": "2.0",
+      "D": "1.0"
+    }
+  },
+  "35": {
+    "question": "What is Edward Tufte's definition of 'chartjunk'?",
+    "answer": "A",
+    "options": {
+      "A": "Non-data-ink or redundant data-ink.",
+      "B": "Essential data-ink.",
+      "C": "Interactive chart elements.",
+      "D": "Visually appealing patterns."
+    }
+  },
+  "36": {
+    "question": "Which of the following is considered 'chartjunk' and should typically be removed from a visualization?",
+    "answer": "A",
+    "options": {
+      "A": "Major gridlines.",
+      "B": "Data points.",
+      "C": "Axis titles.",
+      "D": "Data labels."
+    }
+  },
+  "37": {
+    "question": "To reduce chartjunk, what is recommended regarding chart backgrounds?",
+    "answer": "A",
+    "options": {
+      "A": "Stick to white or match the chart background.",
+      "B": "Use a dark, contrasting color.",
+      "C": "Employ a complex pattern.",
+      "D": "Fill with a heavy gray gradient."
+    }
+  },
+  "38": {
+    "question": "What is a common consequence of presenting too much data in a single graph?",
+    "answer": "D",
+    "options": {
+      "A": "It automatically filters out noise.",
+      "B": "It reduces the need for detailed labels.",
+      "C": "It always highlights critical trends.",
+      "D": "It makes the chart unreadable due to obscured data values."
+    }
+  },
+  "39": {
+    "question": "Which of the following is an example of a data density issue?",
+    "answer": "C",
+    "options": {
+      "A": "A single data series.",
+      "B": "Clear axis labels.",
+      "C": "Overlapping data points.",
+      "D": "A well-defined chart title."
+    }
+  },
+  "40": {
+    "question": "What is a recommended solution for addressing high data density in multivariate data?",
+    "answer": "C",
+    "options": {
+      "A": "Setting text vertically to save space.",
+      "B": "Using only brighter colors.",
+      "C": "Creating a matrix of charts (small multiples).",
+      "D": "Removing half of the data points."
+    }
+  },
+  "41": {
+    "question": "What does 'data richness' refer to in data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "The amount of data processing power required.",
+      "B": "The complexity of the algorithms used.",
+      "C": "The data quality and how much data must be shown for an accurate picture.",
+      "D": "The number of interactive features in a chart."
+    }
+  },
+  "42": {
+    "question": "When does labeling lines or using different colors become difficult for a line chart?",
+    "answer": "B",
+    "options": {
+      "A": "When the lines are perfectly straight.",
+      "B": "When there are more than four series.",
+      "C": "When there are fewer than two series.",
+      "D": "When there are exactly four series."
+    }
+  },
+  "43": {
+    "question": "What is the recommended alternative for presenting multiple time series when traditional methods become difficult due to data richness?",
+    "answer": "B",
+    "options": {
+      "A": "Compressing all data onto a single axis.",
+      "B": "Creating a matrix of charts (small multiples).",
+      "C": "Removing irrelevant data points.",
+      "D": "Using 3D charts for better visual separation."
+    }
+  },
+  "44": {
+    "question": "Maintaining consistent x-axis and y-axis values across a matrix of charts helps to ensure what?",
+    "answer": "B",
+    "options": {
+      "A": "Reduced file size.",
+      "B": "Equal comparison among charts.",
+      "C": "Faster chart generation.",
+      "D": "Randomized data presentation."
+    }
+  },
+  "45": {
+    "question": "What two key pieces of information must always be included in the attribution of a data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "Only the software used and number of data points.",
+      "B": "The file size and printing instructions.",
+      "C": "A citation to the data source (with year) and credit to the chart author.",
+      "D": "Only the chart title and date of creation."
+    }
+  },
+  "46": {
+    "question": "Which of the following best represents the common format for attribution?",
+    "answer": "B",
+    "options": {
+      "A": "Data Source (Year) | Your Name",
+      "B": "Your Name | Data Source: data.com (Year)",
+      "C": "Source: data.com",
+      "D": "Chart Created By: Your Name"
+    }
+  },
+  "47": {
+    "question": "Besides the data source, what other credit should be given in the attribution?",
+    "answer": "C",
+    "options": {
+      "A": "The software used to create the chart.",
+      "B": "The data collection method.",
+      "C": "The individual who created the chart.",
+      "D": "The organization that funded the research."
+    }
+  }
+}

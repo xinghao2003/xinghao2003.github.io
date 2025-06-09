@@ -1,0 +1,362 @@
+{
+  "1": {
+    "question": "From which sources is the 'Introduction to Data Visualization' lecture adapted?",
+    "answer": "C",
+    "options": {
+      "A": "John Doe (2019) and Jane Smith (2015)",
+      "B": "Microsoft Excel Documentation and Tableau User Guide",
+      "C": "Tahmid Chowdhury (2018) and Guoning Chen (2013)",
+      "D": "Academic papers from 2020 and 2021"
+    }
+  },
+  "2": {
+    "question": "Which of the following is NOT a stated learning outcome of the lecture?",
+    "answer": "A",
+    "options": {
+      "A": "Develop advanced programming skills for visualization",
+      "B": "Define data visualization",
+      "C": "Explore visualization types",
+      "D": "Understand visuals' effectiveness"
+    }
+  },
+  "3": {
+    "question": "What is one of the key abilities expected from students after this lecture?",
+    "answer": "A",
+    "options": {
+      "A": "To define data visualization",
+      "B": "To market data visualization products",
+      "C": "To create 3D holographic visualizations",
+      "D": "To debug visualization software"
+    }
+  },
+  "4": {
+    "question": "Why is data visualization considered essential according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "It solely replaces traditional reports for decision-making.",
+      "B": "Less than 1% of global data has been analyzed, and large datasets require effective understanding.",
+      "C": "It is primarily for aesthetic presentation of data.",
+      "D": "Because it is a new trend in technology."
+    }
+  },
+  "5": {
+    "question": "What is a common problem with content that is NOT distilled into easily consumable key points?",
+    "answer": "D",
+    "options": {
+      "A": "It is always inspiring to read.",
+      "B": "It sparks immediate action from decision-makers.",
+      "C": "It requires minimal analysis to understand.",
+      "D": "It often fails to spark action by decision-makers."
+    }
+  },
+  "6": {
+    "question": "In the data hierarchy pyramid presented, what level is directly understandable by humans?",
+    "answer": "C",
+    "options": {
+      "A": "Information",
+      "B": "Data",
+      "C": "Action",
+      "D": "Knowledge"
+    }
+  },
+  "7": {
+    "question": "What is the correct order of progression in the data hierarchy pyramid?",
+    "answer": "D",
+    "options": {
+      "A": "Knowledge -> Information -> Data -> Action",
+      "B": "Action -> Knowledge -> Information -> Data",
+      "C": "Information -> Data -> Action -> Knowledge",
+      "D": "Data -> Information -> Knowledge -> Action"
+    }
+  },
+  "8": {
+    "question": "Which of the following is identified as a component of 'Big Data' in the provided diagram?",
+    "answer": "A",
+    "options": {
+      "A": "Visualization",
+      "B": "Social Media Marketing",
+      "C": "Traditional Filing Systems",
+      "D": "Personal Computers"
+    }
+  },
+  "9": {
+    "question": "Which historical figure is mentioned in relation to early anatomical drawings in the context of visualization history?",
+    "answer": "C",
+    "options": {
+      "A": "Guoning Chen",
+      "B": "Charles Joseph Minard",
+      "C": "L. da Vinci",
+      "D": "Francis Galton"
+    }
+  },
+  "10": {
+    "question": "Charles Joseph Minard is famous for his visualization of what historical event?",
+    "answer": "A",
+    "options": {
+      "A": "Napoleon's march to Russia",
+      "B": "The Industrial Revolution",
+      "C": "The discovery of America",
+      "D": "The American Civil War"
+    }
+  },
+  "11": {
+    "question": "According to the 1987 definition, what is 'scientific visualization' primarily focused on?",
+    "answer": "A",
+    "options": {
+      "A": "The use of computer graphics for the analysis and presentation of computed or measured scientific data",
+      "B": "Artistic expression through graphics",
+      "C": "Developing new programming languages",
+      "D": "Manual drawing of data trends"
+    }
+  },
+  "12": {
+    "question": "Who coined the term 'scientific visualization' in 1987?",
+    "answer": "B",
+    "options": {
+      "A": "The National Science Foundation",
+      "B": "A panel of the ACM",
+      "C": "Schroeder et al.",
+      "D": "The Oxford Dictionary"
+    }
+  },
+  "13": {
+    "question": "The Oxford Dictionary (1989) defines visualization as making something visible to the mind or imagination, especially what type of concepts?",
+    "answer": "D",
+    "options": {
+      "A": "Only physical objects",
+      "B": "Mathematical formulas exclusively",
+      "C": "Tangible elements already present to sight",
+      "D": "Something not visible or present to the sight, or of an abstraction"
+    }
+  },
+  "14": {
+    "question": "What is the primary purpose of data visualizations as 'graphic representations of data'?",
+    "answer": "D",
+    "options": {
+      "A": "To replace human analysts entirely",
+      "B": "To entertain users with complex graphics",
+      "C": "To hide underlying data complexities",
+      "D": "To derive actionable insights"
+    }
+  },
+  "15": {
+    "question": "According to the Pearson Book, which of the following is a benefit of data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "It increases reliance on IT professionals.",
+      "B": "It makes data more opaque.",
+      "C": "It slows down decision-making processes.",
+      "D": "It improves collaboration and information sharing."
+    }
+  },
+  "16": {
+    "question": "When is visualization used for 'data exploration'?",
+    "answer": "A",
+    "options": {
+      "A": "When nothing is known about the data.",
+      "B": "When communicating final results to stakeholders.",
+      "C": "When everything is known about the data.",
+      "D": "When hypotheses need to be falsified."
+    }
+  },
+  "17": {
+    "question": "If you have specific hypotheses and want to confirm or deny them, what is the goal of your visualization?",
+    "answer": "C",
+    "options": {
+      "A": "To present",
+      "B": "To brainstorm",
+      "C": "To analyze",
+      "D": "To explore"
+    }
+  },
+  "18": {
+    "question": "What is the purpose of visualization when 'everything is known' about the data?",
+    "answer": "C",
+    "options": {
+      "A": "Data exploration",
+      "B": "Raw data collection",
+      "C": "Communication of results",
+      "D": "Hypothesis verification"
+    }
+  },
+  "19": {
+    "question": "Which of the following is an example of a Declarative (Static) data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "Dashboard",
+      "B": "GIS map",
+      "C": "JavaScripts charting",
+      "D": "Infographic"
+    }
+  },
+  "20": {
+    "question": "Dashboards fall under which type of data visualization?",
+    "answer": "A",
+    "options": {
+      "A": "Exploratory (Dynamic)",
+      "B": "Declarative (Static)",
+      "C": "Analytical (Predictive)",
+      "D": "Descriptive (Narrative)"
+    }
+  },
+  "21": {
+    "question": "Static maps are considered which type of visualization?",
+    "answer": "B",
+    "options": {
+      "A": "Exploratory",
+      "B": "Declarative",
+      "C": "Dynamic",
+      "D": "Interactive"
+    }
+  },
+  "22": {
+    "question": "What is the final output of the data visualization pipeline as depicted in the diagram?",
+    "answer": "B",
+    "options": {
+      "A": "Raw data",
+      "B": "Visualization (multiple views of visual things)",
+      "C": "Visual structures",
+      "D": "Data tables"
+    }
+  },
+  "23": {
+    "question": "Which of the following is a type of transformation occurring within the data visualization pipeline?",
+    "answer": "B",
+    "options": {
+      "A": "Biological transformations",
+      "B": "Data/flow transformations",
+      "C": "Physical transformations",
+      "D": "Chemical transformations"
+    }
+  },
+  "24": {
+    "question": "Which of these is NOT a key question to consider when framing data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "Who is your audience?",
+      "B": "How will you communicate?",
+      "C": "What do they want to know?",
+      "D": "How much will it cost to communicate?"
+    }
+  },
+  "25": {
+    "question": "When considering the audience for data visualization, what should be taken into account regarding stakeholders?",
+    "answer": "B",
+    "options": {
+      "A": "Their personal hobbies",
+      "B": "Their different data and information needs and literacy",
+      "C": "Their social media presence",
+      "D": "Their favorite colors"
+    }
+  },
+  "26": {
+    "question": "What type of data can be sorted according to a group or category?",
+    "answer": "B",
+    "options": {
+      "A": "Ordinal",
+      "B": "Nominal/Categorical",
+      "C": "Discrete",
+      "D": "Continuous"
+    }
+  },
+  "27": {
+    "question": "If data represents categories ordered along a scale, what type of data is it?",
+    "answer": "A",
+    "options": {
+      "A": "Ordinal",
+      "B": "Continuous",
+      "C": "Nominal",
+      "D": "Discrete"
+    }
+  },
+  "28": {
+    "question": "Numerical data that has a finite number of possible values/units is classified as what type?",
+    "answer": "B",
+    "options": {
+      "A": "Qualitative",
+      "B": "Discrete",
+      "C": "Nominal",
+      "D": "Continuous"
+    }
+  },
+  "29": {
+    "question": "If you want to show 'distribution' with quantitative data, which chart type is typically used for continuous data?",
+    "answer": "A",
+    "options": {
+      "A": "Histogram",
+      "B": "Pie Chart",
+      "C": "Tree Map",
+      "D": "Radar Chart"
+    }
+  },
+  "30": {
+    "question": "Which of the following chart types is primarily used for showing a 'relationship' between 3 continuous variables?",
+    "answer": "A",
+    "options": {
+      "A": "Bubble Chart",
+      "B": "Pictogram",
+      "C": "Line Chart",
+      "D": "Stacked Column"
+    }
+  },
+  "31": {
+    "question": "Which website is mentioned as a 'Data Visualisation Catalogue' resource?",
+    "answer": "B",
+    "options": {
+      "A": "google.com/charts",
+      "B": "datavizcatalogue.com",
+      "C": "chartjs.org",
+      "D": "d3js.org"
+    }
+  },
+  "32": {
+    "question": "Which of the following is NOT listed as a common chart example in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Flowchart",
+      "B": "Doughnut Chart",
+      "C": "Spider and Radar Chart",
+      "D": "Gauges"
+    }
+  },
+  "33": {
+    "question": "Which of the following is a common visualization method for qualitative data, often showing frequency of words?",
+    "answer": "C",
+    "options": {
+      "A": "Bar Chart",
+      "B": "Scatter Plot",
+      "C": "Word Cloud",
+      "D": "Line Chart"
+    }
+  },
+  "34": {
+    "question": "The Qualitative Chart Chooser 2.0 includes methods like 'Quote and Picture' and 'Phrase Net' for visualizing what kind of data?",
+    "answer": "B",
+    "options": {
+      "A": "Geographic data",
+      "B": "Qualitative data",
+      "C": "Quantitative data",
+      "D": "Time-series data"
+    }
+  },
+  "35": {
+    "question": "What type of data visualization is used to show 'Product Popularity and Warehouse Stock Levels' across different regions?",
+    "answer": "A",
+    "options": {
+      "A": "Geographic map",
+      "B": "Time-series chart",
+      "C": "Scatter plot",
+      "D": "Pie chart"
+    }
+  },
+  "36": {
+    "question": "A map displaying 'The Virus That Has Enveloped the World' by number of confirmed COVID-19 cases is an example of visualizing what kind of data?",
+    "answer": "B",
+    "options": {
+      "A": "Qualitative data",
+      "B": "Geographic data",
+      "C": "Historical data only",
+      "D": "Discrete numerical data without spatial context"
+    }
+  }
+}
