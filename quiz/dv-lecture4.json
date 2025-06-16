@@ -1,0 +1,502 @@
+{
+  "1": {
+    "question": "Which lecture number is 'Linked Views' in the TFB3133/TEB3133 Data Visualization course?",
+    "answer": "D",
+    "options": {
+      "A": "Lecture 2",
+      "B": "Lecture 3",
+      "C": "Lecture 1",
+      "D": "Lecture 4"
+    }
+  },
+  "2": {
+    "question": "The content on 'Linked Views' is adapted from which publication?",
+    "answer": "A",
+    "options": {
+      "A": "Handbook of Data Visualization",
+      "B": "Visual Analytics Guide",
+      "C": "The Art of Data Linking",
+      "D": "Data Visualisation Fundamentals"
+    }
+  },
+  "3": {
+    "question": "What are the main learning outcomes associated with 'Linked Views' in visualization?",
+    "answer": "B",
+    "options": {
+      "A": "To perform advanced statistical modeling without visualization.",
+      "B": "To understand and apply linked views for visual exploration and create linked data views.",
+      "C": "To design static charts and graphs.",
+      "D": "To analyze data using only single, independent views."
+    }
+  },
+  "4": {
+    "question": "When was the concept of linked graphics first implemented in a computer program to connect observations from scatterplots?",
+    "answer": "D",
+    "options": {
+      "A": "2001",
+      "B": "1990",
+      "C": "1987",
+      "D": "1982"
+    }
+  },
+  "5": {
+    "question": "Which term is also known as 'scatterplot brushing' and is a prominent case of linked views?",
+    "answer": "A",
+    "options": {
+      "A": "Linking in scatterplots and scatterplot matrices",
+      "B": "Data aggregation",
+      "C": "Data filtering",
+      "D": "Statistical modeling"
+    }
+  },
+  "6": {
+    "question": "What is the core principle of the linked views paradigm?",
+    "answer": "A",
+    "options": {
+      "A": "To allow interactions in one data view to modify the display in all linked views.",
+      "B": "To display data without any user interaction.",
+      "C": "To generate separate, unrelated reports from a dataset.",
+      "D": "To create complex, single-view visualizations."
+    }
+  },
+  "7": {
+    "question": "What happens in a linked data view when a modification is made to one of the views?",
+    "answer": "C",
+    "options": {
+      "A": "A new, independent view is generated.",
+      "B": "The other view remains unchanged.",
+      "C": "The other view changes its appearance in reaction to the modification.",
+      "D": "The system crashes."
+    }
+  },
+  "8": {
+    "question": "Which of the following is given as a simple example illustrating the ubiquity of the linked views approach?",
+    "answer": "B",
+    "options": {
+      "A": "A printed report.",
+      "B": "A scroll bar with a 'thumb' linked to a text view.",
+      "C": "A static bar chart.",
+      "D": "A single spreadsheet with multiple tabs."
+    }
+  },
+  "9": {
+    "question": "What type of data is used in the example to demonstrate the analytic version of linked views?",
+    "answer": "B",
+    "options": {
+      "A": "Weather patterns",
+      "B": "Baseball statistics",
+      "C": "Stock market data",
+      "D": "Medical records"
+    }
+  },
+  "10": {
+    "question": "How is linking achieved in the baseball statistics example?",
+    "answer": "A",
+    "options": {
+      "A": "By allowing the user to select a part of one view using a selection device.",
+      "B": "By limiting interactions to a single view.",
+      "C": "By automatically generating new views based on algorithms.",
+      "D": "By pre-defining all relationships statically."
+    }
+  },
+  "11": {
+    "question": "From an analyst's point of view, why are linked views beneficial when something of interest is found?",
+    "answer": "C",
+    "options": {
+      "A": "They eliminate the need for further explanation.",
+      "B": "They automate all data interpretation.",
+      "C": "They allow exploration by considering other data views or adding variables.",
+      "D": "They restrict the analysis to the initial view."
+    }
+  },
+  "12": {
+    "question": "What challenge do linked views help address regarding plots?",
+    "answer": "D",
+    "options": {
+      "A": "They prevent the creation of multi-variate plots.",
+      "B": "They make plots harder to interpret as they become complex.",
+      "C": "They make simple plots unnecessarily complex.",
+      "D": "They make complex plots easier to interpret."
+    }
+  },
+  "13": {
+    "question": "Exploring relationships in which types of data is cited as being very hard without linked views?",
+    "answer": "B",
+    "options": {
+      "A": "Small, static datasets.",
+      "B": "Multi-variate data collected at geographical locations, on graph nodes, or in text documents.",
+      "C": "Pre-analyzed and summarized data.",
+      "D": "Univariate data with simple distributions."
+    }
+  },
+  "14": {
+    "question": "Which of the following is a main advantage of linked views?",
+    "answer": "A",
+    "options": {
+      "A": "Ease of navigation for graphical displays",
+      "B": "Inability to connect different data aspects",
+      "C": "Limited display options",
+      "D": "Slow data processing"
+    }
+  },
+  "15": {
+    "question": "What three features are essential in the exploratory stage of data analysis, for which linked views provide easiness?",
+    "answer": "B",
+    "options": {
+      "A": "Mathematical modeling, statistical inference, and hypothesis testing",
+      "B": "Graphical displays, speed, and flexibility",
+      "C": "Report generation, printing, and archiving",
+      "D": "Data storage, security, and backup"
+    }
+  },
+  "16": {
+    "question": "Linked views are particularly applicable to what kind of data structures?",
+    "answer": "D",
+    "options": {
+      "A": "Simple, univariate data",
+      "B": "Only time-series data",
+      "C": "Small, static datasets only",
+      "D": "Complex data structures, like geographically referenced data"
+    }
+  },
+  "17": {
+    "question": "The example of connecting measurements with geographic locations primarily shows what type of data?",
+    "answer": "C",
+    "options": {
+      "A": "Population density in cities.",
+      "B": "Migration patterns of animals.",
+      "C": "Land usage on a county level in Bavaria.",
+      "D": "Global temperature anomalies."
+    }
+  },
+  "18": {
+    "question": "What is the main application focus of linked displays in statistical exploration of datasets?",
+    "answer": "D",
+    "options": {
+      "A": "To solely store large datasets efficiently.",
+      "B": "To beautify existing static plots.",
+      "C": "To generate complex reports for non-technical users.",
+      "D": "To investigate distributional characteristics, find unusual behavior, and detect relationships, structure, and patterns."
+    }
+  },
+  "19": {
+    "question": "What type of plot was used to improve the visualization of categorical data on student reading habits, making patterns clearer for males?",
+    "answer": "D",
+    "options": {
+      "A": "Pie chart",
+      "B": "Scatter plot",
+      "C": "Line graph",
+      "D": "Spine plot"
+    }
+  },
+  "20": {
+    "question": "In the example of categorical data on student reading habits, what observation was made about males after using a spine plot?",
+    "answer": "A",
+    "options": {
+      "A": "Males were underrepresented in the medium class.",
+      "B": "Males showed no particular pattern in reading habits.",
+      "C": "Males consistently spent more time reading than females.",
+      "D": "Males were overrepresented in the medium class."
+    }
+  },
+  "21": {
+    "question": "According to the general paradigm of linked views, what do two or more plots do?",
+    "answer": "A",
+    "options": {
+      "A": "Share and exchange information with each other.",
+      "B": "Only display static data.",
+      "C": "Are always identical in appearance.",
+      "D": "Operate completely independently."
+    }
+  },
+  "22": {
+    "question": "What needs to be established to achieve the exchange of information in linked views?",
+    "answer": "C",
+    "options": {
+      "A": "A complex animation sequence.",
+      "B": "A decorative border.",
+      "C": "A linking procedure to establish a relationship.",
+      "D": "A separate database for each plot."
+    }
+  },
+  "23": {
+    "question": "Which of the following is NOT listed as a type of linking structure?",
+    "answer": "A",
+    "options": {
+      "A": "Linking algorithms",
+      "B": "Linking frames",
+      "C": "Linking models",
+      "D": "Linking sample populations"
+    }
+  },
+  "24": {
+    "question": "What does the 'frame level' primarily determine in a data display?",
+    "answer": "A",
+    "options": {
+      "A": "The general shape and size of a plot window.",
+      "B": "The statistical model used.",
+      "C": "The type of data being displayed.",
+      "D": "The data source."
+    }
+  },
+  "25": {
+    "question": "What is a potential negative consequence of using different frame sizes in linked views?",
+    "answer": "A",
+    "options": {
+      "A": "It distracts the analyst and can lead to wrong conclusions.",
+      "B": "It enhances data clarity.",
+      "C": "It always leads to better conclusions.",
+      "D": "It simplifies the visualization process."
+    }
+  },
+  "26": {
+    "question": "Why might changing attributes like background color be convenient in linking frames, even if not directly important for interpretation?",
+    "answer": "D",
+    "options": {
+      "A": "To reduce data load.",
+      "B": "To hide certain data points.",
+      "C": "To make the plots more artistic.",
+      "D": "To create different scenarios of data analysis."
+    }
+  },
+  "27": {
+    "question": "What do 'models' define in the context of linked views?",
+    "answer": "A",
+    "options": {
+      "A": "The set of observations that shall be represented in the displays.",
+      "B": "The hardware requirements for display.",
+      "C": "The aesthetic appeal of the visualization.",
+      "D": "The user's interaction speed."
+    }
+  },
+  "28": {
+    "question": "How are underlying model parameters often dynamically changed in a widespread use of linking models?",
+    "answer": "B",
+    "options": {
+      "A": "By restarting the visualization software.",
+      "B": "Using sliders that propagate changes to all linked plots.",
+      "C": "Through static pre-configurations.",
+      "D": "By direct database manipulation."
+    }
+  },
+  "29": {
+    "question": "What does the 'type layer' in linking structures primarily cover?",
+    "answer": "D",
+    "options": {
+      "A": "Hidden data attributes",
+      "B": "Statistical calculations",
+      "C": "Database connections",
+      "D": "Most visible components in a graphical display"
+    }
+  },
+  "30": {
+    "question": "Why is linking type information considered essential for proper comparisons between plots?",
+    "answer": "D",
+    "options": {
+      "A": "It increases the complexity of the data.",
+      "B": "It limits the number of variables that can be displayed.",
+      "C": "It makes the plots more aesthetically pleasing.",
+      "D": "It allows for consistent visual representation and understanding across different views."
+    }
+  },
+  "31": {
+    "question": "What is the primary purpose of linking sample populations?",
+    "answer": "C",
+    "options": {
+      "A": "To hide sensitive information.",
+      "B": "To convert data formats.",
+      "C": "To create subsets of a dataset and look at conditional distributions.",
+      "D": "To generate random data."
+    }
+  },
+  "32": {
+    "question": "Which of the following is NOT a type of linking sample populations?",
+    "answer": "D",
+    "options": {
+      "A": "Identity Linking",
+      "B": "Neighborhood or Distance Linking",
+      "C": "Hierarchical Linking",
+      "D": "Visual Linking"
+    }
+  },
+  "33": {
+    "question": "What is another name for Identity Linking?",
+    "answer": "A",
+    "options": {
+      "A": "Empirical linking",
+      "B": "Theoretical linking",
+      "C": "Abstract linking",
+      "D": "Conditional linking"
+    }
+  },
+  "34": {
+    "question": "What is the primary goal of Identity Linking?",
+    "answer": "C",
+    "options": {
+      "A": "To create new synthetic data.",
+      "B": "To obscure data patterns.",
+      "C": "To visualize the connection between observations taken at the same individual or case.",
+      "D": "To connect unrelated datasets."
+    }
+  },
+  "35": {
+    "question": "Hierarchical linking often involves data from different:",
+    "answer": "C",
+    "options": {
+      "A": "Software versions.",
+      "B": "Operating systems.",
+      "C": "Aggregation levels (e.g., micro to macro).",
+      "D": "Programming languages."
+    }
+  },
+  "36": {
+    "question": "What type of data is frequently associated with hierarchical linking due to its varying geographical grids?",
+    "answer": "B",
+    "options": {
+      "A": "Website traffic logs.",
+      "B": "Spatial data.",
+      "C": "Financial transaction data.",
+      "D": "Customer survey responses."
+    }
+  },
+  "37": {
+    "question": "What is the primary focus of Neighborhood or Distance Linking, especially with geographic data?",
+    "answer": "B",
+    "options": {
+      "A": "Analyzing global trends.",
+      "B": "Investigating local effects and differences between a location and its neighbors.",
+      "C": "Predicting future geographic changes.",
+      "D": "Optimizing data storage for maps."
+    }
+  },
+  "38": {
+    "question": "What type of map is often the most important display when using Neighborhood or Distance Linking with geographic data?",
+    "answer": "D",
+    "options": {
+      "A": "Topographic map",
+      "B": "Street map",
+      "C": "Nautical chart",
+      "D": "Chorochromatic map"
+    }
+  },
+  "39": {
+    "question": "Which of the following is listed as a visualization strategy for linked views?",
+    "answer": "A",
+    "options": {
+      "A": "Overlaying",
+      "B": "Duplication",
+      "C": "Concealment",
+      "D": "Elimination"
+    }
+  },
+  "40": {
+    "question": "Which user interaction technique involves dragging a fixed shape (like a rectangle or circle) over data to paint graphic items?",
+    "answer": "A",
+    "options": {
+      "A": "Brushing",
+      "B": "Lassoing",
+      "C": "Zooming",
+      "D": "Filtering"
+    }
+  },
+  "41": {
+    "question": "What is the characteristic of 'Lassoing' as a selection technique?",
+    "answer": "A",
+    "options": {
+      "A": "Clicking and dragging to create a polygon selection shape or defining it with successive clicks.",
+      "B": "Selecting data points within a predefined circular area.",
+      "C": "Highlighting data based on a specific data value.",
+      "D": "Automatically selecting all data points in a view."
+    }
+  },
+  "42": {
+    "question": "What is the benefit of using 'Multiple Linked Aggregated Views'?",
+    "answer": "A",
+    "options": {
+      "A": "It enables comprehensive and interactive multi-faceted data exploration across different plot types.",
+      "B": "It reduces the amount of data displayed.",
+      "C": "It prevents interaction between different plots.",
+      "D": "It limits the analysis to a single data dimension."
+    }
+  },
+  "43": {
+    "question": "How can the 'mean degree of interest' for aggregated points be visually represented?",
+    "answer": "C",
+    "options": {
+      "A": "By adding textual descriptions only.",
+      "B": "By changing the plot's background color.",
+      "C": "By mapping it to the size aesthetic of the points.",
+      "D": "By removing the aggregated points from the view."
+    }
+  },
+  "44": {
+    "question": "In the example provided, what major measures of performance are shown in the linked boxplot for selected players?",
+    "answer": "A",
+    "options": {
+      "A": "Batting average, on-base percentage, home-run rate, and slugging average.",
+      "B": "Salary, endorsement deals, contract length, and draft pick.",
+      "C": "Age, height, weight, and team.",
+      "D": "Years played, games started, errors, and stolen bases."
+    }
+  },
+  "45": {
+    "question": "In the distance-based linking example, how is the mean degree of interest for a bin in the physical statistics plot coded?",
+    "answer": "D",
+    "options": {
+      "A": "Using labels to indicate interest.",
+      "B": "Using varying colors based on categories.",
+      "C": "Using different shapes.",
+      "D": "Using the same brightness coding as the other plot."
+    }
+  },
+  "46": {
+    "question": "What is the primary benefit of linking from multiple views?",
+    "answer": "C",
+    "options": {
+      "A": "It is only suitable for very small datasets.",
+      "B": "It isolates each view from others.",
+      "C": "It enables users to explore complex relationships and patterns through dynamic updates across diverse displays.",
+      "D": "It reduces the computational cost of data visualization."
+    }
+  },
+  "47": {
+    "question": "In the example of linking a choropleth map to a parallel coordinates view, what did the brightness in the choropleth map indicate?",
+    "answer": "B",
+    "options": {
+      "A": "Geographic elevation",
+      "B": "Degree of interest",
+      "C": "Population density",
+      "D": "Average income"
+    }
+  },
+  "48": {
+    "question": "What kind of clustering view is linked with a barchart and parallel coordinates view in one of the domain-specific examples?",
+    "answer": "A",
+    "options": {
+      "A": "Hierarchical clustering",
+      "B": "Spectral clustering",
+      "C": "K-means clustering",
+      "D": "Dendrogram clustering"
+    }
+  },
+  "49": {
+    "question": "How is the degree of interest represented by the brightness scale in linked hierarchical clustering views?",
+    "answer": "D",
+    "options": {
+      "A": "Green for 50% interest, yellow for 50% interest.",
+      "B": "Red for 100% interest, blue for 0% interest.",
+      "C": "Black for 0% interest, light gray for 100% interest.",
+      "D": "Black for 100% interest, light gray for 0% interest."
+    }
+  },
+  "50": {
+    "question": "The document provides external links for trying out concepts related to linked views, including an example for which type of visualization?",
+    "answer": "B",
+    "options": {
+      "A": "3D modeling software",
+      "B": "Hexagonal cartograms",
+      "C": "CAD drawings",
+      "D": "Spreadsheet applications"
+    }
+  }
+}
