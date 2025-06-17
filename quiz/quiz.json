@@ -1,5 +1,13 @@
 [
     {
+        "name": "Data Mining Chapter 1 - Introduction",
+        "file": "dm-chapter1.json"
+    },
+    {
+        "name": "Data Mining Chapter 2 - Getting to Know Your Data",
+        "file": "dm-chapter2.json"
+    },
+    {
         "name": "Data Visualization Lecture 1 - Introduction",
         "file": "dv-lecture1.json"
     },

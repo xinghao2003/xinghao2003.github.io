@@ -1,0 +1,402 @@
+{
+  "1": {
+    "question": "Which of the following is NOT classified as an 'Ordered' type of data set?",
+    "answer": "B",
+    "options": {
+      "A": "Time-series data",
+      "B": "Molecular Structures",
+      "C": "Video data",
+      "D": "Genetic sequence data"
+    }
+  },
+  "2": {
+    "question": "What type of data set would typically include 'World Wide Web' and 'Social Networks'?",
+    "answer": "B",
+    "options": {
+      "A": "Ordered data",
+      "B": "Graph and Network data",
+      "C": "Record data",
+      "D": "Spatial data"
+    }
+  },
+  "3": {
+    "question": "The concept where patterns observed in data can change based on the level of detail or aggregation is known as:",
+    "answer": "B",
+    "options": {
+      "A": "Dimensionality",
+      "B": "Resolution",
+      "C": "Sparsity",
+      "D": "Centrality"
+    }
+  },
+  "4": {
+    "question": "In the context of structured data characteristics, what does 'Sparsity' primarily refer to?",
+    "answer": "A",
+    "options": {
+      "A": "The presence of only existing counts in a matrix",
+      "B": "The central location of data",
+      "C": "The number of features in the dataset",
+      "D": "The variability of data values"
+    }
+  },
+  "5": {
+    "question": "In a relational database, what do rows and columns primarily represent, respectively?",
+    "answer": "D",
+    "options": {
+      "A": "Samples and Dimensions",
+      "B": "Attributes and Data Objects",
+      "C": "Features and Instances",
+      "D": "Data Objects and Attributes"
+    }
+  },
+  "6": {
+    "question": "Which of the following terms is NOT a synonym for a 'data object' in data mining?",
+    "answer": "C",
+    "options": {
+      "A": "Sample",
+      "B": "Tuple",
+      "C": "Feature",
+      "D": "Instance"
+    }
+  },
+  "7": {
+    "question": "An attribute that can be classified into categories but cannot be arranged in any particular order is a:",
+    "answer": "B",
+    "options": {
+      "A": "Numeric attribute",
+      "B": "Nominal attribute",
+      "C": "Ordinal attribute",
+      "D": "Binary attribute"
+    }
+  },
+  "8": {
+    "question": "Which type of attribute has values where differences between them cannot be determined or are meaningless, but they can be arranged in some order?",
+    "answer": "D",
+    "options": {
+      "A": "Ratio-scaled",
+      "B": "Interval-scaled",
+      "C": "Nominal",
+      "D": "Ordinal"
+    }
+  },
+  "9": {
+    "question": "What is the key distinguishing feature of a Ratio-scaled attribute compared to an Interval-scaled attribute?",
+    "answer": "D",
+    "options": {
+      "A": "Values have order",
+      "B": "Absence of a true zero-point",
+      "C": "Equal-sized units",
+      "D": "Presence of a true zero-point"
+    }
+  },
+  "10": {
+    "question": "The number of hammers sold at a local hardware store is an example of what type of attribute?",
+    "answer": "B",
+    "options": {
+      "A": "Interval-scaled",
+      "B": "Discrete",
+      "C": "Ratio-scaled",
+      "D": "Continuous"
+    }
+  },
+  "11": {
+    "question": "Which statement is true regarding continuous attributes?",
+    "answer": "D",
+    "options": {
+      "A": "They are always represented as integer variables",
+      "B": "They typically have 'gaps' between values",
+      "C": "They can only assume certain countable values",
+      "D": "They can assume any value within a specified range"
+    }
+  },
+  "12": {
+    "question": "For a perfectly symmetric data distribution, which of the following relationships holds true?",
+    "answer": "C",
+    "options": {
+      "A": "Mean ≠ Median ≠ Mode",
+      "B": "Mean < Median < Mode",
+      "C": "Mean = Median = Mode",
+      "D": "Mean > Median > Mode"
+    }
+  },
+  "13": {
+    "question": "The value that occurs most frequently in a dataset is known as the:",
+    "answer": "D",
+    "options": {
+      "A": "Median",
+      "B": "Mean",
+      "C": "Quartile",
+      "D": "Mode"
+    }
+  },
+  "14": {
+    "question": "What is the empirical formula relating mean, median, and mode for moderately skewed data?",
+    "answer": "C",
+    "options": {
+      "A": "Mean + Mode = 3 * (Mean + Median)",
+      "B": "Mode - Mean = 3 * (Median - Mean)",
+      "C": "Mean - Mode = 3 * (Mean - Median)",
+      "D": "Mean * Mode = 3 / (Mean * Median)"
+    }
+  },
+  "15": {
+    "question": "In a five-number summary, what does 'Q1' represent?",
+    "answer": "D",
+    "options": {
+      "A": "The 75th percentile",
+      "B": "The maximum value",
+      "C": "The median",
+      "D": "The 25th percentile"
+    }
+  },
+  "16": {
+    "question": "An outlier is typically defined as a value that falls outside what range relative to the Inter-Quartile Range (IQR)?",
+    "answer": "D",
+    "options": {
+      "A": "Greater than 1.0 x IQR from the mean",
+      "B": "Within the IQR range",
+      "C": "Less than 0.5 x IQR from the median",
+      "D": "Higher/lower than 1.5 x IQR from the nearest quartile"
+    }
+  },
+  "17": {
+    "question": "Which measure represents the range between the first and third quartiles?",
+    "answer": "C",
+    "options": {
+      "A": "Standard deviation",
+      "B": "Mean Absolute Deviation",
+      "C": "Inter-Quartile Range",
+      "D": "Variance"
+    }
+  },
+  "18": {
+    "question": "In a boxplot, what do the ends of the box represent?",
+    "answer": "A",
+    "options": {
+      "A": "The first and third quartiles",
+      "B": "The median and mean",
+      "C": "The minimum and maximum values",
+      "D": "The mean and mode"
+    }
+  },
+  "19": {
+    "question": "Which part of a boxplot indicates the Inter-Quartile Range (IQR)?",
+    "answer": "C",
+    "options": {
+      "A": "The overall range of the plot",
+      "B": "The position of the median line",
+      "C": "The height of the box",
+      "D": "The length of the whiskers"
+    }
+  },
+  "20": {
+    "question": "For a normal distribution, approximately what percentage of data falls within one standard deviation (μ ± σ) of the mean?",
+    "answer": "C",
+    "options": {
+      "A": "50%",
+      "B": "99.7%",
+      "C": "68%",
+      "D": "95%"
+    }
+  },
+  "21": {
+    "question": "If a dataset follows a normal distribution, what percentage of measurements are expected to be within μ ± 3σ?",
+    "answer": "A",
+    "options": {
+      "A": "99.7%",
+      "B": "99%",
+      "C": "68%",
+      "D": "95%"
+    }
+  },
+  "22": {
+    "question": "Which graphic display is used to show the relationship between two numerical variables by plotting them as points in a plane?",
+    "answer": "A",
+    "options": {
+      "A": "Scatter Plot",
+      "B": "Boxplot",
+      "C": "Quantile Plot",
+      "D": "Histogram"
+    }
+  },
+  "23": {
+    "question": "A plot where the x-axis represents values and the y-axis represents their frequencies is known as a:",
+    "answer": "B",
+    "options": {
+      "A": "Scatter plot",
+      "B": "Histogram",
+      "C": "Quantile-quantile plot",
+      "D": "Boxplot"
+    }
+  },
+  "24": {
+    "question": "What type of plot is specifically designed to compare the quantiles of one univariate distribution against the corresponding quantiles of another?",
+    "answer": "C",
+    "options": {
+      "A": "Quantile plot",
+      "B": "Scatter plot",
+      "C": "Quantile-quantile (q-q) plot",
+      "D": "Histogram"
+    }
+  },
+  "25": {
+    "question": "Which of the following is NOT a primary purpose of data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "To search for patterns and trends",
+      "B": "To offer visual proof of computer representations",
+      "C": "To provide a quantitative analysis directly",
+      "D": "To gain insight into an information space"
+    }
+  },
+  "26": {
+    "question": "Which category of visualization techniques focuses on displaying data values as features of graphical icons?",
+    "answer": "D",
+    "options": {
+      "A": "Pixel-Oriented",
+      "B": "Geometric Projection",
+      "C": "Hierarchical",
+      "D": "Icon-Based"
+    }
+  },
+  "27": {
+    "question": "In pixel-oriented visualization techniques, how are the dimension values of a record typically represented?",
+    "answer": "D",
+    "options": {
+      "A": "As hierarchical tree nodes",
+      "B": "As geometric shapes",
+      "C": "As points on a scatterplot",
+      "D": "As varying pixel colors in dedicated windows"
+    }
+  },
+  "28": {
+    "question": "Which geometric projection visualization technique helps users find meaningful projections of multidimensional data?",
+    "answer": "B",
+    "options": {
+      "A": "Scatterplot matrices",
+      "B": "Projection pursuit technique",
+      "C": "Direct visualization",
+      "D": "Hyperslice"
+    }
+  },
+  "29": {
+    "question": "What is a key characteristic of Scatterplot Matrices in geometric projection visualization?",
+    "answer": "A",
+    "options": {
+      "A": "They provide a matrix of all possible x-y diagrams for k-dimensional data",
+      "B": "They display hierarchical relationships",
+      "C": "They map dimension values to pixel colors",
+      "D": "They are primarily used for visualizing time-series data"
+    }
+  },
+  "30": {
+    "question": "Chernoff Faces are an example of which type of visualization technique?",
+    "answer": "B",
+    "options": {
+      "A": "Pixel-Oriented",
+      "B": "Icon-Based",
+      "C": "Geometric Projection",
+      "D": "Hierarchical"
+    }
+  },
+  "31": {
+    "question": "Which icon-based visualization method uses a 5-piece figure with varying limb angles/lengths to represent multivariate data, often census information?",
+    "answer": "D",
+    "options": {
+      "A": "Chernoff Faces",
+      "B": "Color Icons",
+      "C": "Tile Bars",
+      "D": "Stick Figures"
+    }
+  },
+  "32": {
+    "question": "Which hierarchical visualization technique involves partitioning n-dimensional attribute space into stacked 2-D subspaces?",
+    "answer": "B",
+    "options": {
+      "A": "Worlds-within-Worlds",
+      "B": "Dimensional Stacking",
+      "C": "Cone Trees",
+      "D": "InfoCube"
+    }
+  },
+  "33": {
+    "question": "InfoCube is a 3-D visualization technique where hierarchical information is displayed as:",
+    "answer": "A",
+    "options": {
+      "A": "Nested semi-transparent cubes",
+      "B": "Overlapping scatterplots",
+      "C": "Pixel arrays",
+      "D": "Animated stick figures"
+    }
+  },
+  "34": {
+    "question": "In a tag cloud visualization, how is the importance of a tag typically represented?",
+    "answer": "D",
+    "options": {
+      "A": "By its position on a grid",
+      "B": "By its numerical frequency only",
+      "C": "By its alphabetical order",
+      "D": "By its color and font size"
+    }
+  },
+  "35": {
+    "question": "Which statement is true regarding data similarity measures?",
+    "answer": "D",
+    "options": {
+      "A": "Higher values indicate less likeness",
+      "B": "They typically range from -1 to 1",
+      "C": "They are always equivalent to dissimilarity measures",
+      "D": "Higher values indicate more likeness"
+    }
+  },
+  "36": {
+    "question": "What term refers generally to both similarity and dissimilarity measures between data objects?",
+    "answer": "B",
+    "options": {
+      "A": "Association",
+      "B": "Proximity",
+      "C": "Correlation",
+      "D": "Distance"
+    }
+  },
+  "37": {
+    "question": "A Data Matrix is characterized by having how many modes?",
+    "answer": "D",
+    "options": {
+      "A": "Zero modes",
+      "B": "One mode",
+      "C": "Three modes",
+      "D": "Two modes"
+    }
+  },
+  "38": {
+    "question": "Which type of matrix typically registers only the distances between data points and is triangular in nature?",
+    "answer": "C",
+    "options": {
+      "A": "Covariance Matrix",
+      "B": "Data Matrix",
+      "C": "Dissimilarity Matrix",
+      "D": "Correlation Matrix"
+    }
+  },
+  "39": {
+    "question": "Cosine similarity is often used in which of the following applications?",
+    "answer": "C",
+    "options": {
+      "A": "Identifying outliers in a dataset",
+      "B": "Predicting numerical values",
+      "C": "Measuring the angle between term-frequency vectors in information retrieval",
+      "D": "Classifying data into predefined categories"
+    }
+  },
+  "40": {
+    "question": "How is the cosine similarity between two vectors (d1, d2) mathematically calculated?",
+    "answer": "C",
+    "options": {
+      "A": "||d1|| * ||d2|| / (d1 • d2)",
+      "B": "(d1 * d2) / (||d1|| + ||d2||)",
+      "C": "(d1 • d2) / (||d1|| ||d2||)",
+      "D": "(d1 - d2) / (d1 + d2)"
+    }
+  }
+}
