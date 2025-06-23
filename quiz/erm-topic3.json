@@ -1,0 +1,382 @@
+{
+  "1": {
+    "question": "Which of the following best defines Corporate Governance?",
+    "answer": "B",
+    "options": {
+      "A": "A set of financial regulations enforced by government bodies to prevent fraud.",
+      "B": "A system of guidance established by standard management practices operating within a designed governance structure.",
+      "C": "The process of maximizing short-term profits for shareholders without considering other stakeholders.",
+      "D": "The daily operations and decision-making processes of a company's executives."
+    }
+  },
+  "2": {
+    "question": "What is the foremost objective of corporate governance?",
+    "answer": "B",
+    "options": {
+      "A": "To ensure compliance with only international laws, disregarding local regulations.",
+      "B": "To enhance the value of shareholders while considering the interests of other stakeholders.",
+      "C": "To minimize all forms of financial risk at any cost.",
+      "D": "To solely maximize profits for the management team."
+    }
+  },
+  "3": {
+    "question": "What is the primary focus of 'Management' within a corporation?",
+    "answer": "A",
+    "options": {
+      "A": "Dealing with daily operations.",
+      "B": "Designing the overall system of rules and laws.",
+      "C": "Enhancing long-term shareholder value.",
+      "D": "Establishing the underlying ethics of the corporation."
+    }
+  },
+  "4": {
+    "question": "How does 'Weak governance' impact a corporation?",
+    "answer": "C",
+    "options": {
+      "A": "It strengthens investor faith in the company.",
+      "B": "It primarily improves daily operational efficiency.",
+      "C": "It undermines the financial and operational performance of the corporation.",
+      "D": "It leads to increased market share and competitive advantage."
+    }
+  },
+  "5": {
+    "question": "Which of the following is NOT listed as one of the five basic elements of Corporate Governance?",
+    "answer": "B",
+    "options": {
+      "A": "Regulatory Framework",
+      "B": "Market Dominance",
+      "C": "Accountability",
+      "D": "Transparency"
+    }
+  },
+  "6": {
+    "question": "The design of reporting should be improved and perfect to ensure which element of corporate governance?",
+    "answer": "B",
+    "options": {
+      "A": "Administrative Structure",
+      "B": "Accountability",
+      "C": "Business Ethics",
+      "D": "Regulatory Framework"
+    }
+  },
+  "7": {
+    "question": "What is the primary role of Risk Governance in relation to risk management?",
+    "answer": "B",
+    "options": {
+      "A": "To focus exclusively on short-term financial gains without considering risks.",
+      "B": "To ensure the risk management and control framework is embedded into the company's culture, processes, and structure.",
+      "C": "To bypass regulatory frameworks for faster decision-making.",
+      "D": "To delegate all risk management responsibilities solely to the IT department."
+    }
+  },
+  "8": {
+    "question": "According to the document, Corporate Governance aims to achieve long-term shareholder value while also taking into account the interest of which group?",
+    "answer": "B",
+    "options": {
+      "A": "Past employees",
+      "B": "Other stakeholders",
+      "C": "Competitors",
+      "D": "Regulators"
+    }
+  },
+  "9": {
+    "question": "A Risk Management Framework primarily describes an approach for doing what?",
+    "answer": "C",
+    "options": {
+      "A": "Streamlining daily operational tasks to increase efficiency.",
+      "B": "Recruiting and training new employees for the organization.",
+      "C": "Identifying, analyzing, responding to, and monitoring risks and opportunities.",
+      "D": "Developing new market strategies and product lines."
+    }
+  },
+  "10": {
+    "question": "What is a key purpose of an organizational-specific Risk Management System as defined by these frameworks?",
+    "answer": "A",
+    "options": {
+      "A": "To support the organization's strategic and operational objectives.",
+      "B": "To provide a generic template for all global businesses.",
+      "C": "To solely focus on historical financial data analysis.",
+      "D": "To replace human decision-making with automated processes."
+    }
+  },
+  "11": {
+    "question": "Which of the following is NOT one of the seven key building blocks of Governance for Risk?",
+    "answer": "B",
+    "options": {
+      "A": "Corporate Governance",
+      "B": "Market Research",
+      "C": "Stakeholders Management",
+      "D": "Risk Analytics"
+    }
+  },
+  "12": {
+    "question": "In the context of Governance for Risk, what does 'Risk Transfer' involve?",
+    "answer": "C",
+    "options": {
+      "A": "Transferring all risks to a third-party consultant.",
+      "B": "Transferring ownership of the company to mitigate risk.",
+      "C": "Transferring out concentrated or inefficient risks.",
+      "D": "Transferring risk management responsibilities to lower-level employees."
+    }
+  },
+  "13": {
+    "question": "Why is risk management considered central to corporate governance?",
+    "answer": "C",
+    "options": {
+      "A": "It eliminates the need for internal controls.",
+      "B": "It is primarily focused on increasing market share.",
+      "C": "It protects the organization from losses and enables proactive risk mitigation.",
+      "D": "It only applies to financial institutions."
+    }
+  },
+  "14": {
+    "question": "What can happen if governance lacks a sufficient focus on risk?",
+    "answer": "C",
+    "options": {
+      "A": "It guarantees an increase in shareholder satisfaction.",
+      "B": "It simplifies the company's operational structure.",
+      "C": "It can fail to safeguard the company's assets and lead to floundering performance.",
+      "D": "It will lead to automatic compliance with all regulations."
+    }
+  },
+  "15": {
+    "question": "What is the primary role of the board of directors concerning risk in corporate governance?",
+    "answer": "B",
+    "options": {
+      "A": "Develop detailed internal control systems.",
+      "B": "Identify business risks and oversee strategies to maximize returns while minimizing loss.",
+      "C": "Directly manage all day-to-day risk activities.",
+      "D": "Conduct external audits of financial statements."
+    }
+  },
+  "16": {
+    "question": "To whom do most boards delegate oversight of the organization's risk landscape?",
+    "answer": "A",
+    "options": {
+      "A": "The audit and/or risk committee.",
+      "B": "External public relations firms.",
+      "C": "The Human Resources department.",
+      "D": "The Marketing division."
+    }
+  },
+  "17": {
+    "question": "One of the key principles for risk management in corporate governance suggests updating reward structures to:",
+    "answer": "B",
+    "options": {
+      "A": "Eliminate all financial incentives for executives.",
+      "B": "Reward managers for having a keen awareness of risk management.",
+      "C": "Encourage excessive risk-taking for higher returns.",
+      "D": "Exclusively focus on rewarding short-term financial gains."
+    }
+  },
+  "18": {
+    "question": "What does 'Standardize risk language' entail in corporate governance?",
+    "answer": "B",
+    "options": {
+      "A": "Translating risk reports into multiple languages for international stakeholders.",
+      "B": "Establishing common, accepted terms for risk management throughout the company.",
+      "C": "Using technical jargon exclusively in risk reports.",
+      "D": "Limiting communication about risks to top executives only."
+    }
+  },
+  "19": {
+    "question": "What is the primary purpose of Governance, Risk Management, and Compliance (GRC)?",
+    "answer": "D",
+    "options": {
+      "A": "To focus solely on financial audits and reporting.",
+      "B": "To minimize all forms of risk by outsourcing operations.",
+      "C": "To replace human decision-making with artificial intelligence.",
+      "D": "To integrate governance, risk management, and compliance functions across departments."
+    }
+  },
+  "20": {
+    "question": "The GRC framework is partly a response to which organizational issue?",
+    "answer": "A",
+    "options": {
+      "A": "The 'silo mentality' among departments.",
+      "B": "Increased shareholder activism.",
+      "C": "Lack of technological advancements in businesses.",
+      "D": "Excessive government regulation."
+    }
+  },
+  "21": {
+    "question": "Which of the following is an international regulatory framework mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Sarbanes-Oxley Act of 2002 (SOX) US",
+      "B": "The Green Book – Enhancing Board Effectiveness by PCG",
+      "C": "Statement on Risk Management and Internal Control (SRMIC) by Bursa Malaysia",
+      "D": "Malaysian Code on Corporate Governance (MCCG)"
+    }
+  },
+  "22": {
+    "question": "The AS/NZS 4360 is an ERM framework specific to which region?",
+    "answer": "B",
+    "options": {
+      "A": "North America",
+      "B": "Asia Pacific",
+      "C": "South America",
+      "D": "Europe"
+    }
+  },
+  "23": {
+    "question": "When was the Sarbanes-Oxley Act (SOX) enacted?",
+    "answer": "A",
+    "options": {
+      "A": "July 30, 2002",
+      "B": "July 30, 2003",
+      "C": "July 30, 2000",
+      "D": "July 30, 2001"
+    }
+  },
+  "24": {
+    "question": "The Sarbanes-Oxley Act (SOX) was enacted in response to which of the following?",
+    "answer": "C",
+    "options": {
+      "A": "The 2008 financial crisis.",
+      "B": "Increased competition in the technology sector.",
+      "C": "High-profile corporate fraud cases like Enron and WorldCom.",
+      "D": "The dot-com bubble burst."
+    }
+  },
+  "25": {
+    "question": "According to SOX, what is a potential penalty for an auditor or CEO who publishes erroneous financial information?",
+    "answer": "C",
+    "options": {
+      "A": "Revocation of their driving license.",
+      "B": "A public apology.",
+      "C": "A fine of one million dollars or ten years imprisonment.",
+      "D": "Mandatory community service."
+    }
+  },
+  "26": {
+    "question": "Which Malaysian regulatory bodies compel public listed companies to quantify their transactional risk exposure in annual reports?",
+    "answer": "B",
+    "options": {
+      "A": "Companies Commission of Malaysia and Ministry of Finance.",
+      "B": "Securities Commission and Bursa Malaysia.",
+      "C": "Bank Negara Malaysia and Malaysian Institute of Corporate Governance.",
+      "D": "Putrajaya Committee on GLC High Performance and Audit Office."
+    }
+  },
+  "27": {
+    "question": "What is a key difference between the Malaysian regulatory framework and the US SOX Act regarding risk management programs for PLCs?",
+    "answer": "B",
+    "options": {
+      "A": "Malaysia has a more stringent law than SOX for risk management.",
+      "B": "Malaysia does not have a specific law like SOX that imposes a rigorous ERM program for PLCs.",
+      "C": "Malaysia has a specific law for off-balance sheet activities, unlike SOX.",
+      "D": "Malaysia's framework is voluntary, while SOX is mandatory."
+    }
+  },
+  "28": {
+    "question": "When was the initial Malaysian Code on Corporate Governance (MCCG) issued?",
+    "answer": "C",
+    "options": {
+      "A": "March 2013",
+      "B": "March 1999",
+      "C": "March 2000",
+      "D": "March 2007"
+    }
+  },
+  "29": {
+    "question": "Which of the following is a sponsoring organization of the COSO ERM framework?",
+    "answer": "D",
+    "options": {
+      "A": "International Monetary Fund (IMF)",
+      "B": "United Nations",
+      "C": "World Bank",
+      "D": "American Institute of Certified Public Accountants (AICPA)"
+    }
+  },
+  "30": {
+    "question": "How many components does the COSO ERM framework (2004 update) comprise?",
+    "answer": "B",
+    "options": {
+      "A": "Three",
+      "B": "Eight",
+      "C": "Ten",
+      "D": "Five"
+    }
+  },
+  "31": {
+    "question": "Which organization developed the ISO 31000:2009 Risk Management Standard?",
+    "answer": "A",
+    "options": {
+      "A": "International Organization for Standardization (ISO)",
+      "B": "Financial Executives International (FEI)",
+      "C": "World Economic Forum (WEF)",
+      "D": "Committee of Sponsoring Organizations (COSO)"
+    }
+  },
+  "32": {
+    "question": "Can ISO 31000:2009 be used for certification purposes?",
+    "answer": "A",
+    "options": {
+      "A": "No, it cannot be used for certification purposes.",
+      "B": "Only for governmental organizations.",
+      "C": "Yes, it is the primary standard for risk management certification.",
+      "D": "Only if combined with the COSO framework."
+    }
+  },
+  "33": {
+    "question": "How many basic principles and guidelines does ISO 31000 comprise?",
+    "answer": "B",
+    "options": {
+      "A": "15",
+      "B": "11",
+      "C": "8",
+      "D": "5"
+    }
+  },
+  "34": {
+    "question": "What is a key feature of the AS/NZS 4360 ERM Framework's application scope?",
+    "answer": "A",
+    "options": {
+      "A": "It provides a generic guide for managing risk applicable to a very wide range of activities and organizations.",
+      "B": "It is strictly limited to financial risk assessment.",
+      "C": "It is exclusively for large multinational corporations.",
+      "D": "It is only for government agencies in Australia and New Zealand."
+    }
+  },
+  "35": {
+    "question": "Which of the following is listed as one of the main elements of the Risk Management Process within AS/NZS 4360?",
+    "answer": "C",
+    "options": {
+      "A": "Product development",
+      "B": "Market forecasting",
+      "C": "Assess and prioritize risks",
+      "D": "Customer relationship management"
+    }
+  },
+  "36": {
+    "question": "What type of entity was 1Malaysia Development Berhad (1MDB)?",
+    "answer": "B",
+    "options": {
+      "A": "A private technology startup",
+      "B": "A sovereign wealth fund",
+      "C": "A non-profit environmental organization",
+      "D": "A state-owned airline"
+    }
+  },
+  "37": {
+    "question": "Which former Malaysian Prime Minister was convicted in relation to the 1MDB scandal?",
+    "answer": "B",
+    "options": {
+      "A": "Anwar Ibrahim",
+      "B": "Najib Razak",
+      "C": "Abdullah Ahmad Badawi",
+      "D": "Mahathir Mohamad"
+    }
+  },
+  "38": {
+    "question": "The 1MDB scandal resulted in allegations of how much debt for the fund?",
+    "answer": "C",
+    "options": {
+      "A": "$5 Billion",
+      "B": "$1 Billion",
+      "C": "$11 Billion",
+      "D": "$500 Million"
+    }
+  }
+}

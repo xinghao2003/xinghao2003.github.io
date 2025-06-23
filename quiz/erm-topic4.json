@@ -1,0 +1,582 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a main topic covered under ESG Sustainability Risk Management as outlined in the document's introduction?",
+    "answer": "C",
+    "options": {
+      "A": "UN Sustainable Development Goals (SDGs)",
+      "B": "Environmental, Social and Governance (ESG) Practices",
+      "C": "Global Financial Crisis Impact",
+      "D": "Concept of Sustainability"
+    }
+  },
+  "2": {
+    "question": "According to the United Nations, what is the core definition of sustainability?",
+    "answer": "B",
+    "options": {
+      "A": "Focusing solely on social well-being and equality.",
+      "B": "Meeting current needs without compromising future generations' needs.",
+      "C": "Maximizing economic growth for the current generation only.",
+      "D": "Prioritizing environmental protection above all else."
+    }
+  },
+  "3": {
+    "question": "The UN's definition of sustainability emphasizes a balance among which three key aspects?",
+    "answer": "A",
+    "options": {
+      "A": "Economic growth, Environmental care, Social well-being",
+      "B": "Profit, Planet, People",
+      "C": "Innovation, Infrastructure, Industry",
+      "D": "Government, Society, Business"
+    }
+  },
+  "4": {
+    "question": "Which report, published in 1987, is considered a pivotal moment for worldwide attention to sustainability and mainly focused on the environmental aspect?",
+    "answer": "C",
+    "options": {
+      "A": "The 2030 Agenda for Sustainable Development",
+      "B": "The Elkington Report",
+      "C": "The Brundtland Commission Report (WCED)",
+      "D": "The Millennium Declaration"
+    }
+  },
+  "5": {
+    "question": "Who introduced the 'Triple Bottom Line' concept, encompassing Planet, Profit, and People, in 1998?",
+    "answer": "A",
+    "options": {
+      "A": "John Elkington",
+      "B": "Kofi Annan",
+      "C": "Larry Fink",
+      "D": "Mohammad Faiz Azmi"
+    }
+  },
+  "6": {
+    "question": "The UN's 2030 Agenda for Sustainable Development, adopted in 2015, established how many Sustainable Development Goals (SDGs)?",
+    "answer": "D",
+    "options": {
+      "A": "15",
+      "B": "10",
+      "C": "8",
+      "D": "17"
+    }
+  },
+  "7": {
+    "question": "The 2030 Agenda for Sustainable Development expanded the '3Ps' of the Triple Bottom Line to the '5Ps'. What are the 5Ps?",
+    "answer": "A",
+    "options": {
+      "A": "Planet, People, Prosperity, Peace, Partnership",
+      "B": "Poverty, Health, Education, Equality, Justice",
+      "C": "Protection, Production, Participation, Power, Progress",
+      "D": "Planet, Profit, People, Progress, Policy"
+    }
+  },
+  "8": {
+    "question": "According to the IISD, what is a key characteristic of corporate sustainability strategies?",
+    "answer": "B",
+    "options": {
+      "A": "They are primarily concerned with immediate economic growth.",
+      "B": "They meet current needs while protecting resources for future generations.",
+      "C": "They prioritize short-term profit over long-term resource protection.",
+      "D": "They solely focus on current enterprise needs."
+    }
+  },
+  "9": {
+    "question": "Corporate Sustainability (CS) is typically considered to operate at which level, distinguishing it from general Sustainable Development?",
+    "answer": "A",
+    "options": {
+      "A": "Micro-level",
+      "B": "Global-level",
+      "C": "National-level",
+      "D": "Macro-level"
+    }
+  },
+  "10": {
+    "question": "Which international body is responsible for issuing International Financial Reporting Standards (IFRS) that include sustainability disclosure standards?",
+    "answer": "A",
+    "options": {
+      "A": "International Sustainability Standards Board (ISSB)",
+      "B": "Global Reporting Initiative (GRI)",
+      "C": "Sustainability Accounting Standards Board (SASB)",
+      "D": "International Organization for Standardization (ISO)"
+    }
+  },
+  "11": {
+    "question": "Sustainability reporting standards aim to disclose an organization's significant impacts on which of the following areas?",
+    "answer": "B",
+    "options": {
+      "A": "Only financial accounts and profits.",
+      "B": "The economy, environment, and people.",
+      "C": "Only operational efficiency and cost savings.",
+      "D": "Employee satisfaction metrics and internal processes."
+    }
+  },
+  "12": {
+    "question": "What is the primary purpose of Malaysia's National Sustainability Reporting Framework (NSRF)?",
+    "answer": "D",
+    "options": {
+      "A": "To provide fiscal incentives for foreign direct investment only.",
+      "B": "To exclusively promote renewable energy projects in Malaysia.",
+      "C": "To reduce corporate income tax for all companies.",
+      "D": "To mandate new sustainability reporting standards for specific companies."
+    }
+  },
+  "13": {
+    "question": "Under Malaysia's NSRF, which type of companies are required to comply with sustainability reporting standards?",
+    "answer": "C",
+    "options": {
+      "A": "Only state-owned enterprises.",
+      "B": "Only companies with over 10,000 employees.",
+      "C": "Companies listed on Bursa Malaysia's Main and ACE Markets, and large non-listed firms with RM2 billion+ revenue.",
+      "D": "All small and medium enterprises (SMEs) nationwide."
+    }
+  },
+  "14": {
+    "question": "From which year will large listed issuers on Bursa Malaysia's Main Market be required to comply with IFRS S1 and S2 under the NSRF, with a focus on climate disclosures?",
+    "answer": "C",
+    "options": {
+      "A": "2024",
+      "B": "2026",
+      "C": "2025",
+      "D": "2027"
+    }
+  },
+  "15": {
+    "question": "How many Sustainable Development Goals (SDGs) were created as part of the UN's 2030 Agenda for Sustainable Development?",
+    "answer": "D",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "15",
+      "D": "17"
+    }
+  },
+  "16": {
+    "question": "The SDGs balance which three core dimensions of sustainable development?",
+    "answer": "B",
+    "options": {
+      "A": "Industrial, Agricultural, Service",
+      "B": "Economic, Social, Environmental",
+      "C": "Local, National, Global",
+      "D": "Political, Cultural, Technological"
+    }
+  },
+  "17": {
+    "question": "Which of the following is NOT one of the 17 UN Sustainable Development Goals?",
+    "answer": "C",
+    "options": {
+      "A": "Quality Education",
+      "B": "Zero Hunger",
+      "C": "Space Exploration",
+      "D": "Climate Action"
+    }
+  },
+  "18": {
+    "question": "The UN's 17 SDGs are often depicted in a hierarchical structure. What is the foundational layer of this structure, representing the planet's ecological limits?",
+    "answer": "C",
+    "options": {
+      "A": "Society",
+      "B": "Partnerships",
+      "C": "Biosphere",
+      "D": "Economy"
+    }
+  },
+  "19": {
+    "question": "What does the UN Global Compact primarily ask companies to do regarding the SDGs?",
+    "answer": "D",
+    "options": {
+      "A": "Donate a portion of their profits to charity.",
+      "B": "Lobby governments for relaxed environmental regulations.",
+      "C": "Focus solely on maximizing shareholder value.",
+      "D": "Conduct business responsibly and innovate to solve societal challenges."
+    }
+  },
+  "20": {
+    "question": "What is Malaysia's announced carbon-neutrality target year under the 12th Malaysia Plan?",
+    "answer": "D",
+    "options": {
+      "A": "2030",
+      "B": "2060",
+      "C": "2065",
+      "D": "2050"
+    }
+  },
+  "21": {
+    "question": "According to the Shell Malaysia roadmap, 'The Tree, The Sky, The Sun,' by what year does Malaysia aim to become carbon neutral?",
+    "answer": "D",
+    "options": {
+      "A": "2050",
+      "B": "2070",
+      "C": "2030",
+      "D": "2065"
+    }
+  },
+  "22": {
+    "question": "Which of the following is a key measure identified in Shell Malaysia's roadmap to achieve carbon neutrality by 2065?",
+    "answer": "A",
+    "options": {
+      "A": "Promoting alternative energy sources like solar power.",
+      "B": "Building more coal-fired power plants.",
+      "C": "Increasing reliance on fossil fuel subsidies.",
+      "D": "Decreasing reforestation efforts across the country."
+    }
+  },
+  "23": {
+    "question": "How many specific UN SDGs has IOI Group identified as most relevant to its operations?",
+    "answer": "C",
+    "options": {
+      "A": "17",
+      "B": "5",
+      "C": "6",
+      "D": "10"
+    }
+  },
+  "24": {
+    "question": "Which of the following is NOT one of the 5Ps that IOI Group aligns its sustainability efforts with, based on the document?",
+    "answer": "D",
+    "options": {
+      "A": "People",
+      "B": "Partnership",
+      "C": "Planet",
+      "D": "Progress"
+    }
+  },
+  "25": {
+    "question": "What is PETRONAS' stated goal for achieving net zero carbon emissions?",
+    "answer": "A",
+    "options": {
+      "A": "By 2050",
+      "B": "By 2040",
+      "C": "By 2030",
+      "D": "By 2060"
+    }
+  },
+  "26": {
+    "question": "Which of the following is one of PETRONAS' sustainability targets related to clean energy by 2024?",
+    "answer": "A",
+    "options": {
+      "A": "Increasing renewable energy capacity to 3,000MW.",
+      "B": "Reducing reliance on all renewable sources.",
+      "C": "Phasing out all education programs.",
+      "D": "Maintaining current GHG emission levels."
+    }
+  },
+  "27": {
+    "question": "What are the 'Four Sustainability Lenses' used by PETRONAS to guide its operations?",
+    "answer": "C",
+    "options": {
+      "A": "Research, Development, Production, Distribution",
+      "B": "Financial, Operational, Marketing, Human Resources",
+      "C": "Continued Value Creation, Positive Social Impact, Safeguard the Environment, Responsible Governance",
+      "D": "Supply Chain, Customer Relations, Community Engagement, Employee Welfare"
+    }
+  },
+  "28": {
+    "question": "Which of the following falls under the 'Environmental' pillar of ESG?",
+    "answer": "A",
+    "options": {
+      "A": "Greenhouse gas emissions",
+      "B": "Board diversity",
+      "C": "Labor standards",
+      "D": "Executive compensation"
+    }
+  },
+  "29": {
+    "question": "'Diversity and inclusion in the workforce' is a key consideration under which ESG pillar?",
+    "answer": "B",
+    "options": {
+      "A": "Governance",
+      "B": "Social",
+      "C": "Environmental",
+      "D": "Economic"
+    }
+  },
+  "30": {
+    "question": "What does the 'Governance' pillar of ESG primarily focus on?",
+    "answer": "A",
+    "options": {
+      "A": "Board composition, strategic oversight, and ethical issues",
+      "B": "Employee health and safety",
+      "C": "Water usage and waste management",
+      "D": "Community relations and philanthropy"
+    }
+  },
+  "31": {
+    "question": "ESG investing was initiated by a letter from which former UN Secretary General in 2004?",
+    "answer": "A",
+    "options": {
+      "A": "Kofi Annan",
+      "B": "Ban Ki-moon",
+      "C": "António Guterres",
+      "D": "Boutros Boutros-Ghali"
+    }
+  },
+  "32": {
+    "question": "What was the core request made by Kofi Annan to financial institutions in his 2004 letter that led to ESG investing?",
+    "answer": "C",
+    "options": {
+      "A": "To focus solely on short-term profits.",
+      "B": "To increase their charitable donations.",
+      "C": "To integrate ESG considerations into capital markets.",
+      "D": "To divest from all sustainability-focused companies."
+    }
+  },
+  "33": {
+    "question": "According to Larry Fink, CEO of Blackrock, what is considered the 'strongest foundation for client portfolios going forward'?",
+    "answer": "A",
+    "options": {
+      "A": "Sustainable investing",
+      "B": "High-risk, high-reward ventures",
+      "C": "Speculative investments",
+      "D": "Traditional fossil fuel investments"
+    }
+  },
+  "34": {
+    "question": "Which group is increasingly looking to invest in 'good' companies and push for sustainability disclosures?",
+    "answer": "C",
+    "options": {
+      "A": "Regulators only",
+      "B": "Governments",
+      "C": "Investors",
+      "D": "Competitors"
+    }
+  },
+  "35": {
+    "question": "The Google search trend for 'ESG' shows what pattern since 2017-2018?",
+    "answer": "C",
+    "options": {
+      "A": "Sporadic, unpredictable spikes and drops.",
+      "B": "A stable, unchanging interest level.",
+      "C": "A significant increase in interest.",
+      "D": "A significant decrease in interest."
+    }
+  },
+  "36": {
+    "question": "Why was PETRONAS excluded from JP Morgan's ESG Emerging Market Bond Index in 2021?",
+    "answer": "C",
+    "options": {
+      "A": "Lack of renewable energy investments.",
+      "B": "Poor financial performance.",
+      "C": "Low score of ESG practices.",
+      "D": "High carbon emissions."
+    }
+  },
+  "37": {
+    "question": "The issue of falsifying financial statements, as seen with Serba Dinamik Holdings Bhd, primarily relates to which ESG pillar?",
+    "answer": "B",
+    "options": {
+      "A": "Environmental",
+      "B": "Governance",
+      "C": "Economic",
+      "D": "Social"
+    }
+  },
+  "38": {
+    "question": "What was the primary reason for US Customs & Borders Protection withholding products from Malaysian glove and oil palm companies?",
+    "answer": "A",
+    "options": {
+      "A": "Allegations of forced labor.",
+      "B": "Environmental pollution concerns.",
+      "C": "Unfair trade practices.",
+      "D": "High energy consumption."
+    }
+  },
+  "39": {
+    "question": "What is 'greenwashing'?",
+    "answer": "A",
+    "options": {
+      "A": "Companies boosting their eco-friendly image without committing to serious changes.",
+      "B": "A new method for recycling green products.",
+      "C": "A genuine commitment to environmental protection.",
+      "D": "Government regulations for environmental disclosures."
+    }
+  },
+  "40": {
+    "question": "Which company was fined by the Australian Securities and Investment Commission (ASIC) for making 'factually incorrect' statements about its environmental credentials?",
+    "answer": "A",
+    "options": {
+      "A": "Tlou Energy",
+      "B": "Coca-Cola",
+      "C": "Volkswagen",
+      "D": "PETRONAS"
+    }
+  },
+  "41": {
+    "question": "Coca-Cola has been criticized for greenwashing primarily due to its association with what environmental issue?",
+    "answer": "B",
+    "options": {
+      "A": "Excessive water usage",
+      "B": "Being a major plastic waste producer",
+      "C": "High carbon emissions",
+      "D": "Deforestation"
+    }
+  },
+  "42": {
+    "question": "According to Deloitte, what defines an 'ESG risk'?",
+    "answer": "C",
+    "options": {
+      "A": "Any market fluctuation that affects company profits.",
+      "B": "Natural disasters that cause no financial loss.",
+      "C": "An event or condition impacting investment value due to E, S, or G factors.",
+      "D": "Only financial fraud cases within a corporation."
+    }
+  },
+  "43": {
+    "question": "Which of the following is a key value of implementing ESG Risk Management?",
+    "answer": "D",
+    "options": {
+      "A": "Ignoring external benchmarking and peer best practices.",
+      "B": "Discouraging staff involvement in risk management efforts.",
+      "C": "Promoting reactive rather than proactive risk management.",
+      "D": "Providing objective information to manage the business."
+    }
+  },
+  "44": {
+    "question": "What is a key distinction of 'Green Finance' according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "It only focuses on renewable energy projects.",
+      "B": "It includes social and economic aspects.",
+      "C": "It specifically excludes social and economic aspects.",
+      "D": "It exclusively funds government-led infrastructure projects."
+    }
+  },
+  "45": {
+    "question": "'Green investing' primarily focuses on supporting business practices that have a favorable impact on what?",
+    "answer": "B",
+    "options": {
+      "A": "Shareholder profits and dividends.",
+      "B": "The natural environment.",
+      "C": "Employee turnover rates and internal morale.",
+      "D": "Corporate lobbying efforts and policy changes."
+    }
+  },
+  "46": {
+    "question": "What does IFRS stand for in the context of sustainability reporting?",
+    "answer": "C",
+    "options": {
+      "A": "Integrated Financial Reporting Systems",
+      "B": "International Financial Review Standards",
+      "C": "International Financial Reporting Standards",
+      "D": "Independent Fiscal Regulatory Scheme"
+    }
+  },
+  "47": {
+    "question": "Integrated Reporting (<IR>) aims to mutually reinforce which two concepts?",
+    "answer": "B",
+    "options": {
+      "A": "Shareholder value and executive compensation",
+      "B": "Integrated thinking and integrated reporting",
+      "C": "Environmental compliance and social welfare",
+      "D": "Financial audits and market analysis"
+    }
+  },
+  "48": {
+    "question": "Based on the provided chart for ASEAN 6 countries, which country appears to have the highest ESG Risk Exposure?",
+    "answer": "A",
+    "options": {
+      "A": "Vietnam",
+      "B": "Indonesia",
+      "C": "Singapore",
+      "D": "Malaysia"
+    }
+  },
+  "49": {
+    "question": "What does a higher 'Management Score' in the ESG performance comparison chart indicate?",
+    "answer": "D",
+    "options": {
+      "A": "Higher ESG risk for the company.",
+      "B": "Increased negative environmental impact.",
+      "C": "Lower financial performance of the companies.",
+      "D": "Better management and mitigation of ESG factors."
+    }
+  },
+  "50": {
+    "question": "What was the Compound Annual Growth Rate (CAGR) for the total value of sustainable bonds and Sukuk in ASEAN 6 from 2016-2020?",
+    "answer": "A",
+    "options": {
+      "A": "198%",
+      "B": "55%",
+      "C": "88%",
+      "D": "117%"
+    }
+  },
+  "51": {
+    "question": "The value of sustainable bonds and Sukuk in ASEAN 6 saw an increase from US$0.3 billion in 2016 to approximately how much by November 2021?",
+    "answer": "D",
+    "options": {
+      "A": "US$22.1 billion",
+      "B": "US$13 billion",
+      "C": "US$4 billion",
+      "D": "US$29.8 billion"
+    }
+  },
+  "52": {
+    "question": "Which entity provides ESG ratings that encourage companies in Malaysia to adopt good ESG practices?",
+    "answer": "D",
+    "options": {
+      "A": "Bursa Malaysia",
+      "B": "Security Commission Malaysia",
+      "C": "Bank Negara",
+      "D": "FTSE4Good"
+    }
+  },
+  "53": {
+    "question": "What is the primary purpose of the FTSE4Good Bursa Malaysia Index?",
+    "answer": "D",
+    "options": {
+      "A": "To track the overall stock market performance.",
+      "B": "To exclusively list renewable energy companies.",
+      "C": "To provide a platform for foreign exchange trading.",
+      "D": "To measure ESG compliance for public-listed companies."
+    }
+  },
+  "54": {
+    "question": "What type of incentives does Malaysia offer to businesses to obtain ESG ratings?",
+    "answer": "C",
+    "options": {
+      "A": "Tax holidays only.",
+      "B": "Free training programs.",
+      "C": "Fiscal and financial incentives.",
+      "D": "Marketing support only."
+    }
+  },
+  "55": {
+    "question": "While sustainability focuses on meeting present needs without compromising future generations, what do ESG metrics primarily aim to measure?",
+    "answer": "B",
+    "options": {
+      "A": "Only financial profits of a company.",
+      "B": "How sustainable a company is and its performance on prosperity, planet, and people.",
+      "C": "The short-term market value of a company.",
+      "D": "The total number of employees in a company."
+    }
+  },
+  "56": {
+    "question": "ESG metrics help to measure what specific value that a company creates?",
+    "answer": "C",
+    "options": {
+      "A": "Brand Recognition",
+      "B": "Customer Loyalty",
+      "C": "True Value",
+      "D": "Market Share"
+    }
+  },
+  "57": {
+    "question": "What is the relationship between ESG practices and the 17 UN Sustainable Development Goals (SDGs)?",
+    "answer": "C",
+    "options": {
+      "A": "ESG practices are unrelated to SDGs.",
+      "B": "ESG practices only negatively impact SDGs.",
+      "C": "ESG practices directly contribute to all 17 SDGs.",
+      "D": "SDGs are a subset of ESG practices."
+    }
+  },
+  "58": {
+    "question": "How does the contribution to SDGs enhance a company's ESG score?",
+    "answer": "A",
+    "options": {
+      "A": "By making sustainability performance data readily available to stakeholders.",
+      "B": "By reducing operational costs.",
+      "C": "By increasing marketing budgets for new products.",
+      "D": "By eliminating the need for traditional financial reporting."
+    }
+  }
+}

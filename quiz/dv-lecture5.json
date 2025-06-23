@@ -1,0 +1,482 @@
+{
+  "1": {
+    "question": "This lecture on High-dimensional Data Visualization is part of which course?",
+    "answer": "A",
+    "options": {
+      "A": "TFB3133/TEB3133 Data Visualization",
+      "B": "TFB3000 Statistics",
+      "C": "TEB4122 Advanced Graphics",
+      "D": "TFB2010 Introduction to Data Science"
+    }
+  },
+  "2": {
+    "question": "From which publication is this lecture's content adapted?",
+    "answer": "C",
+    "options": {
+      "A": "The Visual Display of Quantitative Information",
+      "B": "Data Visualization: A Practical Introduction",
+      "C": "Handbook of Data Visualization (2008)",
+      "D": "Envisioning Information"
+    }
+  },
+  "3": {
+    "question": "What is one of the primary learning outcomes related to high-dimensional data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "To solely focus on univariate data analysis.",
+      "B": "To eliminate the need for any data visualizations.",
+      "C": "To simplify data by reducing the number of variables to two.",
+      "D": "To find general representations for displaying multivariate structure of more than two variables."
+    }
+  },
+  "4": {
+    "question": "What skill are students expected to gain regarding multivariate data?",
+    "answer": "C",
+    "options": {
+      "A": "The ability to collect multivariate data.",
+      "B": "The ability to exclusively use presentation graphics.",
+      "C": "The ability to apply multivariate data visualizations.",
+      "D": "The ability to convert all multivariate data to bivariate data."
+    }
+  },
+  "5": {
+    "question": "What is the major dimension used to discriminate between exploratory graphics and presentation graphics?",
+    "answer": "B",
+    "options": {
+      "A": "The color palette used in the visualization.",
+      "B": "The amount of interactivity used in data visualization.",
+      "C": "The number of rows in the dataset.",
+      "D": "The file format of the data."
+    }
+  },
+  "6": {
+    "question": "Which technique is identified as one of the keys to the right use of graphics for high-dimensional data?",
+    "answer": "D",
+    "options": {
+      "A": "Automated report generation.",
+      "B": "Manual data input.",
+      "C": "Static image generation.",
+      "D": "Interactive linked highlighting."
+    }
+  },
+  "7": {
+    "question": "What does linking help to preserve in the context of high-dimensional data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "The univariate context.",
+      "B": "The data collection method.",
+      "C": "The aesthetic appeal.",
+      "D": "The multivariate context."
+    }
+  },
+  "8": {
+    "question": "In high-dimensional data, what is the relationship between the number of features (p) and observations (n)?",
+    "answer": "C",
+    "options": {
+      "A": "p is always much smaller than n.",
+      "B": "The relationship between p and n is irrelevant.",
+      "C": "p is close to or larger than n.",
+      "D": "p is typically equal to 2."
+    }
+  },
+  "9": {
+    "question": "What has contributed to the increased commonality of high-dimensional datasets in scientific fields?",
+    "answer": "D",
+    "options": {
+      "A": "Lack of computational power.",
+      "B": "Decreased complexity of scientific problems.",
+      "C": "Reduced funding for research.",
+      "D": "Development of new automated data collection techniques."
+    }
+  },
+  "10": {
+    "question": "Why is high-dimensional data often difficult to analyze or visualize?",
+    "answer": "A",
+    "options": {
+      "A": "It requires specialized statistical tools beyond standard ones.",
+      "B": "It is always purely categorical.",
+      "C": "It is only relevant for theoretical studies.",
+      "D": "It contains too few variables for meaningful analysis."
+    }
+  },
+  "11": {
+    "question": "Which of the following is listed as a type of visualization for high-dimensional data?",
+    "answer": "C",
+    "options": {
+      "A": "Pie Chart",
+      "B": "Bar Chart",
+      "C": "Mosaic Plot",
+      "D": "Line Graph"
+    }
+  },
+  "12": {
+    "question": "What is another name for a Mosaic Plot?",
+    "answer": "B",
+    "options": {
+      "A": "Tree Map",
+      "B": "Marimekko or Mekko",
+      "C": "Scatter Plot Matrix",
+      "D": "Parallel Lines Plot"
+    }
+  },
+  "13": {
+    "question": "According to Hofmann (2008), what makes Mosaic plots extremely versatile?",
+    "answer": "B",
+    "options": {
+      "A": "Their exclusive use for continuous data.",
+      "B": "Their employment of all possible interaction and variations.",
+      "C": "Their limitation to only two variables.",
+      "D": "Their inability to show interactions."
+    }
+  },
+  "14": {
+    "question": "In a Mosaic Plot, where should variables that condition an effect ideally be placed?",
+    "answer": "D",
+    "options": {
+      "A": "At the end of the plot.",
+      "B": "Randomly.",
+      "C": "In the middle of the plot.",
+      "D": "First in the plot."
+    }
+  },
+  "15": {
+    "question": "To avoid unnecessary clutter in a Mosaic Plot of equally important variables, what is recommended?",
+    "answer": "C",
+    "options": {
+      "A": "Use only numerical variables.",
+      "B": "Remove variables with few categories.",
+      "C": "Put variables with only a few categories first.",
+      "D": "Increase the plot size significantly."
+    }
+  },
+  "16": {
+    "question": "What problem in high-dimensional data visualization do 'empty cells' in mosaic plots relate to?",
+    "answer": "B",
+    "options": {
+      "A": "Overfitting models.",
+      "B": "The curse of dimensionality.",
+      "C": "Incorrect data labeling.",
+      "D": "Data normalization issues."
+    }
+  },
+  "17": {
+    "question": "How can the number of cells be reduced if the last variable in a mosaic plot is a binary factor?",
+    "answer": "B",
+    "options": {
+      "A": "By removing it from the plot.",
+      "B": "By linking the last variable via highlighting.",
+      "C": "By converting it to a continuous variable.",
+      "D": "By aggregating all binary factors into one."
+    }
+  },
+  "18": {
+    "question": "What is an advantage of interactive mosaic plots for exploring interactions?",
+    "answer": "C",
+    "options": {
+      "A": "They are limited to pre-defined interactions.",
+      "B": "They automatically choose the best variables.",
+      "C": "Users can add, drop, or change variables displayed in a plot.",
+      "D": "They only display two variables at a time."
+    }
+  },
+  "19": {
+    "question": "What is recommended for graphically representing a single dependent categorical outcome and several categorical influencing factors using a mosaic plot?",
+    "answer": "C",
+    "options": {
+      "A": "Use a scatter plot instead of a mosaic plot.",
+      "B": "Convert all categorical variables to continuous.",
+      "C": "Put all influencing factors in a mosaic plot and link the dependent variable with a bar chart.",
+      "D": "Show only the dependent variable."
+    }
+  },
+  "20": {
+    "question": "When looking at log-linear models with mosaic plots, what is an alternative to plotting observed values?",
+    "answer": "C",
+    "options": {
+      "A": "Plotting only the categorical labels.",
+      "B": "Plotting standard deviations.",
+      "C": "Plotting expected values.",
+      "D": "Plotting residuals."
+    }
+  },
+  "21": {
+    "question": "Who introduced Trellis displays?",
+    "answer": "B",
+    "options": {
+      "A": "Wills et al. (2008)",
+      "B": "Becker et al. (1996)",
+      "C": "Hofmann et al. (2008)",
+      "D": "Cox & Snell (1991)"
+    }
+  },
+  "22": {
+    "question": "What is a defining characteristic of Trellis displays?",
+    "answer": "B",
+    "options": {
+      "A": "They exclusively display time-series data.",
+      "B": "They employ a grid-like structure to plot conditioned data.",
+      "C": "They always use 3D projections.",
+      "D": "They are limited to two variables."
+    }
+  },
+  "23": {
+    "question": "Why are the same scales used in all panel plots within a Trellis display?",
+    "answer": "A",
+    "options": {
+      "A": "To make plots comparable across rows and columns.",
+      "B": "To hide outliers.",
+      "C": "To enhance aesthetic appeal.",
+      "D": "To reduce computational complexity."
+    }
+  },
+  "24": {
+    "question": "What is the maximum number of variables a single Trellis display can hold in principle?",
+    "answer": "C",
+    "options": {
+      "A": "Five",
+      "B": "Ten",
+      "C": "Seven",
+      "D": "Two"
+    }
+  },
+  "25": {
+    "question": "How are the conditioning categories of each panel plot annotated in a Trellis display?",
+    "answer": "C",
+    "options": {
+      "A": "By using different background colors.",
+      "B": "Through a separate legend.",
+      "C": "By strip labels plotted atop each panel plot.",
+      "D": "By varying the line thickness."
+    }
+  },
+  "26": {
+    "question": "What is 'shingling' in the context of Trellis displays?",
+    "answer": "A",
+    "options": {
+      "A": "The process of dividing a continuous variable into discrete intervals.",
+      "B": "A technique for smoothing data points.",
+      "C": "A way to highlight specific data points.",
+      "D": "A method to combine multiple plots into one."
+    }
+  },
+  "27": {
+    "question": "What is a potential consequence of overlapping shingles/intervals in a Trellis display?",
+    "answer": "D",
+    "options": {
+      "A": "Single, unique representation of data.",
+      "B": "Improved readability of the plot.",
+      "C": "Reduced data density.",
+      "D": "Multiple representations of data within the display."
+    }
+  },
+  "28": {
+    "question": "How can a single view in a panel of a Trellis display be interpreted?",
+    "answer": "C",
+    "options": {
+      "A": "As a full dataset overview.",
+      "B": "As a static image with no interactive features.",
+      "C": "As the highlighted part of the graphics for the conditioned subgroup.",
+      "D": "As an independent, unrelated plot."
+    }
+  },
+  "29": {
+    "question": "What is considered the 'biggest advantage' of Trellis displays for model visualization?",
+    "answer": "B",
+    "options": {
+      "A": "Their lack of need for any user interaction.",
+      "B": "Their common scale among all plot panels.",
+      "C": "Their ability to create 3D models.",
+      "D": "Their automatic data cleaning capabilities."
+    }
+  },
+  "30": {
+    "question": "Trellis displays are suitable for which type of analytical task?",
+    "answer": "D",
+    "options": {
+      "A": "Data entry.",
+      "B": "Hardware performance testing.",
+      "C": "Document scanning.",
+      "D": "Model diagnostics."
+    }
+  },
+  "31": {
+    "question": "How are data values primarily depicted in a heatmap?",
+    "answer": "B",
+    "options": {
+      "A": "By different text labels.",
+      "B": "By shades or hues of color.",
+      "C": "By different symbols.",
+      "D": "By varying line styles."
+    }
+  },
+  "32": {
+    "question": "In which scientific field are heatmaps widely used to display gene expression values?",
+    "answer": "B",
+    "options": {
+      "A": "Geology",
+      "B": "Bioinformatics",
+      "C": "Astrophysics",
+      "D": "Sociology"
+    }
+  },
+  "33": {
+    "question": "What does a 'red' color typically indicate in a heatmap showing species abundance clustering?",
+    "answer": "D",
+    "options": {
+      "A": "Low abundance.",
+      "B": "Missing data.",
+      "C": "No data.",
+      "D": "Great abundance."
+    }
+  },
+  "34": {
+    "question": "What is commonly displayed in the off-diagonal cells of a multivariate scatter plot matrix?",
+    "answer": "C",
+    "options": {
+      "A": "Pie charts of variable categories.",
+      "B": "Summary statistics tables.",
+      "C": "Scatter plots showing relationships between two variables.",
+      "D": "Histograms of individual variables."
+    }
+  },
+  "35": {
+    "question": "What kind of plots are typically found on the diagonal of a multivariate scatter plot matrix?",
+    "answer": "A",
+    "options": {
+      "A": "Histograms or density plots.",
+      "B": "Bar charts.",
+      "C": "Box plots.",
+      "D": "Parallel coordinate plots."
+    }
+  },
+  "36": {
+    "question": "What is one of the most interesting aspects of using parallel coordinate plots?",
+    "answer": "A",
+    "options": {
+      "A": "The investigation of groups/clusters, outliers, and structures over many variables.",
+      "B": "Their strict adherence to two-dimensional space.",
+      "C": "Their utility for single-variable analysis only.",
+      "D": "Their ability to reduce data dimensionality automatically."
+    }
+  },
+  "37": {
+    "question": "Which of the following is NOT one of the three main uses of Parallel Coordinate Plots in exploratory data analysis?",
+    "answer": "D",
+    "options": {
+      "A": "Overview",
+      "B": "Profiles",
+      "C": "Monitor",
+      "D": "Prediction"
+    }
+  },
+  "38": {
+    "question": "What is a common limitation of Parallel Coordinate Plots when plotting hundreds of lines?",
+    "answer": "C",
+    "options": {
+      "A": "Inability to show continuous variables.",
+      "B": "Too few variables being displayed.",
+      "C": "Overplotting, reaching rendering limits.",
+      "D": "Excessive use of color."
+    }
+  },
+  "39": {
+    "question": "What is 'α-blending' primarily used for in Parallel Coordinate Plots?",
+    "answer": "C",
+    "options": {
+      "A": "To change the color scheme of the plot.",
+      "B": "To add more dimensions to the plot.",
+      "C": "To cope with overplotting by adjusting line transparency.",
+      "D": "To remove outliers from the data."
+    }
+  },
+  "40": {
+    "question": "What effect do smaller α values have in α-blending for Parallel Coordinate Plots?",
+    "answer": "D",
+    "options": {
+      "A": "They reduce the visibility of high line density areas.",
+      "B": "They make all lines completely opaque.",
+      "C": "They simplify the plot by removing lines.",
+      "D": "They make high line density areas more visible and contrasted."
+    }
+  },
+  "41": {
+    "question": "What is the most important scaling option for Parallel Coordinate Plots?",
+    "answer": "A",
+    "options": {
+      "A": "Individually scaling axes or using a common scale over all axes.",
+      "B": "Avoiding any form of scaling.",
+      "C": "Always using a logarithmic scale.",
+      "D": "Scaling only the first two axes."
+    }
+  },
+  "42": {
+    "question": "Which of the following is a point at which values can be aligned in Parallel Coordinate Plots?",
+    "answer": "B",
+    "options": {
+      "A": "The maximum value.",
+      "B": "The median.",
+      "C": "The standard deviation.",
+      "D": "The range."
+    }
+  },
+  "43": {
+    "question": "Do alignments in Parallel Coordinate Plots force a common scale for the variables?",
+    "answer": "D",
+    "options": {
+      "A": "Only for categorical variables.",
+      "B": "Only if there are more than five variables.",
+      "C": "Yes, always.",
+      "D": "No, common scaling and alignments are independent options."
+    }
+  },
+  "44": {
+    "question": "What type of visualization is 'Grand Tour' designed for?",
+    "answer": "B",
+    "options": {
+      "A": "Hierarchical data structures.",
+      "B": "Multidimensional datasets.",
+      "C": "One-dimensional datasets.",
+      "D": "Time-series data."
+    }
+  },
+  "45": {
+    "question": "What information about the 'Grand Tour' were students asked to research?",
+    "answer": "D",
+    "options": {
+      "A": "Its historical origins only.",
+      "B": "Its financial cost and profitability.",
+      "C": "Its limitations in 2D space.",
+      "D": "Its definition, technical specification/method, tools/software, and examples."
+    }
+  },
+  "46": {
+    "question": "Why do high-dimensional data problems necessitate interactive controls in visualization?",
+    "answer": "A",
+    "options": {
+      "A": "To allow for rearrangements, variable adjustments, scaling, and linked highlighting.",
+      "B": "To limit the number of variables displayed.",
+      "C": "To increase the aesthetic appeal only.",
+      "D": "To simplify the data for manual calculation."
+    }
+  },
+  "47": {
+    "question": "What is the purpose of 'classical linked highlighting' in high-dimensional data visualization?",
+    "answer": "A",
+    "options": {
+      "A": "To put different visualization methods together into one framework, increasing dimensionality.",
+      "B": "To reduce the number of interactive elements.",
+      "C": "To solely prepare plots for printing.",
+      "D": "To separate different visualization methods."
+    }
+  },
+  "48": {
+    "question": "Which type of plot is specifically mentioned as being optimized for presentation graphics?",
+    "answer": "C",
+    "options": {
+      "A": "Interactive Scatter Plots.",
+      "B": "Parallel Coordinate Plots.",
+      "C": "Trellis Displays.",
+      "D": "Heatmaps."
+    }
+  }
+}

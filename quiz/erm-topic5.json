@@ -1,0 +1,182 @@
+{
+  "1": {
+    "question": "Which of the following is NOT one of the core topics discussed in aligning risk with corporate strategy and performance?",
+    "answer": "A",
+    "options": {
+      "A": "Individual Employee Performance Metrics",
+      "B": "Green Governance and Growth through ERM",
+      "C": "Economic Value Added Perspective of ERM",
+      "D": "Value Enhancing ERM"
+    }
+  },
+  "2": {
+    "question": "According to the document, which of the following is a core component of the ERM definition?",
+    "answer": "D",
+    "options": {
+      "A": "A purely defensive approach to risk management",
+      "B": "Only financial risk management practices",
+      "C": "Exclusive focus on macroeconomic risks",
+      "D": "Culture, capabilities, and practices integrated with strategy-setting and performance"
+    }
+  },
+  "3": {
+    "question": "ERM primarily focuses on managing risk through all of the following EXCEPT:",
+    "answer": "A",
+    "options": {
+      "A": "Outsourcing all risk management functions",
+      "B": "Recognizing culture",
+      "C": "Integrating with strategy-setting and performance",
+      "D": "Developing capabilities"
+    }
+  },
+  "4": {
+    "question": "Which of the following is listed as a benefit of Enterprise Risk Management (ERM)?",
+    "answer": "A",
+    "options": {
+      "A": "Inculcating a risk-aware culture",
+      "B": "Increased operational inefficiencies",
+      "C": "Ad hoc risk reporting",
+      "D": "Disconnection of strategy from business objectives"
+    }
+  },
+  "5": {
+    "question": "How does ERM enhance enterprise value?",
+    "answer": "D",
+    "options": {
+      "A": "By focusing solely on compliance requirements",
+      "B": "By limiting decision-making to a select few",
+      "C": "By reducing all forms of risk to zero",
+      "D": "By closely linking strategy and business objectives to risk"
+    }
+  },
+  "6": {
+    "question": "Which of these is NOT a way ERM optimizes organizational outcomes?",
+    "answer": "D",
+    "options": {
+      "A": "Aligning risk appetite and strategy",
+      "B": "Reducing operational surprises and losses",
+      "C": "Enhancing risk response decisions",
+      "D": "Limiting capital deployment to low-risk ventures only"
+    }
+  },
+  "7": {
+    "question": "When managing risk, ERM provides a framework for decisions on how to treat risks, including which of the following?",
+    "answer": "D",
+    "options": {
+      "A": "Avoidance",
+      "B": "Sharing",
+      "C": "Reduction",
+      "D": "All of the above"
+    }
+  },
+  "8": {
+    "question": "What is Economic Value Added (EVA)?",
+    "answer": "A",
+    "options": {
+      "A": "A measure of residual wealth calculated by deducting the cost of capital from operating profit (adjusted for taxes)",
+      "B": "The sum of all assets minus liabilities",
+      "C": "A company's net profit before taxes",
+      "D": "A measure of a company's total revenue"
+    }
+  },
+  "9": {
+    "question": "How does identifying risks through the EVA lens benefit an organization?",
+    "answer": "D",
+    "options": {
+      "A": "It reduces the need for comprehensive risk assessment.",
+      "B": "It eliminates all financial risks completely.",
+      "C": "It solely focuses on maximizing revenue regardless of cost.",
+      "D": "It allows prioritization of risks based on their potential impact on the company's economic profit."
+    }
+  },
+  "10": {
+    "question": "Which of the following is NOT a step in the EVA-based risk management process?",
+    "answer": "B",
+    "options": {
+      "A": "Assess the potential impact of risks on EVA",
+      "B": "Ignoring EVA-based risk metrics after mitigation",
+      "C": "Identify risks that have the greatest impact on EVA",
+      "D": "Develop risk mitigation strategies that maximize EVA"
+    }
+  },
+  "11": {
+    "question": "What is one example of a risk mitigation strategy that aims to maximize EVA?",
+    "answer": "B",
+    "options": {
+      "A": "Limiting strategic alignment efforts",
+      "B": "Diversifying revenue streams to reduce volatility in NOPAT",
+      "C": "Increasing debt levels to reduce capital",
+      "D": "Reducing operational efficiency"
+    }
+  },
+  "12": {
+    "question": "Which of these is NOT a type of risk identified as potentially impacting EVA?",
+    "answer": "D",
+    "options": {
+      "A": "Financial risks",
+      "B": "Operational risks",
+      "C": "Market risks",
+      "D": "Personal risks of employees outside work"
+    }
+  },
+  "13": {
+    "question": "Which technique is commonly used for risk identification?",
+    "answer": "C",
+    "options": {
+      "A": "Product design review",
+      "B": "Performance appraisal",
+      "C": "Brainstorming",
+      "D": "Customer satisfaction survey"
+    }
+  },
+  "14": {
+    "question": "What is the primary focus of Green Governance?",
+    "answer": "D",
+    "options": {
+      "A": "Outsourcing all environmental responsibilities",
+      "B": "Solely complying with minimum environmental laws",
+      "C": "Maximizing short-term profits at any cost",
+      "D": "Integrating environmental sustainability principles into governance and decision-making"
+    }
+  },
+  "15": {
+    "question": "Effective green governance can help organizations achieve all of the following EXCEPT:",
+    "answer": "C",
+    "options": {
+      "A": "Capitalize on green growth opportunities",
+      "B": "Mitigate environmental risks",
+      "C": "Guaranteed elimination of all financial liabilities",
+      "D": "Enhance their reputation and stakeholder trust"
+    }
+  },
+  "16": {
+    "question": "How does ERM support Green Governance?",
+    "answer": "D",
+    "options": {
+      "A": "By ignoring environmental risks completely",
+      "B": "By replacing the need for any environmental policies",
+      "C": "By focusing only on regulatory compliance without strategic integration",
+      "D": "By providing a framework for identifying, assessing, and managing environmental and sustainability-related risks"
+    }
+  },
+  "17": {
+    "question": "Which of the following is considered a key element of Green Governance in ERM?",
+    "answer": "B",
+    "options": {
+      "A": "Minimizing transparency in environmental practices",
+      "B": "Strategy and Objective-setting related to sustainability",
+      "C": "Ignoring stakeholder feedback",
+      "D": "Exclusive focus on historical financial data"
+    }
+  },
+  "18": {
+    "question": "The 'Review and Revision' element of Green Governance in ERM primarily involves:",
+    "answer": "B",
+    "options": {
+      "A": "Setting rigid environmental targets without flexibility",
+      "B": "Continuously improving and adapting the green governance approach",
+      "C": "Delegating all environmental responsibilities to external consultants",
+      "D": "A one-time assessment of environmental impact"
+    }
+  }
+}

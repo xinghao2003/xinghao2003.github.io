@@ -1,0 +1,622 @@
+{
+  "1": {
+    "question": "Which of the following books is listed as a main reference for 'Fundamentals of Risk Management' in the document?",
+    "answer": "C",
+    "options": {
+      "A": "The Intelligent Investor by Benjamin Graham",
+      "B": "Thinking, Fast and Slow by Daniel Kahneman",
+      "C": "Fundamentals of Risk Management by Paul Hopkin",
+      "D": "Risk Management for Dummies by Peter L. Bernstein"
+    }
+  },
+  "2": {
+    "question": "James Lam is the author of which of the following risk management books listed as a main reference?",
+    "answer": "A",
+    "options": {
+      "A": "Implementing Enterprise Risk Management: From Methods to Applications",
+      "B": "Enterprise Risk Management",
+      "C": "Risk Management and Financial Institutions",
+      "D": "The Essentials of Risk Management"
+    }
+  },
+  "3": {
+    "question": "What is the primary focus of Topic 1 in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Detailed analysis of financial markets",
+      "B": "Concepts of Risk and Uncertainty",
+      "C": "The history of risk management",
+      "D": "Techniques for treating loss exposure"
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT listed as a fundamental concept in finance and investment for valuing alternative choices?",
+    "answer": "D",
+    "options": {
+      "A": "Both A and B are listed",
+      "B": "Time Value of Money",
+      "C": "Relationship between Risk and Return",
+      "D": "Market Segmentation Theory"
+    }
+  },
+  "5": {
+    "question": "A manager is faced with a choice between receiving $10,000 today or $10,000 in 5 years. Which financial concept is primarily illustrated by this scenario?",
+    "answer": "C",
+    "options": {
+      "A": "Risk-return tradeoff",
+      "B": "Capital budgeting",
+      "C": "Time Value of Money",
+      "D": "Opportunity cost"
+    }
+  },
+  "6": {
+    "question": "Which of the following is NOT listed as a goal of an enterprise in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Minimize costs",
+      "B": "Survive",
+      "C": "Maximize employee satisfaction",
+      "D": "Maximize shareholder wealth"
+    }
+  },
+  "7": {
+    "question": "According to the document, which of these is a key goal for an enterprise?",
+    "answer": "A",
+    "options": {
+      "A": "Maximize sales",
+      "B": "Prioritize short-term gains over long-term survival",
+      "C": "Minimize market share",
+      "D": "Ignore competition"
+    }
+  },
+  "8": {
+    "question": "According to the document, what is risk?",
+    "answer": "A",
+    "options": {
+      "A": "The likelihood or probability of experiencing harm or losing something valued",
+      "B": "A guaranteed negative outcome",
+      "C": "The certainty of financial gain",
+      "D": "An event that only happens to specific individuals"
+    }
+  },
+  "9": {
+    "question": "In the context of Business and Finance, how is risk primarily defined in the document?",
+    "answer": "C",
+    "options": {
+      "A": "The certainty of profit",
+      "B": "A measure of market stability",
+      "C": "The chance of suffering financial loss",
+      "D": "The ability to control all outcomes"
+    }
+  },
+  "10": {
+    "question": "How does ISO 31000 define risk?",
+    "answer": "A",
+    "options": {
+      "A": "The effect of uncertainty on objectives",
+      "B": "A measurable financial loss",
+      "C": "A statistical deviation from the mean",
+      "D": "Any unplanned event leading to negative consequences"
+    }
+  },
+  "11": {
+    "question": "According to ISO 31000, what can the 'effect of uncertainty on objectives' be?",
+    "answer": "B",
+    "options": {
+      "A": "Irrelevant to outcomes",
+      "B": "Positive, negative, or a deviation from the expected outcome",
+      "C": "Only negative",
+      "D": "Only positive"
+    }
+  },
+  "12": {
+    "question": "What is the key characteristic of 'Risk' as defined in the document, differentiating it from 'Uncertainty'?",
+    "answer": "B",
+    "options": {
+      "A": "The outcomes are always negative",
+      "B": "The potential outcomes and their odds are known in advance",
+      "C": "The outcomes are entirely random",
+      "D": "It only applies to financial situations"
+    }
+  },
+  "13": {
+    "question": "When does 'Uncertainty' exist, according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "When all outcomes are positive",
+      "B": "When the possible outcomes are NOT known in advance, let alone probabilities",
+      "C": "When the possible outcomes are known, but not their probabilities",
+      "D": "When a situation has no potential for loss"
+    }
+  },
+  "14": {
+    "question": "How is 'Crisis' interpreted in Chinese, according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "As solely a dangerous situation",
+      "B": "As an unpredictable event without any specific meaning",
+      "C": "As a guaranteed negative outcome",
+      "D": "As a combination of Danger and Opportunity"
+    }
+  },
+  "15": {
+    "question": "Which of the following is listed as a category of risk in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Geographical Risk",
+      "B": "Geo-Political Risk",
+      "C": "Inflationary Risk",
+      "D": "Productivity Risk"
+    }
+  },
+  "16": {
+    "question": "The document identifies 'Human Capital' as a risk category. What other 'Human' related risk category is mentioned?",
+    "answer": "A",
+    "options": {
+      "A": "Human Rights",
+      "B": "Human Behavior",
+      "C": "Human Resources",
+      "D": "Human Error"
+    }
+  },
+  "17": {
+    "question": "What is the definition of 'Loss Exposure' according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "A confirmed financial loss that has occurred",
+      "B": "Any situation or circumstance in which a loss is possible regardless of whether a loss occurs",
+      "C": "A situation where profit is guaranteed",
+      "D": "Only natural disasters that cause damage"
+    }
+  },
+  "18": {
+    "question": "Why is 'loss exposure' often used instead of 'risk'?",
+    "answer": "B",
+    "options": {
+      "A": "To simplify financial reporting",
+      "B": "Due to ambiguity and different meanings in risk definition",
+      "C": "Because 'risk' is a more precise term",
+      "D": "To avoid discussing potential negative events"
+    }
+  },
+  "19": {
+    "question": "Which of the following is NOT listed as a source of information for identifying loss exposures?",
+    "answer": "A",
+    "options": {
+      "A": "Social media trends",
+      "B": "Physical inspection",
+      "C": "Financial statements",
+      "D": "Historical loss data"
+    }
+  },
+  "20": {
+    "question": "In analyzing loss exposures, what does 'Loss frequency' refer to?",
+    "answer": "B",
+    "options": {
+      "A": "The total accumulated losses over a fiscal year",
+      "B": "The probable number of losses that may occur during some time",
+      "C": "The financial impact of a single loss event",
+      "D": "The exact date a loss is expected to happen"
+    }
+  },
+  "21": {
+    "question": "Which risk control technique involves never acquiring a loss exposure or abandoning an existing one?",
+    "answer": "B",
+    "options": {
+      "A": "Hedging",
+      "B": "Avoidance",
+      "C": "Loss prevention",
+      "D": "Loss reduction"
+    }
+  },
+  "22": {
+    "question": "Installing an automatic sprinkler system to minimize damage from a fire is an example of which risk control technique?",
+    "answer": "B",
+    "options": {
+      "A": "Loss prevention",
+      "B": "Loss reduction",
+      "C": "Avoidance",
+      "D": "Risk transfer"
+    }
+  },
+  "23": {
+    "question": "Measures that reduce the frequency of a particular loss are known as what?",
+    "answer": "B",
+    "options": {
+      "A": "Risk diversification",
+      "B": "Loss prevention",
+      "C": "Risk acceptance",
+      "D": "Loss reduction"
+    }
+  },
+  "24": {
+    "question": "Which of the following is NOT listed as a main type of risk in the document's overview?",
+    "answer": "A",
+    "options": {
+      "A": "Moral Hazard Risk",
+      "B": "Systematic Risk",
+      "C": "Pure Risk",
+      "D": "Speculative Risk"
+    }
+  },
+  "25": {
+    "question": "What is a defining characteristic of Pure Risk?",
+    "answer": "A",
+    "options": {
+      "A": "It involves a chance of loss with no chance for gain",
+      "B": "It only affects specific industries",
+      "C": "It is always predictable",
+      "D": "It always results in a gain"
+    }
+  },
+  "26": {
+    "question": "Which of the following is an example of Pure Risk?",
+    "answer": "C",
+    "options": {
+      "A": "Launching a new product with uncertain demand",
+      "B": "Investing in the stock market",
+      "C": "Damage to property from an earthquake",
+      "D": "Gambling at a casino"
+    }
+  },
+  "27": {
+    "question": "Which outcome is characteristic of speculative risk?",
+    "answer": "D",
+    "options": {
+      "A": "No outcome",
+      "B": "Only gain",
+      "C": "Only loss",
+      "D": "Either gain or loss"
+    }
+  },
+  "28": {
+    "question": "According to the document, speculative risks are primarily made as:",
+    "answer": "C",
+    "options": {
+      "A": "Accidental occurrences",
+      "B": "Random events",
+      "C": "Conscious choices",
+      "D": "Uncontrollable circumstances"
+    }
+  },
+  "29": {
+    "question": "Diversifiable risk is also known as which of the following?",
+    "answer": "C",
+    "options": {
+      "A": "Fundamental risk",
+      "B": "Systematic risk",
+      "C": "Non-systematic or particular risk",
+      "D": "Market risk"
+    }
+  },
+  "30": {
+    "question": "Which of the following is a key component of diversifiable risk?",
+    "answer": "C",
+    "options": {
+      "A": "Political risk",
+      "B": "Inflation risk",
+      "C": "Business risk",
+      "D": "Interest rate risk"
+    }
+  },
+  "31": {
+    "question": "A major pharmaceutical firm spends heavily on R&D but fails to find a patent for a new drug. This is an example of which type of diversifiable risk?",
+    "answer": "C",
+    "options": {
+      "A": "Management risk",
+      "B": "Financial risk",
+      "C": "Business risk",
+      "D": "Socio-economic risk"
+    }
+  },
+  "32": {
+    "question": "Which type of diversifiable risk is purely internal and related to a firm's capital and cash flow structure?",
+    "answer": "D",
+    "options": {
+      "A": "Management risk",
+      "B": "Operational risk",
+      "C": "Business risk",
+      "D": "Financial risk"
+    }
+  },
+  "33": {
+    "question": "Which of the following is another name for Non-Diversifiable Risk?",
+    "answer": "A",
+    "options": {
+      "A": "Systematic risk",
+      "B": "Idiosyncratic risk",
+      "C": "Specific risk",
+      "D": "Particular risk"
+    }
+  },
+  "34": {
+    "question": "Which factor influences non-diversifiable risk?",
+    "answer": "B",
+    "options": {
+      "A": "Individual employee performance",
+      "B": "Macroeconomic indicators",
+      "C": "Company-specific product recalls",
+      "D": "Internal operational inefficiencies"
+    }
+  },
+  "35": {
+    "question": "What is the primary characteristic of Systemic Risk in the financial context?",
+    "answer": "A",
+    "options": {
+      "A": "It is the risk of collapse of an entire financial system or market",
+      "B": "It is caused by minor operational failures",
+      "C": "It only affects individual companies",
+      "D": "It refers to the risk of a single asset's decline"
+    }
+  },
+  "36": {
+    "question": "What causes Systemic risks, according to the document?",
+    "answer": "A",
+    "options": {
+      "A": "Interlinkages and interdependencies in a system or market",
+      "B": "Isolated company-specific issues",
+      "C": "Successful market diversification",
+      "D": "Strong internal controls"
+    }
+  },
+  "37": {
+    "question": "Which of the following is an example of a Diversifiable Risk?",
+    "answer": "D",
+    "options": {
+      "A": "Major Technological Change affecting the entire market",
+      "B": "Inflation Shock",
+      "C": "Business Cycle downturn",
+      "D": "A firm discovering a gold mine on its property"
+    }
+  },
+  "38": {
+    "question": "Why does non-diversifiable risk not disappear in well-diversified portfolios?",
+    "answer": "C",
+    "options": {
+      "A": "Because its events are random and unrelated across firms",
+      "B": "Because it only affects a single firm",
+      "C": "Because it affects all/most firms in a similar way",
+      "D": "Because it can be completely avoided"
+    }
+  },
+  "39": {
+    "question": "What does the Beta coefficient (β) measure?",
+    "answer": "C",
+    "options": {
+      "A": "The historical returns of an asset",
+      "B": "The specific risk of a firm",
+      "C": "The relative systematic risk of an asset",
+      "D": "The total standard deviation of an asset"
+    }
+  },
+  "40": {
+    "question": "If an asset has a Beta coefficient larger than 1.0, what does that imply about its systematic risk?",
+    "answer": "D",
+    "options": {
+      "A": "Its systematic risk is unmeasurable",
+      "B": "It has less systematic risk than average",
+      "C": "It has no systematic risk",
+      "D": "It has more systematic risk than average"
+    }
+  },
+  "41": {
+    "question": "Which of the following is categorized as a Systematic Risk in Finance?",
+    "answer": "B",
+    "options": {
+      "A": "People Risk",
+      "B": "Market Risk",
+      "C": "Business Risk",
+      "D": "Operational Risk"
+    }
+  },
+  "42": {
+    "question": "Which of these is an example of an Unsystematic Risk, according to the detailed breakdown?",
+    "answer": "A",
+    "options": {
+      "A": "Credit Event Risk",
+      "B": "Volatility Risk",
+      "C": "Purchasing Power Risk",
+      "D": "Interest Rate Risk"
+    }
+  },
+  "43": {
+    "question": "What type of risk is essentially eliminated by diversification in a large investment portfolio?",
+    "answer": "D",
+    "options": {
+      "A": "Systematic risk",
+      "B": "Non-diversifiable risk",
+      "C": "Market risk",
+      "D": "Unsystematic risk"
+    }
+  },
+  "44": {
+    "question": "According to the document, which statement about diversification is true?",
+    "answer": "C",
+    "options": {
+      "A": "It increases systematic risk",
+      "B": "It eliminates all types of risk",
+      "C": "It helps offset company-specific positive and negative events",
+      "D": "It is only effective in small portfolios"
+    }
+  },
+  "45": {
+    "question": "What is the primary consequence of ignoring enterprise risks?",
+    "answer": "C",
+    "options": {
+      "A": "Only affects minor operations",
+      "B": "No significant impact",
+      "C": "Can bring huge losses to the firm",
+      "D": "Guaranteed market share growth"
+    }
+  },
+  "46": {
+    "question": "Which of the following is an example of an enterprise risk mentioned in the document?",
+    "answer": "D",
+    "options": {
+      "A": "Consistent profit margins",
+      "B": "Predictable economic cycles",
+      "C": "Stable consumer demand",
+      "D": "Reputation loss"
+    }
+  },
+  "47": {
+    "question": "Which of the following is a common cause of Operational Risk?",
+    "answer": "B",
+    "options": {
+      "A": "Fluctuations in interest rates",
+      "B": "Lack of internal controls",
+      "C": "Changes in political stability",
+      "D": "Diversification of investments"
+    }
+  },
+  "48": {
+    "question": "What is 'Model Risk' a classification of?",
+    "answer": "C",
+    "options": {
+      "A": "Market Risk",
+      "B": "Liquidity Risk",
+      "C": "Operational Risk",
+      "D": "Credit Risk"
+    }
+  },
+  "49": {
+    "question": "Which of the following is a primary cause of Liquidity Risk?",
+    "answer": "A",
+    "options": {
+      "A": "Inability to execute transactions",
+      "B": "High stock market volatility",
+      "C": "Excellent cash flow management",
+      "D": "Excessive long-term debt"
+    }
+  },
+  "50": {
+    "question": "When a company cannot meet its short-term financial obligations when due, what type of liquidity risk is it experiencing?",
+    "answer": "D",
+    "options": {
+      "A": "Market Liquidity Risk",
+      "B": "Asset Liquidity Risk",
+      "C": "Operational Liquidity Risk",
+      "D": "Funding Liquidity Risk"
+    }
+  },
+  "51": {
+    "question": "What is Credit Risk, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "The risk associated with flawed decision-making models",
+      "B": "The risk of inadequate internal controls",
+      "C": "The possibility that a creditor will not receive a loan payment or will receive it late",
+      "D": "The risk of a sudden drop in market prices"
+    }
+  },
+  "52": {
+    "question": "Financing provided to individuals and small businesses through mortgages or credit cards falls under which type of credit risk?",
+    "answer": "C",
+    "options": {
+      "A": "Operational Credit Risk",
+      "B": "Market Credit Risk",
+      "C": "Retail Credit Risk",
+      "D": "Wholesale Credit Risk"
+    }
+  },
+  "53": {
+    "question": "What is a primary cause of Market Risk?",
+    "answer": "A",
+    "options": {
+      "A": "Economic uncertainties",
+      "B": "Inadequate employee training",
+      "C": "Stable financial instrument prices",
+      "D": "Company-specific fraud"
+    }
+  },
+  "54": {
+    "question": "Which type of Market Risk is associated with movements in stock price and interest rates?",
+    "answer": "B",
+    "options": {
+      "A": "Volatility Risk",
+      "B": "Directional Risk",
+      "C": "Non-Directional Risk",
+      "D": "Retail Market Risk"
+    }
+  },
+  "55": {
+    "question": "What is the definition of Business Risk?",
+    "answer": "A",
+    "options": {
+      "A": "The possibility of a commercial business making inadequate profits due to uncertainties",
+      "B": "The risk of a company failing to comply with regulations",
+      "C": "The risk associated with a company's stock price volatility",
+      "D": "The risk of a business acquiring too much profit"
+    }
+  },
+  "56": {
+    "question": "Which of the following factors influences Business Risk?",
+    "answer": "C",
+    "options": {
+      "A": "Consistent profit margins",
+      "B": "Fixed interest rates",
+      "C": "Consumer preferences",
+      "D": "Predictable supply chain"
+    }
+  },
+  "57": {
+    "question": "When competitive forces prevent a company from achieving its goals, what type of business risk is being experienced?",
+    "answer": "B",
+    "options": {
+      "A": "Quality Risk",
+      "B": "Competition Risk",
+      "C": "Regulatory Risk",
+      "D": "Customer Relationship Risk"
+    }
+  },
+  "58": {
+    "question": "How can Reputational Risk occur indirectly?",
+    "answer": "D",
+    "options": {
+      "A": "Due to the actions of an employee or employees",
+      "B": "As a result of the company's direct actions",
+      "C": "Through joint venture partners or suppliers",
+      "D": "All of the above"
+    }
+  },
+  "59": {
+    "question": "What is a key impact of Reputational Risk on a company?",
+    "answer": "B",
+    "options": {
+      "A": "It guarantees increased market share",
+      "B": "It affects its ability to do business and drive revenue",
+      "C": "It is only relevant for small businesses",
+      "D": "It has no effect on customer appeal"
+    }
+  },
+  "60": {
+    "question": "What is Resource Risk primarily defined as?",
+    "answer": "A",
+    "options": {
+      "A": "The chance of failing to meet a goal due to a lack of resources",
+      "B": "The risk of technological obsolescence",
+      "C": "The risk of financial market fluctuations",
+      "D": "The risk of competitive actions by rivals"
+    }
+  },
+  "61": {
+    "question": "Which of the following is a reason behind Resource Risk?",
+    "answer": "D",
+    "options": {
+      "A": "Predictable project timelines",
+      "B": "Overestimation of task time",
+      "C": "Excessive resource availability",
+      "D": "Unexpected availability of critical staff"
+    }
+  },
+  "62": {
+    "question": "The KFC Malaysia boycott example primarily illustrates which type of enterprise risk?",
+    "answer": "A",
+    "options": {
+      "A": "Reputational and Business Risk (due to consumer sentiment/boycott)",
+      "B": "Credit Risk",
+      "C": "Liquidity Risk",
+      "D": "Operational Risk (internal control failure)"
+    }
+  }
+}

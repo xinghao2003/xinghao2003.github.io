@@ -1,0 +1,422 @@
+{
+  "1": {
+    "question": "Which of the following is NOT explicitly listed as a core topic under 'Fundamentals and Evolution of Corporate Risk Management'?",
+    "answer": "A",
+    "options": {
+      "A": "Daily Operational Procedures",
+      "B": "Types of Business and Associated Risks",
+      "C": "Evolution of Risk Management",
+      "D": "Origins of Risk Management"
+    }
+  },
+  "2": {
+    "question": "The visual representation of Risk Management includes which of the following actions?",
+    "answer": "C",
+    "options": {
+      "A": "Regulate",
+      "B": "Forecast",
+      "C": "Transfer",
+      "D": "Compensate"
+    }
+  },
+  "3": {
+    "question": "Which of the following is NOT one of the four main types of firms presented?",
+    "answer": "D",
+    "options": {
+      "A": "Corporation",
+      "B": "LLC",
+      "C": "Sole Proprietorship",
+      "D": "Joint Venture"
+    }
+  },
+  "4": {
+    "question": "What is the primary characteristic of liability for a sole proprietorship?",
+    "answer": "A",
+    "options": {
+      "A": "Unlimited liability",
+      "B": "Proportional liability",
+      "C": "Limited liability",
+      "D": "Joint liability"
+    }
+  },
+  "5": {
+    "question": "Which of the following is an advantage of a sole proprietorship?",
+    "answer": "A",
+    "options": {
+      "A": "Easy to start",
+      "B": "Shared liability",
+      "C": "Unlimited capital",
+      "D": "Formal management structure"
+    }
+  },
+  "6": {
+    "question": "A key limitation of a sole proprietorship is:",
+    "answer": "B",
+    "options": {
+      "A": "Ease of winding up",
+      "B": "Limited capital",
+      "C": "Quick decision-making",
+      "D": "Flexibility in operations"
+    }
+  },
+  "7": {
+    "question": "In a general partnership, what is the nature of liability for each partner?",
+    "answer": "C",
+    "options": {
+      "A": "Limited to their investment",
+      "B": "Liability limited to business assets",
+      "C": "Jointly and severally liable for all debts",
+      "D": "No liability for business debts"
+    }
+  },
+  "8": {
+    "question": "Which characteristic applies to a Limited Partner in a business?",
+    "answer": "A",
+    "options": {
+      "A": "Does not participate in running the business",
+      "B": "Has unlimited liability",
+      "C": "Actively runs the business",
+      "D": "Participates in daily management"
+    }
+  },
+  "9": {
+    "question": "What is a key characteristic that differentiates a Private Limited Company (Sdn Bhd) from a Public Limited Company (Berhad) in Malaysia?",
+    "answer": "C",
+    "options": {
+      "A": "Berhad is regulated by a different act",
+      "B": "Sdn Bhd has unlimited liability",
+      "C": "Sdn Bhd has a maximum of 50 shareholders",
+      "D": "Sdn Bhd is a government entity"
+    }
+  },
+  "10": {
+    "question": "According to Acclime Malaysia, what is a key legal aspect of a Sdn Bhd?",
+    "answer": "A",
+    "options": {
+      "A": "It is a separate legal entity from its shareholders.",
+      "B": "It is not a separate legal entity from its shareholders.",
+      "C": "Its shareholders have unlimited liability.",
+      "D": "It cannot sue or be sued independently."
+    }
+  },
+  "11": {
+    "question": "What kind of liability do partners in a Limited Liability Partnership (LLP) typically have?",
+    "answer": "A",
+    "options": {
+      "A": "Limited liability",
+      "B": "Joint and several liability",
+      "C": "No liability",
+      "D": "Unlimited liability"
+    }
+  },
+  "12": {
+    "question": "Which of the following is an advantage of an LLP?",
+    "answer": "A",
+    "options": {
+      "A": "It provides a balance of simplicity and legal protection.",
+      "B": "It is only suitable for manufacturing businesses.",
+      "C": "It allows for public stock offerings.",
+      "D": "It requires annual shareholder meetings."
+    }
+  },
+  "13": {
+    "question": "Which of the following is an advantage of a Limited Liability Company (LLC)?",
+    "answer": "C",
+    "options": {
+      "A": "Ability to make public stock offerings",
+      "B": "Mandatory annual shareholder's meetings",
+      "C": "Less paperwork to maintain the corporate veil",
+      "D": "Unlimited liability for owners"
+    }
+  },
+  "14": {
+    "question": "A disadvantage of an LLC is that it:",
+    "answer": "A",
+    "options": {
+      "A": "Cannot make public stock offerings.",
+      "B": "Always faces double taxation.",
+      "C": "Has strict restrictions on the number of owners.",
+      "D": "Requires more paperwork than a corporation."
+    }
+  },
+  "15": {
+    "question": "Who is primarily responsible for the obligations a corporation enters into?",
+    "answer": "B",
+    "options": {
+      "A": "The individual owners",
+      "B": "The corporation itself",
+      "C": "The Board of Directors personally",
+      "D": "The President and Vice Presidents"
+    }
+  },
+  "16": {
+    "question": "In the ownership structure of a corporation, who elects the Board of Directors?",
+    "answer": "B",
+    "options": {
+      "A": "External regulators",
+      "B": "The Stockholders",
+      "C": "The President",
+      "D": "The Vice Presidents"
+    }
+  },
+  "17": {
+    "question": "Which of the following is a step in the formation of a corporation?",
+    "answer": "A",
+    "options": {
+      "A": "Preparing the certificate of incorporation",
+      "B": "Obtaining unlimited personal loans",
+      "C": "Ensuring partners are jointly liable",
+      "D": "Avoiding all legal formalities"
+    }
+  },
+  "18": {
+    "question": "Which type of firm typically has double taxation?",
+    "answer": "D",
+    "options": {
+      "A": "Partnership",
+      "B": "Limited Liability Company",
+      "C": "Sole Proprietorship",
+      "D": "Corporation"
+    }
+  },
+  "19": {
+    "question": "In which business structure are shareholders generally liable only for the amount of their investment?",
+    "answer": "B",
+    "options": {
+      "A": "Sole Proprietorship",
+      "B": "Private Limited Company (Sdn Bhd)",
+      "C": "Unlimited Liability Company",
+      "D": "General Partnership"
+    }
+  },
+  "20": {
+    "question": "Which of the following business types typically has unlimited liability for its owner(s)?",
+    "answer": "D",
+    "options": {
+      "A": "Limited Liability Company",
+      "B": "Public Limited Company (Berhad)",
+      "C": "Corporation",
+      "D": "Sole Proprietorship"
+    }
+  },
+  "21": {
+    "question": "In the United States, which type of firm generates the largest percentage of total revenue?",
+    "answer": "D",
+    "options": {
+      "A": "Sole Proprietorships",
+      "B": "Limited Liability Companies",
+      "C": "Partnerships",
+      "D": "Corporations"
+    }
+  },
+  "22": {
+    "question": "How many main types of firm/business entities are generally recognized in Malaysia?",
+    "answer": "A",
+    "options": {
+      "A": "Five",
+      "B": "Three",
+      "C": "Four",
+      "D": "Six"
+    }
+  },
+  "23": {
+    "question": "For a manufacturing business in Malaysia to qualify as a 'Medium' SME, its sales turnover must not exceed what amount?",
+    "answer": "C",
+    "options": {
+      "A": "RM15 million",
+      "B": "RM20 million",
+      "C": "RM50 million",
+      "D": "RM300,000"
+    }
+  },
+  "24": {
+    "question": "A services sector business qualifies as 'Small' if its full-time employees are between:",
+    "answer": "C",
+    "options": {
+      "A": "30 to less than 75",
+      "B": "Less than 5",
+      "C": "5 to less than 30",
+      "D": "75 to less than 200"
+    }
+  },
+  "25": {
+    "question": "What is considered the primary goal of a corporation as stated in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Beat all competitors",
+      "B": "Maximize shareholder wealth",
+      "C": "Minimize production costs",
+      "D": "Maximize sales volume"
+    }
+  },
+  "26": {
+    "question": "Which of the following is a key responsibility of a Risk Manager?",
+    "answer": "C",
+    "options": {
+      "A": "Designing marketing campaigns",
+      "B": "Managing daily financial transactions",
+      "C": "Identifying, analyzing, and mitigating risks",
+      "D": "Overseeing product development"
+    }
+  },
+  "27": {
+    "question": "Which of the following represents the 'Profit' component of the Triple Bottom Line?",
+    "answer": "A",
+    "options": {
+      "A": "Economic variables dealing with the bottom line and cash flow",
+      "B": "Environmental conservation efforts",
+      "C": "Social equity and community engagement",
+      "D": "Employee well-being and satisfaction"
+    }
+  },
+  "28": {
+    "question": "What does the 'Planet' component of the Triple Bottom Line primarily address?",
+    "answer": "B",
+    "options": {
+      "A": "Stakeholder satisfaction",
+      "B": "Environmental variables and resource management",
+      "C": "Financial returns",
+      "D": "Employee safety"
+    }
+  },
+  "29": {
+    "question": "Which type of enterprise risk is defined as 'risk that can derail strategies and impede achieving objectives'?",
+    "answer": "B",
+    "options": {
+      "A": "Compliance Risk",
+      "B": "Strategic Risk",
+      "C": "Operational Risk",
+      "D": "Tactical Risk"
+    }
+  },
+  "30": {
+    "question": "Credit Risk, Market Risk, and IT Risk are sub-categories of which type of enterprise risk?",
+    "answer": "C",
+    "options": {
+      "A": "Compliance Risk",
+      "B": "Strategic Risk",
+      "C": "Tactical Risk",
+      "D": "Operational Risk"
+    }
+  },
+  "31": {
+    "question": "Risks related to 'Systems, Process, People, and External Events' fall under which category of enterprise risk?",
+    "answer": "A",
+    "options": {
+      "A": "Operational Risk",
+      "B": "Strategic Risk",
+      "C": "Compliance Risk",
+      "D": "Tactical Risk"
+    }
+  },
+  "32": {
+    "question": "According to the document, Risk Management is the process of:",
+    "answer": "C",
+    "options": {
+      "A": "Delegating all risk responsibilities to a single department.",
+      "B": "Maximizing potential gains from risky ventures.",
+      "C": "Identifying, assessing, and controlling threats to an organization's capital and earnings.",
+      "D": "Eliminating all business uncertainties."
+    }
+  },
+  "33": {
+    "question": "Which of the following is NOT one of the steps in the typical risk management cycle presented?",
+    "answer": "D",
+    "options": {
+      "A": "Identify",
+      "B": "Evaluate",
+      "C": "Monitor",
+      "D": "Negotiate"
+    }
+  },
+  "34": {
+    "question": "Which of the following is a 'Pre-Loss Objective' of risk management?",
+    "answer": "B",
+    "options": {
+      "A": "Minimizing the effects of losses on society",
+      "B": "Preparing for potential losses in the most economical way",
+      "C": "Stabilizing earning",
+      "D": "Ensuring survival of the firm"
+    }
+  },
+  "35": {
+    "question": "A 'Post-Loss Objective' of risk management is to:",
+    "answer": "C",
+    "options": {
+      "A": "Identify opportunities for new investments.",
+      "B": "Meet any legal obligations proactively.",
+      "C": "Maintain growth of the firm.",
+      "D": "Reduce anxiety among stakeholders before a loss."
+    }
+  },
+  "36": {
+    "question": "In the early 20th century, Traditional Risk Management primarily focused on which of the following?",
+    "answer": "B",
+    "options": {
+      "A": "Comprehensive management of all business activities",
+      "B": "Insurance, finance, and operations (reactive approach)",
+      "C": "Integrating risk into strategic planning",
+      "D": "A proactive approach to emerging risks"
+    }
+  },
+  "37": {
+    "question": "The Tylenol crisis in 1982 is cited as a prime example of effective practice in which stage of risk management evolution?",
+    "answer": "B",
+    "options": {
+      "A": "Traditional Risk Management",
+      "B": "Integrated Risk Management",
+      "C": "Holistic Risk Management",
+      "D": "Enterprise Risk Management"
+    }
+  },
+  "38": {
+    "question": "Holistic Risk Management, characteristic of recent years, emphasizes:",
+    "answer": "B",
+    "options": {
+      "A": "A narrow focus on financial risks.",
+      "B": "Integrating risk management with business functions like sustainability and governance.",
+      "C": "Managing risks in isolated silos.",
+      "D": "Transferring all risks to insurance companies."
+    }
+  },
+  "39": {
+    "question": "What is the primary characteristic of the 'New Orientation' to Corporate Risk Management (CRM)?",
+    "answer": "C",
+    "options": {
+      "A": "Solely focusing on market risk.",
+      "B": "Eliminating the need for hedging techniques.",
+      "C": "Expanding the risk management spectrum to include firm-specific risks holistically.",
+      "D": "Adhering strictly to a 'silo' approach."
+    }
+  },
+  "40": {
+    "question": "Conventional risk management is often associated with which approach?",
+    "answer": "C",
+    "options": {
+      "A": "Integrated approach",
+      "B": "Expanded spectrum approach",
+      "C": "Silo approach",
+      "D": "Holistic approach"
+    }
+  },
+  "41": {
+    "question": "How do technological advancements primarily enhance risk management capabilities?",
+    "answer": "A",
+    "options": {
+      "A": "By enabling more accurate risk modeling and real-time monitoring.",
+      "B": "By limiting risk identification to only financial threats.",
+      "C": "By replacing human risk managers entirely.",
+      "D": "By increasing the cost of risk mitigation."
+    }
+  },
+  "42": {
+    "question": "Which of the following technologies is highlighted as crucial for improving risk management practices?",
+    "answer": "D",
+    "options": {
+      "A": "Virtual Reality (VR)",
+      "B": "Robotics",
+      "C": "Blockchain technology",
+      "D": "Advanced data analytics"
+    }
+  }
+}

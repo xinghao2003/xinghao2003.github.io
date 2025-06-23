@@ -1,5 +1,25 @@
 [
     {
+        "name": "Enterprise Risk Management Topic 1 - Concept Definition of Risk",
+        "file": "erm-topic1.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 2 - Fundamentals Evolution of Corporate RM",
+        "file": "erm-topic2.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 3 - RM Standards Regulatory Framework",
+        "file": "erm-topic3.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 4 - ESG Sustainability Risk Management",
+        "file": "erm-topic4.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 5 - Aligning Risk with Corporate Strategy and Performance",
+        "file": "erm-topic5.json"
+    },
+    {
         "name": "Data Mining Chapter 1 - Introduction",
         "file": "dm-chapter1.json"
     },
@@ -22,6 +42,10 @@
     {
         "name": "Data Visualization Lecture 4 - Linked Views",
         "file": "dv-lecture4.json"
+    },
+    {
+        "name": "Data Visualization Lecture 5 - High-dimensional Data Visualization",
+        "file": "dv-lecture5.json"
     },
     {
         "name": "Corporate Finance Chapter 1 - 6e",
