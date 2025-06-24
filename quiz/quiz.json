@@ -1,5 +1,9 @@
 [
     {
+        "name": "Enterprise Risk Management Test 1",
+        "file": "erm-test1.json"
+    },
+    {
         "name": "Enterprise Risk Management Topic 1 - Concept Definition of Risk",
         "file": "erm-topic1.json"
     },

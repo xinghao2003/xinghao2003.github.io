@@ -1,0 +1,282 @@
+{
+    "1": {
+        "question": "Traditionally, risk has been defined as:",
+        "answer": "C",
+        "options": {
+            "A": "any situation in which the probability of loss is zero.",
+            "B": "any situation in which the probability of loss is one.",
+            "C": "uncertainty concerning the occurrence of loss.",
+            "D": "the probability of a loss occurring."
+        }
+    },
+    "2": {
+        "question": "Elements of a risk management system are:",
+        "answer": "D",
+        "options": {
+            "A": "There should be a culture of risk awareness within the company.",
+            "B": "There should be a system and processes for identifying, assessing, and measuring risks.",
+            "C": "There should be an efficient system of communicating information about risk and risk management to managers and the board of directors.",
+            "D": "All of the above."
+        }
+    },
+    "3": {
+        "question": "A name that encompasses all major risks facing a business firm is __________.",
+        "answer": "C",
+        "options": {
+            "A": "financial risk.",
+            "B": "speculative risk.",
+            "C": "enterprise risk.",
+            "D": "pure risk."
+        }
+    },
+    "4": {
+        "question": "Risk management is concerned with the _____________.",
+        "answer": "A",
+        "options": {
+            "A": "identification and treatment of loss exposures.",
+            "B": "management of speculative risks only.",
+            "C": "management of pure risks that are uninsurable.",
+            "D": "purchase of insurance only."
+        }
+    },
+    "5": {
+        "question": "Taylor Tobacco Company is concerned that the company may be held liable in a court of law and ordered to pay a large damage award to a smoker harmed by the company's cigarettes. The characteristics of the judicial system that increase the frequency and severity of loss are known as ______________.",
+        "answer": "D",
+        "options": {
+            "A": "moral hazard.",
+            "B": "particular risk.",
+            "C": "speculative risk.",
+            "D": "legal hazard."
+        }
+    },
+    "6": {
+        "question": "Which of the following statements about financial risk is (are) true? I. Enterprise risk does not include financial risk. II. Financial risk is easily addressed through the purchase of insurance.",
+        "answer": "D",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "both I and II",
+            "D": "neither I nor II"
+        }
+    },
+    "7": {
+        "question": "Enterprise risk management (ERM) programs differ from traditional risk management programs in all of the following ways EXCEPT",
+        "answer": "C",
+        "options": {
+            "A": "view risk from a portfolio perspective rather than viewing risks in isolation.",
+            "B": "encompasses all exposures to risk rather than property, liability, and personnel-related risks only.",
+            "C": "evaluates risks relative to the internal environment only and does not consider external environment.",
+            "D": "embeds risk management throughout the organization rather than limiting risk management to a few areas of the business."
+        }
+    },
+    "8": {
+        "question": "All of the following are benefits that may accrue to businesses that adopt an ERM program EXCEPT",
+        "answer": "C",
+        "options": {
+            "A": "Improved strategic decision making.",
+            "B": "Increased value of the organization.",
+            "C": "Increased cost of risk.",
+            "D": "Assurance of compliance with regulatory and legal requirements."
+        }
+    },
+    "9": {
+        "question": "Which of the following is not true about corporate governance?",
+        "answer": "D",
+        "options": {
+            "A": "It is a system of guidance, established by standards management practices.",
+            "B": "It operates within a structure of accountability, designed for the organization.",
+            "C": "It is a set of structures, policies and laws for corporate administration and control.",
+            "D": "All of the above are true."
+        }
+    },
+    "10": {
+        "question": "Which of the following is not an element of corporate governance?",
+        "answer": "B",
+        "options": {
+            "A": "Accountability",
+            "B": "Private and Confidentiality",
+            "C": "Regulatory Framework",
+            "D": "Administrative Structure"
+        }
+    },
+    "11": {
+        "question": "Which ISO Standard is the new international Risk Management Standard.",
+        "answer": "D",
+        "options": {
+            "A": "7000",
+            "B": "9000",
+            "C": "21000",
+            "D": "31000"
+        }
+    },
+    "12": {
+        "question": "Which of the following is not part of risk governance structure?",
+        "answer": "B",
+        "options": {
+            "A": "Board of Directors",
+            "B": "Employee Performance Committee",
+            "C": "Audit Committee",
+            "D": "Crisis Response Team"
+        }
+    },
+    "13": {
+        "question": "Which of the following describes risk management framework: I. an approach for identifying, analyzing, responding, monitoring risks and opportunities. II. is an organizational specific set of functional activities and associated definitions that define risk management system in an organization III. Is a structure for supporting the organization's strategic and operational objectives",
+        "answer": "D",
+        "options": {
+            "A": "I only",
+            "B": "I and II",
+            "C": "I and III",
+            "D": "All of the above"
+        }
+    },
+    "14": {
+        "question": "Kassim was just hired as XYZ Company's first risk manager. Kassim would like to employ the risk management process. The first step in the process Kassim should follow is to ...................",
+        "answer": "B",
+        "options": {
+            "A": "evaluate potential loss exposures of XYZ Company",
+            "B": "identify potential losses faced by XYZ Company.",
+            "C": "select the best risk management for XYZ Company",
+            "D": "formulate a treatment plan for XYZ Company's loss exposures."
+        }
+    },
+    "15": {
+        "question": "ABC Company has three identical manufacturing plants, one in Penang, one in Johor, and one in Perak. Each plant is valued at RM200 million. ABC's risk manager is concerned about the damage which could be caused by a single hurricane. The risk manager has estimated that an extremely low probability that a single hurricane could destroy two or all three plants because they are located so far apart. What is the probable maximum loss associated with a single hurricane?",
+        "answer": "B",
+        "options": {
+            "A": "RM0 million",
+            "B": "RM200 million",
+            "C": "RM400 million",
+            "D": "RM600 million"
+        }
+    },
+    "16": {
+        "question": "In ESG risk management, which of the risk factors below does the “S” (Social) aspect of ESG focus on?",
+        "answer": "C",
+        "options": {
+            "A": "Environmental conservation",
+            "B": "Membership of Directors",
+            "C": "Community well-being",
+            "D": "Shareholder returns"
+        }
+    },
+    "17": {
+        "question": "A pure risk is defined as a situation in which there is _____________",
+        "answer": "A",
+        "options": {
+            "A": "only the possibility of loss or no loss.",
+            "B": "only the possibility of profit.",
+            "C": "a possibility of neither profit nor loss.",
+            "D": "a possibility of either profit or loss."
+        }
+    },
+    "18": {
+        "question": "Five years ago, Aida decided to start investing monthly in the common stock of Malaysian Telecom Company. Her financial well-being will be harmed if the price of Malaysian Telecom stock drops significantly. The risk of investment loss can be reduced if she invests in other companies and other types of financial assets. The risk Aida faces with regard to her investments is a(n)......................",
+        "answer": "B",
+        "options": {
+            "A": "enterprise risk.",
+            "B": "diversifiable risk.",
+            "C": "pure risk.",
+            "D": "non-diversifiable risk."
+        }
+    },
+    "19": {
+        "question": "Some members of Malaysian Parliament are concerned that if one or two large Malaysian banks fail, it could lead to the collapse of the entire Malaysian financial sector. This risk is called ____________",
+        "answer": "B",
+        "options": {
+            "A": "fundamental risk.",
+            "B": "systemic risk.",
+            "C": "enterprise risk.",
+            "D": "subjective risk."
+        }
+    },
+    "20": {
+        "question": "You are shifting your plant to an earthquake prone location. You get this plant insured by an external party. What risk strategy are you adopting?",
+        "answer": "A",
+        "options": {
+            "A": "Risk Transfer",
+            "B": "Risk Acceptance",
+            "C": "Risk Avoidance",
+            "D": "Risk Mitigation"
+        }
+    },
+    "21": {
+        "question": "Which of the following is not a piece of law or regulatory requirement relating to enterprise risk management?",
+        "answer": "C",
+        "options": {
+            "A": "Sarbanes-Oxley Act",
+            "B": "Malaysia Code of Corporate Governance",
+            "C": "The Financial Services Act Malaysia 2013",
+            "D": "The Green Book-Enhancing Board Effectiveness"
+        }
+    },
+    "22": {
+        "question": "Reasons to adopt an enterprise risk management plan include all of the following EXCEPT.",
+        "answer": "A",
+        "options": {
+            "A": "To increase firm earnings volatility.",
+            "B": "To treat risks facing the business in a more holistic way.",
+            "C": "To increase net income.",
+            "D": "To gain an advantage over competitors."
+        }
+    },
+    "23": {
+        "question": "Organizations are answerable to various regulatory agencies and to their owners. Required filings with regulatory agencies and communications with the owners are considered in an ERM program. The risk associated with meeting these required communications is called __________",
+        "answer": "B",
+        "options": {
+            "A": "strategic risk.",
+            "B": "compliance risk.",
+            "C": "operational risk.",
+            "D": "systemic risk."
+        }
+    },
+    "24": {
+        "question": "What is the primary goal of integrating ESG into risk management.",
+        "answer": "B",
+        "options": {
+            "A": "Maximize short-term profits",
+            "B": "Mitigate risks and enhance long-term sustainability",
+            "C": "Avoid all risks at any cost",
+            "D": "Achieve aggressive financial growth"
+        }
+    },
+    "25": {
+        "question": "Which of the following is a consequence associated with ignoring ESG risks?",
+        "answer": "D",
+        "options": {
+            "A": "Investor boycotts",
+            "B": "Reputational damage",
+            "C": "Regulatory penalty",
+            "D": "All of the above are consequences"
+        }
+    },
+    "26": {
+        "question": "Why is ESG risk management increasingly seen as a strategic enabler rather than just a compliance function?",
+        "answer": "B",
+        "options": {
+            "A": "Because it replaces financial risk entirely in modern firms",
+            "B": "Because it enables firms to proactively identify sustainability-related risks that could impact competitiveness and long-term value",
+            "C": "Because it focuses solely on legal compliance and environmental audits",
+            "D": "Because it automates traditional risk assessments"
+        }
+    },
+    "27": {
+        "question": "What does the term greenwashing refer to in the context of sustainability reporting?",
+        "answer": "B",
+        "options": {
+            "A": "Upgrading production equipment for energy efficiency",
+            "B": "Marketing a company as environmentally friendly without meaningful action",
+            "C": "Using green-colored branding to appeal to eco-conscious consumers",
+            "D": "Investing in an environmental research project"
+        }
+    },
+    "28": {
+        "question": "In the context of ESG, how does integrating the environmental pillar into enterprise risk management (ERM) contribute to long-term corporate resilience?",
+        "answer": "C",
+        "options": {
+            "A": "It reduces capital expenditure by eliminating the need for environmental audits",
+            "B": "It focuses solely on meeting short-term regulatory compliance",
+            "C": "It enables firms to anticipate climate-related risks, adapt to resource constraints, and align with investor sustainability expectations",
+            "D": "It replaces the need for traditional financial risk assessments in high-impact industries"
+        }
+    }
+}
