@@ -253,6 +253,11 @@
                 answerElement.id = `answer-${index}`;
                 questionElement.appendChild(answerElement);
 
+                const explanationElement = document.createElement('div');
+                explanationElement.classList.add('mt-4', 'p-4', 'bg-blue-50', 'dark:bg-blue-900', 'border-l-4', 'border-blue-400', 'dark:border-blue-600', 'rounded', 'hidden');
+                explanationElement.id = `explanation-${index}`;
+                questionElement.appendChild(explanationElement);
+
                 quizContainer.appendChild(questionElement);
             });
 
@@ -352,7 +357,7 @@
                 }
             });
 
-            revealAnswer(question.answer, questionIndex);
+            revealAnswer(question.answer, questionIndex, !isCorrect);
 
             if (isCorrect) {
                 setTimeout(() => {
@@ -361,7 +366,7 @@
             }
         }
 
-        function revealAnswer(answer, index) {
+        function revealAnswer(answer, index, showExplanation = false) {
             const answerElement = document.getElementById(`answer-${index}`);
             if (answerElement) {
                 let answerText = `Answer: `;
@@ -375,6 +380,25 @@
                 }
                 answerElement.textContent = answerText;
                 answerElement.classList.remove('hidden');
+            }
+
+            // Show explanation if user was wrong and explanation exists
+            if (showExplanation && quizData[index].explanation) {
+                const explanationElement = document.getElementById(`explanation-${index}`);
+                if (explanationElement) {
+                    const explanationTitle = document.createElement('div');
+                    explanationTitle.classList.add('font-bold', 'mb-2', 'text-blue-800', 'dark:text-blue-200');
+                    explanationTitle.textContent = 'Explanation:';
+
+                    const explanationContent = document.createElement('div');
+                    explanationContent.classList.add('prose', 'dark:prose-invert', 'max-w-none', 'text-sm');
+                    explanationContent.innerHTML = marked.parse(quizData[index].explanation);
+
+                    explanationElement.innerHTML = '';
+                    explanationElement.appendChild(explanationTitle);
+                    explanationElement.appendChild(explanationContent);
+                    explanationElement.classList.remove('hidden');
+                }
             }
         }
 
