@@ -1,5 +1,9 @@
 [
     {
+        "name": "AI-102",
+        "file": "ai-102-exam-prep.json"
+    },
+    {
         "name": "Enterprise Risk Management Test 1",
         "file": "erm-test1.json"
     },
