@@ -28,6 +28,18 @@
         "file": "erm-topic5.json"
     },
     {
+        "name": "Enterprise Risk Management Topic 6 - ERM Framework",
+        "file": "erm-topic6.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 7 - ERM Implementation",
+        "file": "erm-topic7.json"
+    },
+    {
+        "name": "Enterprise Risk Management Topic 8 - Risk Measurement Techniques and Analytics",
+        "file": "erm-topic8.json"
+    },
+    {
         "name": "Data Mining Chapter 1 - Introduction",
         "file": "dm-chapter1.json"
     },

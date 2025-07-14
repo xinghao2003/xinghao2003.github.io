@@ -1,0 +1,402 @@
+{
+  "1": {
+    "question": "Which of the following is NOT one of the five core steps of the ERM implementation process listed?",
+    "answer": "D",
+    "options": {
+      "A": "Assessment",
+      "B": "Identification",
+      "C": "Monitoring",
+      "D": "Prioritization"
+    }
+  },
+  "2": {
+    "question": "According to the document, 'Objectives' in the ERM process is also referred to as what?",
+    "answer": "A",
+    "options": {
+      "A": "Context Setting",
+      "B": "Response Planning",
+      "C": "Threat Assessment",
+      "D": "Risk Evaluation"
+    }
+  },
+  "3": {
+    "question": "Which of the following is a key benefit of Enterprise Risk Management (ERM) according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Limiting stakeholder engagement",
+      "B": "Reducing compliance coordination",
+      "C": "Supporting continuity of the organization",
+      "D": "Increasing operational costs"
+    }
+  },
+  "4": {
+    "question": "ERM helps organizations in better communication of risk within the organization, which also leads to:",
+    "answer": "D",
+    "options": {
+      "A": "Decreased accountability",
+      "B": "Increased bureaucracy",
+      "C": "Reduced resource allocation",
+      "D": "Reassuring stakeholders"
+    }
+  },
+  "5": {
+    "question": "Risk Management practices are widely used in which sector(s) according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Only financial institutions",
+      "B": "Both public and private sectors",
+      "C": "Only the private sector",
+      "D": "Only governments and universities"
+    }
+  },
+  "6": {
+    "question": "Which statement best describes the current status of Risk Management in business planning?",
+    "answer": "B",
+    "options": {
+      "A": "It is a niche skill used by few organizations.",
+      "B": "It is an integral part of business planning.",
+      "C": "It is an optional add-on for large corporations.",
+      "D": "It is primarily for academic study, not practical application."
+    }
+  },
+  "7": {
+    "question": "What is the first step when starting Risk Management planning?",
+    "answer": "B",
+    "options": {
+      "A": "Analyze the risks",
+      "B": "Look at your Business context",
+      "C": "Identify the risks",
+      "D": "Evaluate the risks"
+    }
+  },
+  "8": {
+    "question": "Which of the following is NOT a question to consider when looking at your Business context?",
+    "answer": "D",
+    "options": {
+      "A": "What is the nature of your operational environment?",
+      "B": "What is the role of your organization?",
+      "C": "What are your national priorities?",
+      "D": "Who are your main competitors?"
+    }
+  },
+  "9": {
+    "question": "According to the Revenue-Cost Management diagram, which of the following is a component of 'Expenses'?",
+    "answer": "A",
+    "options": {
+      "A": "Inventory carrying costs",
+      "B": "Service levels",
+      "C": "Distribution channels",
+      "D": "Fixed cost of plants"
+    }
+  },
+  "10": {
+    "question": "In the Revenue-Cost Management framework, 'Profits' are directly influenced by:",
+    "answer": "A",
+    "options": {
+      "A": "Revenue and Expenses",
+      "B": "Raw Materials and Inventory",
+      "C": "Fixed cost of X-docks",
+      "D": "Profits and Assets"
+    }
+  },
+  "11": {
+    "question": "Which of the following is NOT listed as a factor affecting the 'Volume of Products Sold' in the Revenue Drivers diagram?",
+    "answer": "A",
+    "options": {
+      "A": "Cost of Raw Materials",
+      "B": "Size of Stores",
+      "C": "# of Sales People",
+      "D": "# of Different Products"
+    }
+  },
+  "12": {
+    "question": "The 'Lead Conversion' stage in the Revenue Drivers Model is primarily associated with which business function?",
+    "answer": "B",
+    "options": {
+      "A": "Marketing",
+      "B": "Sales",
+      "C": "Production",
+      "D": "Customer Service"
+    }
+  },
+  "13": {
+    "question": "Which of the following is identified as a cost driver in a business?",
+    "answer": "A",
+    "options": {
+      "A": "Energy Consumption",
+      "B": "Customer satisfaction",
+      "C": "Market share",
+      "D": "Brand reputation"
+    }
+  },
+  "14": {
+    "question": "According to the 'Tips for Effective Cost Control', what should be done after conducting a comprehensive cost analysis?",
+    "answer": "B",
+    "options": {
+      "A": "Leverage technology and automation",
+      "B": "Set realistic cost reduction targets",
+      "C": "Implement process improvements",
+      "D": "Foster a cost-conscious culture"
+    }
+  },
+  "15": {
+    "question": "What is a key responsibility in establishing risk management within an organization?",
+    "answer": "D",
+    "options": {
+      "A": "Centralizing all decision-making to the Project Sponsor",
+      "B": "Avoiding the formation of a Risk Management Committee",
+      "C": "Limiting communication about risk to senior management only",
+      "D": "Appointing a Risk Management champion with specific qualifications"
+    }
+  },
+  "16": {
+    "question": "Which role is explicitly mentioned as part of the Risk Management Roles according to the diagram?",
+    "answer": "B",
+    "options": {
+      "A": "Sales Director",
+      "B": "Risk Owners",
+      "C": "HR Business Partner",
+      "D": "Marketing Manager"
+    }
+  },
+  "17": {
+    "question": "What is the primary characteristic of the Risk Management process according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "It is a linear process with a definitive end.",
+      "B": "It is dynamic and continuous.",
+      "C": "It is a one-time assessment.",
+      "D": "It focuses solely on financial risks."
+    }
+  },
+  "18": {
+    "question": "Which two overarching activities wrap around the core steps of the Risk Management process in the depicted flowchart?",
+    "answer": "A",
+    "options": {
+      "A": "Communication and Consultation, Monitoring and Review",
+      "B": "Sales and Marketing",
+      "C": "Staffing and Training",
+      "D": "Planning and Budgeting"
+    }
+  },
+  "19": {
+    "question": "Before identifying risks, what is the crucial first action in 'Step 1: Establish the context'?",
+    "answer": "A",
+    "options": {
+      "A": "Decide on the scope of the activity and objectives",
+      "B": "Conduct a risk assessment",
+      "C": "Identify internal stakeholders",
+      "D": "Develop risk criteria"
+    }
+  },
+  "20": {
+    "question": "Which of the following is NOT a tip for establishing the Risk Management Context?",
+    "answer": "C",
+    "options": {
+      "A": "Define the objectives of the activity",
+      "B": "Decide on the depth of analysis required",
+      "C": "Implement risk treatment plans",
+      "D": "Identify relevant legislation and policies"
+    }
+  },
+  "21": {
+    "question": "Establishing the internal context involves asking questions about:",
+    "answer": "C",
+    "options": {
+      "A": "External market trends and competitors",
+      "B": "Legislation and regulatory requirements",
+      "C": "Staff groups and internal culture",
+      "D": "The output structure of the risk process"
+    }
+  },
+  "22": {
+    "question": "What do 'Risk criteria' allow a business to clearly define?",
+    "answer": "A",
+    "options": {
+      "A": "Unacceptable levels of risk",
+      "B": "The cost of risk treatment",
+      "C": "The frequency of risk monitoring",
+      "D": "The list of identified risks"
+    }
+  },
+  "23": {
+    "question": "Why is 'Identify the risks' a crucial step in the Risk Management Process?",
+    "answer": "B",
+    "options": {
+      "A": "Because it is the final step before implementation.",
+      "B": "Because risk cannot be managed unless it is first identified.",
+      "C": "Because it determines the exact cost of each risk.",
+      "D": "Because it is the easiest step to complete."
+    }
+  },
+  "24": {
+    "question": "Which of the following best describes 'Retrospective risks'?",
+    "answer": "C",
+    "options": {
+      "A": "Risks related to technology only.",
+      "B": "Risks that might happen in the future.",
+      "C": "Risks that have previously occurred.",
+      "D": "Risks that are impossible to identify."
+    }
+  },
+  "25": {
+    "question": "Which method is recommended for identifying 'Prospective Risks'?",
+    "answer": "B",
+    "options": {
+      "A": "Examining customer complaint records",
+      "B": "Conducting staff brainstorming sessions",
+      "C": "Analyzing past audit reports",
+      "D": "Reviewing business incident logs"
+    }
+  },
+  "26": {
+    "question": "Which type of risk is defined as 'damage to relationship with community at large (loss of revenue)'?",
+    "answer": "D",
+    "options": {
+      "A": "Governance Risk",
+      "B": "Financial Risk",
+      "C": "HR Risk",
+      "D": "Reputational Risk"
+    }
+  },
+  "27": {
+    "question": "What is the formula used to estimate the 'level of risk' in the Risk Analysis step?",
+    "answer": "A",
+    "options": {
+      "A": "Risk = consequence x likelihood",
+      "B": "Risk = frequency / cost",
+      "C": "Risk = stakeholders + resources",
+      "D": "Risk = probability + impact"
+    }
+  },
+  "28": {
+    "question": "According to the impact levels, what does a 'Critical' impact signify?",
+    "answer": "C",
+    "options": {
+      "A": "Notable impact on time, cost or quality",
+      "B": "Minor impact on time, cost or quality",
+      "C": "Threatens the success of the project",
+      "D": "Negligible impact"
+    }
+  },
+  "29": {
+    "question": "What does a 'Likely' likelihood mean in risk assessment?",
+    "answer": "C",
+    "options": {
+      "A": "May occur occasionally",
+      "B": "Is almost certain to occur",
+      "C": "Is as likely as not to occur",
+      "D": "Is unlikely to occur"
+    }
+  },
+  "30": {
+    "question": "What is the primary purpose of 'Step 4: Evaluate the risks'?",
+    "answer": "D",
+    "options": {
+      "A": "To document the risk management plan.",
+      "B": "To develop specific counter-measures for identified risks.",
+      "C": "To identify new risks that were missed previously.",
+      "D": "To compare risk levels with established criteria and decide if treatment is needed."
+    }
+  },
+  "31": {
+    "question": "Which of the following is a valid reason to accept a risk?",
+    "answer": "A",
+    "options": {
+      "A": "The cost of treatment far exceeds the benefit.",
+      "B": "There are multiple treatment options available.",
+      "C": "The risk will significantly harm the project's objectives.",
+      "D": "The risk has a very high probability of happening."
+    }
+  },
+  "32": {
+    "question": "A 'High risk' is characterized by:",
+    "answer": "D",
+    "options": {
+      "A": "Impacts the project's targets, cost, or timeline, warranting close control.",
+      "B": "Minor adverse effects on project goals.",
+      "C": "Limited or no harm to the project's objectives.",
+      "D": "High likelihood of happening, harming project's objectives, budget, and timetable."
+    }
+  },
+  "33": {
+    "question": "What is the primary goal of 'Step 5: Treat the risks'?",
+    "answer": "A",
+    "options": {
+      "A": "To develop and implement a plan with specific counter-measures.",
+      "B": "To analyze the probability of risk events.",
+      "C": "To reassess the business context.",
+      "D": "To identify stakeholders involved in risk management."
+    }
+  },
+  "34": {
+    "question": "Which of the following is NOT an option for risk treatment?",
+    "answer": "B",
+    "options": {
+      "A": "Change the likelihood of the occurrence",
+      "B": "Ignore the risk",
+      "C": "Avoid the risk",
+      "D": "Share the risk"
+    }
+  },
+  "35": {
+    "question": "What should be documented as part of the risk management plan during risk treatment?",
+    "answer": "B",
+    "options": {
+      "A": "Only the identified risks and their impacts",
+      "B": "Allocated responsibilities and assumptions on residual risk",
+      "C": "Only the contact information of risk managers",
+      "D": "Only the cost estimates of mitigation actions"
+    }
+  },
+  "36": {
+    "question": "Why is 'Monitor and review' an essential step in risk management?",
+    "answer": "B",
+    "options": {
+      "A": "Because it simplifies the risk identification process.",
+      "B": "Because assumptions and decisions are subject to change.",
+      "C": "Because risks are static and never change.",
+      "D": "Because it is only required for high-level strategic risks."
+    }
+  },
+  "37": {
+    "question": "How often should a risk management plan at a business level ideally be reviewed?",
+    "answer": "D",
+    "options": {
+      "A": "Every five years",
+      "B": "Only when major incidents occur",
+      "C": "Only at the end of a project",
+      "D": "At least on an annual basis"
+    }
+  },
+  "38": {
+    "question": "Which of the following indicates an 'Excellent' level of Monitoring & Review capabilities?",
+    "answer": "A",
+    "options": {
+      "A": "Consistently optimizing risk adjusted returns throughout the organization",
+      "B": "Performing solid classical 'silo' based risk management",
+      "C": "Inconsistent or limited capabilities to identify risk exposures",
+      "D": "May lack a robust process for identifying emerging risks"
+    }
+  },
+  "39": {
+    "question": "Communication and consultation should be reflected in which part of the risk management process?",
+    "answer": "A",
+    "options": {
+      "A": "In each step of the process",
+      "B": "Only during risk treatment",
+      "C": "Only during risk identification",
+      "D": "Only during monitoring and review"
+    }
+  },
+  "40": {
+    "question": "For a 'Critical Risk', what is the recommended action and level of involvement?",
+    "answer": "C",
+    "options": {
+      "A": "Accept, but monitor risks",
+      "B": "Mitigation and ongoing monitoring by managers",
+      "C": "Inform Cabinet and require immediate action",
+      "D": "Inform division Vice President"
+    }
+  }
+}

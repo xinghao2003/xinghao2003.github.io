@@ -1,0 +1,632 @@
+{
+  "1": {
+    "question": "Which of the following best defines risk measurement?",
+    "answer": "B",
+    "options": {
+      "A": "The process of setting organizational objectives.",
+      "B": "The process of quantifying the potential for loss or harm.",
+      "C": "The process of identifying opportunities for growth.",
+      "D": "The process of allocating resources without considering threats."
+    }
+  },
+  "2": {
+    "question": "What does risk measurement primarily involve regarding an organization's capital and earnings?",
+    "answer": "C",
+    "options": {
+      "A": "Ignoring potential threats.",
+      "B": "Minimizing capital expenditure.",
+      "C": "Identifying, assessing, and controlling threats.",
+      "D": "Maximizing only the earnings."
+    }
+  },
+  "3": {
+    "question": "Why is measuring risk important for an organization?",
+    "answer": "A",
+    "options": {
+      "A": "To make comprehensive decisions about risk exposure and mitigation strategies.",
+      "B": "To prevent any form of financial loss entirely.",
+      "C": "To simplify regulatory compliance by avoiding standards.",
+      "D": "To solely focus on increasing revenue without considering threats."
+    }
+  },
+  "4": {
+    "question": "Which of the following is a key reason for measuring risk?",
+    "answer": "A",
+    "options": {
+      "A": "To comply with regulatory requirements and industry standards.",
+      "B": "To reduce the need for capital allocation.",
+      "C": "To eliminate all potential risks.",
+      "D": "To maximize unadjusted returns."
+    }
+  },
+  "5": {
+    "question": "What does 'Likelihood' refer to in the context of risk measurement?",
+    "answer": "D",
+    "options": {
+      "A": "The potential impact of a risk event.",
+      "B": "The total cost of risk mitigation.",
+      "C": "The amount at risk in a situation.",
+      "D": "The probability of a risk event occurring."
+    }
+  },
+  "6": {
+    "question": "Which term describes 'the potential impact or consequences of a risk event'?",
+    "answer": "B",
+    "options": {
+      "A": "Likelihood",
+      "B": "Severity",
+      "C": "Mitigation",
+      "D": "Exposure"
+    }
+  },
+  "7": {
+    "question": "What is a primary goal of risk assessment and evaluation?",
+    "answer": "A",
+    "options": {
+      "A": "To assess the potential impact of identified risks.",
+      "B": "To eliminate all identified risks immediately.",
+      "C": "To avoid any form of risk prioritization.",
+      "D": "To replace qualitative methods with quantitative methods entirely."
+    }
+  },
+  "8": {
+    "question": "Risk assessment uses which types of methods to estimate the likelihood and magnitude of risk impact?",
+    "answer": "C",
+    "options": {
+      "A": "Only quantitative methods.",
+      "B": "Only qualitative methods.",
+      "C": "Both quantitative and qualitative methods.",
+      "D": "Neither quantitative nor qualitative methods."
+    }
+  },
+  "9": {
+    "question": "What two main factors does a risk assessment matrix typically combine to determine risk level?",
+    "answer": "D",
+    "options": {
+      "A": "Timeline and Resources",
+      "B": "Prevention and Detection",
+      "C": "Cost and Benefit",
+      "D": "Likelihood and Severity"
+    }
+  },
+  "10": {
+    "question": "In a risk assessment matrix, if a risk is 'Very Likely' and its severity is 'Severe', what would generally be its risk level?",
+    "answer": "A",
+    "options": {
+      "A": "High",
+      "B": "Medium",
+      "C": "Low Med",
+      "D": "Med Hi"
+    }
+  },
+  "11": {
+    "question": "What is the primary purpose of a risk heat map?",
+    "answer": "C",
+    "options": {
+      "A": "To provide a detailed financial breakdown of all costs.",
+      "B": "To replace all other risk assessment tools.",
+      "C": "To rank and prioritize risks based on impact and likelihood.",
+      "D": "To eliminate all risks from an organization."
+    }
+  },
+  "12": {
+    "question": "In a typical risk heat map, what do different colors often represent?",
+    "answer": "C",
+    "options": {
+      "A": "Different types of external threats.",
+      "B": "Different departments involved in risk management.",
+      "C": "Different levels of risk (e.g., low, moderate, high).",
+      "D": "Different historical data points."
+    }
+  },
+  "13": {
+    "question": "Which of the following is NOT listed as a quantitative risk analysis technique in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Value at Risk (VaR)",
+      "B": "SWOT Analysis",
+      "C": "Risk Workshops",
+      "D": "Delphi (expert analysis)"
+    }
+  },
+  "14": {
+    "question": "Which step in a Risk Management Workshop involves anonymously generating a list of risks facing the organization?",
+    "answer": "D",
+    "options": {
+      "A": "Risk Bucket review",
+      "B": "Overview Orientation",
+      "C": "Voting on Risks",
+      "D": "Brainstorming of the Risks"
+    }
+  },
+  "15": {
+    "question": "What is the final stage of the risk management workshop process as described?",
+    "answer": "C",
+    "options": {
+      "A": "Anonymous brainstorming.",
+      "B": "An initial trial run on the systems.",
+      "C": "Voting on risks for impact and probability to prioritize.",
+      "D": "Categorization of identified risks."
+    }
+  },
+  "16": {
+    "question": "What is a core characteristic of the Delphi method?",
+    "answer": "D",
+    "options": {
+      "A": "It relies solely on quantitative data for risk assessment.",
+      "B": "It is primarily used for historical data analysis, not future events.",
+      "C": "It requires face-to-face discussions among experts.",
+      "D": "It is an iterative group process that continues until consensus is reached."
+    }
+  },
+  "17": {
+    "question": "Which of the following is NOT a typical participant type in the Delphi method?",
+    "answer": "D",
+    "options": {
+      "A": "Respondents (People who can make valuable judgments)",
+      "B": "Decision Makers",
+      "C": "Staff (Administering survey)",
+      "D": "Direct Competitors"
+    }
+  },
+  "18": {
+    "question": "The Ishikawa diagram is also commonly known as what type of diagram?",
+    "answer": "B",
+    "options": {
+      "A": "Pie Chart",
+      "B": "Fishbone diagram",
+      "C": "Flowchart",
+      "D": "Gantt Chart"
+    }
+  },
+  "19": {
+    "question": "Which of the following is NOT one of the '5Ms' often used in Ishikawa diagrams to prompt brainstorming for causes?",
+    "answer": "D",
+    "options": {
+      "A": "Materials",
+      "B": "Man",
+      "C": "Methods",
+      "D": "Money"
+    }
+  },
+  "20": {
+    "question": "How does scenario planning differ from traditional forecasting?",
+    "answer": "C",
+    "options": {
+      "A": "Forecasting considers qualitative data, while scenario planning does not.",
+      "B": "They are identical concepts used interchangeably.",
+      "C": "Scenario planning considers trend analyses and qualitative data in addition to quantitative data.",
+      "D": "Scenario planning only uses quantitative data."
+    }
+  },
+  "21": {
+    "question": "Which of the following is a benefit of regular and consistent scenario planning?",
+    "answer": "B",
+    "options": {
+      "A": "Discouraging the identification of issues.",
+      "B": "Optimizing the allocation of resources.",
+      "C": "Increasing production costs.",
+      "D": "Hindering critical thinking about future trends."
+    }
+  },
+  "22": {
+    "question": "Which type of scenario planning looks at the best and worst cases of a financial model by altering variables?",
+    "answer": "D",
+    "options": {
+      "A": "Interactive scenarios",
+      "B": "Normative scenarios",
+      "C": "Operational scenarios",
+      "D": "Quantitative scenarios"
+    }
+  },
+  "23": {
+    "question": "Which scenario planning type focuses on the environment where consumers buy products and is also known as 'alternative futures'?",
+    "answer": "B",
+    "options": {
+      "A": "Normative scenarios",
+      "B": "Strategic management scenarios",
+      "C": "Probability-based scenarios",
+      "D": "Operational scenarios"
+    }
+  },
+  "24": {
+    "question": "What does Value at Risk (VaR) primarily measure?",
+    "answer": "B",
+    "options": {
+      "A": "The total revenue of an organization.",
+      "B": "The risk of loss of investment/capital.",
+      "C": "The potential gain of an investment.",
+      "D": "The market share of a company."
+    }
+  },
+  "25": {
+    "question": "Which of the following is NOT a variable used to determine Value at Risk (VaR)?",
+    "answer": "C",
+    "options": {
+      "A": "Period",
+      "B": "Size of the possible loss",
+      "C": "Company stock price",
+      "D": "Confidence level"
+    }
+  },
+  "26": {
+    "question": "Risk assessment determines which of the following regarding potential mishaps?",
+    "answer": "D",
+    "options": {
+      "A": "Only their financial cost.",
+      "B": "Only the preventive measures to be taken.",
+      "C": "Only their immediate impact.",
+      "D": "Their likelihood and consequences, and the tolerances for such events."
+    }
+  },
+  "27": {
+    "question": "Risk assessment results may be expressed in what fashion?",
+    "answer": "A",
+    "options": {
+      "A": "Either quantitative or qualitative.",
+      "B": "Only qualitative.",
+      "C": "Only quantitative.",
+      "D": "Neither quantitative nor qualitative."
+    }
+  },
+  "28": {
+    "question": "Which of the following is the first step in the 5-step risk assessment process?",
+    "answer": "D",
+    "options": {
+      "A": "Evaluate the risk and decide on precautions.",
+      "B": "Record the significant findings.",
+      "C": "Review and update as necessary.",
+      "D": "Identify the hazards."
+    }
+  },
+  "29": {
+    "question": "What is the final step in the 5-step risk assessment process?",
+    "answer": "B",
+    "options": {
+      "A": "Identify the people who might be harmed.",
+      "B": "Review and update as necessary.",
+      "C": "Record significant findings.",
+      "D": "Evaluate the risk."
+    }
+  },
+  "30": {
+    "question": "What is the primary focus of General Risk Management?",
+    "answer": "A",
+    "options": {
+      "A": "Identifying, assessing, and controlling threats to an organization's capital, earnings, and operations.",
+      "B": "Exclusively natural disasters.",
+      "C": "Only financial uncertainties.",
+      "D": "Developing new products."
+    }
+  },
+  "31": {
+    "question": "An effective General Risk Management Program should be integrated with what?",
+    "answer": "D",
+    "options": {
+      "A": "Only the IT department's goals.",
+      "B": "Competitors' risk management programs.",
+      "C": "Short-term operational tasks only.",
+      "D": "The organization's overall strategy and objectives."
+    }
+  },
+  "32": {
+    "question": "When are Site-Specific Risk Assessments typically completed?",
+    "answer": "C",
+    "options": {
+      "A": "Before any generic risk assessments.",
+      "B": "Instead of any other risk assessment types.",
+      "C": "After carrying out generic risk assessments.",
+      "D": "Only for office-based work."
+    }
+  },
+  "33": {
+    "question": "Which of the following is an example given for when a Site-Specific Risk Assessment might be used?",
+    "answer": "D",
+    "options": {
+      "A": "Routine administrative tasks.",
+      "B": "Annual budget planning.",
+      "C": "General IT security review.",
+      "D": "Work at Height."
+    }
+  },
+  "34": {
+    "question": "What is a key benefit of using Generic Risk Assessments?",
+    "answer": "D",
+    "options": {
+      "A": "They eliminate the need for any site-specific assessments.",
+      "B": "They are always perfectly accurate for all workplaces.",
+      "C": "They only apply to unique, never-before-seen activities.",
+      "D": "They reduce duplication in risk-management processes."
+    }
+  },
+  "35": {
+    "question": "When using a Generic Risk Assessment, what is important to note regarding workplace differences?",
+    "answer": "C",
+    "options": {
+      "A": "Generic assessments automatically adjust for all differences.",
+      "B": "They should never be reviewed or updated.",
+      "C": "Any differences can affect the accuracy and relevancy of the assessment.",
+      "D": "Differences are irrelevant to the assessment's accuracy."
+    }
+  },
+  "36": {
+    "question": "When are Dynamic Risk Assessments typically carried out?",
+    "answer": "A",
+    "options": {
+      "A": "On the spot, during unforeseen circumstances.",
+      "B": "After all work activities have concluded.",
+      "C": "Only at the start of a new project.",
+      "D": "Annually, as part of a routine check."
+    }
+  },
+  "37": {
+    "question": "What is a commonality between Dynamic Risk Assessments and other risk assessment types?",
+    "answer": "D",
+    "options": {
+      "A": "They exclusively use quantitative data.",
+      "B": "They do not require any review or update.",
+      "C": "They are always written down before work begins.",
+      "D": "They should follow the five steps to the risk assessment process."
+    }
+  },
+  "38": {
+    "question": "What is a core principle of Sensible Risk Assessment?",
+    "answer": "C",
+    "options": {
+      "A": "To prioritize extensive documentation over practical steps.",
+      "B": "To stifle innovation through strict regulations.",
+      "C": "To take practical steps to protect people from real harm.",
+      "D": "To only identify hazards, not evaluate risks."
+    }
+  },
+  "39": {
+    "question": "For a person with learning disabilities, what might a sensible risk assessment identify a need for, as per the example?",
+    "answer": "C",
+    "options": {
+      "A": "Less supervision.",
+      "B": "Increased paperwork for every activity.",
+      "C": "A spill-resistant cup to prevent scalding.",
+      "D": "More challenging tasks."
+    }
+  },
+  "40": {
+    "question": "What is the primary purpose of a Last-Minute Risk Assessment (LMRA)?",
+    "answer": "D",
+    "options": {
+      "A": "To replace all other forms of risk assessment.",
+      "B": "To document every single detail of a task.",
+      "C": "To provide a detailed financial analysis of project risks.",
+      "D": "To create awareness and exclude potential risks just before work."
+    }
+  },
+  "41": {
+    "question": "Which of the following states of mind is mentioned as interfering with an LMRA?",
+    "answer": "D",
+    "options": {
+      "A": "Alertness",
+      "B": "Focus",
+      "C": "Curiosity",
+      "D": "Rushing"
+    }
+  },
+  "42": {
+    "question": "What is the scope of a Task Risk Assessment (TRA)?",
+    "answer": "D",
+    "options": {
+      "A": "The entire organization's strategic risks.",
+      "B": "Only financial risks.",
+      "C": "General environmental impacts.",
+      "D": "Hazards and risks for specific tasks or activities."
+    }
+  },
+  "43": {
+    "question": "Which of the following is a key principle of sensible task risk assessment?",
+    "answer": "A",
+    "options": {
+      "A": "Implementing proportionate control measures.",
+      "B": "Avoiding documentation to save time.",
+      "C": "Focusing only on minor risks.",
+      "D": "Ignoring the benefits of activities."
+    }
+  },
+  "44": {
+    "question": "Which risk assessment approach relies on opinion and experience to predict hazard levels as low, medium, or high?",
+    "answer": "C",
+    "options": {
+      "A": "Hybrid Approach",
+      "B": "Quantitative Approach",
+      "C": "Qualitative Approach",
+      "D": "Semi-Quantitative Approach"
+    }
+  },
+  "45": {
+    "question": "The Semi-Quantitative Approach provides an intermediary level between what two types of evaluations?",
+    "answer": "A",
+    "options": {
+      "A": "Textual qualitative and numerical quantitative.",
+      "B": "Historical and future.",
+      "C": "Opinion-based and subjective.",
+      "D": "Financial and operational."
+    }
+  },
+  "46": {
+    "question": "Hazard/event risks typically occur within what timeframe?",
+    "answer": "D",
+    "options": {
+      "A": "After all operations have ceased.",
+      "B": "Only during project initiation.",
+      "C": "Over multiple operating periods.",
+      "D": "Within one operating period."
+    }
+  },
+  "47": {
+    "question": "Which of the following is an example of a hazard/event risk?",
+    "answer": "B",
+    "options": {
+      "A": "New product research and development.",
+      "B": "Property exposures (building damage).",
+      "C": "Market risks (demand and supply).",
+      "D": "Hiring practices."
+    }
+  },
+  "48": {
+    "question": "What do strategic risks primarily influence?",
+    "answer": "B",
+    "options": {
+      "A": "Short-term financial performance exclusively.",
+      "B": "The company's ability to achieve strategic ambitions and remain viable.",
+      "C": "Compliance with minor regulations only.",
+      "D": "Only daily operational activities."
+    }
+  },
+  "49": {
+    "question": "Which of the following is an example of a strategic risk?",
+    "answer": "C",
+    "options": {
+      "A": "Routine maintenance errors.",
+      "B": "Third-party legal liability exposures.",
+      "C": "New product research and development.",
+      "D": "Building damage."
+    }
+  },
+  "50": {
+    "question": "Market risk is also known as what type of risk?",
+    "answer": "B",
+    "options": {
+      "A": "Diversifiable Risk",
+      "B": "Systematic Risk",
+      "C": "Firm-Specific Risk",
+      "D": "Unsystematic Risk"
+    }
+  },
+  "51": {
+    "question": "Which of the following is a type of market risk?",
+    "answer": "B",
+    "options": {
+      "A": "Information Security Risk",
+      "B": "Interest Rate Risk",
+      "C": "Quality Control Risk",
+      "D": "Human Resources Risk"
+    }
+  },
+  "52": {
+    "question": "Where can an organization's financial risk values be expressed?",
+    "answer": "B",
+    "options": {
+      "A": "Only in external audit reports.",
+      "B": "Balance sheet, income statement, statement of cash flows, or notes.",
+      "C": "Internal process manuals only.",
+      "D": "Project management timelines."
+    }
+  },
+  "53": {
+    "question": "Which of the following is an example of a financial risk?",
+    "answer": "C",
+    "options": {
+      "A": "Hiring practices.",
+      "B": "Supply chain risks.",
+      "C": "Credit risk.",
+      "D": "Product liability risks."
+    }
+  },
+  "54": {
+    "question": "Operational risks arise from adverse unexpected developments related to what factors?",
+    "answer": "B",
+    "options": {
+      "A": "Only financial asset fluctuations.",
+      "B": "Internal processes, people, and systems, or external events.",
+      "C": "Only external market conditions.",
+      "D": "Only strategic management decisions."
+    }
+  },
+  "55": {
+    "question": "Which of the following is an example of an operational risk?",
+    "answer": "C",
+    "options": {
+      "A": "Mergers and acquisitions.",
+      "B": "Interest rate fluctuations.",
+      "C": "Product liability risks.",
+      "D": "Currency exchange rate changes."
+    }
+  },
+  "56": {
+    "question": "Which risk category includes 'Quality of Outputs' and 'Customer Relationships'?",
+    "answer": "A",
+    "options": {
+      "A": "Business Risk",
+      "B": "Reputation Risk",
+      "C": "Operational Risk",
+      "D": "Financial Risk"
+    }
+  },
+  "57": {
+    "question": "The 'ESG' risk category covers which aspects?",
+    "answer": "D",
+    "options": {
+      "A": "Economic, Social, and Government.",
+      "B": "External, Systems, and Growth.",
+      "C": "Environmental, Strategic, and Governance.",
+      "D": "Environmental, Social, and Governance."
+    }
+  },
+  "58": {
+    "question": "What is another name for Diversifiable Risk?",
+    "answer": "C",
+    "options": {
+      "A": "Systematic Risk",
+      "B": "Non-diversifiable Risk",
+      "C": "Firm-Specific Risk",
+      "D": "Market Risk"
+    }
+  },
+  "59": {
+    "question": "How can Diversifiable Risk be eliminated?",
+    "answer": "B",
+    "options": {
+      "A": "By investing in a single asset.",
+      "B": "Through diversification.",
+      "C": "Through government regulation.",
+      "D": "By increasing interest rates."
+    }
+  },
+  "60": {
+    "question": "Which of the following is true about Non-diversifiable Risk?",
+    "answer": "D",
+    "options": {
+      "A": "It can be eliminated through diversification.",
+      "B": "It is also known as firm-specific risk.",
+      "C": "It is specific to a particular company.",
+      "D": "It affects all similar investments."
+    }
+  },
+  "61": {
+    "question": "An example of non-diversifiable risk is:",
+    "answer": "A",
+    "options": {
+      "A": "War.",
+      "B": "A labor strike at a single factory.",
+      "C": "A company-specific lawsuit.",
+      "D": "A specific product recall."
+    }
+  },
+  "62": {
+    "question": "What impact does Enterprise Risk Management (ERM) have on firm-specific risks?",
+    "answer": "C",
+    "options": {
+      "A": "It increases firm-specific risks.",
+      "B": "It converts firm-specific risks into market risks.",
+      "C": "It reduces firm-specific risks.",
+      "D": "It has no impact on firm-specific risks."
+    }
+  },
+  "63": {
+    "question": "Beyond firm-specific risks, what other financial aspect does ERM help to reduce?",
+    "answer": "D",
+    "options": {
+      "A": "Total company profits.",
+      "B": "Industry growth rates.",
+      "C": "Overall market volatility.",
+      "D": "Earnings variation."
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "1": {
+    "question": "Which of the following best defines 'Risk' according to the document?",
+    "answer": "D",
+    "options": {
+      "A": "An unforeseen problem that requires immediate financial intervention.",
+      "B": "A process of identifying and mitigating all known dangers.",
+      "C": "Any event that leads to a certain loss of capital.",
+      "D": "The potential that events, expected or unanticipated, may have an adverse impact on capital or earnings."
+    }
+  },
+  "2": {
+    "question": "What is the primary focus of 'Risk Management' as defined in the document?",
+    "answer": "D",
+    "options": {
+      "A": "Delegating risk responsibilities to individual departments.",
+      "B": "Maximizing earnings without considering risks.",
+      "C": "Eliminating all financial uncertainties.",
+      "D": "Managing the critical tradeoff between risk and return in financial decision-making."
+    }
+  },
+  "3": {
+    "question": "Enterprise-Wide Risk Management (ERM) is characterized by managing risks on what basis?",
+    "answer": "C",
+    "options": {
+      "A": "An ad-hoc, reactive basis.",
+      "B": "A project-by-project basis.",
+      "C": "An integrated basis across the entire institution.",
+      "D": "Departmental isolation."
+    }
+  },
+  "4": {
+    "question": "Which of the following describes a 'Risk Silo' in an organization?",
+    "answer": "C",
+    "options": {
+      "A": "A formal structure for enterprise-wide risk reporting.",
+      "B": "A highly integrated and centralized risk management system.",
+      "C": "An informal characterization where risks are managed in isolation by separate departments.",
+      "D": "A derogatory term used to describe effective risk mitigation strategies."
+    }
+  },
+  "5": {
+    "question": "What is a key characteristic of siloed risk management?",
+    "answer": "D",
+    "options": {
+      "A": "It involves management-level decision-making for all risks.",
+      "B": "It promotes firm-wide surveillance of risks.",
+      "C": "Risks are managed holistically across the entire firm.",
+      "D": "The treatment of risks is done in isolation rather than in an integrated way."
+    }
+  },
+  "6": {
+    "question": "What is the strategic perspective of Enterprise Risk Management (ERM)?",
+    "answer": "D",
+    "options": {
+      "A": "It focuses solely on financial risks.",
+      "B": "It looks at risk management from the perspective of individual business units.",
+      "C": "It is primarily concerned with regulatory compliance.",
+      "D": "It views risk management strategically from the perspective of the entire firm or organization."
+    }
+  },
+  "7": {
+    "question": "ERM is described as a 'top-down strategy' that aims to do all of the following EXCEPT:",
+    "answer": "B",
+    "options": {
+      "A": "Prepare for hazards.",
+      "B": "Delegate all risk responsibilities to front-line employees.",
+      "C": "Identify potential losses.",
+      "D": "Assess potential dangers."
+    }
+  },
+  "8": {
+    "question": "In a successful ERM strategy, what is given precedence over individual business unit risk management?",
+    "answer": "A",
+    "options": {
+      "A": "Firm-wide surveillance.",
+      "B": "Regulatory audits.",
+      "C": "Departmental autonomy.",
+      "D": "Ad-hoc risk responses."
+    }
+  },
+  "9": {
+    "question": "Which of the following is NOT explicitly listed as a core stage in the general ERM framework cycle?",
+    "answer": "B",
+    "options": {
+      "A": "Risk Assessment.",
+      "B": "Employee Training.",
+      "C": "Establishing the Context.",
+      "D": "Risk Treatment."
+    }
+  },
+  "10": {
+    "question": "In the 8-step ERM framework, 'Quantify Exposure Risks' immediately follows which step?",
+    "answer": "D",
+    "options": {
+      "A": "Execute Strategies.",
+      "B": "Define Risks Management Policies and Procedures.",
+      "C": "Define Overall Corporate Philosophy and Objectives.",
+      "D": "Identify Exposures."
+    }
+  },
+  "11": {
+    "question": "The general ERM framework emphasizes 'Consultation' and 'Monitor and Review' as activities that occur:",
+    "answer": "B",
+    "options": {
+      "A": "Only during risk treatment.",
+      "B": "Throughout the entire process.",
+      "C": "Only at the end of the process.",
+      "D": "Only at the beginning of the process."
+    }
+  },
+  "12": {
+    "question": "How many dimensions does the COSO ERM Framework use to explain Enterprise Risk Management?",
+    "answer": "B",
+    "options": {
+      "A": "Two.",
+      "B": "Three.",
+      "C": "Five.",
+      "D": "Four."
+    }
+  },
+  "13": {
+    "question": "Which of the following is NOT one of the three dimensions of the COSO ERM Framework?",
+    "answer": "B",
+    "options": {
+      "A": "Components of ERM.",
+      "B": "Risk Quantification Methods.",
+      "C": "Levels of Business Organization.",
+      "D": "Organization's objectives."
+    }
+  },
+  "14": {
+    "question": "Which of the following is NOT one of the four categories of objectives emphasized by the COSO ERM framework?",
+    "answer": "B",
+    "options": {
+      "A": "Strategic.",
+      "B": "Financial.",
+      "C": "Operational.",
+      "D": "Compliance."
+    }
+  },
+  "15": {
+    "question": "At which level can ERM NOT be implemented, according to the COSO framework?",
+    "answer": "B",
+    "options": {
+      "A": "Division level.",
+      "B": "Competitor level.",
+      "C": "Subsidiary level.",
+      "D": "Entity level."
+    }
+  },
+  "16": {
+    "question": "How many components does the COSO ERM process highlight?",
+    "answer": "D",
+    "options": {
+      "A": "6 components.",
+      "B": "9 components.",
+      "C": "7 components.",
+      "D": "8 components."
+    }
+  },
+  "17": {
+    "question": "Which of the following is the first component of the COSO ERM process?",
+    "answer": "D",
+    "options": {
+      "A": "Event Identification.",
+      "B": "Objective Setting.",
+      "C": "Risk Assessment.",
+      "D": "Internal Environment."
+    }
+  },
+  "18": {
+    "question": "Which COSO ERM component addresses the question 'What is the internal philosophy and culture?'",
+    "answer": "C",
+    "options": {
+      "A": "Information and Communication.",
+      "B": "Objective Setting.",
+      "C": "Internal Environment.",
+      "D": "Control Activities."
+    }
+  },
+  "19": {
+    "question": "The question 'What could stop us from accomplishing it?' is addressed by which COSO ERM component?",
+    "answer": "D",
+    "options": {
+      "A": "Risk Response.",
+      "B": "Monitoring.",
+      "C": "Risk Assessment.",
+      "D": "Event Identification."
+    }
+  },
+  "20": {
+    "question": "Which component of COSO ERM deals with 'How do we make sure they don't happen?'",
+    "answer": "A",
+    "options": {
+      "A": "Control Activities.",
+      "B": "Monitoring.",
+      "C": "Risk Response.",
+      "D": "Information and Communication."
+    }
+  },
+  "21": {
+    "question": "According to the WBCSD and Global Risks Report 2020, global risks have transitioned from focusing primarily on economic risks to what type of risks?",
+    "answer": "D",
+    "options": {
+      "A": "Operational and technological risks.",
+      "B": "Legal and compliance risks.",
+      "C": "Purely financial risks.",
+      "D": "Sustainability-related risks (societal, geopolitical, environmental)."
+    }
+  },
+  "22": {
+    "question": "What are the 'three pillars' of the economy that organizations must safeguard?",
+    "answer": "A",
+    "options": {
+      "A": "Economic, Environmental, Social.",
+      "B": "Capital, Labor, Technology.",
+      "C": "Production, Distribution, Consumption.",
+      "D": "Strategic, Operational, Reporting."
+    }
+  },
+  "23": {
+    "question": "What is identified as the ultimate objective of Enterprise Risk Management (ERM)?",
+    "answer": "B",
+    "options": {
+      "A": "Minimizing all forms of risk exposure.",
+      "B": "Long-term viability of the Firm.",
+      "C": "Ensuring regulatory compliance.",
+      "D": "Short-term profit maximization."
+    }
+  },
+  "24": {
+    "question": "Which organization developed the ISO 31000:2009 Risk Management Standard?",
+    "answer": "A",
+    "options": {
+      "A": "The International Organization for Standardization (ISO).",
+      "B": "The Committee of Sponsoring Organizations (COSO).",
+      "C": "The World Bank.",
+      "D": "The United Nations."
+    }
+  },
+  "25": {
+    "question": "Where is the head office of the International Organization for Standardization (ISO) located?",
+    "answer": "D",
+    "options": {
+      "A": "Brussels, Belgium.",
+      "B": "New York, USA.",
+      "C": "London, UK.",
+      "D": "Geneva, Switzerland."
+    }
+  },
+  "26": {
+    "question": "What is the main purpose of ISO 31000 according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "To provide a detailed list of specific risks for every industry.",
+      "B": "To dictate exact risk appetite for all organizations.",
+      "C": "To provide best practice structure and guidance for risk management operations.",
+      "D": "To certify organizations as risk-free."
+    }
+  },
+  "27": {
+    "question": "How many core components does the ISO 31000:2009 standard of enterprise risk management comprise?",
+    "answer": "B",
+    "options": {
+      "A": "Four.",
+      "B": "Three.",
+      "C": "Five.",
+      "D": "Two."
+    }
+  },
+  "28": {
+    "question": "Which of the following is NOT one of the three core components of ISO 31000:2009?",
+    "answer": "D",
+    "options": {
+      "A": "Framework.",
+      "B": "Process.",
+      "C": "Principles.",
+      "D": "Guidelines."
+    }
+  },
+  "29": {
+    "question": "One of the basic principles of ISO 31000 states that risk management should 'explicitly address uncertainty.' This means it should:",
+    "answer": "C",
+    "options": {
+      "A": "Ignore all uncertain events.",
+      "B": "Only focus on events with 100% certainty.",
+      "C": "Acknowledge and account for the unpredictable nature of future events.",
+      "D": "Eliminate all forms of uncertainty."
+    }
+  },
+  "30": {
+    "question": "According to ISO 31000 principles, risk management should be 'dynamic, iterative and responsive to change.' This implies that risk management is:",
+    "answer": "A",
+    "options": {
+      "A": "A flexible and evolving process.",
+      "B": "Only performed when major crises occur.",
+      "C": "Solely based on past performance data.",
+      "D": "A static, one-time exercise."
+    }
+  },
+  "31": {
+    "question": "Which of the following is NOT a core component of the PETRONAS ERM Framework cycle?",
+    "answer": "C",
+    "options": {
+      "A": "Continual Improvement.",
+      "B": "Governance.",
+      "C": "Competitor Analysis.",
+      "D": "Risk Assessment."
+    }
+  },
+  "32": {
+    "question": "One of the value-added benefits of the PETRONAS ERM Framework is 'Resourcing Protects'. What does this refer to?",
+    "answer": "D",
+    "options": {
+      "A": "Outsourcing all resource management.",
+      "B": "Eliminating the need for financial resources.",
+      "C": "Focusing only on human resources.",
+      "D": "Protecting organizational resources from illegal use and equipping staff with safety adaptations."
+    }
+  },
+  "33": {
+    "question": "The PETRONAS ERM Framework contributes to 'Strengthened Collaborated Work' by encouraging managers to focus on:",
+    "answer": "C",
+    "options": {
+      "A": "Delegating all risk decisions to junior staff.",
+      "B": "Minimizing communication between departments.",
+      "C": "Risks that can be defined as exploitable challenging proposals.",
+      "D": "Avoiding all risks."
+    }
+  },
+  "34": {
+    "question": "In the PETRONAS Resiliency Model, what is the primary role of Enterprise Risk Management (ERM)?",
+    "answer": "D",
+    "options": {
+      "A": "To recover from prolonged disruptions.",
+      "B": "To assign clear ownership for all incidents.",
+      "C": "To respond to immediate risk events.",
+      "D": "To reduce the likelihood and impact of all identified risks."
+    }
+  },
+  "35": {
+    "question": "What is the function of Crisis Management (CM) within the PETRONAS Resiliency Model?",
+    "answer": "A",
+    "options": {
+      "A": "To respond to immediate risk events.",
+      "B": "To develop long-term strategic plans.",
+      "C": "To recover critical functions after a disruption.",
+      "D": "To identify potential risks before they occur."
+    }
+  },
+  "36": {
+    "question": "Which component of the PETRONAS Resiliency Model is responsible for recovering from prolonged disruptions to meet business obligations?",
+    "answer": "C",
+    "options": {
+      "A": "Crisis Management (CM).",
+      "B": "Enterprise Risk Management (ERM).",
+      "C": "Business Continuity Management (BCM).",
+      "D": "Risk Assessment (RA)."
+    }
+  }
+}
