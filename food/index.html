@@ -1,0 +1,1165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#ff6b35">
+    <meta name="description" content="Smart food suggestions that learn your taste">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <title>Food Genius - Smart Food Suggestions</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #f5f5f5;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            background: white;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #ff6b35, #f7931e);
+            color: white;
+            padding: 2rem 1.5rem;
+            border-radius: 0 0 2rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+
+        .context-bar {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 1.5rem;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+            font-size: 0.8rem;
+            color: #6c757d;
+        }
+
+        .context-item {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+
+        .main-content {
+            padding: 1.5rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h2 {
+            font-size: 1.2rem;
+            color: #333;
+            margin-bottom: 1rem;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .input-group input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 2px solid #e9ecef;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .input-group input:focus {
+            border-color: #ff6b35;
+        }
+
+        .btn {
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            justify-content: center;
+        }
+
+        .btn-primary {
+            background: #ff6b35;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #e55a2b;
+            transform: translateY(-1px);
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+            padding: 1rem 1.5rem;
+            font-size: 1rem;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+            padding: 1rem 1.5rem;
+            font-size: 1rem;
+        }
+
+        .btn-danger:hover {
+            background: #c82333;
+        }
+
+        .btn-large {
+            background: linear-gradient(135deg, #ff6b35, #f7931e);
+            color: white;
+            padding: 1.2rem 2rem;
+            font-size: 1.1rem;
+            border-radius: 1rem;
+            box-shadow: 0 4px 15px rgba(255, 107, 53, 0.3);
+        }
+
+        .btn-large:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255, 107, 53, 0.4);
+        }
+
+        .food-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .food-tag {
+            background: #f8f9fa;
+            padding: 0.5rem 0.75rem;
+            border-radius: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.9rem;
+            border: 1px solid #e9ecef;
+        }
+
+        .food-tag .remove-btn {
+            background: none;
+            border: none;
+            color: #dc3545;
+            cursor: pointer;
+            font-size: 0.8rem;
+            padding: 0;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .food-tag .remove-btn:hover {
+            background: #dc3545;
+            color: white;
+        }
+
+        .suggestion-card {
+            background: linear-gradient(135deg, #e3f2fd, #f3e5f5);
+            padding: 2rem 1.5rem;
+            border-radius: 1.5rem;
+            text-align: center;
+            border: 2px solid #e1bee7;
+            margin-bottom: 1.5rem;
+        }
+
+        .suggestion-label {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .suggestion-food {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 1.5rem;
+        }
+
+        .decision-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+        }
+
+        .stats-toggle {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .stats-toggle button {
+            background: none;
+            border: none;
+            color: #666;
+            cursor: pointer;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin: 0 auto;
+            padding: 0.5rem;
+            border-radius: 0.5rem;
+            transition: color 0.2s;
+        }
+
+        .stats-toggle button:hover {
+            color: #333;
+            background: #f8f9fa;
+        }
+
+        .stats-panel {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 1rem;
+            display: none;
+        }
+
+        .stats-panel.show {
+            display: block;
+        }
+
+        .stats-panel h3 {
+            font-size: 1.1rem;
+            color: #333;
+            margin-bottom: 1rem;
+        }
+
+        .stats-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #e9ecef;
+            font-size: 0.9rem;
+        }
+
+        .stats-item:last-child {
+            border-bottom: none;
+        }
+
+        .stats-item .food-name {
+            font-weight: 600;
+        }
+
+        .stats-item .stats-data {
+            text-align: right;
+        }
+
+        .stats-data .score {
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 0.2rem;
+        }
+
+        .stats-data .ratio {
+            font-size: 0.8rem;
+            color: #888;
+        }
+
+        .recent-decisions {
+            margin-top: 1.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .recent-decisions h4 {
+            font-size: 0.95rem;
+            color: #555;
+            margin-bottom: 0.75rem;
+        }
+
+        .decision-item {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: #666;
+            padding: 0.25rem 0;
+        }
+
+        .manual-log-container {
+            background: #f0f8ff;
+            padding: 1.5rem;
+            border-radius: 1rem;
+            border: 2px solid #e3f2fd;
+        }
+
+        .manual-select {
+            flex: 1;
+            padding: 0.75rem;
+            border: 2px solid #e9ecef;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            outline: none;
+            background: white;
+            transition: border-color 0.2s;
+        }
+
+        .manual-select:focus {
+            border-color: #2196f3;
+        }
+
+        .manual-help-text {
+            margin-top: 0.75rem;
+            font-size: 0.85rem;
+            color: #666;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .manual-success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            margin-top: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🍽️ Food Genius</h1>
+            <p>Smart food suggestions that learn your taste</p>
+        </div>
+
+        <!-- Context Bar -->
+        <div class="context-bar">
+            <div class="context-item">
+                <span>🕐</span>
+                <span id="time-context">loading...</span>
+            </div>
+            <div class="context-item">
+                <span>📅</span>
+                <span id="day-context">loading...</span>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Add Food Section -->
+            <div class="section">
+                <h2>Your Food Options</h2>
+                <div class="input-group">
+                    <input type="text" id="new-food-input" placeholder="Add new food option..." />
+                    <button class="btn btn-primary" onclick="addFood()">➕</button>
+                </div>
+                <div class="food-tags" id="food-tags"></div>
+            </div>
+
+            <!-- Manual Log Section -->
+            <div class="section">
+                <h2>Already Know What You Want?</h2>
+                <div class="manual-log-container">
+                    <div class="input-group">
+                        <select id="manual-food-select" class="manual-select">
+                            <option value="">Choose what you're eating...</option>
+                        </select>
+                        <button class="btn btn-primary" onclick="logManualChoice()">📝 Log It</button>
+                    </div>
+                    <p class="manual-help-text">Tell me what you're eating so I can learn your preferences!</p>
+                </div>
+            </div>
+
+            <!-- Suggestion Section -->
+            <div class="section">
+                <div id="suggestion-container" style="text-align: center;">
+                    <button class="btn btn-large" onclick="generateSuggestion()">
+                        Get Food Suggestion! 🎲
+                    </button>
+                </div>
+            </div>
+
+            <!-- Stats Section -->
+            <div class="stats-toggle">
+                <button onclick="toggleStats()">
+                    📊 <span id="stats-toggle-text">Show Learning Stats</span>
+                </button>
+            </div>
+
+            <div class="stats-panel" id="stats-panel">
+                <h3>Preference Learning</h3>
+                <div id="stats-list"></div>
+                <div class="recent-decisions" id="recent-decisions"></div>
+            </div>
+            
+            <!-- Data Management Section -->
+            <div class="section">
+                <h2>Data Management</h2>
+                <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
+                    <button class="btn btn-danger" onclick="clearStorage()" style="flex: 1; min-width: 120px;">
+                        🗑️ Clear Storage
+                    </button>
+                    <button class="btn btn-primary" onclick="exportData()" style="flex: 1; min-width: 120px;">
+                        📤 Export Data
+                    </button>
+                    <button class="btn btn-primary" onclick="importData()" style="flex: 1; min-width: 120px;">
+                        📥 Import Data
+                    </button>
+                </div>
+                <input type="file" id="import-file" accept=".json" class="hidden" onchange="handleImportFile(event)">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global state
+        let foodOptions = [];
+        let preferences = {};
+        let history = [];
+        let currentSuggestion = null;
+        let showingStats = false;
+
+        // Initialize app
+        function initializeApp() {
+            loadData();
+            updateContext();
+            renderFoodTags();
+            updateManualSelect();
+            renderStats();
+
+            // Set up input handler
+            document.getElementById('new-food-input').addEventListener('keypress', function (e) {
+                if (e.key === 'Enter') {
+                    addFood();
+                }
+            });
+
+            // Set up event delegation for remove buttons
+            document.getElementById('food-tags').addEventListener('click', function (e) {
+                if (e.target.classList.contains('remove-btn')) {
+                    const food = e.target.getAttribute('data-food');
+                    if (food) {
+                        removeFood(food);
+                    }
+                }
+            });
+
+            // Update context every minute
+            setInterval(updateContext, 60000);
+        }
+
+        // Load data from localStorage
+        function loadData() {
+            try {
+                if (typeof (Storage) !== "undefined" && localStorage) {
+                    const savedFoodOptions = localStorage.getItem('foodOptions');
+                    const savedPreferences = localStorage.getItem('preferences');
+                    const savedHistory = localStorage.getItem('history');
+
+                    foodOptions = savedFoodOptions ? JSON.parse(savedFoodOptions) :
+                        ['Pizza', 'Burger', 'Sushi', 'Pasta', 'Salad'];
+
+                    preferences = savedPreferences ? JSON.parse(savedPreferences) : {};
+                    history = savedHistory ? JSON.parse(savedHistory) : [];
+                } else {
+                    console.warn('localStorage not available - using defaults');
+                    foodOptions = ['Pizza', 'Burger', 'Sushi', 'Pasta', 'Salad'];
+                    preferences = {};
+                    history = [];
+                }
+
+                // Initialize preferences for existing foods
+                initializePreferences();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                // Fallback to defaults
+                foodOptions = ['Pizza', 'Burger', 'Sushi', 'Pasta', 'Salad'];
+                preferences = {};
+                history = [];
+                initializePreferences();
+            }
+        }
+
+        // Save data to localStorage
+        function saveData() {
+            try {
+                if (typeof (Storage) !== "undefined" && localStorage) {
+                    localStorage.setItem('foodOptions', JSON.stringify(foodOptions));
+                    localStorage.setItem('preferences', JSON.stringify(preferences));
+                    localStorage.setItem('history', JSON.stringify(history));
+                } else {
+                    console.warn('localStorage not available - data will not persist');
+                }
+            } catch (error) {
+                console.error('Error saving data:', error);
+                // Could show user notification here if needed
+            }
+        }
+
+        // Initialize preferences for foods
+        function initializePreferences() {
+            foodOptions.forEach(food => {
+                if (!preferences[food]) {
+                    preferences[food] = {
+                        score: 1.0,
+                        acceptCount: 0,
+                        declineCount: 0,
+                        timePatterns: {},
+                        dayPatterns: {},
+                        lastAccepted: null
+                    };
+                }
+            });
+        }
+
+        // Get current context
+        function getCurrentContext() {
+            const now = new Date();
+            const hour = now.getHours();
+            const day = now.getDay();
+
+            let timeOfDay;
+            if (hour < 11) timeOfDay = 'morning';
+            else if (hour < 15) timeOfDay = 'lunch';
+            else if (hour < 19) timeOfDay = 'afternoon';
+            else timeOfDay = 'dinner';
+
+            return { hour, day, timeOfDay };
+        }
+
+        // Update context display
+        function updateContext() {
+            const context = getCurrentContext();
+            const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+            document.getElementById('time-context').textContent = context.timeOfDay;
+            document.getElementById('day-context').textContent = days[context.day];
+        }
+
+        // Smart suggestion algorithm
+        function getSmartSuggestion() {
+            if (foodOptions.length === 0) return null;
+
+            const context = getCurrentContext();
+            const weights = {};
+
+            foodOptions.forEach(food => {
+                const pref = preferences[food] || { score: 1.0, timePatterns: {}, dayPatterns: {} };
+                let weight = pref.score;
+
+                // Time of day bonus (reduced from 0.5 to 0.3 for better balance)
+                const timePattern = pref.timePatterns[context.timeOfDay] || 0;
+                weight += timePattern * 0.3;
+
+                // Day of week bonus (increased from 0.3 to 0.4 for better balance)
+                const dayPattern = pref.dayPatterns[context.day] || 0;
+                weight += dayPattern * 0.4;
+
+                // Recency penalty
+                if (pref.lastAccepted) {
+                    const daysSince = (Date.now() - pref.lastAccepted) / (1000 * 60 * 60 * 24);
+                    if (daysSince < 1) weight *= 0.3;
+                    else if (daysSince < 3) weight *= 0.7;
+                }
+
+                weights[food] = Math.max(0.1, weight);
+            });
+
+            // Weighted random selection
+            const totalWeight = Object.values(weights).reduce((sum, w) => sum + w, 0);
+            let random = Math.random() * totalWeight;
+
+            for (const food of foodOptions) {
+                random -= weights[food];
+                if (random <= 0) {
+                    return food;
+                }
+            }
+
+            return foodOptions[0];
+        }
+
+        // Update manual select dropdown
+        function updateManualSelect() {
+            const select = document.getElementById('manual-food-select');
+            select.innerHTML = '<option value="">Choose what you\'re eating...</option>';
+
+            foodOptions.forEach(food => {
+                const option = document.createElement('option');
+                option.value = food;
+                option.textContent = food; // textContent automatically escapes
+                select.appendChild(option);
+            });
+        }
+
+        // Log manual food choice
+        function logManualChoice() {
+            const select = document.getElementById('manual-food-select');
+            const selectedFood = select.value;
+
+            if (!selectedFood) {
+                alert('Please select a food option first!');
+                return;
+            }
+
+            const context = getCurrentContext();
+            const timestamp = Date.now();
+
+            // Update preferences (same as accepting a suggestion)
+            if (!preferences[selectedFood]) {
+                preferences[selectedFood] = {
+                    score: 1.0,
+                    acceptCount: 0,
+                    declineCount: 0,
+                    timePatterns: {},
+                    dayPatterns: {},
+                    lastAccepted: null
+                };
+            }
+
+            // Increase score and counts
+            preferences[selectedFood].score = Math.min(5.0, preferences[selectedFood].score + 0.2);
+            preferences[selectedFood].acceptCount++;
+            preferences[selectedFood].lastAccepted = timestamp;
+
+            // Update patterns
+            preferences[selectedFood].timePatterns[context.timeOfDay] =
+                (preferences[selectedFood].timePatterns[context.timeOfDay] || 0) + 0.1;
+
+            preferences[selectedFood].dayPatterns[context.day] =
+                (preferences[selectedFood].dayPatterns[context.day] || 0) + 0.1;
+
+            // Add to history (mark as manual choice)
+            history.push({
+                food: selectedFood,
+                accepted: true,
+                timestamp,
+                context,
+                manual: true  // Mark as manual entry
+            });
+
+            // Keep last 50 decisions
+            if (history.length > 50) {
+                history = history.slice(-50);
+            }
+
+            // Save data
+            saveData();
+
+            // Show success message
+            showManualSuccess(selectedFood);
+
+            // Reset selection
+            select.value = '';
+
+            // Update stats if showing
+            renderStats();
+        }
+
+        // Show success message for manual log
+        function showManualSuccess(food) {
+            const container = document.querySelector('.manual-log-container');
+
+            // Remove existing success message
+            const existingSuccess = container.querySelector('.manual-success');
+            if (existingSuccess) {
+                existingSuccess.remove();
+            }
+
+            // Add new success message
+            const successDiv = document.createElement('div');
+            successDiv.className = 'manual-success';
+            successDiv.textContent = `✅ Logged "${food}" - I'm learning your preferences!`;
+            container.appendChild(successDiv);
+
+            // Remove success message after 3 seconds
+            setTimeout(() => {
+                if (successDiv.parentNode) {
+                    successDiv.remove();
+                }
+            }, 3000);
+        }
+        function generateSuggestion() {
+            currentSuggestion = getSmartSuggestion();
+            if (!currentSuggestion) {
+                alert('Please add some food options first!');
+                return;
+            }
+
+            const container = document.getElementById('suggestion-container');
+            container.innerHTML = `
+                <div class="suggestion-card">
+                    <div class="suggestion-label">How about...</div>
+                    <div class="suggestion-food">${currentSuggestion}</div>
+                    <div class="decision-buttons">
+                        <button class="btn btn-danger" onclick="handleDecision(false)">
+                            👎 Decline
+                        </button>
+                        <button class="btn btn-success" onclick="handleDecision(true)">
+                            👍 Accept
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Handle user decision
+        function handleDecision(accepted) {
+            if (!currentSuggestion) return;
+
+            const context = getCurrentContext();
+            const timestamp = Date.now();
+
+            // Update preferences
+            const food = currentSuggestion;
+
+            if (!preferences[food]) {
+                preferences[food] = {
+                    score: 1.0,
+                    acceptCount: 0,
+                    declineCount: 0,
+                    timePatterns: {},
+                    dayPatterns: {},
+                    lastAccepted: null
+                };
+            }
+
+            if (accepted) {
+                preferences[food].score = Math.min(5.0, preferences[food].score + 0.2);
+                preferences[food].acceptCount++;
+                preferences[food].lastAccepted = timestamp;
+
+                preferences[food].timePatterns[context.timeOfDay] =
+                    (preferences[food].timePatterns[context.timeOfDay] || 0) + 0.1;
+
+                preferences[food].dayPatterns[context.day] =
+                    (preferences[food].dayPatterns[context.day] || 0) + 0.1;
+            } else {
+                preferences[food].score = Math.max(0.1, preferences[food].score - 0.1);
+                preferences[food].declineCount++;
+            }
+
+            // Add to history
+            history.push({
+                food: currentSuggestion,
+                accepted,
+                timestamp,
+                context
+            });
+
+            // Keep last 50 decisions
+            if (history.length > 50) {
+                history = history.slice(-50);
+            }
+
+            // Save data
+            saveData();
+
+            // Generate next suggestion
+            setTimeout(() => {
+                generateSuggestion();
+                renderStats();
+            }, 100);
+        }
+
+        // Add new food
+        function addFood() {
+            const input = document.getElementById('new-food-input');
+            const newFood = input.value.trim();
+
+            if (newFood && !foodOptions.includes(newFood)) {
+                foodOptions.push(newFood);
+
+                // Initialize preferences for new food
+                preferences[newFood] = {
+                    score: 1.0,
+                    acceptCount: 0,
+                    declineCount: 0,
+                    timePatterns: {},
+                    dayPatterns: {},
+                    lastAccepted: null
+                };
+
+                input.value = '';
+                saveData();
+                renderFoodTags();
+                updateManualSelect();  // Update dropdown
+                renderStats();
+            }
+        }
+
+        // Remove food
+        function removeFood(food) {
+            if (!food || !foodOptions.includes(food)) {
+                console.warn('Food not found:', food);
+                return;
+            }
+
+            foodOptions = foodOptions.filter(f => f !== food);
+            delete preferences[food];
+
+            // Reset current suggestion if it was the removed food
+            if (currentSuggestion === food) {
+                currentSuggestion = null;
+                document.getElementById('suggestion-container').innerHTML = `
+                    <button class="btn btn-large" onclick="generateSuggestion()">
+                        Get Food Suggestion! 🎲
+                    </button>
+                `;
+            }
+
+            // Check if no food options left
+            if (foodOptions.length === 0) {
+                currentSuggestion = null;
+                document.getElementById('suggestion-container').innerHTML = `
+                    <div style="text-align: center; color: #666; padding: 2rem;">
+                        <p>No food options available!</p>
+                        <p>Please add some food options above to get suggestions.</p>
+                    </div>
+                `;
+            }
+
+            saveData();
+            renderFoodTags();
+            updateManualSelect();  // Update dropdown
+            renderStats();
+        }
+
+        // Render food tags
+        function renderFoodTags() {
+            const container = document.getElementById('food-tags');
+            container.innerHTML = foodOptions.map(food => `
+                <div class="food-tag">
+                    <span>${escapeHtml(food)}</span>
+                    <button class="remove-btn" data-food="${escapeHtml(food)}" title="Remove">✕</button>
+                </div>
+            `).join('');
+        }
+
+        // Escape HTML to prevent XSS and syntax issues
+        function escapeHtml(unsafe) {
+            return unsafe
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Toggle stats
+        function toggleStats() {
+            showingStats = !showingStats;
+            const panel = document.getElementById('stats-panel');
+            const toggleText = document.getElementById('stats-toggle-text');
+
+            if (showingStats) {
+                panel.classList.add('show');
+                toggleText.textContent = 'Hide Learning Stats';
+                renderStats();
+            } else {
+                panel.classList.remove('show');
+                toggleText.textContent = 'Show Learning Stats';
+            }
+        }
+
+        // Render stats
+        function renderStats() {
+            if (!showingStats) return;
+
+            const stats = Object.entries(preferences).map(([food, pref]) => ({
+                food,
+                score: pref.score.toFixed(1),
+                accepted: pref.acceptCount,
+                declined: pref.declineCount,
+                ratio: pref.acceptCount + pref.declineCount > 0
+                    ? (pref.acceptCount / (pref.acceptCount + pref.declineCount) * 100).toFixed(0) + '%'
+                    : 'No data'
+            })).sort((a, b) => parseFloat(b.score) - parseFloat(a.score));
+
+            const statsContainer = document.getElementById('stats-list');
+            statsContainer.innerHTML = stats.map(stat => `
+                <div class="stats-item">
+                    <span class="food-name">${stat.food}</span>
+                    <div class="stats-data">
+                        <div class="score">Score: ${stat.score}</div>
+                        <div class="ratio">${stat.accepted}✓ ${stat.declined}✗ (${stat.ratio})</div>
+                    </div>
+                </div>
+            `).join('');
+
+            // Render recent decisions
+            const recentContainer = document.getElementById('recent-decisions');
+            if (history.length > 0) {
+                const recentDecisions = history.slice(-5).reverse();
+                recentContainer.innerHTML = `
+                    <h4>Recent Decisions</h4>
+                    ${recentDecisions.map(decision => `
+                        <div class="decision-item">
+                            <span>${decision.food}</span>
+                            <span>${decision.accepted ? '✓' : '✗'} ${decision.context.timeOfDay} ${decision.manual ? '(manual)' : ''}</span>
+                        </div>
+                    `).join('')}
+                `;
+                recentContainer.style.display = 'block';
+            } else {
+                recentContainer.style.display = 'none';
+            }
+        }
+
+        // Clear all stored data
+        function clearStorage() {
+            if (confirm("Are you sure you want to clear all stored data? This cannot be undone.")) {
+                try {
+                    if (typeof(Storage) !== "undefined" && localStorage) {
+                        localStorage.removeItem('foodOptions');
+                        localStorage.removeItem('preferences');
+                        localStorage.removeItem('history');
+                        
+                        // Reload the page to reset the app with default values
+                        location.reload();
+                    } else {
+                        alert("localStorage is not available in your browser. Data cannot be cleared.");
+                    }
+                } catch (error) {
+                    console.error('Error clearing storage:', error);
+                    alert("An error occurred while clearing storage: " + error.message);
+                }
+            }
+        }
+
+        // Export data as JSON file
+        function exportData() {
+            try {
+                const data = {
+                    foodOptions: foodOptions,
+                    preferences: preferences,
+                    history: history
+                };
+                
+                const jsonData = JSON.stringify(data, null, 2);
+                const blob = new Blob([jsonData], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'food-genius-data.json';
+                document.body.appendChild(a);
+                a.click();
+                
+                // Clean up
+                setTimeout(() => {
+                    document.body.removeChild(a);
+                    URL.revokeObjectURL(url);
+                }, 100);
+            } catch (error) {
+                console.error('Error exporting data:', error);
+                alert("An error occurred while exporting data: " + error.message);
+            }
+        }
+
+        // Trigger file import
+        function importData() {
+            document.getElementById('import-file').click();
+        }
+
+        // Handle imported file
+        function handleImportFile(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    
+                    // Validate data structure more thoroughly
+                    if (!isValidImportData(data)) {
+                        throw new Error("Invalid data structure");
+                    }
+                    
+                    // Confirm with user before importing
+                    if (confirm("Import this data? This will overwrite your current data.")) {
+                        foodOptions = data.foodOptions;
+                        preferences = data.preferences;
+                        history = data.history;
+                        
+                        // Save and refresh
+                        saveData();
+                        location.reload();
+                    }
+                } catch (error) {
+                    console.error('Error importing data:', error);
+                    alert("Invalid file or data format. Please select a valid exported JSON file.");
+                }
+            };
+            
+            reader.onerror = function() {
+                alert("Error reading file.");
+            };
+            
+            reader.readAsText(file);
+            
+            // Reset file input
+            event.target.value = '';
+        }
+
+        // Validate imported data structure
+        function isValidImportData(data) {
+            // Check if data has the required top-level properties
+            if (!data.hasOwnProperty('foodOptions') || 
+                !data.hasOwnProperty('preferences') || 
+                !data.hasOwnProperty('history')) {
+                return false;
+            }
+            
+            // Check if foodOptions is an array
+            if (!Array.isArray(data.foodOptions)) {
+                return false;
+            }
+            
+            // Check if preferences is an object
+            if (typeof data.preferences !== 'object' || data.preferences === null) {
+                return false;
+            }
+            
+            // Check if history is an array
+            if (!Array.isArray(data.history)) {
+                return false;
+            }
+            
+            // Validate each food option
+            for (const food of data.foodOptions) {
+                if (typeof food !== 'string' || food.trim() === '') {
+                    return false;
+                }
+            }
+            
+            // Validate preferences structure
+            for (const [food, pref] of Object.entries(data.preferences)) {
+                if (typeof food !== 'string' || food.trim() === '') {
+                    return false;
+                }
+                
+                if (!pref || typeof pref !== 'object') {
+                    return false;
+                }
+                
+                // Check required preference properties
+                const requiredProps = ['score', 'acceptCount', 'declineCount', 'timePatterns', 'dayPatterns', 'lastAccepted'];
+                for (const prop of requiredProps) {
+                    if (!pref.hasOwnProperty(prop)) {
+                        return false;
+                    }
+                }
+                
+                // Validate property types
+                if (typeof pref.score !== 'number' || 
+                    typeof pref.acceptCount !== 'number' || 
+                    typeof pref.declineCount !== 'number' ||
+                    typeof pref.timePatterns !== 'object' ||
+                    typeof pref.dayPatterns !== 'object' ||
+                    (pref.lastAccepted !== null && typeof pref.lastAccepted !== 'number')) {
+                    return false;
+                }
+            }
+            
+            // Validate history items
+            for (const item of data.history) {
+                if (!item || typeof item !== 'object') {
+                    return false;
+                }
+                
+                // Check required history properties
+                const requiredProps = ['food', 'accepted', 'timestamp', 'context'];
+                for (const prop of requiredProps) {
+                    if (!item.hasOwnProperty(prop)) {
+                        return false;
+                    }
+                }
+                
+                // Validate property types
+                if (typeof item.food !== 'string' || 
+                    typeof item.accepted !== 'boolean' || 
+                    typeof item.timestamp !== 'number' ||
+                    typeof item.context !== 'object') {
+                    return false;
+                }
+                
+                // Validate context structure
+                const context = item.context;
+                if (!context.hasOwnProperty('hour') || 
+                    !context.hasOwnProperty('day') || 
+                    !context.hasOwnProperty('timeOfDay')) {
+                    return false;
+                }
+                
+                if (typeof context.hour !== 'number' || 
+                    typeof context.day !== 'number' || 
+                    typeof context.timeOfDay !== 'string') {
+                    return false;
+                }
+            }
+            
+            return true;
+        }
+
+        // Initialize app when page loads
+        document.addEventListener('DOMContentLoaded', initializeApp);
+        
+        // Register service worker for offline capability
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/food/service-worker.js')
+                    .then(function(registration) {
+                        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                    })
+                    .catch(function(err) {
+                        console.log('ServiceWorker registration failed: ', err);
+                    });
+            });
+        }
+    </script>
+</body>
+
+</html>
