@@ -1,0 +1,447 @@
+{
+  "1": {
+    "question": "According to the definition provided in the document, what is a map primarily considered?",
+    "answer": "D",
+    "options": {
+      "A": "A complex display that includes all details of Earth's surface",
+      "B": "A comprehensive, exact replica of geographic reality",
+      "C": "A digital-only tool for geographic information",
+      "D": "A representation or abstraction of geographic reality"
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "Which of the following statements accurately describe a map, as presented in the document?",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "It reflects a reduced and simplified appearance of Earth's surface.",
+      "B": "It is a tool for presenting geographic information.",
+      "C": "It must always be tactile.",
+      "D": "It represents the object of our world, geographic reality."
+    },
+    "question_type": "multiple_select"
+  },
+  "3": {
+    "question": "What primary characteristics does spatial data indicate regarding Earth locations?",
+    "answer": "A",
+    "options": {
+      "A": "Latitude, longitude, height, and depth",
+      "B": "Political boundaries and administrative zones",
+      "C": "Population density and economic output",
+      "D": "Land use classifications and vegetation types"
+    },
+    "question_type": "single_select"
+  },
+  "4": {
+    "question": "How is spatial data utilized when a map is rendered?",
+    "answer": "D",
+    "options": {
+      "A": "To solely store historical geographic information without visualization.",
+      "B": "To determine the most efficient routes for transportation.",
+      "C": "To automatically generate new geographic features.",
+      "D": "To project object locations onto a two-dimensional display, preserving relative positions."
+    },
+    "question_type": "single_select"
+  },
+  "5": {
+    "question": "What is a key role of a Geographic Information System (GIS) in relation to spatial data?",
+    "answer": "D",
+    "options": {
+      "A": "To only analyze non-spatial data attributes.",
+      "B": "To convert two-dimensional data into three-dimensional models only.",
+      "C": "To exclusively generate static images of maps.",
+      "D": "To make spatial data management easier and more natural."
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "Which of the following are basic components of spatial or geographic data that maps can deal with?",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "Time",
+      "B": "Location (geometry)",
+      "C": "Economic forecasts",
+      "D": "Characteristic (thematic attributes)"
+    },
+    "question_type": "multiple_select"
+  },
+  "7": {
+    "question": "Beyond simply locating geographic objects, what additional benefit do maps offer users?",
+    "answer": "A",
+    "options": {
+      "A": "They provide insights and overviews of the distribution of a particular phenomenon.",
+      "B": "They only display exact elevation values.",
+      "C": "They randomize the order of variables for objectivity.",
+      "D": "They automatically correct any inaccuracies in the source data."
+    },
+    "question_type": "single_select"
+  },
+  "8": {
+    "question": "What is a core ability of maps concerning their representation of reality?",
+    "answer": "B",
+    "options": {
+      "A": "To present a complete, unsimplified view of the Earth.",
+      "B": "To offer an abstraction of reality by simplifying details.",
+      "C": "To only show details relevant to political boundaries.",
+      "D": "To perfectly replicate all real-world details."
+    },
+    "question_type": "single_select"
+  },
+  "9": {
+    "question": "How does a map achieve a 'clear perspective' despite simplifying reality?",
+    "answer": "B",
+    "options": {
+      "A": "By ensuring all variables are arranged alphabetically.",
+      "B": "By leaving out certain details while clearly presenting remaining information.",
+      "C": "By randomizing the order of features to ensure objectivity.",
+      "D": "By including every city, mountain, and natural phenomenon."
+    },
+    "question_type": "single_select"
+  },
+  "10": {
+    "question": "What is the primary characteristic that distinguishes a thematic map from a topographic map?",
+    "answer": "C",
+    "options": {
+      "A": "Thematic maps use satellite imagery, while topographic maps do not.",
+      "B": "Thematic maps exclude all geographic references.",
+      "C": "Thematic maps primarily represent the distribution of a specific theme.",
+      "D": "Topographic maps are limited by scale, while thematic maps are not."
+    },
+    "question_type": "single_select"
+  },
+  "11": {
+    "question": "Which type of map is designed to visualize the Earth's surface as accurately as possible and often includes infrastructure details like railways and roads?",
+    "answer": "A",
+    "options": {
+      "A": "Topographic Map",
+      "B": "Choropleth Map",
+      "C": "Dot Density Map",
+      "D": "Thematic Map"
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "What does 'four-dimensionality' in the context of spatial visualization primarily involve?",
+    "answer": "B",
+    "options": {
+      "A": "Simplifying the data to reduce visual clutter.",
+      "B": "Incorporating time as an additional dimension.",
+      "C": "Representing only static geographical features.",
+      "D": "Adding a third spatial axis."
+    },
+    "question_type": "single_select"
+  },
+  "13": {
+    "question": "Visualizing 'change process' is a key demand when representing which type of reality in maps?",
+    "answer": "B",
+    "options": {
+      "A": "One-dimensional data",
+      "B": "Three-dimensional reality",
+      "C": "Two-dimensional reality",
+      "D": "Abstract conceptual space"
+    },
+    "question_type": "single_select"
+  },
+  "14": {
+    "question": "How should the effectiveness of a spatial data visualization be primarily evaluated according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "By ensuring the map uses only primary colors.",
+      "B": "By measuring the file size of the generated map.",
+      "C": "By testing it with real map users for comprehension and feedback.",
+      "D": "By counting the number of geographic features included."
+    },
+    "question_type": "single_select"
+  },
+  "15": {
+    "question": "The guiding question for the visualization process, 'How to say what to whom, and is it effective?', implies which key aspects?",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "The choice of data encryption methods.",
+      "B": "The clarity and success of communication ('effective').",
+      "C": "The content being communicated ('what').",
+      "D": "The target audience ('whom')."
+    },
+    "question_type": "multiple_select"
+  },
+  "16": {
+    "question": "In the context of map elements, what does the 'figure' refer to?",
+    "answer": "A",
+    "options": {
+      "A": "The thing or place being mapped.",
+      "B": "The line drawn around the map content.",
+      "C": "The overall background of the map.",
+      "D": "The source of the data used in the map."
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "Which of the following are considered 'main elements' of a map?",
+    "answer": [
+      "A",
+      "B"
+    ],
+    "options": {
+      "A": "Figure",
+      "B": "Ground",
+      "C": "Legend",
+      "D": "Title"
+    },
+    "question_type": "multiple_select"
+  },
+  "18": {
+    "question": "What is the common overarching goal of both 'present' and 'explore' map visualization strategies?",
+    "answer": "B",
+    "options": {
+      "A": "To reduce the cognitive load on the map designer.",
+      "B": "To search for spatial, temporal, or spatio-temporal patterns, relationships, or trends.",
+      "C": "To solely create static map products.",
+      "D": "To simplify all data to only show primary geographic features."
+    },
+    "question_type": "single_select"
+  },
+  "19": {
+    "question": "Which map visualization strategy is typically associated with 'unknown data sets' and supports 'private visual thinking'?",
+    "answer": "D",
+    "options": {
+      "A": "The 'present' strategy",
+      "B": "The 'publish' strategy",
+      "C": "The 'communicate' strategy",
+      "D": "The 'explore' strategy"
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "What is the primary reason for adhering to cartographic design rules?",
+    "answer": "B",
+    "options": {
+      "A": "To minimize the data file size of the map.",
+      "B": "To guarantee that resulting maps are easily understood by users.",
+      "C": "To ensure the map includes decorative graphics.",
+      "D": "To prevent the use of multiple font styles."
+    },
+    "question_type": "single_select"
+  },
+  "21": {
+    "question": "Which of the following are explicitly mentioned as elements or concepts within the Cartographic Visual Communication Process cycle?",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Map",
+      "B": "Data encryption",
+      "C": "Information analysis",
+      "D": "User"
+    },
+    "question_type": "multiple_select"
+  },
+  "22": {
+    "question": "In cartography, what is typically represented by 'lines' on a map?",
+    "answer": "B",
+    "options": {
+      "A": "Population centers.",
+      "B": "Administrative boundaries.",
+      "C": "Individual buildings or landmarks.",
+      "D": "Vegetation stands."
+    },
+    "question_type": "single_select"
+  },
+  "23": {
+    "question": "Which type of symbol is typically used to distinguish different vegetation stands or land use zones on a map?",
+    "answer": "D",
+    "options": {
+      "A": "Line",
+      "B": "Text",
+      "C": "Point",
+      "D": "Area"
+    },
+    "question_type": "single_select"
+  },
+  "24": {
+    "question": "Which of the following is NOT listed as one of the six categories of visual variables in cartography?",
+    "answer": "D",
+    "options": {
+      "A": "Shape",
+      "B": "Size",
+      "C": "Value",
+      "D": "Language"
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "What are the six categories of visual variables commonly employed in map design?",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Brightness",
+      "B": "Value",
+      "C": "Size",
+      "D": "Texture"
+    },
+    "question_type": "multiple_select"
+  },
+  "26": {
+    "question": "How do visual variables contribute to conveying 'order' on a map?",
+    "answer": "A",
+    "options": {
+      "A": "By representing a range from low to high using light and dark color tints.",
+      "B": "By using bright, contrasting colors for all categories.",
+      "C": "By randomizing the orientation of symbols.",
+      "D": "By ensuring all symbols are the same size."
+    },
+    "question_type": "single_select"
+  },
+  "27": {
+    "question": "Which of the following aspects of a mapped theme can be effectively conveyed using visual variables?",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "The specific font style of text labels",
+      "B": "An instant overview of the mapped theme",
+      "C": "Quantities or amounts of a phenomenon",
+      "D": "Equal importance among features"
+    },
+    "question_type": "multiple_select"
+  },
+  "28": {
+    "question": "Which visual variable is primarily used to represent 'equal importance' on a map, typically with nominal data?",
+    "answer": "B",
+    "options": {
+      "A": "Grain/Texture",
+      "B": "Colour hue",
+      "C": "Value",
+      "D": "Size"
+    },
+    "question_type": "single_select"
+  },
+  "29": {
+    "question": "For which measurement scales can the visual variable 'size' be used to represent order and quantities?",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "Ratio",
+      "B": "Interval",
+      "C": "Nominal",
+      "D": "Ordinal"
+    },
+    "question_type": "multiple_select"
+  },
+  "30": {
+    "question": "When mapping qualitative data where no unit is more important than others, what is the best solution for differentiating between units?",
+    "answer": "C",
+    "options": {
+      "A": "Applying varying tints of black to show differences in value.",
+      "B": "Employing bright, contrasting colors to make specific units stand out.",
+      "C": "Using colors of equal visual weight or brightness.",
+      "D": "Leaving out certain details to simplify the map."
+    },
+    "question_type": "single_select"
+  },
+  "31": {
+    "question": "What is a potential negative consequence of misusing tints of black or bright, contrasting colors in a qualitative map?",
+    "answer": [
+      "A",
+      "C"
+    ],
+    "options": {
+      "A": "It may cause perception confusion by suggesting non-existent importance differences.",
+      "B": "It limits the ability to render more than seven variables.",
+      "C": "It can give the map an unbalanced look.",
+      "D": "It will always improve the readability of variable scales."
+    },
+    "question_type": "multiple_select"
+  },
+  "32": {
+    "question": "What is a key consideration when designing a map for absolute quantitative data, such as the number of people living in each city?",
+    "answer": "A",
+    "options": {
+      "A": "Allowing the user to determine the amount per city and offer an overview of distribution.",
+      "B": "Ensuring that the map only uses monochrome colors.",
+      "C": "Making sure the largest units are visually subtle.",
+      "D": "Prioritizing aesthetic appeal over data representation."
+    },
+    "question_type": "single_select"
+  },
+  "33": {
+    "question": "What is a potential pitfall when using colors to represent absolute quantitative data on a map?",
+    "answer": "C",
+    "options": {
+      "A": "Applying colors of equal visual weight or brightness across all units.",
+      "B": "Using a sequential color scheme from light to dark.",
+      "C": "Using colors that do not visually convey the differences in quantities.",
+      "D": "Mapping the data in a three-dimensional view."
+    },
+    "question_type": "single_select"
+  },
+  "34": {
+    "question": "What is the recommended method for mapping relative quantities like population density?",
+    "answer": "B",
+    "options": {
+      "A": "Using a variety of bright, contrasting colors for each density level.",
+      "B": "Using light tints for low density and dark tints for high density.",
+      "C": "Representing density solely through symbol orientation.",
+      "D": "Applying random color assignments to each geographic unit."
+    },
+    "question_type": "single_select"
+  },
+  "35": {
+    "question": "Why is it important to use a sequential tint scale (e.g., light to dark) when mapping relative quantities?",
+    "answer": "C",
+    "options": {
+      "A": "To ensure the map can only be interpreted by experts.",
+      "B": "To make the map appear more artistic.",
+      "C": "To allow the reader to intuitively associate dark colors with high density and light values with low density.",
+      "D": "To reduce the overall file size of the map."
+    },
+    "question_type": "single_select"
+  },
+  "36": {
+    "question": "Which of the following methods are mentioned as ways to visualize time series data on a map?",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "A heatmap with static values",
+      "B": "A simulation of an animation (showing continuous change)",
+      "C": "A series of maps (showing distinct states chronologically)",
+      "D": "A single static map (showing one state)"
+    },
+    "question_type": "multiple_select"
+  },
+  "37": {
+    "question": "What does 'mapping time series' primarily aim to represent?",
+    "answer": "A",
+    "options": {
+      "A": "Change over time.",
+      "B": "Static geographic boundaries.",
+      "C": "Only socio-economic indicators.",
+      "D": "The distribution of a single, unchanging theme."
+    },
+    "question_type": "single_select"
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "document_summary": "This document, 'High-dimensional Data Visualization', Lecture 5, adapted from the 'Handbook of Data Visualization', introduces the concept of high-dimensional data, its challenges, and various visualization techniques designed to handle it. It covers Mosaic Plots, Trellis Displays, Heatmaps, and Parallel Coordinate Plots in detail, discussing their characteristics, applications, interactivity features, limitations, and scaling options. The document emphasizes the importance of interactivity and linked highlighting in exploring multivariate data.",
+  "knowledge_points": [
+    {
+      "id": "kp_001",
+      "title": "Purpose of High-dimensional Data Visualization",
+      "description": "High-dimensional data visualization aims to find general representations of data that can display the multivariate structure of more than two variables and to apply multivariate data visualizations.",
+      "related_questions": [
+        {
+          "question": "What are the primary goals of high-dimensional data visualization?",
+          "options": [
+            "To simplify data into two-dimensional graphs for easier viewing.",
+            "To find general representations of data that display multivariate structure.",
+            "To reduce the number of variables to only two for analysis.",
+            "To only apply univariate data visualizations."
+          ],
+          "correct_answer": "To find general representations of data that display multivariate structure.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_002",
+      "title": "Role of Interactivity in Data Visualization",
+      "description": "The amount of interactivity is a major dimension for distinguishing between exploratory and presentation graphics. Interactive linked highlighting is a key technique for effective use of graphics with high-dimensional data, helping to preserve the multivariate context.",
+      "related_questions": [
+        {
+          "question": "Which of the following statements about interactivity in data visualization for high-dimensional data are true?",
+          "options": [
+            "Interactivity is mainly used for presentation graphics.",
+            "Interactive linked highlighting helps preserve multivariate context.",
+            "The amount of interactivity is a key differentiator between exploratory and presentation graphics.",
+            "Interactivity is only relevant for low-dimensional datasets."
+          ],
+          "correct_answer": [
+            "Interactive linked highlighting helps preserve multivariate context.",
+            "The amount of interactivity is a key differentiator between exploratory and presentation graphics."
+          ],
+          "question_type": "multiple_select"
+        },
+        {
+          "question": "What is the main function of interactive linked highlighting in high-dimensional data visualization?",
+          "options": [
+            "To reduce the dataset's dimensionality permanently.",
+            "To hide irrelevant variables from the user.",
+            "To preserve the multivariate context across different views.",
+            "To automate the data analysis process."
+          ],
+          "correct_answer": "To preserve the multivariate context across different views.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_003",
+      "title": "Definition and Characteristics of High-dimensional Data",
+      "description": "High-dimensional data is defined as data in which the number of features (variables observed, p) is close to or larger than the number of observations (data points, n). It has become common with new automated data collection, especially in biological sciences, and is difficult to analyze or visualize using standard statistical tools.",
+      "related_questions": [
+        {
+          "question": "What defines high-dimensional data?",
+          "options": [
+            "The number of observations (n) is significantly larger than the number of features (p).",
+            "The data contains only categorical variables.",
+            "The number of features (p) is close to or larger than the number of observations (n).",
+            "It can only be analyzed using standard statistical tools easily."
+          ],
+          "correct_answer": "The number of features (p) is close to or larger than the number of observations (n).",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Why has high-dimensional data become more common in scientific fields?",
+          "options": [
+            "Due to a decrease in data collection efforts.",
+            "Because of a shift towards simpler datasets.",
+            "Due to new automated data collection techniques.",
+            "As a result of reducing the number of variables."
+          ],
+          "correct_answer": "Due to new automated data collection techniques.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_004",
+      "title": "Types of Visualizations for High-dimensional Data",
+      "description": "The document lists several types of visualizations specifically designed for high-dimensional data: Mosaic Plot (aka Marimekko or Mekko), Trellis Displays, Heatmap, Multivariate Scatter Plot, Parallel Coordinate Plot, and Grand Tour.",
+      "related_questions": [
+        {
+          "question": "Which of the following is NOT listed as a type of visualization for high-dimensional data in the document?",
+          "options": [
+            "Trellis Displays",
+            "Pie Chart",
+            "Heatmap",
+            "Parallel Coordinate Plot"
+          ],
+          "correct_answer": "Pie Chart",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Select all visualization types mentioned in the document as suitable for high-dimensional data.",
+          "options": [
+            "Mosaic Plot",
+            "Bar Chart",
+            "Parallel Coordinate Plot",
+            "Trellis Displays"
+          ],
+          "correct_answer": [
+            "Mosaic Plot",
+            "Parallel Coordinate Plot",
+            "Trellis Displays"
+          ],
+          "question_type": "multiple_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_005",
+      "title": "Mosaic Plot Versatility and Variable Ordering",
+      "description": "Mosaic plots are extremely versatile, especially when employing interactions and variations. While statistical theory often assumes equal importance for categorical variables, real problems may differ. Correct variable ordering in mosaic plots is crucial to account for different roles of variables.",
+      "related_questions": [
+        {
+          "question": "According to Hofmann (2008) and the document, what contributes to the versatility of mosaic plots?",
+          "options": [
+            "Their ability to only display two variables at a time.",
+            "Their extreme simplicity and lack of interactive features.",
+            "The employment of all possible interaction and variations.",
+            "Their reliance on continuous data types exclusively."
+          ],
+          "correct_answer": "The employment of all possible interaction and variations.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Why is the order of variables important in mosaic plots?",
+          "options": [
+            "It affects the rendering speed of the plot.",
+            "It allows the plot to account for the different roles of the variables.",
+            "It determines the total number of categories displayed.",
+            "It helps in hiding unimportant data points."
+          ],
+          "correct_answer": "It allows the plot to account for the different roles of the variables.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_006",
+      "title": "Identifying Interaction Variables in Mosaic Plots (Detergent Data Example)",
+      "description": "In the detergent data example (Cox & Snell, 1991), the objective is to determine if detergent preference is influenced by the brand someone uses. The variables 'M-user' (person used brand M before study) and 'Preference' (brand person prefers after test) are identified as key for showing interaction.",
+      "related_questions": [
+        {
+          "question": "In the Mosaic Plot example with Detergent data, which variables are specifically mentioned as indicating interaction?",
+          "options": [
+            "Water Softness and Temperature",
+            "M-user and Preference",
+            "Temperature and M-user",
+            "Water Softness and Preference"
+          ],
+          "correct_answer": "M-user and Preference",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_007",
+      "title": "Optimal Variable Placement in Mosaic Plots",
+      "description": "For efficient investigation of association in mosaic plots, the interaction of interest should be placed in the last two positions. Variables that condition an effect should be placed first. To avoid unnecessary clutter, variables with only a few categories should be placed first, especially if they are equally important.",
+      "related_questions": [
+        {
+          "question": "For efficient investigation of associations in a mosaic plot, where should the interaction of interest be positioned?",
+          "options": [
+            "In the first two positions.",
+            "In the middle positions.",
+            "In the last two positions.",
+            "The position does not matter."
+          ],
+          "correct_answer": "In the last two positions.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is recommended for variable placement in a mosaic plot to avoid unnecessary clutter with equally important variables?",
+          "options": [
+            "Randomize the order of all variables.",
+            "Place variables with the most categories first.",
+            "Place variables with only a few categories first.",
+            "Hide variables with many categories."
+          ],
+          "correct_answer": "Place variables with only a few categories first.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_008",
+      "title": "Handling Empty Cells and Interactivity in Mosaic Plots",
+      "description": "Empty cells are common in high-dimensional mosaic plots due to the curse of dimensionality. To reduce the number of plotted cells, variables creating empty cells at high levels should be sought to avoid further division. If the last variable is a binary factor, cell reduction can be achieved by linking via highlighting. Interactive mosaic plots allow adding/dropping or changing variables to efficiently explore potential interactions and reveal features.",
+      "related_questions": [
+        {
+          "question": "Why are empty cell combinations common in high-dimensional mosaic plots?",
+          "options": [
+            "Because the plot is incorrectly ordered.",
+            "Due to missing data in the dataset.",
+            "As a result of low data dimensionality.",
+            "Due to the curse of dimensionality leading to sparse category intersections."
+          ],
+          "correct_answer": "Due to the curse of dimensionality leading to sparse category intersections.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Which interactive feature is highlighted as efficient for looking for potential interactions between variables in mosaic plots?",
+          "options": [
+            "Automated layout generation.",
+            "Fixed panel arrangements.",
+            "Adding, dropping, or changing variables displayed.",
+            "Converting all variables to continuous types."
+          ],
+          "correct_answer": "Adding, dropping, or changing variables displayed.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_009",
+      "title": "Visualizing Response Models with Mosaic Plots",
+      "description": "For datasets with a single dependent categorical outcome and several categorical influencing factors (response models), the best graphical representation is to put all influencing factors in a mosaic plot and link the dependent variable with a bar chart.",
+      "related_questions": [
+        {
+          "question": "What is the recommended graphical representation for a response model in a mosaic plot with a single dependent categorical outcome and multiple categorical influencing factors?",
+          "options": [
+            "Represent all factors as continuous variables.",
+            "Link the dependent variable with a bar chart and put influencing factors in the mosaic plot.",
+            "Use a scatter plot for all variables.",
+            "Display only the dependent variable as a pie chart."
+          ],
+          "correct_answer": "Link the dependent variable with a bar chart and put influencing factors in the mosaic plot.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_010",
+      "title": "Visualizing Association Models with Mosaic Plots",
+      "description": "An alternative to log-linear models with mosaic plots is to plot expected values instead of observed values. Mosaic plots can visualize any continuous variable for crossings of categorical data, including counts, expected values, or other positive values. An increasing interaction between certain variables (e.g., M-user and Preference) would suggest a higher-order interaction model.",
+      "related_questions": [
+        {
+          "question": "What is an alternative approach to using log-linear models with mosaic plots for association models?",
+          "options": [
+            "Plotting only the observed values.",
+            "Plotting the expected values instead of the observed values.",
+            "Using a heatmap instead of a mosaic plot.",
+            "Limiting the plot to only two variables."
+          ],
+          "correct_answer": "Plotting the expected values instead of the observed values.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Besides counts, what other types of continuous variables can a mosaic plot visualize for crossings of categorical data?",
+          "options": [
+            "Only nominal values.",
+            "Only negative values.",
+            "Expected values of a model or any other positive value.",
+            "Only values above a certain threshold."
+          ],
+          "correct_answer": "Expected values of a model or any other positive value.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_011",
+      "title": "Characteristics of Trellis Displays",
+      "description": "Trellis displays, introduced by Becker et al. (1996), visualize multivariate data using a grid-like structure. Each plot in a trellis display is conditioned upon at least one other variable. A key feature for comparability is that the same scales are used across all panel plots (rows and columns).",
+      "related_questions": [
+        {
+          "question": "Which characteristic distinguishes trellis displays from other high-dimensional plots in terms of comparison across panels?",
+          "options": [
+            "Use of unique axis scaling per panel.",
+            "Ability to render more than seven variables.",
+            "Uniform glyph representation.",
+            "Common scale across panels for accurate comparison."
+          ],
+          "correct_answer": "Common scale across panels for accurate comparison.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is a defining structural characteristic of trellis displays?",
+          "options": [
+            "They are always circular plots.",
+            "They plot data in a grid-like structure conditioned on subgroups.",
+            "They only display data in three dimensions.",
+            "They represent all variables on a single axis."
+          ],
+          "correct_answer": "They plot data in a grid-like structure conditioned on subgroups.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_012",
+      "title": "Variable Types and Annotation in Trellis Displays",
+      "description": "A single trellis display can hold up to seven variables: typically five categorical (conditioning variables) and two continuous (adjunct variables). Strip labels are plotted atop each panel plot to annotate the conditioning categories. Adjunct variables can be coded using different glyphs and colors.",
+      "related_questions": [
+        {
+          "question": "What is the maximum number of variables a single trellis display can hold in principle?",
+          "options": [
+            "Three",
+            "Five",
+            "Seven",
+            "Ten"
+          ],
+          "correct_answer": "Seven",
+          "question_type": "single_select"
+        },
+        {
+          "question": "In a trellis display, what is the purpose of 'strip labels'?",
+          "options": [
+            "To provide a legend for glyphs.",
+            "To annotate the conditioning categories of each panel plot.",
+            "To indicate the overall title of the display.",
+            "To mark outliers in the data."
+          ],
+          "correct_answer": "To annotate the conditioning categories of each panel plot.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_013",
+      "title": "The Concept of Shingling in Trellis Displays",
+      "description": "Trellis displays introduce the concept of 'shingles'. Shingling is the process of dividing a continuous variable into possibly overlapping intervals to convert it into a discrete variable. Overlapping shingles lead to multiple representations of data within a trellis display. While shingle intervals can be shown in strip labels, this information can be hard to read.",
+      "related_questions": [
+        {
+          "question": "In a trellis display, what role do shingles play in handling continuous variables?",
+          "options": [
+            "Aggregate them into summary statistics.",
+            "Convert them into glyphs.",
+            "Divide them into overlapping intervals to convert into discrete variables.",
+            "Plot them as separate axes."
+          ],
+          "correct_answer": "Divide them into overlapping intervals to convert into discrete variables.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is a consequence of using overlapping shingles in trellis displays?",
+          "options": [
+            "It simplifies the display by removing redundant data.",
+            "It leads to multiple representations of data within the display.",
+            "It improves the readability of strip labels.",
+            "It is only applicable to categorical variables."
+          ],
+          "correct_answer": "It leads to multiple representations of data within the display.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_014",
+      "title": "Interactivity in Trellis Displays",
+      "description": "Trellis displays can be viewed as static snapshots of interactive statistical graphics. A single view within a panel can represent the highlighted part of the graphics for a conditioned subgroup. Interactive design for Trellis displays includes selecting specific subgroups in a bar chart or mosaic plot, and brushing with linked highlighting.",
+      "related_questions": [
+        {
+          "question": "How do interactive trellis displays support exploratory data analysis?",
+          "options": [
+            "By only displaying fixed panel arrangements.",
+            "By dynamically highlighting conditioned subgroups.",
+            "By only allowing viewing of static data.",
+            "By preventing any user interaction."
+          ],
+          "correct_answer": "By dynamically highlighting conditioned subgroups.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Which of the following are examples of interactive features in trellis displays?",
+          "options": [
+            "Automatic data aggregation.",
+            "Selecting a specific subgroup in a bar chart.",
+            "Brushing with linked highlighting.",
+            "Randomizing variable order."
+          ],
+          "correct_answer": [
+            "Selecting a specific subgroup in a bar chart.",
+            "Brushing with linked highlighting."
+          ],
+          "question_type": "multiple_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_015",
+      "title": "Advantages and Suitability of Trellis Displays for Model Diagnostics",
+      "description": "The biggest advantage of trellis displays is the common scale among all plot panels, which allows for effective comparison. They are highly suitable for model diagnostics, helping to understand for which data the model fits well (or not) and allowing the incorporation of model information like fitted curves or confidence intervals for specific subgroups.",
+      "related_questions": [
+        {
+          "question": "What is the biggest advantage of trellis displays that allows for effective comparison of panel plots?",
+          "options": [
+            "Their ability to handle only two variables.",
+            "Their use of decorative graphics.",
+            "The common scale among all plot panels.",
+            "Their high rendering speed."
+          ],
+          "correct_answer": "The common scale among all plot panels.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Trellis displays are suitable for model diagnostics because they can:",
+          "options": [
+            "Only show raw data without any model information.",
+            "Help understand for which data the model fits well.",
+            "Incorporate model information like fitted curves.",
+            "Completely automate model selection."
+          ],
+          "correct_answer": [
+            "Help understand for which data the model fits well.",
+            "Incorporate model information like fitted curves."
+          ],
+          "question_type": "multiple_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_016",
+      "title": "Heatmap Definition and Use Cases",
+      "description": "A heatmap is a graphical representation of data where values are depicted by color. It is a useful visualization method for illustrating multivariate data, especially when there are many variables to compare (e.g., in big data analysis). Heatmaps are common in bioinformatics for displaying hundreds or thousands of gene expression values in one plot.",
+      "related_questions": [
+        {
+          "question": "In the context of heatmaps used in biological sciences, what makes them effective for gene expression analysis?",
+          "options": [
+            "Their reliance on bar chart overlays.",
+            "Their ability to scale gene clusters in 3D.",
+            "Their use of color gradients to represent multivariate expression levels.",
+            "Their limited capacity to display variables."
+          ],
+          "correct_answer": "Their use of color gradients to represent multivariate expression levels.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is a heatmap primarily used for?",
+          "options": [
+            "Representing single variable distributions.",
+            "Illustrating multivariate data with many variables.",
+            "Creating 3D models of data.",
+            "Displaying only text-based information."
+          ],
+          "correct_answer": "Illustrating multivariate data with many variables.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_017",
+      "title": "Purpose and Main Uses of Parallel Coordinate Plots",
+      "description": "Parallel coordinate plots are most interesting for investigating groups/clusters, outliers, and structures across many variables simultaneously. Their three main uses in exploratory data analysis are for an 'Overview', 'Profiles', and 'Monitoring'.",
+      "related_questions": [
+        {
+          "question": "What is a primary insight gained from using parallel coordinate plots?",
+          "options": [
+            "Absolute values across axes.",
+            "Improved readability of variable scales.",
+            "Effective representation of outliers only.",
+            "Investigation of groups/clusters, outliers, and structures over many variables."
+          ],
+          "correct_answer": "Investigation of groups/clusters, outliers, and structures over many variables.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Which of the following are main uses of parallel coordinate plots in exploratory data analysis?",
+          "options": [
+            "Overview",
+            "Profiles",
+            "Data entry",
+            "Monitor"
+          ],
+          "correct_answer": [
+            "Overview",
+            "Profiles",
+            "Monitor"
+          ],
+          "question_type": "multiple_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_018",
+      "title": "Limitations and Solutions for Parallel Coordinate Plots",
+      "description": "Parallel coordinate plots are useful for multivariate procedures like outlier detection or clustering. However, they quickly reach rendering limits (overplotting) with hundreds of lines. Alpha-blending is a solution: each polygon is plotted with alpha% opacity (1-alpha% transparency). Smaller alpha values enhance the visibility of high line density areas.",
+      "related_questions": [
+        {
+          "question": "Which visualization method would be least effective without interactivity, especially when dealing with hundreds of observations due to overplotting?",
+          "options": [
+            "Heatmap",
+            "Parallel coordinate plot",
+            "Mosaic plot",
+            "Trellis display"
+          ],
+          "correct_answer": "Parallel coordinate plot",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is the primary limitation of parallel coordinate plots when applied to datasets with hundreds of observations?",
+          "options": [
+            "The axes become logarithmic.",
+            "The lines lose their transparency.",
+            "The plot suffers from overplotting and visual clutter.",
+            "Too many color categories make it unreadable."
+          ],
+          "correct_answer": "The plot suffers from overplotting and visual clutter.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "How does alpha-blending help in parallel coordinate plots?",
+          "options": [
+            "It makes all lines uniformly visible.",
+            "It increases the rendering time.",
+            "It makes areas of high line density more visible by contrasting them with low density areas.",
+            "It removes all outliers from the plot."
+          ],
+          "correct_answer": "It makes areas of high line density more visible by contrasting them with low density areas.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_019",
+      "title": "Scaling and Alignment Options for Parallel Coordinate Plots",
+      "description": "The most important scaling options for parallel coordinate plots are individual axis scaling or using a common scale across all axes. Values can be aligned at the mean, median, a specific case, or a specific value. It is important to note that alignments do not force a common scale; common scaling and alignments are independent options.",
+      "related_questions": [
+        {
+          "question": "What insight is gained from aligning axes at the median in parallel coordinate plots?",
+          "options": [
+            "Absolute values across axes.",
+            "Effective representation of outliers only.",
+            "Improved readability of variable scales.",
+            "Enhanced comparison of differences between observations."
+          ],
+          "correct_answer": "Enhanced comparison of differences between observations.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Which of the following are valid points for aligning values in parallel coordinate plots?",
+          "options": [
+            "The mean",
+            "The maximum value",
+            "The median",
+            "A specific value"
+          ],
+          "correct_answer": [
+            "The mean",
+            "The median",
+            "A specific value"
+          ],
+          "question_type": "multiple_select"
+        },
+        {
+          "question": "Is it true that aligning axes in parallel coordinate plots automatically forces a common scale for the variables?",
+          "options": [
+            "Yes, alignment always implies common scaling.",
+            "No, common scaling and alignments are independent scaling options.",
+            "Only if the alignment point is the mean.",
+            "Only if there are less than five variables."
+          ],
+          "correct_answer": "No, common scaling and alignments are independent scaling options.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_020",
+      "title": "Grand Tour Visualization",
+      "description": "The Grand Tour is mentioned as a visualization technique for multidimensional datasets, typically explored through an activity involving defining its concept, technical specifications, relevant tools/software, and examples.",
+      "related_questions": [
+        {
+          "question": "The 'Grand Tour' is primarily a visualization technique used for what type of data?",
+          "options": [
+            "Univariate data.",
+            "Time-series data.",
+            "Multidimensional datasets.",
+            "Textual data."
+          ],
+          "correct_answer": "Multidimensional datasets.",
+          "question_type": "single_select"
+        }
+      ]
+    },
+    {
+      "id": "kp_021",
+      "title": "General Principles of Visualization Application",
+      "description": "Different plots have specific applications, with no single method delivering equivalent results. High-dimensional data problems necessitate interactive controls, including rearrangements of levels, variables, different scaling, and classical linked highlighting, which integrates various visualization methods to increase dimensionality exploration. The field of application depends on the method, and training is essential for effective use. Some plots are optimized for presentation (e.g., trellis displays), while others are suited for highly interactive and exploratory settings.",
+      "related_questions": [
+        {
+          "question": "Why is it important to learn the most effective use of different visualization methods for various tasks?",
+          "options": [
+            "Because all plots deliver equivalent results regardless of the method.",
+            "Because the fields of application are broader or narrower depending on the method.",
+            "Because training is not required for data visualization.",
+            "Because only one visualization method is ever needed."
+          ],
+          "correct_answer": "Because the fields of application are broader or narrower depending on the method.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "What is the role of interactive controls like rearrangements, variable selection, and scaling in high-dimensional data problems?",
+          "options": [
+            "They increase data compression.",
+            "They lead to sparse category intersections.",
+            "They are necessary due to the high-dimensional nature of data problems.",
+            "They restrict the user's ability to explore."
+          ],
+          "correct_answer": "They are necessary due to the high-dimensional nature of data problems.",
+          "question_type": "single_select"
+        },
+        {
+          "question": "Which of the following plots are optimized for presentation graphics, as opposed to highly interactive and exploratory settings?",
+          "options": [
+            "Heatmaps",
+            "Parallel Coordinate Plots",
+            "Mosaic Plots",
+            "Trellis Displays"
+          ],
+          "correct_answer": "Trellis Displays",
+          "question_type": "single_select"
+        }
+      ]
+    }
+  ]
+}

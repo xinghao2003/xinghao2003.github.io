@@ -84,6 +84,22 @@
         "file": "dv-quiz3-5.json"
     },
     {
+        "name": "Data Visualization Lecture 5 - High-dimensional Data Visualization (Mock)",
+        "file": "dv-lecture5-mock.json"
+    },
+    {
+        "name": "Data Visualization Lecture 6 - Map Visualization (Part 1) (Mock)",
+        "file": "dv-lecture6-p1-mock.json"
+    },
+    {
+        "name": "Data Visualization Lecture 6 - Map Visualization (Part 2) (Mock)",
+        "file": "dv-lecture6-p2-mock.json"
+    },
+    {
+        "name": "Data Visualization Lecture 7 - Evaluation (Mock)",
+        "file": "dv-lecture7-mock.json"
+    },
+    {
         "name": "Corporate Finance Chapter 1 - 6e",
         "file": "cf-chapter1-6e.json"
     },

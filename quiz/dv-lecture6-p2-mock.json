@@ -1,0 +1,288 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a stated learning outcome for this lecture on map data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "Describe spatial data for geographical visualization",
+      "B": "Apply interactive map data visualizations",
+      "C": "Understand how to map qualitative and quantitative data",
+      "D": "Analyze historical map accuracy over time"
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "What are the two fundamental requirements for map cosmetic elements mentioned in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Map projection and lineage information",
+      "B": "Title and legend",
+      "C": "Author and map datum",
+      "D": "Scale indicator and north arrow"
+    },
+    "question_type": "single_select"
+  },
+  "3": {
+    "question": "Which of the following is considered 'additional marginal information' for a map, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "The main map image",
+      "B": "Built-up areas",
+      "C": "The map datum",
+      "D": "Road networks"
+    },
+    "question_type": "single_select"
+  },
+  "4": {
+    "question": "Select all that are listed as 'additional marginal information' for maps.",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "North arrow",
+      "B": "User comments",
+      "C": "Map projection used",
+      "D": "Scale indicator"
+    },
+    "question_type": "multiple_select"
+  },
+  "5": {
+    "question": "How do on-screen maps often address space constraints regarding marginal information?",
+    "answer": "A",
+    "options": {
+      "A": "Legends and titles are often available on demand",
+      "B": "They provide marginal information only on print",
+      "C": "They always omit marginal information",
+      "D": "They use smaller fonts for all text"
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "What is the primary keyword for making maps 'Appealing' and increasing their communicative role?",
+    "answer": "D",
+    "options": {
+      "A": "Detail",
+      "B": "Symmetry",
+      "C": "Clarity",
+      "D": "Contrast"
+    },
+    "question_type": "single_select"
+  },
+  "7": {
+    "question": "What is the main purpose of applying visual hierarchy in a map?",
+    "answer": "D",
+    "options": {
+      "A": "To ensure all information is perceived as equally important",
+      "B": "To make the map look prettier",
+      "C": "To reduce the file size of the map",
+      "D": "To increase the communicative role by prioritizing information"
+    },
+    "question_type": "single_select"
+  },
+  "8": {
+    "question": "What defines a choropleth map?",
+    "answer": "B",
+    "options": {
+      "A": "It uses only symbols to represent data points",
+      "B": "It uses colored or shaded areas to represent the magnitude of an attribute",
+      "C": "It shows topographic features with elevation lines",
+      "D": "It displays only roads and railways"
+    },
+    "question_type": "single_select"
+  },
+  "9": {
+    "question": "What are the primary reasons for creating a choropleth map? Select all that apply.",
+    "answer": [
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "Representing individual data points precisely",
+      "B": "Displaying variables' overall geographic pattern",
+      "C": "Comparing multiple choropleth maps for variable distribution changes",
+      "D": "Showing political boundaries exclusively"
+    },
+    "question_type": "multiple_select"
+  },
+  "10": {
+    "question": "Which type of data is considered inappropriate for choropleth maps according to the document?",
+    "answer": "B",
+    "options": {
+      "A": "Data aggregated by enumeration units",
+      "B": "Continuous data not controlled by an enumeration unit",
+      "C": "Categorical data",
+      "D": "Population density data"
+    },
+    "question_type": "single_select"
+  },
+  "11": {
+    "question": "What is the purpose of 'Data Classification' in choropleth maps?",
+    "answer": "B",
+    "options": {
+      "A": "To increase the data complexity",
+      "B": "To simplify generalized data for display on the map",
+      "C": "To convert continuous data into discrete categories",
+      "D": "To hide outliers in the dataset"
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "What type of map projection is most appropriate for choropleth maps?",
+    "answer": "B",
+    "options": {
+      "A": "Mercator projection",
+      "B": "Equal area map projection",
+      "C": "Azimuthal projection",
+      "D": "Conformal projection"
+    },
+    "question_type": "single_select"
+  },
+  "13": {
+    "question": "In choropleth map symbolization, what color is generally reserved for the background or outlines?",
+    "answer": "C",
+    "options": {
+      "A": "Dark gray",
+      "B": "Black",
+      "C": "White",
+      "D": "Light gray"
+    },
+    "question_type": "single_select"
+  },
+  "14": {
+    "question": "According to the symbolization guidelines for choropleth maps, how should values be represented by color?",
+    "answer": "D",
+    "options": {
+      "A": "Any color can represent any value as long as a legend is present",
+      "B": "Light gray for larger values, dark gray for smaller values",
+      "C": "Black for smaller values, white for larger values",
+      "D": "Black for larger values, light gray for smaller values"
+    },
+    "question_type": "single_select"
+  },
+  "15": {
+    "question": "Which characteristic primarily distinguishes a 'Multimedia Map' from a standard 'On-Screen Map'?",
+    "answer": "A",
+    "options": {
+      "A": "Its integration of photography, sound, video, and animation",
+      "B": "Its support for quick viewing only",
+      "C": "Its smaller file size",
+      "D": "Its ability to be printed on paper"
+    },
+    "question_type": "single_select"
+  },
+  "16": {
+    "question": "What is a typical feature of an On-Screen Map related to data access?",
+    "answer": "B",
+    "options": {
+      "A": "It only displays static images",
+      "B": "A mouse click can link to tabular or other related map data",
+      "C": "It cannot be presented on the World Wide Web",
+      "D": "It requires specialized software to view"
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "According to the document, what role does the World Wide Web commonly play in map data visualization?",
+    "answer": "D",
+    "options": {
+      "A": "It replaces traditional cartography entirely",
+      "B": "It is only used for static map displays",
+      "C": "It acts as a primary data collection tool",
+      "D": "It's a common medium to present and distribute spatial data"
+    },
+    "question_type": "single_select"
+  },
+  "18": {
+    "question": "How do geo-webservices contribute to map data visualization?",
+    "answer": "A",
+    "options": {
+      "A": "They provide interactive map views as an intermediate between data and web browser",
+      "B": "They store map data exclusively offline",
+      "C": "They replace all traditional mapping software",
+      "D": "They only generate static map images"
+    },
+    "question_type": "single_select"
+  },
+  "19": {
+    "question": "Which type of map allows users to interactively determine the contents by choosing data layers?",
+    "answer": "D",
+    "options": {
+      "A": "Paper Map",
+      "B": "Thematic Map",
+      "C": "Static Map",
+      "D": "Dynamic Map"
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "What is a key characteristic of an 'Interactive Map' as described in the document?",
+    "answer": "C",
+    "options": {
+      "A": "It only allows zooming and panning",
+      "B": "It's only for quick previews",
+      "C": "It offers fully interactive presentation of 3D models",
+      "D": "It cannot be linked to other data"
+    },
+    "question_type": "single_select"
+  },
+  "21": {
+    "question": "What are the primary functions of a Static Map in map dissemination? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "To give web surfers a preview of products",
+      "B": "To make maps more widely accessible",
+      "C": "For map view only",
+      "D": "To provide fully interactive 3D models"
+    },
+    "question_type": "multiple_select"
+  },
+  "22": {
+    "question": "According to the web maps classification, what are the two main categories of web maps?",
+    "answer": "C",
+    "options": {
+      "A": "Topographic and Thematic",
+      "B": "Paper and Digital",
+      "C": "Static and Dynamic",
+      "D": "Qualitative and Quantitative"
+    },
+    "question_type": "single_select"
+  },
+  "23": {
+    "question": "Based on the web maps classification diagram, which of the following is true for both static and dynamic web maps?",
+    "answer": "D",
+    "options": {
+      "A": "They must always include an interactive interface",
+      "B": "They are only suitable for multimedia integration",
+      "C": "They are exclusively for 3D models",
+      "D": "They can be 'view only'"
+    },
+    "question_type": "single_select"
+  },
+  "24": {
+    "question": "Which statement best describes the efficiency of maps in data representation, according to the summary?",
+    "answer": "A",
+    "options": {
+      "A": "They are the most efficient and effective means to represent spatial information",
+      "B": "They are only useful for simple datasets",
+      "C": "They are primarily for aesthetic purposes",
+      "D": "They are limited to showing qualitative data"
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "What key aspect should guide map design?",
+    "answer": "A",
+    "options": {
+      "A": "How to say what to whom and if it is effective",
+      "B": "Using only traditional cartographic symbols",
+      "C": "Ensuring the map is colorful",
+      "D": "Minimizing the number of data layers"
+    },
+    "question_type": "single_select"
+  }
+}
