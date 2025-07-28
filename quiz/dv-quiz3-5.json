@@ -1,0 +1,252 @@
+{
+    "1": {
+        "question": "What conclusion can be drawn if a mosaic plot shows empty cell combinations at high levels?",
+        "options": {
+            "A": "Interaction does not exist in the dataset",
+            "B": "The plot is incorrectly ordered",
+            "C": "The dataset has missing data",
+            "D": "The dimensionality leads to sparse category intersections"
+        },
+        "answer": "D"
+    },
+    "2": {
+        "question": "What insight is gained from aligning axes at the median in parallel coordinate plots?",
+        "options": {
+            "A": "Enhanced comparison of differences between observations",
+            "B": "Improved readability of variable scales",
+            "C": "Effective representation of outliers only",
+            "D": "Absolute values across axes"
+        },
+        "answer": "A"
+    },
+    "3": {
+        "question": "Which characteristic distinguishes trellis displays from other high-dimensional plots in terms of model diagnostics?",
+        "options": {
+            "A": "Use of unique axis scaling per panel",
+            "B": "Common scale across panels for accurate comparison",
+            "C": "Ability to render more than seven variables",
+            "D": "Uniform glyph representation"
+        },
+        "answer": "B"
+    },
+    "4": {
+        "question": "Which of the following BEST justifies the positioning of variables in a mosaic plot for analyzing interaction effects?",
+        "options": {
+            "A": "Place variables with the most categories at the end",
+            "B": "Position conditioning variables first, followed by interaction variables",
+            "C": "Arrange all variables alphabetically",
+            "D": "Randomize the order to ensure objectivity"
+        },
+        "answer": "B"
+    },
+    "5": {
+        "question": "How do interactive trellis displays support exploratory data analysis?\n$(document).ready(function() { $('textarea').on(\"cut\", function(e) { e.preventDefault(); alertUser('Cut'); }); $('textarea').on(\"copy\", function(e) { e.preventDefault(); alertUser('Copy'); }); $('textarea').on(\"paste\", function(e) { e.preventDefault(); alertUser('Paste'); }); $('textarea').on(\"contextmenu\", function(e) { e.preventDefault(); alertUser('Mouse right click'); }); }); function alertUser(message) { $('#phppot-message').text(message + ' is disabled.'); $('#phppot-message').show(); }",
+        "options": {
+            "A": "Through fixed panel arrangements",
+            "B": "By dynamically highlighting conditioned subgroups",
+            "C": "By removing continuous variables from view",
+            "D": "By plotting expected values instead of observed ones"
+        },
+        "answer": "B"
+    },
+    "6": {
+        "question": "Which visualization method would be least effective without interactivity?",
+        "options": {
+            "A": "Heatmap",
+            "B": "Parallel coordinate plot",
+            "C": "Mosaic plot",
+            "D": "Trellis display"
+        },
+        "answer": "B"
+    },
+    "7": {
+        "question": "Why might parallel coordinate plots be limited when applied to datasets with hundreds of observations?",
+        "options": {
+            "A": "The axes become logarithmic",
+            "B": "Too many color categories make it unreadable",
+            "C": "The lines lose their transparency",
+            "D": "The plot suffers from overplotting and visual clutter"
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "In evaluating visualizations of high-dimensional data, why might linked highlighting be crucial?",
+        "options": {
+            "A": "It isolates univariate effects",
+            "B": "It improves rendering speed",
+            "C": "It compresses categorical variables",
+            "D": "It maintains the multivariate context across multiple plots"
+        },
+        "answer": "D"
+    },
+    "9": {
+        "question": "In the context of heatmaps used in biological sciences, what makes them effective for gene expression analysis?",
+        "options": {
+            "A": "Their ability to scale gene clusters in 3D",
+            "B": "Their use of color gradients to represent multivariate expression levels",
+            "C": "Their support for interactive brushing",
+            "D": "Their reliance on bar chart overlays"
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "In a trellis display, what role do shingles play in handling continuous variables?",
+        "options": {
+            "A": "Aggregate them into summary statistics",
+            "B": "Convert them into glyphs",
+            "C": "Divide them into overlapping intervals",
+            "D": "Plot them as separate axes"
+        },
+        "answer": "C"
+    },
+    "11": {
+        "question": "What key characteristic distinguishes thematic maps from topographic maps?",
+        "options": {
+            "A": "They use satellite imagery",
+            "B": "They exclude all geographic references",
+            "C": "They provide accurate earth surface features",
+            "D": "They represent specific data themes"
+        },
+        "answer": "D"
+    },
+    "12": {
+        "question": "In the context of visual hierarchy, why is equal brightness preferred for qualitative maps?",
+        "options": {
+            "A": "To maintain neutrality across categories",
+            "B": "To focus on outliers",
+            "C": "To highlight political boundaries",
+            "D": "To reflect hierarchy among data across categories"
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "Why must visual variables be chosen carefully in map design?",
+        "options": {
+            "A": "They influence user perception",
+            "B": "They control map layout",
+            "C": "They increase the file size of the map",
+            "D": "They make maps colorful and attractive"
+        },
+        "answer": "A"
+    },
+    "14": {
+        "question": "How can interactive map visualization enhance spatial understanding?",
+        "options": {
+            "A": "It allows dynamic exploration of patterns",
+            "B": "It restricts user control",
+            "C": "It replaces traditional maps completely for a better outlook",
+            "D": "It compresses data files"
+        },
+        "answer": "A"
+    },
+    "15": {
+        "question": "Which component of a map helps in comparing the actual size and the representation on the map?",
+        "options": {
+            "A": "Scale",
+            "B": "Frame",
+            "C": "Legend",
+            "D": "Title"
+        },
+        "answer": "A"
+    },
+    "16": {
+        "question": "When mapping change over time, which method provides the most dynamic visualization?",
+        "options": {
+            "A": "Histogram chart",
+            "B": "A single static map",
+            "C": "Simulation",
+            "D": "Tabulated data only"
+        },
+        "answer": "C"
+    },
+    "17": {
+        "question": "Why is it important to avoid using bright colors in qualitative maps with equally important categories?",
+        "options": {
+            "A": "They are unable to emphasize the most important category",
+            "B": "Bright colors improve readability",
+            "C": "They enhance thematic relationships",
+            "D": "They may distort perception by implying importance"
+        },
+        "answer": "D"
+    },
+    "18": {
+        "question": "Which of the following is NOT a visual variable used in cartography?",
+        "options": {
+            "A": "Language",
+            "B": "Shape",
+            "C": "Brightness",
+            "D": "Orientation"
+        },
+        "answer": "A"
+    },
+    "19": {
+        "question": "What does dimensionality in mapping allow a user to explore?",
+        "options": {
+            "A": "Spatio-temporal changes",
+            "B": "Population pyramid shapes",
+            "C": "Non-spatial data values",
+            "D": "Economic analysis only"
+        },
+        "answer": "A"
+    },
+    "20": {
+        "question": "What is one key feature of a thematic map?",
+        "options": {
+            "A": "Always uses black and white visuals for effective visualization",
+            "B": "Shows only roads and railways",
+            "C": "Displays exact elevation values",
+            "D": "Represents distribution of a specific theme"
+        },
+        "answer": "D"
+    },
+    "21": {
+        "question": "What best indicates that a visualization has misrepresented the data?",
+        "options": {
+            "A": "It lacks animations",
+            "B": "It is not mobile-responsive",
+            "C": "It leads to incorrect conclusions among viewers",
+            "D": "It does not use icons"
+        },
+        "answer": "C"
+    },
+    "22": {
+        "question": "How can the effectiveness of a data story be best evaluated?",
+        "options": {
+            "A": "By determining if the visualizations support a logical narrative",
+            "B": "By measuring screen resolution",
+            "C": "By counting the number of slides or visuals used",
+            "D": "By checking the chart type diversity"
+        },
+        "answer": "A"
+    },
+    "23": {
+        "question": "Which factor is most critical in assessing the clarity of a data visualization?",
+        "options": {
+            "A": "The number of interactive features",
+            "B": "The font style of the title",
+            "C": "The match between data types and visualization forms",
+            "D": "The chart's background color"
+        },
+        "answer": "C"
+    },
+    "24": {
+        "question": "What is the most effective way to evaluate whether a data visualization communicates the intended message?",
+        "options": {
+            "A": "Ensure the chart uses vibrant colors",
+            "B": "Test the visualization with real users for comprehension",
+            "C": "Count the number of chart types used",
+            "D": "Check if the data source is cited"
+        },
+        "answer": "B"
+    },
+    "25": {
+        "question": "Which aspect is most important in evaluating a dashboard designed for decision-making?",
+        "options": {
+            "A": "It includes decorative graphics",
+            "B": "It has animations for transitions",
+            "C": "It uses multiple fonts",
+            "D": "It highlights bey performance indicators clearly"
+        },
+        "answer": "D"
+    }
+}

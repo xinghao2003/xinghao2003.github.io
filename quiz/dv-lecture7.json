@@ -1,0 +1,262 @@
+{
+  "1": {
+    "question": "Which of the following is NOT listed as a learning outcome for Data Visualization Evaluation?",
+    "answer": "A",
+    "options": {
+      "A": "To implement advanced visualization algorithms",
+      "B": "To describe different evaluation criteria for data visualization",
+      "C": "To understand nested model for validation",
+      "D": "To create strategies for evaluation"
+    }
+  },
+  "2": {
+    "question": "According to Munzner's (2009) nested model, which layer involves abstracting into operations and data types?",
+    "answer": "A",
+    "options": {
+      "A": "Data/operation abstraction design",
+      "B": "Encoding/interaction technique design",
+      "C": "Algorithm design",
+      "D": "Domain problem characterization"
+    }
+  },
+  "3": {
+    "question": "What is the primary focus of the first layer in Munzner's nested model?",
+    "answer": "D",
+    "options": {
+      "A": "Abstracting data into operations",
+      "B": "Creating efficient algorithms",
+      "C": "Designing visual encoding techniques",
+      "D": "Characterizing the task and data in the problem domain"
+    }
+  },
+  "4": {
+    "question": "What is the identified threat to validity for the 'domain problem characterization' layer in the nested model?",
+    "answer": "B",
+    "options": {
+      "A": "Slow algorithm",
+      "B": "Wrong problem",
+      "C": "Bad data/operation abstraction",
+      "D": "Ineffective encoding/interaction technique"
+    }
+  },
+  "5": {
+    "question": "How can the 'ineffective encoding/interaction technique' threat be validated in the nested model?",
+    "answer": "C",
+    "options": {
+      "A": "By observing adoption rates",
+      "B": "By measuring system time/memory",
+      "C": "By justifying the encoding/interaction design",
+      "D": "By implementing the system"
+    }
+  },
+  "6": {
+    "question": "Which of the following is a validation method for the 'algorithm design' layer concerning a 'slow algorithm' threat?",
+    "answer": "B",
+    "options": {
+      "A": "Observing and interviewing target users",
+      "B": "Analyzing computational complexity",
+      "C": "Conducting an informal usability study",
+      "D": "Collecting anecdotal evidence of utility"
+    }
+  },
+  "7": {
+    "question": "What characteristic makes a data visualization 'useful'?",
+    "answer": "A",
+    "options": {
+      "A": "It is relevant and approachable to its audience.",
+      "B": "It is designed after data collection is complete.",
+      "C": "It uses many colors and animations.",
+      "D": "It contains all possible data points."
+    }
+  },
+  "8": {
+    "question": "How can a data visualization be made 'engaging'?",
+    "answer": "D",
+    "options": {
+      "A": "By making it as complex as possible.",
+      "B": "By focusing solely on quantitative data.",
+      "C": "By providing extensive textual explanations only.",
+      "D": "Through the effective use of color, organization, and visualization tools."
+    }
+  },
+  "9": {
+    "question": "What is a key aspect of a 'clear' data visualization?",
+    "answer": "B",
+    "options": {
+      "A": "It omits some data to simplify the message.",
+      "B": "It clearly illustrates data without trying to trick or persuade.",
+      "C": "It aims to persuade the audience with strong opinions.",
+      "D": "It requires prior expert knowledge to understand."
+    }
+  },
+  "10": {
+    "question": "According to the Data Visualization Design Guidelines, what should navigation and zooming NOT replace?",
+    "answer": "A",
+    "options": {
+      "A": "Filtering",
+      "B": "User feedback",
+      "C": "Annotation",
+      "D": "Data aggregation"
+    }
+  },
+  "11": {
+    "question": "Which guideline suggests creating the simplest graph?",
+    "answer": "D",
+    "options": {
+      "A": "Guideline 6",
+      "B": "Guideline 8",
+      "C": "Guideline 5",
+      "D": "Guideline 7"
+    }
+  },
+  "12": {
+    "question": "What is a key consideration for scatter plots according to the guidelines?",
+    "answer": "D",
+    "options": {
+      "A": "Only plot distinct points.",
+      "B": "Avoid using scatter plots when data is dense.",
+      "C": "Ensure all points are individually labeled.",
+      "D": "Plot overlapping points to reveal density differences."
+    }
+  },
+  "13": {
+    "question": "According to the document, which success criterion for data visualization is generally considered 'easy' to measure?",
+    "answer": "C",
+    "options": {
+      "A": "Determining the long-term impact on decision-making",
+      "B": "Measuring an emotional response",
+      "C": "Counting how many people have seen a visualization",
+      "D": "Assessing an increase in user knowledge"
+    }
+  },
+  "14": {
+    "question": "The impact of a visualization on the consumer, such as an increase in knowledge, is typically measured by:",
+    "answer": "B",
+    "options": {
+      "A": "The number of likes or visits",
+      "B": "It is often not known or measured by simple metrics",
+      "C": "Automated system logs",
+      "D": "Direct observation of user behavior"
+    }
+  },
+  "15": {
+    "question": "At which stage of the development process can data visualization evaluation occur, according to Lam et al. (2012)?",
+    "answer": "D",
+    "options": {
+      "A": "Only at the deployment stage",
+      "B": "Only after final product distribution",
+      "C": "Only during the initial design phase",
+      "D": "At predesign, design, prototype, deployment, or redesign stages"
+    }
+  },
+  "16": {
+    "question": "What is a common form of evaluation for data visualizations that focuses on visual elements and presentation styles?",
+    "answer": "D",
+    "options": {
+      "A": "Literature review",
+      "B": "Algorithm complexity analysis",
+      "C": "Market research",
+      "D": "User testing"
+    }
+  },
+  "17": {
+    "question": "In Case 1, the Business Dashboard, what was a key aspect of understanding the end users?",
+    "answer": "B",
+    "options": {
+      "A": "Analyzing their social media activity",
+      "B": "Interviews and workshops to detail thoughts and feelings",
+      "C": "Conducting remote surveys only",
+      "D": "Observing their purchasing habits"
+    }
+  },
+  "18": {
+    "question": "What was a challenge in recruiting users for testing in Case 2, the mobile app for cancer survivors?",
+    "answer": "A",
+    "options": {
+      "A": "Difficulty in recruiting for user testing",
+      "B": "Legal restrictions on testing",
+      "C": "High cost of recruitment",
+      "D": "Lack of interest from participants"
+    }
+  },
+  "19": {
+    "question": "According to Hullman & Diakopoulos (2011), through which lenses do consumers undertake a complex process of decoding visualizations?",
+    "answer": "C",
+    "options": {
+      "A": "Historical, geographical, political, and scientific",
+      "B": "Financial, social, emotional, and physical",
+      "C": "Cultural, perceptual, cognitive, and psychological",
+      "D": "Technical, economic, legal, and environmental"
+    }
+  },
+  "20": {
+    "question": "Why is the sociocultural context of consumption a significant challenge for evaluation methods?",
+    "answer": "A",
+    "options": {
+      "A": "It provides a significant challenge to build comprehensive evaluation methods.",
+      "B": "It is too simple to measure accurately.",
+      "C": "It requires only quantitative data, which is scarce.",
+      "D": "It has no impact on data visualization effectiveness."
+    }
+  },
+  "21": {
+    "question": "Which of the following is NOT listed as a factor impacting engagement with data visualizations by Kennedy et al. (2016)?",
+    "answer": "B",
+    "options": {
+      "A": "Confidence & skills",
+      "B": "Programming language used",
+      "C": "Emotions",
+      "D": "Subject matter"
+    }
+  },
+  "22": {
+    "question": "Which of the following is a quantitative metric for measuring understanding in visualization?",
+    "answer": "C",
+    "options": {
+      "A": "Overall message",
+      "B": "Interesting aspects",
+      "C": "Response speed and accuracy",
+      "D": "Sentiment"
+    }
+  },
+  "23": {
+    "question": "What type of questions are recommended to go 'beyond purely quantitative measures' when evaluating understanding of visualized information?",
+    "answer": "D",
+    "options": {
+      "A": "Multiple-choice questions",
+      "B": "Yes/No questions",
+      "C": "True/False questions",
+      "D": "Open-ended questions"
+    }
+  },
+  "24": {
+    "question": "Which level of evaluation involves tasks like 'Retrieve points' and 'Identify axis labels'?",
+    "answer": "C",
+    "options": {
+      "A": "Application",
+      "B": "Comprehension",
+      "C": "Knowledge",
+      "D": "Analysis"
+    }
+  },
+  "25": {
+    "question": "If a user is asked to 'Justify a conclusion based on data,' which level of evaluation is being assessed?",
+    "answer": "A",
+    "options": {
+      "A": "Evaluation",
+      "B": "Application",
+      "C": "Synthesis",
+      "D": "Analysis"
+    }
+  },
+  "26": {
+    "question": "What does the 'Synthesis' level of evaluation primarily involve?",
+    "answer": "B",
+    "options": {
+      "A": "Recalling basic facts",
+      "B": "Using knowledge to create something new",
+      "C": "Summarizing the main message",
+      "D": "Breaking down concepts into parts"
+    }
+  }
+}

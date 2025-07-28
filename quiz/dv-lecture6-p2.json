@@ -1,0 +1,212 @@
+{
+  "1": {
+    "question": "Which of the following is NOT a stated learning outcome for 'Map Data Visualization (Part 2)'?",
+    "answer": "A",
+    "options": {
+      "A": "To develop advanced GIS programming skills",
+      "B": "To describe spatial data for geographical visualization",
+      "C": "To understand how to map qualitative and quantitative data",
+      "D": "To apply interactive map data visualizations"
+    }
+  },
+  "2": {
+    "question": "According to the document, which two elements are considered fundamental requirements for map cosmetic?",
+    "answer": "A",
+    "options": {
+      "A": "Title and Legend",
+      "B": "Scale indicator and North arrow",
+      "C": "Lineage information and Map projection",
+      "D": "Author and Map datum"
+    }
+  },
+  "3": {
+    "question": "What is the primary purpose of a map legend?",
+    "answer": "A",
+    "options": {
+      "A": "To understand how the map topic is depicted",
+      "B": "To show the map projection used",
+      "C": "To indicate the map's author",
+      "D": "To provide data collection dates"
+    }
+  },
+  "4": {
+    "question": "Which of the following is NOT listed as additional marginal information for map cosmetic?",
+    "answer": "D",
+    "options": {
+      "A": "North arrow",
+      "B": "Scale indicator",
+      "C": "Map projection used",
+      "D": "Map border thickness"
+    }
+  },
+  "5": {
+    "question": "What information does 'lineage information' typically include in map marginalia?",
+    "answer": "B",
+    "options": {
+      "A": "Political boundaries and demographic data",
+      "B": "Data sources, dates of data collection, and methods",
+      "C": "Historical context of the mapped area",
+      "D": "Map's color palette and font style"
+    }
+  },
+  "6": {
+    "question": "Why might on-screen maps often present legends and titles on demand?",
+    "answer": "C",
+    "options": {
+      "A": "To make maps more challenging to read",
+      "B": "To reduce printing costs",
+      "C": "Due to space constraints",
+      "D": "To comply with copyright laws"
+    }
+  },
+  "7": {
+    "question": "What is the 'keyword' for making maps visually appealing and increasing their communicative role, according to the document?",
+    "answer": "A",
+    "options": {
+      "A": "Contrast",
+      "B": "Detail",
+      "C": "Accuracy",
+      "D": "Clarity"
+    }
+  },
+  "8": {
+    "question": "What is the purpose of applying visual hierarchy to a map?",
+    "answer": "C",
+    "options": {
+      "A": "To ensure all information is equally weighted",
+      "B": "To make the map appear more complex",
+      "C": "To increase the communicative role by highlighting important information",
+      "D": "To minimize the need for a legend"
+    }
+  },
+  "9": {
+    "question": "What defines a choropleth map?",
+    "answer": "A",
+    "options": {
+      "A": "A map where colored or shaded areas represent the magnitude of an attribute",
+      "B": "A map using only symbols and lines",
+      "C": "A map used exclusively for navigation",
+      "D": "A map showing only elevation changes"
+    }
+  },
+  "10": {
+    "question": "For what purpose are choropleth maps primarily created?",
+    "answer": "D",
+    "options": {
+      "A": "To compare the sizes of countries",
+      "B": "To track real-time weather conditions",
+      "C": "To illustrate road networks",
+      "D": "To display variables' overall geographic patterns and compare spatial distribution changes"
+    }
+  },
+  "11": {
+    "question": "In a choropleth map, how would states with lower population density typically be shaded compared to those with higher density?",
+    "answer": "A",
+    "options": {
+      "A": "With a lighter gray color",
+      "B": "With black outlines only",
+      "C": "With a darker gray color",
+      "D": "With bright red color"
+    }
+  },
+  "12": {
+    "question": "Which type of data is generally considered inappropriate for choropleth maps?",
+    "answer": "C",
+    "options": {
+      "A": "Percentage of land covered by forest per region",
+      "B": "Average income per county",
+      "C": "Continuous data not controlled by an enumeration unit",
+      "D": "Population density per administrative unit"
+    }
+  },
+  "13": {
+    "question": "What type of map projection is most appropriate for choropleth maps?",
+    "answer": "A",
+    "options": {
+      "A": "Equal area map projections",
+      "B": "Equidistant projections",
+      "C": "Conformal projections",
+      "D": "Azimuthal projections"
+    }
+  },
+  "14": {
+    "question": "In choropleth map symbolization, which color is typically reserved for the background or outlines?",
+    "answer": "D",
+    "options": {
+      "A": "Light gray",
+      "B": "Black",
+      "C": "Dark gray",
+      "D": "White"
+    }
+  },
+  "15": {
+    "question": "What is the primary reason for data classification in choropleth mapping?",
+    "answer": "B",
+    "options": {
+      "A": "To hide certain data points",
+      "B": "To simplify generalized data for display on the map",
+      "C": "To increase data accuracy",
+      "D": "To make the map look more artistic"
+    }
+  },
+  "16": {
+    "question": "Which characteristic is typical of 'On-Screen Maps' according to the document?",
+    "answer": "A",
+    "options": {
+      "A": "They are often smaller than maps on paper and can link to tabular data",
+      "B": "They are primarily designed for physical printing",
+      "C": "They integrate photography, sound, and video",
+      "D": "They only show 3D models"
+    }
+  },
+  "17": {
+    "question": "What is a distinguishing feature of a 'Multimedia Map'?",
+    "answer": "B",
+    "options": {
+      "A": "It requires Virtual Reality Markup Language (VRML) for viewing",
+      "B": "It integrates photography, sound, video, and animation",
+      "C": "It only provides a preview of available products",
+      "D": "It is static and cannot be zoomed"
+    }
+  },
+  "18": {
+    "question": "What functionality is characteristic of 'Dynamic Maps'?",
+    "answer": "A",
+    "options": {
+      "A": "Zooming, panning, or hyperlinking other information, and user-chosen data layers",
+      "B": "Only map view is available without interaction",
+      "C": "Fully interactive presentation of 3D models",
+      "D": "Integration of sound and video for exploration"
+    }
+  },
+  "19": {
+    "question": "An interactive map is described as providing what kind of experience?",
+    "answer": "A",
+    "options": {
+      "A": "A fully interactive presentation of 3D models",
+      "B": "A static, unchangeable view",
+      "C": "A preview of available products",
+      "D": "A printed map for wide accessibility"
+    }
+  },
+  "20": {
+    "question": "What is a traditional role of the World Wide Web in relation to spatial data?",
+    "answer": "C",
+    "options": {
+      "A": "To collect raw GPS data",
+      "B": "To exclusively print paper maps",
+      "C": "To show the location of objects and provide insights into spatial patterns",
+      "D": "To develop new map projections"
+    }
+  },
+  "21": {
+    "question": "How do Geo-webservices contribute to interactive map views?",
+    "answer": "B",
+    "options": {
+      "A": "By standardizing physical map production",
+      "B": "By acting as an intermediate between data and web browser",
+      "C": "By providing static, non-interactive images",
+      "D": "By replacing traditional map printing"
+    }
+  }
+}

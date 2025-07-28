@@ -68,6 +68,22 @@
         "file": "dv-lecture5.json"
     },
     {
+        "name": "Data Visualization Lecture 6 - Map Visualization (Part 1)",
+        "file": "dv-lecture6-p1.json"
+    },
+    {
+        "name": "Data Visualization Lecture 6 - Map Visualization (Part 2)",
+        "file": "dv-lecture6-p2.json"
+    },
+    {
+        "name": "Data Visualization Lecture 7 - Evaluation",
+        "file": "dv-lecture7.json"
+    },
+    {
+        "name": "Data Visualization Quiz 3 - 5",
+        "file": "dv-quiz3-5.json"
+    },
+    {
         "name": "Corporate Finance Chapter 1 - 6e",
         "file": "cf-chapter1-6e.json"
     },

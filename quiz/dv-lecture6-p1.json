@@ -1,0 +1,422 @@
+{
+  "1": {
+    "question": "What is the primary topic of 'Map Data Visualization (Part 1)'?",
+    "answer": "D",
+    "options": {
+      "A": "Advanced GIS Programming",
+      "B": "Satellite Imagery Analysis",
+      "C": "Database Management",
+      "D": "Map Data Visualization"
+    }
+  },
+  "2": {
+    "question": "Which of the following is NOT a stated learning outcome for this lecture?",
+    "answer": "A",
+    "options": {
+      "A": "To develop new cartographic software",
+      "B": "To apply interactive map data visualizations",
+      "C": "To describe spatial data for geographical visualization",
+      "D": "To understand how to map qualitative and quantitative data"
+    }
+  },
+  "3": {
+    "question": "According to Board (1990), which of the following best describes a map?",
+    "answer": "C",
+    "options": {
+      "A": "A collection of random geographic facts.",
+      "B": "A historical record of geological formations.",
+      "C": "A representation or abstraction of geography reality.",
+      "D": "A direct, unsimplified view of Earth's surface."
+    }
+  },
+  "4": {
+    "question": "A map serves as a tool for presenting geographic information in ways that are:",
+    "answer": "C",
+    "options": {
+      "A": "Purely conceptual",
+      "B": "Only digital",
+      "C": "Visual, digital, or tactile",
+      "D": "Primarily auditory"
+    }
+  },
+  "5": {
+    "question": "What is the primary characteristic represented by spatial data?",
+    "answer": "B",
+    "options": {
+      "A": "Textual descriptions",
+      "B": "Location characteristics",
+      "C": "Temporal change",
+      "D": "Financial values"
+    }
+  },
+  "6": {
+    "question": "Which of the following is cited as a common example of spatial data visualization?",
+    "answer": "C",
+    "options": {
+      "A": "A written report",
+      "B": "An audio recording",
+      "C": "A road map",
+      "D": "A spreadsheet of numerical data"
+    }
+  },
+  "7": {
+    "question": "What information about Earth's location does spatial data typically indicate?",
+    "answer": "B",
+    "options": {
+      "A": "Only economic growth rates",
+      "B": "Latitude, longitude, height, and depth",
+      "C": "Only political alliances",
+      "D": "Average temperature and rainfall"
+    }
+  },
+  "8": {
+    "question": "How do maps primarily serve GIS applications?",
+    "answer": "A",
+    "options": {
+      "A": "As input for analysis",
+      "B": "As a programming language",
+      "C": "As a data storage device",
+      "D": "As a standalone software"
+    }
+  },
+  "9": {
+    "question": "Which aspect of geographic data can maps inform users about?",
+    "answer": "D",
+    "options": {
+      "A": "Future technological advancements",
+      "B": "Only weather forecasts",
+      "C": "Only historical events",
+      "D": "Thematic attributes, spatial relations, and patterns"
+    }
+  },
+  "10": {
+    "question": "What basic component of spatial or geographic data can maps deal with?",
+    "answer": "B",
+    "options": {
+      "A": "Only Time and Temperature",
+      "B": "Location, Characteristic, Time, Combination",
+      "C": "Financial transactions",
+      "D": "Only Location"
+    }
+  },
+  "11": {
+    "question": "What does the 'abstraction of reality' refer to in the context of maps?",
+    "answer": "A",
+    "options": {
+      "A": "Simplifying the view by omitting certain details.",
+      "B": "Displaying raw, unfiltered satellite data.",
+      "C": "Representing only fictional geographic features.",
+      "D": "Creating complex, highly detailed representations."
+    }
+  },
+  "12": {
+    "question": "For a map showing the number of students per country, what information is typically NOT necessary to include?",
+    "answer": "A",
+    "options": {
+      "A": "Cities and mountains within countries",
+      "B": "A legend for symbols",
+      "C": "Symbols representing student counts",
+      "D": "Country boundaries"
+    }
+  },
+  "13": {
+    "question": "Which type of map primarily visualizes Earth's surface as accurately as possible?",
+    "answer": "D",
+    "options": {
+      "A": "Cadastral map",
+      "B": "Weather map",
+      "C": "Thematic map",
+      "D": "Topographic map"
+    }
+  },
+  "14": {
+    "question": "What is the main purpose of a thematic map?",
+    "answer": "A",
+    "options": {
+      "A": "To represent the distribution of a particular theme",
+      "B": "To plan urban development",
+      "C": "To show accurate elevation data",
+      "D": "To illustrate historical events"
+    }
+  },
+  "15": {
+    "question": "Do thematic maps typically include any topographic information?",
+    "answer": "C",
+    "options": {
+      "A": "No, never.",
+      "B": "Only if it's a socio-economic theme.",
+      "C": "Yes, to provide geographic reference to the theme presented.",
+      "D": "Only if it's a physical theme."
+    }
+  },
+  "16": {
+    "question": "What does 'three-dimensional reality' demand to visualize in mapping?",
+    "answer": "A",
+    "options": {
+      "A": "Change processes",
+      "B": "Only political boundaries",
+      "C": "Static historical facts",
+      "D": "Financial statistics"
+    }
+  },
+  "17": {
+    "question": "What element is incorporated into 'four-dimensionality' in map visualization?",
+    "answer": "D",
+    "options": {
+      "A": "Smell",
+      "B": "Temperature",
+      "C": "Sound",
+      "D": "Time"
+    }
+  },
+  "18": {
+    "question": "What question guides the translation of spatial data into maps during the visualization process?",
+    "answer": "A",
+    "options": {
+      "A": "'How to say what to whom, and is it effective?'",
+      "B": "'How much data can be stored?'",
+      "C": "'When was the data collected?'",
+      "D": "'What software should be used?'"
+    }
+  },
+  "19": {
+    "question": "What is essential for improving a cartographic solution?",
+    "answer": "D",
+    "options": {
+      "A": "Only focusing on aesthetic appeal",
+      "B": "Ignoring user feedback",
+      "C": "Releasing the map without review",
+      "D": "Testing its effectiveness and using feedback for improvement"
+    }
+  },
+  "20": {
+    "question": "Which of the following is considered a 'Main Element' of a map?",
+    "answer": "D",
+    "options": {
+      "A": "Legend",
+      "B": "Title",
+      "C": "Source/Credit",
+      "D": "Figure"
+    }
+  },
+  "21": {
+    "question": "What is the purpose of the 'Ground' element in a map?",
+    "answer": "A",
+    "options": {
+      "A": "To represent the background, juxtaposed against the figure",
+      "B": "To indicate the map's elevation",
+      "C": "To provide a detailed street view",
+      "D": "To show the map's projection system"
+    }
+  },
+  "22": {
+    "question": "Which of these is an 'Other informative element' typically found on a map?",
+    "answer": "D",
+    "options": {
+      "A": "A personal photo",
+      "B": "A shopping list",
+      "C": "The weather forecast",
+      "D": "A legend"
+    }
+  },
+  "23": {
+    "question": "The 'exploration' strategy in map visualization is primarily used for:",
+    "answer": "C",
+    "options": {
+      "A": "Public visual communication",
+      "B": "Creating static, non-interactive maps",
+      "C": "Searching for patterns and relationships in unknown data sets",
+      "D": "Disseminating known findings"
+    }
+  },
+  "24": {
+    "question": "What is the main goal of the 'presentation' strategy in map visualization?",
+    "answer": "B",
+    "options": {
+      "A": "To discover new spatial relationships",
+      "B": "To achieve public visual communication using known data",
+      "C": "To find errors in data",
+      "D": "To conduct complex statistical analysis"
+    }
+  },
+  "25": {
+    "question": "What is a crucial aspect to guarantee that maps are easily understood by users?",
+    "answer": "A",
+    "options": {
+      "A": "Adhering to cartographic design rules",
+      "B": "Making maps extremely complex",
+      "C": "Avoiding legends",
+      "D": "Using as many colors as possible"
+    }
+  },
+  "26": {
+    "question": "In the cartographic communication process, the 'WHAT' refers to:",
+    "answer": "C",
+    "options": {
+      "A": "The printing material",
+      "B": "The user's feedback",
+      "C": "Cartographic information analysis",
+      "D": "The map's scale"
+    }
+  },
+  "27": {
+    "question": "Which symbol type is typically used to distinguish between administrative boundaries on a map?",
+    "answer": "C",
+    "options": {
+      "A": "Area",
+      "B": "Point",
+      "C": "Line",
+      "D": "Texture"
+    }
+  },
+  "28": {
+    "question": "Which of the following is NOT listed as one of the six categories of visual variables?",
+    "answer": "D",
+    "options": {
+      "A": "Colour",
+      "B": "Size",
+      "C": "Value",
+      "D": "Font"
+    }
+  },
+  "29": {
+    "question": "What does a change in symbol size typically represent on a map?",
+    "answer": "B",
+    "options": {
+      "A": "Equal importance",
+      "B": "Quantities or amounts",
+      "C": "Direction of movement",
+      "D": "Order or progression"
+    }
+  },
+  "30": {
+    "question": "Which measurement scales are suitable for the visual variable 'size'?",
+    "answer": "D",
+    "options": {
+      "A": "Only interval",
+      "B": "Only nominal",
+      "C": "Only ordinal",
+      "D": "Ordinal, interval, and ratio"
+    }
+  },
+  "31": {
+    "question": "For showing 'equal importance' with nominal data, which visual variable is appropriate?",
+    "answer": "A",
+    "options": {
+      "A": "Colour hue",
+      "B": "Grey value",
+      "C": "Grain/texture",
+      "D": "Size"
+    }
+  },
+  "32": {
+    "question": "The visual variable 'dimensions of the plane' can be used with which measurement scales?",
+    "answer": "D",
+    "options": {
+      "A": "Only nominal and ordinal",
+      "B": "Only interval and ratio",
+      "C": "Only nominal",
+      "D": "Nominal, ordinal, interval, and ratio"
+    }
+  },
+  "33": {
+    "question": "When mapping qualitative data like watersheds, what is the best solution for differentiating units?",
+    "answer": "D",
+    "options": {
+      "A": "Using only a single color for all units",
+      "B": "Using a gradient of black tints",
+      "C": "Varying the size of the units significantly",
+      "D": "Applying colors of equal visual weight or brightness"
+    }
+  },
+  "34": {
+    "question": "What is a common mistake when designing a qualitative map?",
+    "answer": "A",
+    "options": {
+      "A": "Misusing tints of black or bright colors that suggest importance differences not present in reality",
+      "B": "Using a comprehensive legend",
+      "C": "Including a title",
+      "D": "Ensuring all units have equal visual prominence"
+    }
+  },
+  "35": {
+    "question": "What is a primary objective when mapping absolute quantitative data?",
+    "answer": "B",
+    "options": {
+      "A": "To simplify all data into a single category",
+      "B": "To allow the user to determine the amount per unit and overview distribution",
+      "C": "To hide the geographic distribution",
+      "D": "To primarily show political affiliations"
+    }
+  },
+  "36": {
+    "question": "What effect can the size of geographic units have on a quantitative map?",
+    "answer": "A",
+    "options": {
+      "A": "It can influence perceptional properties, with larger units attracting more attention",
+      "B": "It only affects the print quality",
+      "C": "It always makes the map less accurate",
+      "D": "No effect at all"
+    }
+  },
+  "37": {
+    "question": "Which of the following is an example of a poorly designed quantitative map?",
+    "answer": "C",
+    "options": {
+      "A": "Using a single color ramp for shades of green to show population density.",
+      "B": "A map with a clear legend for quantitative values.",
+      "C": "Using green tints for absolute population figures, implying qualitative order instead of quantity.",
+      "D": "Displaying points with varying sizes proportional to quantity."
+    }
+  },
+  "38": {
+    "question": "What is the aim when mapping relative quantities like population density?",
+    "answer": "B",
+    "options": {
+      "A": "To show exact individual numbers only",
+      "B": "To overview the distribution and associate dark colors with high density and light colors with low density",
+      "C": "To highlight specific political boundaries",
+      "D": "To represent qualitative differences"
+    }
+  },
+  "39": {
+    "question": "What is considered a 'badly designed' approach for mapping relative quantities?",
+    "answer": "B",
+    "options": {
+      "A": "Maintaining consistent boundaries.",
+      "B": "Using lightness values out of sequence.",
+      "C": "Using a continuous gradient from light to dark tints.",
+      "D": "Providing a clear legend for density ranges."
+    }
+  },
+  "40": {
+    "question": "What does mapping time series primarily visualize?",
+    "answer": "D",
+    "options": {
+      "A": "Financial market trends",
+      "B": "Static geographic features",
+      "C": "Individual historical events",
+      "D": "Changes over time"
+    }
+  },
+  "41": {
+    "question": "Which of the following is a technique used for mapping time series?",
+    "answer": "D",
+    "options": {
+      "A": "Abstract art",
+      "B": "Creating a single, unchanging map",
+      "C": "Only textual descriptions",
+      "D": "A series of maps"
+    }
+  },
+  "42": {
+    "question": "An animation of changing land use over decades would fall under which time series mapping technique?",
+    "answer": "B",
+    "options": {
+      "A": "Series of static images",
+      "B": "Simulation of an animation",
+      "C": "Single map",
+      "D": "Choropleth map"
+    }
+  }
+}
