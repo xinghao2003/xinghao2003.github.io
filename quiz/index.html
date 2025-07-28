@@ -110,6 +110,7 @@
         let quizData;
         let currentQuestionIndex = 0;
         let score = 0;
+        let selectedAnswers = {};
 
         function loadQuizList() {
             fetch('quiz.json')
@@ -148,6 +149,7 @@
                     quizData = Object.values(data);
                     currentQuestionIndex = 0;
                     score = 0;
+                    selectedAnswers = {};
                     createQuiz();
                     updateProgressBar();
                     document.getElementById('quiz-container').classList.remove('hidden');
@@ -220,17 +222,60 @@
                 optionsContainer.classList.add('space-y-2');
 
                 if (question.options) {
+                    const questionType = question.question_type || 'single_select';
+                    const isMultipleSelect = questionType === 'multiple_select';
+                    
+                    if (isMultipleSelect) {
+                        // Add instruction for multiple select
+                        const instruction = document.createElement('div');
+                        instruction.classList.add('mb-2', 'text-sm', 'text-gray-600', 'dark:text-gray-400', 'italic');
+                        instruction.textContent = 'Select all that apply:';
+                        optionsContainer.appendChild(instruction);
+                    }
+                    
                     // Sort options by key (A, B, C, etc.)
                     const sortedOptions = Object.keys(question.options).sort().reduce((obj, key) => {
                         obj[key] = question.options[key];
                         return obj;
                     }, {});
+                    
                     for (const [id, text] of Object.entries(sortedOptions)) {
-                        const optionButton = document.createElement('button');
-                        optionButton.classList.add('w-full', 'text-left', 'p-2', 'rounded', 'bg-gray-200', 'dark:bg-gray-800', 'hover:bg-gray-300', 'dark:hover:bg-gray-700', 'transition-colors');
-                        optionButton.textContent = `${id}) ${text}`;
-                        optionButton.onclick = () => selectOption(id, index);
-                        optionsContainer.appendChild(optionButton);
+                        const optionContainer = document.createElement('div');
+                        optionContainer.classList.add('flex', 'items-center', 'w-full', 'p-2', 'rounded', 'bg-gray-200', 'dark:bg-gray-800', 'hover:bg-gray-300', 'dark:hover:bg-gray-700', 'transition-colors');
+                        
+                        if (isMultipleSelect) {
+                            const checkbox = document.createElement('input');
+                            checkbox.type = 'checkbox';
+                            checkbox.id = `option-${index}-${id}`;
+                            checkbox.classList.add('mr-2');
+                            checkbox.onchange = () => toggleMultipleOption(id, index);
+                            
+                            const label = document.createElement('label');
+                            label.htmlFor = `option-${index}-${id}`;
+                            label.classList.add('flex-1', 'cursor-pointer');
+                            label.textContent = `${id}) ${text}`;
+                            
+                            optionContainer.appendChild(checkbox);
+                            optionContainer.appendChild(label);
+                        } else {
+                            const button = document.createElement('button');
+                            button.classList.add('w-full', 'text-left');
+                            button.textContent = `${id}) ${text}`;
+                            button.onclick = () => selectOption(id, index);
+                            optionContainer.appendChild(button);
+                        }
+                        
+                        optionsContainer.appendChild(optionContainer);
+                    }
+                    
+                    if (isMultipleSelect) {
+                        // Add submit button for multiple select questions
+                        const submitButton = document.createElement('button');
+                        submitButton.classList.add('mt-2', 'bg-primary-600', 'hover:bg-primary-700', 'text-white', 'font-bold', 'py-2', 'px-4', 'rounded');
+                        submitButton.textContent = 'Submit Answer';
+                        submitButton.id = `submit-${index}`;
+                        submitButton.onclick = () => submitMultipleSelect(index);
+                        optionsContainer.appendChild(submitButton);
                     }
                 } else if (question.answer === "T" || question.answer === "F") {
                     const trueButton = document.createElement('button');
@@ -307,6 +352,71 @@
             }
         }
 
+        function toggleMultipleOption(optionId, questionIndex) {
+            if (!selectedAnswers[questionIndex]) {
+                selectedAnswers[questionIndex] = [];
+            }
+            
+            const selectedList = selectedAnswers[questionIndex];
+            const index = selectedList.indexOf(optionId);
+            
+            if (index > -1) {
+                selectedList.splice(index, 1);
+            } else {
+                selectedList.push(optionId);
+            }
+        }
+        
+        function submitMultipleSelect(questionIndex) {
+            const selectedOptions = selectedAnswers[questionIndex] || [];
+            if (selectedOptions.length === 0) {
+                alert('Please select at least one option.');
+                return;
+            }
+            
+            const question = quizData[questionIndex];
+            const correctAnswers = Array.isArray(question.answer) ? question.answer : [question.answer];
+            
+            // Sort both arrays for comparison
+            const sortedSelected = selectedOptions.sort();
+            const sortedCorrect = correctAnswers.sort();
+            
+            const isCorrect = JSON.stringify(sortedSelected) === JSON.stringify(sortedCorrect);
+            
+            // Disable all checkboxes and submit button
+            const checkboxes = document.querySelectorAll(`#question-${questionIndex} input[type="checkbox"]`);
+            const submitButton = document.getElementById(`submit-${questionIndex}`);
+            
+            checkboxes.forEach(checkbox => {
+                checkbox.disabled = true;
+                const container = checkbox.parentElement;
+                const optionId = checkbox.id.split('-').pop();
+                
+                container.classList.remove('bg-gray-200', 'dark:bg-gray-800');
+                
+                if (correctAnswers.includes(optionId)) {
+                    container.classList.add('bg-green-500', 'dark:bg-green-700', 'text-white');
+                } else if (selectedOptions.includes(optionId)) {
+                    container.classList.add('bg-red-500', 'dark:bg-red-700', 'text-white');
+                }
+            });
+            
+            submitButton.disabled = true;
+            submitButton.classList.add('opacity-50', 'cursor-not-allowed');
+            
+            if (isCorrect) {
+                score++;
+            }
+            
+            revealAnswer(question.answer, questionIndex, !isCorrect);
+            
+            if (isCorrect) {
+                setTimeout(() => {
+                    showNextQuestion();
+                }, 1000);
+            }
+        }
+
         function selectOption(selectedOption, questionIndex) {
             const question = quizData[questionIndex];
             if (!question) {
@@ -370,9 +480,16 @@
             const answerElement = document.getElementById(`answer-${index}`);
             if (answerElement) {
                 let answerText = `Answer: `;
-                if (quizData[index].options) {
-                    const answerOption = quizData[index].options[answer];
-                    answerText += `${answer}) ${answerOption}`;
+                const question = quizData[index];
+                
+                if (question.options && Array.isArray(answer)) {
+                    // Multiple select answer
+                    const answerTexts = answer.map(ans => `${ans}) ${question.options[ans]}`);
+                    answerText += answerTexts.join(', ');
+                } else if (question.options) {
+                    // Single select answer
+                    const singleAnswer = Array.isArray(answer) ? answer[0] : answer;
+                    answerText += `${singleAnswer}) ${question.options[singleAnswer]}`;
                 } else if (answer === "T") {
                     answerText += "TRUE";
                 } else if (answer === "F") {
@@ -481,6 +598,7 @@
         function restartQuiz() {
             currentQuestionIndex = 0;
             score = 0;
+            selectedAnswers = {};
             createQuiz();
             updateProgressBar();
             document.querySelector('.navigation').classList.remove('hidden');
