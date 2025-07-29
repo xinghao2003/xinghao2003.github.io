@@ -3,10 +3,10 @@
     "question": "According to Munzner's nested model, which layer focuses on defining the problem in terms of domain-specific tasks and data?",
     "answer": "A",
     "options": {
-      "A": "C) Domain problem characterization",
-      "B": "B) Data/operation abstraction design",
-      "C": "A) Algorithm design",
-      "D": "D) Encoding/interaction technique design"
+      "A": "Domain problem characterization",
+      "B": "Data/operation abstraction design",
+      "C": "Algorithm design",
+      "D": "Encoding/interaction technique design"
     },
     "question_type": "single_select"
   },
@@ -14,10 +14,10 @@
     "question": "In Munzner's nested model, the process of designing visual encoding and interaction techniques precedes which of the following layers?",
     "answer": "D",
     "options": {
-      "A": "B) Data/operation abstraction design",
-      "B": "D) System implementation",
-      "C": "A) Domain problem characterization",
-      "D": "C) Algorithm design"
+      "A": "Data/operation abstraction design",
+      "B": "System implementation",
+      "C": "Domain problem characterization",
+      "D": "Algorithm design"
     },
     "question_type": "single_select"
   },
@@ -29,10 +29,10 @@
       "C"
     ],
     "options": {
-      "A": "D) Encoding/interaction technique design",
-      "B": "A) Algorithm design",
-      "C": "B) Data/operation abstraction design",
-      "D": "C) User interface design"
+      "A": "Encoding/interaction technique design",
+      "B": "Algorithm design",
+      "C": "Data/operation abstraction design",
+      "D": "User interface design"
     },
     "question_type": "multiple_select"
   },
@@ -40,10 +40,10 @@
     "question": "If a data visualization system faces the \"threat: wrong problem\" according to Munzner's model, what is the recommended validation approach?",
     "answer": "B",
     "options": {
-      "A": "D) Justify encoding/interaction design",
-      "B": "C) Observe and interview target users",
-      "C": "A) Analyze computational complexity",
-      "D": "B) Measure system time/memory"
+      "A": "Justify encoding/interaction design",
+      "B": "Observe and interview target users",
+      "C": "Analyze computational complexity",
+      "D": "Measure system time/memory"
     },
     "question_type": "single_select"
   },
@@ -51,10 +51,10 @@
     "question": "Which of the following is a threat identified at the \"Algorithm Design\" layer in Munzner's nested model?",
     "answer": "C",
     "options": {
-      "A": "D) Wrong problem",
-      "B": "A) Bad data/operation abstraction",
-      "C": "C) Slow algorithm",
-      "D": "B) Ineffective encoding/interaction technique"
+      "A": "Wrong problem",
+      "B": "Bad data/operation abstraction",
+      "C": "Slow algorithm",
+      "D": "Ineffective encoding/interaction technique"
     },
     "question_type": "single_select"
   },
@@ -66,10 +66,10 @@
       "D"
     ],
     "options": {
-      "A": "B) Conducting a lab study to measure human time/errors",
-      "B": "D) Performing qualitative/quantitative result image analysis",
-      "C": "C) Observing adoption rates",
-      "D": "A) Justifying encoding/interaction design"
+      "A": "Conducting a lab study to measure human time/errors",
+      "B": "Performing qualitative/quantitative result image analysis",
+      "C": "Observing adoption rates",
+      "D": "Justifying encoding/interaction design"
     },
     "question_type": "multiple_select"
   },
@@ -77,10 +77,10 @@
     "question": "According to the document, which characteristic of a great data visualization ensures that the audience can use the data for their own purposes and find it relevant?",
     "answer": "D",
     "options": {
-      "A": "D) Comprehensive",
-      "B": "A) Engaging",
-      "C": "C) Clear",
-      "D": "B) Useful"
+      "A": "Comprehensive",
+      "B": "Engaging",
+      "C": "Clear",
+      "D": "Useful"
     },
     "question_type": "single_select"
   },
@@ -88,10 +88,10 @@
     "question": "A data visualization that is visually appealing and grabs the audience's attention through color and organization is demonstrating which key characteristic?",
     "answer": "A",
     "options": {
-      "A": "C) Engagement",
-      "B": "A) Clarity",
-      "C": "B) Utility",
-      "D": "D) Precision"
+      "A": "Engagement",
+      "B": "Clarity",
+      "C": "Utility",
+      "D": "Precision"
     },
     "question_type": "single_select"
   },
@@ -99,10 +99,10 @@
     "question": "Which characteristic emphasizes that a data visualization should accurately illustrate data without trying to trick or persuade the audience?",
     "answer": "C",
     "options": {
-      "A": "B) Useful",
-      "B": "C) Approachable",
-      "C": "D) Clear",
-      "D": "A) Engaging"
+      "A": "Useful",
+      "B": "Approachable",
+      "C": "Clear",
+      "D": "Engaging"
     },
     "question_type": "single_select"
   },
@@ -114,10 +114,10 @@
       "D"
     ],
     "options": {
-      "A": "D) Clear",
-      "B": "B) Aesthetic",
-      "C": "A) Useful",
-      "D": "C) Engaging"
+      "A": "Clear",
+      "B": "Aesthetic",
+      "C": "Useful",
+      "D": "Engaging"
     },
     "question_type": "multiple_select"
   },
@@ -125,10 +125,10 @@
     "question": "According to the data visualization design guidelines, what should be coordinated when using multiple views?",
     "answer": "D",
     "options": {
-      "A": "A) Data sources",
-      "B": "C) Color palettes",
-      "C": "D) Interaction methods",
-      "D": "B) Multiple views"
+      "A": "Data sources",
+      "B": "Color palettes",
+      "C": "Interaction methods",
+      "D": "Multiple views"
     },
     "question_type": "single_select"
   },
@@ -136,10 +136,10 @@
     "question": "Which guideline suggests creating the simplest possible graph?",
     "answer": "C",
     "options": {
-      "A": "D) Guideline 10: Plot overlapping points",
-      "B": "A) Guideline 3: Using the graphic method depending on data",
-      "C": "B) Guideline 7: Create the simplest graph",
-      "D": "C) Guideline 8: Focus on visualizing patterns or details"
+      "A": "Guideline 10: Plot overlapping points",
+      "B": "Guideline 3: Using the graphic method depending on data",
+      "C": "Guideline 7: Create the simplest graph",
+      "D": "Guideline 8: Focus on visualizing patterns or details"
     },
     "question_type": "single_select"
   },
@@ -147,10 +147,10 @@
     "question": "What does Guideline 4 state regarding navigation and zooming in data visualization?",
     "answer": "A",
     "options": {
-      "A": "C) Navigation and zooming do not replace filtering.",
-      "B": "D) Navigation and zooming are only for advanced users.",
-      "C": "A) Navigation and zooming are essential for all plots.",
-      "D": "B) Navigation and zooming should always replace filtering."
+      "A": "Navigation and zooming do not replace filtering.",
+      "B": "Navigation and zooming are only for advanced users.",
+      "C": "Navigation and zooming are essential for all plots.",
+      "D": "Navigation and zooming should always replace filtering."
     },
     "question_type": "single_select"
   },
@@ -162,10 +162,10 @@
       "D"
     ],
     "options": {
-      "A": "B) Ensuring visualizations support specific user tasks",
-      "B": "D) Selecting meaningful axis ranges",
-      "C": "C) Using animated transitions primarily for engagement",
-      "D": "A) Identifying whether visualization is required"
+      "A": "Ensuring visualizations support specific user tasks",
+      "B": "Selecting meaningful axis ranges",
+      "C": "Using animated transitions primarily for engagement",
+      "D": "Identifying whether visualization is required"
     },
     "question_type": "multiple_select"
   },
@@ -173,10 +173,10 @@
     "question": "According to the document, measuring which of the following is considered \"easy\" in data visualization evaluation?",
     "answer": "C",
     "options": {
-      "A": "D) Overall cognitive impact",
-      "B": "B) Increase in knowledge",
-      "C": "C) Number of people who have seen a visualization",
-      "D": "A) Emotional response"
+      "A": "Overall cognitive impact",
+      "B": "Increase in knowledge",
+      "C": "Number of people who have seen a visualization",
+      "D": "Emotional response"
     },
     "question_type": "single_select"
   },
@@ -184,10 +184,10 @@
     "question": "Why is the impact of a data visualization on a consumer, such as an increase in knowledge, often unknown or difficult to measure?",
     "answer": "C",
     "options": {
-      "A": "B) Only quantitative data can be evaluated.",
-      "B": "D) Consumers typically do not provide feedback.",
-      "C": "C) It goes beyond simple metrics like likes or visits.",
-      "D": "A) It is primarily measured by likes and visits."
+      "A": "Only quantitative data can be evaluated.",
+      "B": "Consumers typically do not provide feedback.",
+      "C": "It goes beyond simple metrics like likes or visits.",
+      "D": "It is primarily measured by likes and visits."
     },
     "question_type": "single_select"
   },
@@ -195,10 +195,10 @@
     "question": "Which of the following statements about data visualization evaluation methods is true?",
     "answer": "D",
     "options": {
-      "A": "A) All success criteria are equally easy to measure.",
-      "B": "D) Emotional response is always a simple metric to quantify.",
-      "C": "C) Likes and visits are the most accurate measures of consumer impact.",
-      "D": "B) The mode of evaluation should vary according to the visualization's goal."
+      "A": "All success criteria are equally easy to measure.",
+      "B": "Emotional response is always a simple metric to quantify.",
+      "C": "Likes and visits are the most accurate measures of consumer impact.",
+      "D": "The mode of evaluation should vary according to the visualization's goal."
     },
     "question_type": "single_select"
   },
@@ -206,10 +206,10 @@
     "question": "At which stage(s) of the development process can data visualization evaluation take place, according to Lam et al. (2012)?",
     "answer": "B",
     "options": {
-      "A": "A) Only after final product distribution",
-      "B": "C) Predesign, design, prototype, deployment, or redesign stages",
-      "C": "D) Exclusively before the design phase",
-      "D": "B) Only during the prototype and deployment stages"
+      "A": "Only after final product distribution",
+      "B": "Predesign, design, prototype, deployment, or redesign stages",
+      "C": "Exclusively before the design phase",
+      "D": "Only during the prototype and deployment stages"
     },
     "question_type": "single_select"
   },
@@ -217,10 +217,10 @@
     "question": "What is a common form of evaluation that focuses on the effectiveness of visual elements and presentation styles?",
     "answer": "C",
     "options": {
-      "A": "D) Market research",
-      "B": "B) Data source validation",
-      "C": "C) User testing",
-      "D": "A) Algorithmic analysis"
+      "A": "Market research",
+      "B": "Data source validation",
+      "C": "User testing",
+      "D": "Algorithmic analysis"
     },
     "question_type": "single_select"
   },
@@ -231,10 +231,10 @@
       "D"
     ],
     "options": {
-      "A": "A) The raw data's accuracy",
-      "B": "C) Presentation styles",
-      "C": "D) Computational complexity",
-      "D": "B) Effectiveness of visual elements"
+      "A": "The raw data's accuracy",
+      "B": "Presentation styles",
+      "C": "Computational complexity",
+      "D": "Effectiveness of visual elements"
     },
     "question_type": "multiple_select"
   },
@@ -242,10 +242,10 @@
     "question": "According to Hullman & Diakopoulos (2011), through what lenses do consumers primarily extract meaning from visualizations?",
     "answer": "D",
     "options": {
-      "A": "A) Financial, political, technological, and economic",
-      "B": "C) Historical, geographical, statistical, and aesthetic",
-      "C": "D) Design, algorithm, data type, and interaction",
-      "D": "B) Cultural, perceptual, cognitive, and psychological"
+      "A": "Financial, political, technological, and economic",
+      "B": "Historical, geographical, statistical, and aesthetic",
+      "C": "Design, algorithm, data type, and interaction",
+      "D": "Cultural, perceptual, cognitive, and psychological"
     },
     "question_type": "single_select"
   },
@@ -253,10 +253,10 @@
     "question": "Which of the following is cited as a factor that could impact engagement with data visualizations?",
     "answer": "A",
     "options": {
-      "A": "C) Subject matter",
-      "B": "B) User's screen resolution",
-      "C": "D) Programming language used",
-      "D": "A) Visualization file size"
+      "A": "Subject matter",
+      "B": "User's screen resolution",
+      "C": "Programming language used",
+      "D": "Visualization file size"
     },
     "question_type": "single_select"
   },
@@ -264,10 +264,10 @@
     "question": "Why does the sociocultural context of consumption pose a significant challenge for data visualization evaluation?",
     "answer": "D",
     "options": {
-      "A": "A) It restricts the types of data that can be visualized.",
-      "B": "B) It requires simpler visualizations, reducing complexity.",
-      "C": "D) It primarily impacts only the technical performance of visualizations.",
-      "D": "C) Diverse environments can lead to unpredictable consumption effects."
+      "A": "It restricts the types of data that can be visualized.",
+      "B": "It requires simpler visualizations, reducing complexity.",
+      "C": "It primarily impacts only the technical performance of visualizations.",
+      "D": "Diverse environments can lead to unpredictable consumption effects."
     },
     "question_type": "single_select"
   },
@@ -279,10 +279,10 @@
       "C"
     ],
     "options": {
-      "A": "A) Source/media",
-      "B": "B) Beliefs and opinions",
-      "C": "D) Confidence & skills",
-      "D": "C) Financial investment"
+      "A": "Source/media",
+      "B": "Beliefs and opinions",
+      "C": "Confidence & skills",
+      "D": "Financial investment"
     },
     "question_type": "multiple_select"
   },
@@ -290,10 +290,10 @@
     "question": "Besides response speed and accuracy, what type of questions are recommended to evaluate deeper user understanding in data visualization?",
     "answer": "B",
     "options": {
-      "A": "B) Single-choice questions",
-      "B": "C) Open-ended questions",
-      "C": "A) Yes/No questions",
-      "D": "D) True/False questions"
+      "A": "Single-choice questions",
+      "B": "Open-ended questions",
+      "C": "Yes/No questions",
+      "D": "True/False questions"
     },
     "question_type": "single_select"
   },
@@ -301,10 +301,10 @@
     "question": "When evaluating understanding, what aspects should participants be asked to describe?",
     "answer": "D",
     "options": {
-      "A": "A) Only quantitative data values",
-      "B": "C) Their personal preferences for colors and fonts",
-      "C": "D) The software used to create the visualization",
-      "D": "B) Interesting/surprising things, overall message, trend, and sentiment"
+      "A": "Only quantitative data values",
+      "B": "Their personal preferences for colors and fonts",
+      "C": "The software used to create the visualization",
+      "D": "Interesting/surprising things, overall message, trend, and sentiment"
     },
     "question_type": "single_select"
   },
@@ -315,10 +315,10 @@
       "C"
     ],
     "options": {
-      "A": "C) Accuracy",
-      "B": "D) Emotional response",
-      "C": "A) Response speed",
-      "D": "B) User sentiment"
+      "A": "Accuracy",
+      "B": "Emotional response",
+      "C": "Response speed",
+      "D": "User sentiment"
     },
     "question_type": "multiple_select"
   },
@@ -326,10 +326,10 @@
     "question": "According to the Burns et al. (2020) framework, which level of evaluation questions involves recalling basic facts and definitions?",
     "answer": "D",
     "options": {
-      "A": "A) Application",
-      "B": "C) Analysis",
-      "C": "D) Comprehension",
-      "D": "B) Knowledge"
+      "A": "Application",
+      "B": "Analysis",
+      "C": "Comprehension",
+      "D": "Knowledge"
     },
     "question_type": "single_select"
   },
@@ -337,10 +337,10 @@
     "question": "A question asking a user to \"justify a conclusion based on data\" falls under which level of evaluation in the Burns et al. framework?",
     "answer": "B",
     "options": {
-      "A": "A) Synthesis",
-      "B": "C) Evaluation",
-      "C": "B) Application",
-      "D": "D) Analysis"
+      "A": "Synthesis",
+      "B": "Evaluation",
+      "C": "Application",
+      "D": "Analysis"
     },
     "question_type": "single_select"
   },
@@ -348,10 +348,10 @@
     "question": "Which level of evaluation questions asks the user to \"predict a future value\" based on the visualized data?",
     "answer": "C",
     "options": {
-      "A": "B) Comprehension",
-      "B": "A) Knowledge",
-      "C": "D) Synthesis",
-      "D": "C) Application"
+      "A": "Comprehension",
+      "B": "Knowledge",
+      "C": "Synthesis",
+      "D": "Application"
     },
     "question_type": "single_select"
   },
@@ -362,10 +362,10 @@
       "C"
     ],
     "options": {
-      "A": "A) Summarize main message",
-      "B": "D) Translate the data in a chart to a table",
-      "C": "B) Use a percentage and total population to calculate a number",
-      "D": "C) Describe a trend"
+      "A": "Summarize main message",
+      "B": "Translate the data in a chart to a table",
+      "C": "Use a percentage and total population to calculate a number",
+      "D": "Describe a trend"
     },
     "question_type": "multiple_select"
   }

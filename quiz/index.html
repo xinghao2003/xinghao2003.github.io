@@ -409,6 +409,7 @@
             }
             
             revealAnswer(question.answer, questionIndex, !isCorrect);
+            updateNavigationButtons();
             
             if (isCorrect) {
                 setTimeout(() => {
@@ -468,6 +469,7 @@
             });
 
             revealAnswer(question.answer, questionIndex, !isCorrect);
+            updateNavigationButtons();
 
             if (isCorrect) {
                 setTimeout(() => {
@@ -557,7 +559,23 @@
 
         function updateNavigationButtons() {
             document.getElementById('prev-btn').disabled = (currentQuestionIndex === 0);
-            document.getElementById('next-btn').disabled = (currentQuestionIndex === quizData.length - 1);
+            const nextBtn = document.getElementById('next-btn');
+            
+            if (currentQuestionIndex === quizData.length - 1) {
+                // Check if the last question has been answered
+                const lastQuestionAnswered = document.querySelector(`#question-${currentQuestionIndex} button:disabled`) ||
+                                           document.querySelector(`#question-${currentQuestionIndex} input:disabled`);
+                
+                if (lastQuestionAnswered) {
+                    nextBtn.textContent = 'Show Results';
+                    nextBtn.disabled = false;
+                } else {
+                    nextBtn.disabled = true;
+                }
+            } else {
+                nextBtn.textContent = 'Next';
+                nextBtn.disabled = false;
+            }
         }
 
         function updateProgressBar() {
