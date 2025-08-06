@@ -11,14 +11,15 @@ A comprehensive cheat sheet of Python codes, structured by the lab sessions, wil
 
 This section covers the basics of creating interactive web applications with Streamlit.
 
-*   **Core Concepts**:
-    *   **Running a Streamlit App**: Save your script as a Python file (e.g., `app.py`) and run `streamlit run app.py` in your terminal.
-    *   **Text Elements**: Use `st.title()`, `st.header()`, and `st.write()` to display text.
-    *   **Sidebar Navigation**: Create a side menu for navigation using `st.sidebar.title()` and `st.sidebar.selectbox()`.
+* **Core Concepts**:
+  * **Running a Streamlit App**: Save your script as a Python file (e.g., `app.py`) and run `streamlit run app.py` in your terminal.
+  * **Text Elements**: Use `st.title()`, `st.header()`, and `st.write()` to display text.
+  * **Sidebar Navigation**: Create a side menu for navigation using `st.sidebar.title()` and `st.sidebar.selectbox()`.
 
-*   **Code Examples**:
+* **Code Examples**:
 
-    *   **Basic App Structure**:
+  * **Basic App Structure**:
+
         ```python
         import streamlit as st
 
@@ -26,7 +27,8 @@ This section covers the basics of creating interactive web applications with Str
         st.write("Welcome to my app!")
         ```
 
-    *   **Sidebar and Page Navigation**:
+  * **Sidebar and Page Navigation**:
+
         ```python
         import streamlit as st
 
@@ -39,7 +41,8 @@ This section covers the basics of creating interactive web applications with Str
             st.header("About Page")
         ```
 
-    *   **Displaying Images**:
+  * **Displaying Images**:
+
         ```python
         import streamlit as st
 
@@ -47,7 +50,8 @@ This section covers the basics of creating interactive web applications with Str
             st.image("image_url.jpg", caption="This is a caption.")
         ```
 
-    *   **Interactive Widgets and Basic Plotting**:
+  * **Interactive Widgets and Basic Plotting**:
+
         ```python
         import streamlit as st
         import matplotlib.pyplot as plt
@@ -66,14 +70,15 @@ This section covers the basics of creating interactive web applications with Str
 
 This lab focuses on creating various charts and integrating them into a Streamlit application.
 
-*   **Core Concepts**:
-    *   **Pandas DataFrame**: Use `pandas` to create and manage data.
-    *   **Chart Integration**: Display charts from libraries like Matplotlib.
-    *   **Interactivity**: Filter and update charts based on user input from widgets like `st.multiselect` and `st.slider`.
+* **Core Concepts**:
+  * **Pandas DataFrame**: Use `pandas` to create and manage data.
+  * **Chart Integration**: Display charts from libraries like Matplotlib.
+  * **Interactivity**: Filter and update charts based on user input from widgets like `st.multiselect` and `st.slider`.
 
-*   **Code Examples**:
+* **Code Examples**:
 
-    *   **Displaying a DataFrame**:
+  * **Displaying a DataFrame**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -83,7 +88,8 @@ This lab focuses on creating various charts and integrating them into a Streamli
         st.dataframe(df)
         ```
 
-    *   **Bar and Pie Charts with Matplotlib**:
+  * **Bar and Pie Charts with Matplotlib**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -103,7 +109,8 @@ This lab focuses on creating various charts and integrating them into a Streamli
         st.pyplot(fig2)
         ```
 
-    *   **Interactive Filtering**:
+  * **Interactive Filtering**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -121,14 +128,15 @@ This lab focuses on creating various charts and integrating them into a Streamli
 
 This section explores creating interactive, linked visualizations where a selection in one chart affects another.
 
-*   **Core Concepts**:
-    *   **Altair**: A declarative statistical visualization library for creating complex interactive charts.
-    *   **Linked Views**: Connect multiple charts to explore data relationships.
-    *   **Interactive Selections**: Use Altair's selection features to filter data across charts.
+* **Core Concepts**:
+  * **Altair**: A declarative statistical visualization library for creating complex interactive charts.
+  * **Linked Views**: Connect multiple charts to explore data relationships.
+  * **Interactive Selections**: Use Altair's selection features to filter data across charts.
 
-*   **Code Example**:
+* **Code Example**:
 
-    *   **Linked Bar and Scatter Plots**:
+  * **Linked Bar and Scatter Plots**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -170,14 +178,15 @@ This section explores creating interactive, linked visualizations where a select
 
 This lab distinguishes between interactive charts for data exploration and static charts for clear presentation.
 
-*   **Core Concepts**:
-    *   **Exploratory Graphics**: Interactive charts that allow users to delve into the data.
-    *   **Presentation Graphics**: Static charts that convey a specific message clearly.
-    *   **Altair for Both**: Use Altair for creating both types of visualizations.
+* **Core Concepts**:
+  * **Exploratory Graphics**: Interactive charts that allow users to delve into the data.
+  * **Presentation Graphics**: Static charts that convey a specific message clearly.
+  * **Altair for Both**: Use Altair for creating both types of visualizations.
 
-*   **Code Examples**:
+* **Code Examples**:
 
-    *   **Exploratory Scatter Plot**:
+  * **Exploratory Scatter Plot**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -197,7 +206,8 @@ This lab distinguishes between interactive charts for data exploration and stati
         st.altair_chart(chart, use_container_width=True)
         ```
 
-    *   **Presentation Bar Chart**:
+  * **Presentation Bar Chart**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -219,13 +229,14 @@ This lab distinguishes between interactive charts for data exploration and stati
 
 This section covers advanced techniques for visualizing datasets with multiple variables.
 
-*   **Core Concepts**:
-    *   **Seaborn and Plotly**: Libraries for creating complex and aesthetically pleasing visualizations.
-    *   **High-Dimensional Techniques**: Use mosaic plots, trellis displays, heatmaps, parallel coordinate plots, and 3D scatter plots to explore multivariate data.
+* **Core Concepts**:
+  * **Seaborn and Plotly**: Libraries for creating complex and aesthetically pleasing visualizations.
+  * **High-Dimensional Techniques**: Use mosaic plots, trellis displays, heatmaps, parallel coordinate plots, and 3D scatter plots to explore multivariate data.
 
-*   **Code Examples**:
+* **Code Examples**:
 
-    *   **Heatmap with Seaborn**:
+  * **Heatmap with Seaborn**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -240,7 +251,8 @@ This section covers advanced techniques for visualizing datasets with multiple v
         st.pyplot(fig)
         ```
 
-    *   **Parallel Coordinate Plot with Plotly**:
+  * **Parallel Coordinate Plot with Plotly**:
+
         ```python
         import streamlit as st
         import pandas as pd
@@ -264,15 +276,16 @@ This section covers advanced techniques for visualizing datasets with multiple v
 
 These labs focus on creating maps to visualize geographical data.
 
-*   **Core Concepts**:
-    *   **GeoPandas**: Extends pandas to allow spatial operations on geometric types.
-    *   **Folium**: A library for creating interactive maps.
-    *   **Choropleth Maps**: Maps where areas are shaded in proportion to a statistical variable.
-    *   **Map Projections**: Different ways of representing the Earth's surface on a flat map.
+* **Core Concepts**:
+  * **GeoPandas**: Extends pandas to allow spatial operations on geometric types.
+  * **Folium**: A library for creating interactive maps.
+  * **Choropleth Maps**: Maps where areas are shaded in proportion to a statistical variable.
+  * **Map Projections**: Different ways of representing the Earth's surface on a flat map.
 
-*   **Code Examples**:
+* **Code Examples**:
 
-    *   **Basic Map with Folium**:
+  * **Basic Map with Folium**:
+
         ```python
         import streamlit as st
         import folium
@@ -284,7 +297,8 @@ These labs focus on creating maps to visualize geographical data.
         folium_static(m)
         ```
 
-    *   **Choropleth Map**:
+  * **Choropleth Map**:
+
         ```python
         import streamlit as st
         import geopandas as gpd

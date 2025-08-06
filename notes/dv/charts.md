@@ -6,7 +6,9 @@ title: Charts - Data Visualization
 # Charts
 
 ## Bar Chart
+
 ![](images/bar_chart.png)
+
 ```python
 import matplotlib.pyplot as plt
 
@@ -22,8 +24,10 @@ plt.xlabel('Categories')
 plt.ylabel('Values')
 ```
 
-# Pie Chart
+## Pie Chart
+
 ![](images/pie_chart.png)
+
 ```python
 import matplotlib.pyplot as plt
 
@@ -40,8 +44,10 @@ plt.pie(x=sizes, labels=labels, autopct='%1.1f%%')
 plt.title('Pie Chart')
 ```
 
-# Scatter Plot
+## Scatter Plot
+
 ![](images/scatter_plot.png)
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -65,8 +71,10 @@ plt.colorbar(label='Temperature')
 
 ```
 
-# Line Chart
+## Line Chart
+
 ![](images/line_chart.png)
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -83,8 +91,11 @@ plt.title('Line Chart')
 plt.xlabel('X values')
 plt.ylabel('Y values')
 ```
-# Heatmap
+
+## Heatmap
+
 ![](images/heatmap.png)
+
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -99,8 +110,10 @@ sns.heatmap(data, annot=True)
 plt.title('Heatmap')
 ```
 
-# Parallel Coordinate Plot
+## Parallel Coordinate Plot
+
 ![](images/parallel_coordinate_plot_plotly.png)
+
 ```python
 import pandas as pd
 import numpy as np
@@ -125,8 +138,10 @@ fig = px.parallel_coordinates(
 fig.show()
 ```
 
-# Mosaic Plot
+## Mosaic Plot
+
 ![](images/mosaic_plot.png)
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -145,4 +160,54 @@ df = pd.DataFrame({
 # Create mosaic plot using 3 categories
 mosaic(df, ['Category1', 'Category2', 'Category3'])
 plt.title('Mosaic Plot')
+```
+
+# Trellis Display
+
+![](images/trellis_display.png)
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+# Dummy data
+df = pd.DataFrame({
+    'x': np.random.randn(200),
+    'y': np.random.randn(200),
+    'category': np.random.choice(['A', 'B', 'C', 'D'], 200)
+})
+
+# Create trellis display
+g = sns.FacetGrid(df, col='category', col_wrap=2)
+g.map(plt.scatter, 'x', 'y')
+g.set_titles('Category {col_name}')
+plt.suptitle('Trellis Display')
+```
+
+# Choropleth Map
+
+![](images/choropleth.png)
+
+```python
+import geopandas as gpd  # extend pandas with geo capabilities
+import folium  # interactive maps
+
+# Dummy data
+world = gpd.read_file(r"C:\Users\xingh\Desktop\data_visualization\lab_6\lab6my.json")
+world['dummy_data'] = world.index * 10
+
+m = folium.Map(location=[0, 0], zoom_start=2)
+
+folium.Choropleth(
+    geo_data=world,
+    name='choropleth',
+    data=world,
+    columns=['name', 'dummy_data'],
+    key_on='feature.properties.name',
+    legend_name='Dummy Data'
+).add_to(m)
+
+m.save('map.html')
 ```

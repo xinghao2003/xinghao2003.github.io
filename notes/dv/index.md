@@ -10,12 +10,14 @@ Welcome to the Data Visualization course materials. This section contains compre
 ## Course Materials
 
 ### Core Topics
+
 - [Charts](charts.md) - Overview of different chart types and their applications
 - [Lab](lab.md) - Practical lab with code
 - [Exercises](exercise.md) - Practical exercises and assignments
 - [Final Notes](final-notes.md) - Comprehensive review and summary materials
 
 ## Quick Navigation
+
 - [Back to All Notes](../)
 - [Course Quizzes](/quiz/) - Interactive DV quizzes available
 
