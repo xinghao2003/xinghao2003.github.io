@@ -83,3 +83,66 @@ plt.title('Line Chart')
 plt.xlabel('X values')
 plt.ylabel('Y values')
 ```
+# Heatmap
+![](images/heatmap.png)
+```python
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+# Dummy data - correlation matrix
+data = np.random.rand(10, 10)
+
+# Create heatmap
+plt.figure()
+sns.heatmap(data, annot=True)
+plt.title('Heatmap')
+```
+
+# Parallel Coordinate Plot
+![](images/parallel_coordinate_plot_plotly.png)
+```python
+import pandas as pd
+import numpy as np
+import plotly.express as px
+
+# Dummy data
+df = pd.DataFrame({
+    'var1': np.random.randn(50),
+    'var2': np.random.randn(50),
+    'var3': np.random.randn(50),
+    'var4': np.random.randn(50),
+    'group': np.random.choice([0, 1, 2], 50)
+})
+
+# Create parallel coordinate plot
+fig = px.parallel_coordinates(
+    df,
+    color='group',
+    dimensions=['var1', 'var2', 'var3', 'var4'],
+    title='Parallel Coordinate Plot (Plotly)',
+)
+fig.show()
+```
+
+# Mosaic Plot
+![](images/mosaic_plot.png)
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+from statsmodels.graphics.mosaicplot import mosaic
+import numpy as np
+
+# Create a DataFrame with 3 categorical variables
+# choice: Generates a random sample from a given 1-D array
+# p represents the probabilities for each category
+df = pd.DataFrame({
+    'Category1': np.random.choice(['A', 'B', 'C', 'D'], size=200, p=[0.4, 0.3, 0.2, 0.1]),
+    'Category2': np.random.choice(['X', 'Y', 'Z'], size=200, p=[0.5, 0.3, 0.2]),
+    'Category3': np.random.choice(['M', 'N'], size=200, p=[0.6, 0.4]),
+})
+
+# Create mosaic plot using 3 categories
+mosaic(df, ['Category1', 'Category2', 'Category3'])
+plt.title('Mosaic Plot')
+```
