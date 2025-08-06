@@ -20,6 +20,10 @@ Welcome to the Data Visualization course materials. This section contains compre
 - [Mock Test](mock-test.md) - Practice test to prepare for the final exam
 - [Past Year Papers](past-year/) - Previous examination papers and solutions
 
+### Exam Prep Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Oh46XDSthM?si=m06I11PqlnCPf7yq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Quick Navigation
 
 - [Back to All Notes](../)
