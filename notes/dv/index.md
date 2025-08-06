@@ -18,6 +18,7 @@ Welcome to the Data Visualization course materials. This section contains compre
 - [Exercises](exercise.md) - Practical exercises and assignments
 - [Final Notes](final-notes.md) - Comprehensive review and summary materials
 - [Mock Test](mock-test.md) - Practice test to prepare for the final exam
+- [Past Year Papers](past-year/) - Previous examination papers and solutions
 
 ## Quick Navigation
 
