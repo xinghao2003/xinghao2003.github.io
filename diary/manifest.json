@@ -1,0 +1,49 @@
+{
+  "name": "Timeline Diary",
+  "short_name": "Diary",
+  "description": "A timeline-based digital diary app for capturing memories and thoughts",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a202c",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "en",
+  "categories": ["lifestyle", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIj4KICA8Y2lyY2xlIGN4PSI5NiIgY3k9Ijk2IiByPSI5NiIgZmlsbD0iIzYzNjZmMSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTUlIiBmb250LXNpemU9IjgwIiBmb250LWZhbWlseT0iQXBwbGUgQ29sb3IgRW1vamksIE5vdG8gQ29sb3IgRW1vamkiIGZpbGw9IndoaXRlIiBkb21pbmFudC1iYXNlbGluZT0iY2VudHJhbCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+8J+TljwvdGV4dD4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIj4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIgZmlsbD0iIzYzNjZmMSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTUlIiBmb250LXNpemU9IjIwMCIgZm9udC1mYW1pbHk9IkFwcGxlIENvbG9yIEVtb2ppLCBOb3RvIENvbG9yIEVtb2ppIiBmaWxsPSJ3aGl0ZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPvCfk5Y8L3RleHQ+Cjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Entry",
+      "short_name": "New Entry",
+      "description": "Create a new diary entry",
+      "url": "./#new",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiI+PGNpcmNsZSBjeD0iNDgiIGN5PSI0OCIgcj0iNDgiIGZpbGw9IiMxMGI5ODEiLz48dGV4dCB4PSI1MCUiIHk9IjU1JSIgZm9udC1zaXplPSI0MCIgZm9udC1mYW1pbHk9IkFwcGxlIENvbG9yIEVtb2ppLCBOb3RvIENvbG9yIEVtb2ppIiBmaWxsPSJ3aGl0ZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuKcqDwvdGV4dD48L3N2Zz4=",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NDAiIGhlaWdodD0iNzIwIj4KICA8cmVjdCB3aWR0aD0iNTQwIiBoZWlnaHQ9IjcyMCIgZmlsbD0iIzFhMjAyYyIvPgogIDxyZWN0IHg9IjIwIiB5PSI2MCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI2MDAiIHJ4PSIxNiIgZmlsbD0iIzJkMzc0OCIgb3BhY2l0eT0iMC44Ii8+CiAgPHRleHQgeD0iMjcwIiB5PSIxNDAiIGZvbnQtc2l6ZT0iNDAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZpbGw9IiNlMmU4ZjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPvCfk5YgVGltZWxpbmUgRGlhcnk8L3RleHQ+Cjwvc3ZnPg==",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
