@@ -1,10 +1,13 @@
-const CACHE_NAME = 'timeline-diary-v1.1';
-const STATIC_CACHE_NAME = 'timeline-diary-static-v1.1';
-const DYNAMIC_CACHE_NAME = 'timeline-diary-dynamic-v1.1';
+// Bump version to ensure clients pick up latest SW and caches
+const CACHE_VERSION = 'v2.0.0';
+const CACHE_NAME = `timeline-diary-${CACHE_VERSION}`;
+const STATIC_CACHE_NAME = `timeline-diary-static-${CACHE_VERSION}`;
+const DYNAMIC_CACHE_NAME = `timeline-diary-dynamic-${CACHE_VERSION}`;
 
 // Files to cache for offline functionality
 const urlsToCache = [
   './',
+  // We cache index.html only as an offline fallback. Fetch strategy below is network-first for HTML.
   './index.html',
   './manifest.json'
 ];
@@ -20,7 +23,8 @@ self.addEventListener('install', event => {
       })
       .then(() => {
         console.log('Service Worker: Static assets cached successfully');
-        return self.skipWaiting();
+  // Activate new SW immediately
+  return self.skipWaiting();
       })
       .catch(error => {
         console.error('Service Worker: Error caching static assets:', error);
@@ -37,7 +41,7 @@ self.addEventListener('activate', event => {
         return Promise.all(
           cacheNames.map(cacheName => {
             // Delete old caches
-            if (cacheName !== STATIC_CACHE_NAME && 
+            if (cacheName !== STATIC_CACHE_NAME &&
                 cacheName !== DYNAMIC_CACHE_NAME) {
               console.log('Service Worker: Deleting old cache:', cacheName);
               return caches.delete(cacheName);
@@ -47,6 +51,7 @@ self.addEventListener('activate', event => {
       })
       .then(() => {
         console.log('Service Worker: Activated successfully');
+        // Start controlling pages without reload
         return self.clients.claim();
       })
   );
@@ -64,47 +69,50 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  event.respondWith(
-    caches.match(event.request)
-      .then(response => {
-        // Return cached version if available
-        if (response) {
-          console.log('Service Worker: Serving from cache:', event.request.url);
-          return response;
-        }
+  const url = new URL(event.request.url);
 
-        // Otherwise fetch from network
-        console.log('Service Worker: Fetching from network:', event.request.url);
-        return fetch(event.request)
-          .then(response => {
-            // Don't cache non-successful responses
-            if (!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
+  // Don't try to cache the service worker itself
+  if (url.pathname.endsWith('sw.js')) {
+    return; // let the browser handle SW updates
+  }
 
-            // Clone the response
-            const responseToCache = response.clone();
+  // Helper to detect HTML requests (navigations and HTML fetches)
+  const isHTMLRequest = event.request.mode === 'navigate' ||
+    (event.request.headers.get('accept') || '').includes('text/html');
 
-            // Cache dynamic content
-            caches.open(DYNAMIC_CACHE_NAME)
-              .then(cache => {
-                cache.put(event.request, responseToCache);
-              });
+  // Network-first for HTML to get the latest content, fallback to cache when offline
+  if (isHTMLRequest) {
+    event.respondWith((async () => {
+      try {
+        const networkResponse = await fetch(event.request, { cache: 'no-store' });
+        // Update the cache for offline usage
+        const cache = await caches.open(DYNAMIC_CACHE_NAME);
+        cache.put(event.request, networkResponse.clone());
+        return networkResponse;
+      } catch (err) {
+        console.warn('Service Worker: HTML network fetch failed, serving cached fallback:', url.href);
+        const cached = await caches.match(event.request) || await caches.match('./index.html');
+        return cached || new Response('Offline', { status: 503, statusText: 'Offline' });
+      }
+    })());
+    return;
+  }
 
-            return response;
-          })
-          .catch(error => {
-            console.error('Service Worker: Network fetch failed:', error);
-            
-            // Return a basic offline page for navigation requests
-            if (event.request.mode === 'navigate') {
-              return caches.match('./index.html');
-            }
-            
-            throw error;
-          });
-      })
-  );
+  // Stale-while-revalidate for static assets (CSS/JS/images/fonts), cache-first if present
+  event.respondWith((async () => {
+    const cache = await caches.open(DYNAMIC_CACHE_NAME);
+    const cached = await caches.match(event.request);
+    const fetchPromise = fetch(event.request).then(response => {
+      // Cache successful same-origin or CORS responses
+      if (response && response.status === 200 && (response.type === 'basic' || response.type === 'cors')) {
+        cache.put(event.request, response.clone()).catch(() => {});
+      }
+      return response;
+    }).catch(() => undefined);
+
+    // Return cache immediately if present, else wait for network
+    return cached || fetchPromise || new Response('Offline', { status: 503, statusText: 'Offline' });
+  })());
 });
 
 // Handle sync events for background data sync

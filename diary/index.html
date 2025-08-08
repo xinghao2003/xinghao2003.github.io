@@ -605,9 +605,30 @@
         });
         closeInstallBtn.addEventListener('click', () => installPrompt.classList.remove('show'));
 
-        // SW registration (kept minimal)
+        // Service Worker registration with aggressive update activation
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js').catch(console.warn);
+            const reloadOnce = () => {
+                if (sessionStorage.getItem('sw-reloaded')) return;
+                sessionStorage.setItem('sw-reloaded', '1');
+                location.reload();
+            };
+            navigator.serviceWorker.addEventListener('controllerchange', reloadOnce);
+            navigator.serviceWorker.register('./sw.js').then(reg => {
+                // If there's an updated worker waiting, ask it to activate
+                if (reg.waiting) {
+                    reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+                }
+                reg.addEventListener('updatefound', () => {
+                    const newSW = reg.installing;
+                    if (!newSW) return;
+                    newSW.addEventListener('statechange', () => {
+                        if (newSW.state === 'installed' && navigator.serviceWorker.controller) {
+                            // New content available, trigger a one-time reload
+                            reloadOnce();
+                        }
+                    });
+                });
+            }).catch(console.warn);
         }
 
         // Init
