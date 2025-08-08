@@ -2,878 +2,619 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Timeline Diary</title>
     <link rel="manifest" href="./manifest.json">
-    <meta name="theme-color" content="#6366f1">
+    <meta name="theme-color" content="#111827">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="Timeline Diary">
-    
-    <!-- JSZip for creating ZIP files -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-
     <style>
+        :root {
+            --bg: #ffffff;
+            --text: #0f172a;
+            --muted: #64748b;
+            --border: #e2e8f0;
+            --card: #ffffff;
+            --accent: #111827;
+            --accent-contrast: #ffffff;
+            --shadow: 0 1px 2px rgba(0, 0, 0, .06);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0b1020;
+                --text: #e5e7eb;
+                --muted: #94a3b8;
+                --border: #111827;
+                --card: #0e152b;
+                --accent: #e5e7eb;
+                --accent-contrast: #0b1020;
+                --shadow: 0 1px 2px rgba(0, 0, 0, .25);
+            }
+        }
+
         * {
-            margin: 0;
-            padding: 0;
             box-sizing: border-box;
         }
 
+        html,
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
-            color: #e2e8f0;
-            min-height: 100vh;
-            line-height: 1.6;
+            height: 100%;
         }
 
-        .container {
-            max-width: 768px;
-            margin: 0 auto;
-            padding: 20px;
-            min-height: 100vh;
+        body {
+            margin: 0;
+            font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
 
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-            padding: 20px 0;
-        }
-
-        .header h1 {
-            font-size: 2.5rem;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 10px;
-        }
-
-        .header p {
-            color: #a0aec0;
-            font-size: 1.1rem;
-        }
-
-        .input-section {
-            background: rgba(45, 55, 72, 0.8);
-            border-radius: 16px;
-            padding: 25px;
-            margin-bottom: 30px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(99, 102, 241, 0.3);
-        }
-
-        .input-row {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-        }
-
-        .camera-btn,
-        .export-btn {
-            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-            color: white;
-            border: none;
-            padding: 12px 20px;
-            border-radius: 12px;
-            cursor: pointer;
-            font-size: 1rem;
-            font-weight: 600;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            min-height: 48px;
-        }
-
-        .camera-btn:hover,
-        .export-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(99, 102, 241, 0.4);
-        }
-
-        .text-input {
-            flex: 1;
-            background: rgba(26, 32, 44, 0.7);
-            border: 2px solid rgba(99, 102, 241, 0.3);
-            border-radius: 12px;
-            padding: 15px;
-            color: #e2e8f0;
-            font-size: 1rem;
-            resize: none;
-            min-height: 48px;
-            transition: all 0.3s ease;
-        }
-
-        .text-input:focus {
-            outline: none;
-            border-color: #6366f1;
-            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
-        }
-
-        .text-input::placeholder {
-            color: #a0aec0;
-        }
-
-        .add-btn {
-            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-            color: white;
-            border: none;
-            padding: 15px 30px;
-            border-radius: 12px;
-            cursor: pointer;
-            font-size: 1rem;
-            font-weight: 600;
-            width: 100%;
-            transition: all 0.3s ease;
-            margin-top: 15px;
-        }
-
-        .add-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(16, 185, 129, 0.4);
-        }
-
-        .add-btn:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .timeline {
-            position: relative;
-            margin-top: 40px;
-        }
-
-        .timeline::before {
-            content: '';
-            position: absolute;
-            left: 30px;
-            top: 0;
-            bottom: 0;
-            width: 3px;
-            background: linear-gradient(to bottom, #6366f1, #8b5cf6);
-            border-radius: 2px;
-        }
-
-        .timeline-item {
-            position: relative;
-            margin-bottom: 30px;
-            margin-left: 70px;
-            background: rgba(45, 55, 72, 0.8);
-            border-radius: 16px;
-            padding: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(99, 102, 241, 0.2);
-            transition: all 0.3s ease;
-        }
-
-        .timeline-item:hover {
-            transform: translateX(5px);
-            border-color: rgba(99, 102, 241, 0.5);
-        }
-
-        .timeline-item::before {
-            content: '';
-            position: absolute;
-            left: -55px;
-            top: 25px;
-            width: 16px;
-            height: 16px;
-            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-            border-radius: 50%;
-            border: 3px solid #1a202c;
-        }
-
-        .timeline-date {
-            color: #a0aec0;
-            font-size: 0.9rem;
-            margin-bottom: 10px;
-            font-weight: 500;
-        }
-
-        .timeline-content {
-            color: #e2e8f0;
-            font-size: 1.1rem;
-            line-height: 1.6;
-            margin-bottom: 15px;
-        }
-
-        .timeline-image {
-            width: 100%;
-            max-width: 300px;
-            border-radius: 12px;
-            margin-top: 15px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-        }
-
-        .empty-state {
-            text-align: center;
-            padding: 60px 20px;
-            color: #a0aec0;
-        }
-
-        .empty-state svg {
-            width: 80px;
-            height: 80px;
-            margin-bottom: 20px;
-            opacity: 0.6;
-        }
-
-        .empty-state h3 {
-            font-size: 1.5rem;
-            margin-bottom: 10px;
-            color: #cbd5e0;
-        }
-
-        .camera-preview {
-            width: 100%;
-            max-width: 300px;
-            border-radius: 12px;
-            margin: 15px 0;
-        }
-
+        /* Added for hidden utility */
         .hidden {
             display: none !important;
         }
 
-        .controls {
+        .app {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: env(safe-area-inset-top) 16px calc(88px + env(safe-area-inset-bottom));
+            min-height: 100dvh;
+            transition: padding .2s ease;
+        }
+
+        .appbar {
+            position: sticky;
+            top: 0;
+            background: var(--bg);
+            z-index: 10;
+            padding: 16px 0 8px;
+            border-bottom: 1px solid var(--border);
             display: flex;
-            gap: 10px;
-            margin-top: 15px;
-            flex-wrap: wrap;
-        }
-
-        .controls button {
-            padding: 8px 16px;
-            border-radius: 8px;
-            border: none;
-            font-size: 0.9rem;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-
-        .capture-btn {
-            background: #10b981;
-            color: white;
-        }
-
-        .cancel-btn {
-            background: #ef4444;
-            color: white;
-        }
-
-        .export-section {
-            margin-top: 30px;
-            text-align: center;
-        }
-
-        /* Mobile optimizations */
-        @media (max-width: 640px) {
-            .container {
-                padding: 15px;
-            }
-
-            .header h1 {
-                font-size: 2rem;
-            }
-
-            .input-row {
-                flex-direction: column;
-            }
-
-            .camera-btn,
-            .export-btn {
-                width: 100%;
-                justify-content: center;
-            }
-
-            .timeline-item {
-                margin-left: 50px;
-                padding: 15px;
-            }
-
-            .timeline::before {
-                left: 20px;
-            }
-
-            .timeline-item::before {
-                left: -45px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .timeline-item {
-                margin-left: 30px;
-            }
-
-            .timeline::before {
-                left: 10px;
-            }
-
-            .timeline-item::before {
-                left: -35px;
-            }
-        }
-
-        /* PWA Installation Prompt */
-        .install-prompt {
-            position: fixed;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-            color: white;
-            padding: 15px 20px;
-            border-radius: 12px;
-            box-shadow: 0 8px 25px rgba(99, 102, 241, 0.4);
-            display: none;
             align-items: center;
-            gap: 15px;
-            z-index: 1000;
-            max-width: 90vw;
+            justify-content: space-between;
+            gap: 8px;
         }
 
-        .install-prompt.show {
+        .title {
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: .2px;
+        }
+
+        .actions {
             display: flex;
+            gap: 8px;
         }
 
-        .install-prompt button {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 8px;
+        .icon-btn {
+            appearance: none;
+            border: 1px solid var(--border);
+            background: var(--card);
+            color: var(--text);
+            padding: 8px 12px;
+            border-radius: 10px;
             cursor: pointer;
-            font-weight: 600;
-            transition: all 0.3s ease;
-        }
-
-        .install-prompt button:hover {
-            background: rgba(255, 255, 255, 0.3);
-        }
-
-        .install-prompt .close-btn {
-            background: transparent;
-            padding: 4px;
-            margin-left: 10px;
-        }
-
-        /* Offline Indicator */
-        .offline-indicator {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: #ef4444;
-            color: white;
-            padding: 10px 15px;
-            border-radius: 8px;
-            font-size: 0.9rem;
-            font-weight: 600;
-            display: none;
+            box-shadow: var(--shadow);
+            display: inline-flex;
             align-items: center;
             gap: 8px;
-            z-index: 1000;
-            animation: slideIn 0.3s ease;
+            font-weight: 600;
         }
 
-        .offline-indicator.show {
-            display: flex;
+        .hint {
+            color: var(--muted);
+            font-size: 12px;
+            margin-top: 4px;
         }
 
-        .online-indicator {
-            background: #10b981;
+        .day {
+            position: sticky;
+            top: 56px;
+            background: var(--bg);
+            padding: 10px 0 6px;
+            z-index: 1;
+            color: var(--muted);
+            font-size: 12px;
+            letter-spacing: .3px;
+            text-transform: uppercase;
         }
 
-        @keyframes slideIn {
-            from {
-                transform: translateX(100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
+        .entry {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 14px;
+            margin-bottom: 12px;
+            box-shadow: var(--shadow);
         }
 
-        /* Update Available Notification */
-        .update-available {
+        .entry .meta {
+            color: var(--muted);
+            font-size: 12px;
+            margin-bottom: 6px;
+        }
+
+        .entry .text {
+            font-size: 15px;
+            line-height: 1.5;
+            white-space: pre-wrap;
+        }
+
+        .entry img {
+            width: 100%;
+            max-width: 420px;
+            border-radius: 10px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .empty {
+            text-align: center;
+            color: var(--muted);
+            margin-top: 20vh;
+        }
+
+        .composer {
             position: fixed;
-            top: 20px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 40;
+            background: var(--bg);
+            border-top: 1px solid var(--border);
+        }
+
+        .composer-inner {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            gap: 8px;
+            align-items: end;
+        }
+
+        .camera {
+            appearance: none;
+            border: 1px solid var(--border);
+            background: var(--card);
+            color: var(--text);
+            height: 40px;
+            width: 40px;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: var(--shadow);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+        }
+
+        .input {
+            width: 100%;
+            border: 1px solid var(--border);
+            background: var(--card);
+            color: var(--text);
+            border-radius: 12px;
+            padding: 10px 12px;
+            font-size: 15px;
+            resize: none;
+            min-height: 40px;
+            max-height: 32dvh;
+            box-shadow: var(--shadow);
+        }
+
+        .primary {
+            appearance: none;
+            border: none;
+            background: var(--accent);
+            color: var(--accent-contrast);
+            border-radius: 12px;
+            height: 40px;
+            padding: 0 14px;
+            font-weight: 700;
+            cursor: pointer;
+            opacity: 1;
+            transition: opacity .15s ease;
+        }
+
+        .primary:disabled {
+            opacity: .35;
+            cursor: not-allowed;
+        }
+
+        .preview {
+            grid-column: 1 / -1;
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            padding: 0 2px;
+            margin-top: 6px;
+        }
+
+        .thumb {
+            height: 44px;
+            width: 44px;
+            border-radius: 8px;
+            object-fit: cover;
+            border: 1px solid var(--border);
+        }
+
+        .pill {
+            border: 1px solid var(--border);
+            color: var(--muted);
+            background: var(--card);
+            padding: 6px 10px;
+            border-radius: 999px;
+            font-size: 12px;
+        }
+
+        .link {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px dotted var(--border);
+        }
+
+        .x {
+            background: transparent;
+            border: 0;
+            color: var(--muted);
+            cursor: pointer;
+            font-size: 18px;
+            line-height: 1;
+            padding: 4px;
+        }
+
+        .toast {
+            position: fixed;
             left: 50%;
             transform: translateX(-50%);
-            background: #f59e0b;
-            color: white;
-            padding: 12px 20px;
-            border-radius: 8px;
+            bottom: 88px;
+            background: var(--card);
+            color: var(--text);
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            padding: 8px 12px;
+            border-radius: 10px;
             display: none;
+            z-index: 50;
+        }
+
+        .toast.show {
+            display: inline-flex;
             align-items: center;
-            gap: 15px;
-            z-index: 1000;
-            font-weight: 600;
+            gap: 8px;
         }
 
-        .update-available.show {
-            display: flex;
+        .install {
+            position: fixed;
+            bottom: calc(88px + 12px);
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--card);
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            padding: 10px 12px;
+            border-radius: 12px;
+            display: none;
+            gap: 8px;
+            align-items: center;
         }
 
-        .update-available button {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 6px;
+        .install.show {
+            display: inline-flex;
+        }
+
+        .install .btn {
+            appearance: none;
+            border: 1px solid var(--border);
+            background: var(--bg);
+            padding: 6px 10px;
+            border-radius: 8px;
             cursor: pointer;
-            font-weight: 600;
         }
     </style>
 </head>
 
 <body>
-    <!-- PWA Installation Prompt -->
-    <div class="install-prompt" id="installPrompt">
-        <span>📱 Install Timeline Diary on your device for a better experience!</span>
-        <button id="installBtn">Install</button>
-        <button class="close-btn" id="closeInstallBtn">✕</button>
+    <div class="app">
+        <header class="appbar">
+            <div class="title">Diary</div>
+            <div class="actions">
+                <button class="icon-btn" id="exportBtn">💾 Export</button>
+            </div>
+        </header>
+
+        <div id="timeline">
+            <div class="empty" id="emptyState">No entries yet. Write something below. Press Enter to save.</div>
+        </div>
     </div>
 
-    <!-- Offline Indicator -->
-    <div class="offline-indicator" id="offlineIndicator">
-        <span>📡</span>
-        <span>You're offline</span>
+    <div class="composer" id="composer">
+        <div class="composer-inner" id="dropZone">
+            <button class="camera" id="cameraBtn" title="Add photo">📷</button>
+            <input type="file" id="imageInput" accept="image/*" capture="environment" class="hidden" />
+            <textarea class="input" id="textInput" placeholder="Write a thought… Enter to save. Shift+Enter = newline"
+                rows="1"></textarea>
+            <button class="primary" id="addBtn" disabled>Add</button>
+            <div class="preview hidden" id="preview">
+                <img id="thumb" class="thumb" alt="preview" />
+                <span class="pill">Photo attached</span>
+                <button class="x" id="clearImage" title="Remove">×</button>
+            </div>
+        </div>
     </div>
 
-    <!-- Update Available Notification -->
-    <div class="update-available" id="updateAvailable">
-        <span>🔄 New version available!</span>
-        <button id="updateBtn">Update</button>
-    </div>
-
-    <div class="container">
-        <div class="header">
-            <h1>📖 Timeline Diary</h1>
-            <p>Capture your moments and memories</p>
-        </div>
-
-        <div class="input-section">
-            <div class="input-row">
-                <button class="camera-btn" id="cameraBtn">
-                    📷 Capture Image
-                </button>
-                <textarea class="text-input" id="textInput" placeholder="What's on your mind today?"
-                    rows="1"></textarea>
-            </div>
-
-            <video id="cameraPreview" class="camera-preview hidden" autoplay playsinline></video>
-            <canvas id="canvas" class="hidden"></canvas>
-            <img id="capturedImage" class="camera-preview hidden" alt="Captured image">
-
-            <div class="controls hidden" id="cameraControls">
-                <button class="capture-btn" id="captureBtn">📸 Take Photo</button>
-                <button class="cancel-btn" id="cancelBtn">❌ Cancel</button>
-            </div>
-
-            <button class="add-btn" id="addBtn">✨ Add Entry</button>
-        </div>
-
-        <div class="export-section">
-            <button class="export-btn" id="exportBtn">
-                💾 Export Diary
-            </button>
-        </div>
-
-        <div class="timeline" id="timeline">
-            <div class="empty-state">
-                <svg viewBox="0 0 24 24" fill="currentColor">
-                    <path
-                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
-                </svg>
-                <h3>Your diary is empty</h3>
-                <p>Start capturing your memories and thoughts above!</p>
-            </div>
-        </div>
+    <div class="toast" id="netToast"></div>
+    <div class="install" id="installPrompt">
+        <span>Install Diary?</span>
+        <button class="btn" id="installBtn">Install</button>
+        <button class="btn" id="closeInstallBtn">Dismiss</button>
     </div>
 
     <script>
-        // Storage for diary entries with localStorage persistence
+        // State
         let diaryEntries = [];
+        let imageStorage = {};
         let currentImageData = null;
         let currentImageFilename = null;
-        let stream = null;
-        let imageStorage = {}; // Separate storage for image data
 
-        // Storage functions
-        function saveEntriesToStorage() {
-            try {
-                localStorage.setItem('diaryEntries', JSON.stringify(diaryEntries));
-                localStorage.setItem('imageStorage', JSON.stringify(imageStorage));
-            } catch (error) {
-                console.error('Error saving to localStorage:', error);
-            }
-        }
-
-        function loadEntriesFromStorage() {
-            try {
-                const saved = localStorage.getItem('diaryEntries');
-                if (saved) {
-                    diaryEntries = JSON.parse(saved);
-                }
-                
-                const savedImages = localStorage.getItem('imageStorage');
-                if (savedImages) {
-                    imageStorage = JSON.parse(savedImages);
-                }
-            } catch (error) {
-                console.error('Error loading from localStorage:', error);
-                diaryEntries = [];
-                imageStorage = {};
-            }
-        }
-
-        // Generate unique filename for images
-        function generateImageFilename(timestamp) {
-            const date = new Date(timestamp);
-            const dateStr = date.toISOString().split('T')[0];
-            const timeStr = date.toISOString().split('T')[1].split('.')[0].replace(/:/g, '-');
-            return `diary-image-${dateStr}-${timeStr}.jpg`;
-        }
-
-        // DOM elements
-        const cameraBtn = document.getElementById('cameraBtn');
+        // Elements
         const textInput = document.getElementById('textInput');
         const addBtn = document.getElementById('addBtn');
         const exportBtn = document.getElementById('exportBtn');
         const timeline = document.getElementById('timeline');
-        const cameraPreview = document.getElementById('cameraPreview');
-        const canvas = document.getElementById('canvas');
-        const capturedImage = document.getElementById('capturedImage');
-        const cameraControls = document.getElementById('cameraControls');
-        const captureBtn = document.getElementById('captureBtn');
-        const cancelBtn = document.getElementById('cancelBtn');
+        const emptyState = document.getElementById('emptyState');
+        const cameraBtn = document.getElementById('cameraBtn');
+        const imageInput = document.getElementById('imageInput');
+        const preview = document.getElementById('preview');
+        const thumb = document.getElementById('thumb');
+        const clearImage = document.getElementById('clearImage');
+        const dropZone = document.getElementById('dropZone');
 
-        // Auto-resize textarea
-        textInput.addEventListener('input', function () {
-            this.style.height = 'auto';
-            this.style.height = this.scrollHeight + 'px';
-        });
+        // PWA / Network UI
+        const installPrompt = document.getElementById('installPrompt');
+        const installBtn = document.getElementById('installBtn');
+        const closeInstallBtn = document.getElementById('closeInstallBtn');
+        const netToast = document.getElementById('netToast');
 
-        // Camera functionality
-        cameraBtn.addEventListener('click', async () => {
+        // Utils
+        function saveEntriesToStorage() {
             try {
-                stream = await navigator.mediaDevices.getUserMedia({
-                    video: {
-                        facingMode: 'environment',
-                        width: { ideal: 1280 },
-                        height: { ideal: 720 }
-                    }
-                });
-                cameraPreview.srcObject = stream;
-                cameraPreview.classList.remove('hidden');
-                cameraControls.classList.remove('hidden');
-                cameraBtn.textContent = '📹 Camera Active';
-            } catch (error) {
-                console.error('Error accessing camera:', error);
-                alert('Unable to access camera. Please ensure you have given permission.');
+                localStorage.setItem('diaryEntries', JSON.stringify(diaryEntries));
+                localStorage.setItem('imageStorage', JSON.stringify(imageStorage));
+            } catch (e) { console.error(e); }
+        }
+        function loadEntriesFromStorage() {
+            try {
+                const saved = localStorage.getItem('diaryEntries');
+                if (saved) diaryEntries = JSON.parse(saved);
+                const savedImages = localStorage.getItem('imageStorage');
+                if (savedImages) imageStorage = JSON.parse(savedImages);
+            } catch (e) {
+                console.error(e); diaryEntries = []; imageStorage = {};
             }
-        });
-
-        captureBtn.addEventListener('click', () => {
-            const context = canvas.getContext('2d');
-            canvas.width = cameraPreview.videoWidth;
-            canvas.height = cameraPreview.videoHeight;
-            context.drawImage(cameraPreview, 0, 0);
-
-            currentImageData = canvas.toDataURL('image/jpeg', 0.8);
-            currentImageFilename = generateImageFilename(Date.now());
-            capturedImage.src = currentImageData;
-            capturedImage.classList.remove('hidden');
-
-            stopCamera();
-        });
-
-        cancelBtn.addEventListener('click', () => {
-            stopCamera();
-        });
-
-        function stopCamera() {
-            if (stream) {
-                stream.getTracks().forEach(track => track.stop());
-                stream = null;
-            }
-            cameraPreview.classList.add('hidden');
-            cameraControls.classList.add('hidden');
-            cameraBtn.textContent = '📷 Capture Image';
+        }
+        function generateImageFilename(ts) {
+            const d = new Date(ts);
+            const date = d.toISOString().slice(0, 10);
+            const time = d.toTimeString().slice(0, 8).replace(/:/g, '-');
+            return `diary-${date}-${time}.jpg`;
+        }
+        function formatDayLabel(d) {
+            const today = new Date();
+            const day = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+            const t = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+            const diff = Math.round((t - day) / 86400000);
+            if (diff === 0) return 'Today';
+            if (diff === 1) return 'Yesterday';
+            return d.toLocaleDateString(undefined, { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' });
         }
 
-        // Add diary entry
-        addBtn.addEventListener('click', () => {
-            const text = textInput.value.trim();
-
-            if (!text && !currentImageData) {
-                alert('Please add some text or capture an image!');
-                return;
+        // Composer behaviors
+        function updateAddEnabled() {
+            const hasText = textInput.value.trim().length > 0;
+            addBtn.disabled = !(hasText || currentImageData);
+        }
+        textInput.addEventListener('input', () => {
+            textInput.style.height = 'auto';
+            textInput.style.height = Math.min(textInput.scrollHeight, window.innerHeight * 0.32) + 'px';
+            updateAddEnabled();
+        });
+        textInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                tryAddEntry();
             }
+        });
 
-            const entryId = Date.now();
-            const entry = {
-                id: entryId,
-                text: text,
-                imageFilename: currentImageFilename,
-                timestamp: new Date().toISOString(),
-                date: new Date().toLocaleDateString('en-US', {
-                    weekday: 'long',
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                    hour: '2-digit',
-                    minute: '2-digit'
-                })
-            };
+        addBtn.addEventListener('click', tryAddEntry);
 
-            // Store image data separately if exists
+        function setPreview(dataUrl) {
+            currentImageData = dataUrl;
+            currentImageFilename = generateImageFilename(Date.now());
+            thumb.src = dataUrl;
+            preview.classList.remove('hidden');
+            updateAddEnabled();
+        }
+        function clearPreview() {
+            currentImageData = null;
+            currentImageFilename = null;
+            preview.classList.add('hidden');
+            thumb.removeAttribute('src');
+            updateAddEnabled();
+        }
+        clearImage.addEventListener('click', clearPreview);
+
+        // Image input (native camera / picker)
+        cameraBtn.addEventListener('click', () => imageInput.click());
+        imageInput.addEventListener('change', (e) => {
+            const file = e.target.files && e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = () => setPreview(reader.result);
+            reader.readAsDataURL(file);
+            imageInput.value = '';
+        });
+
+        // Paste image support
+        document.addEventListener('paste', (e) => {
+            if (!e.clipboardData) return;
+            const file = Array.from(e.clipboardData.items || [])
+                .filter(i => i.kind === 'file')
+                .map(i => i.getAsFile())
+                .find(f => !!f && f.type.startsWith('image/'));
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = () => setPreview(reader.result);
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Drag & drop image
+        ;['dragenter', 'dragover'].forEach(evt => dropZone.addEventListener(evt, (e) => { e.preventDefault(); e.dataTransfer.dropEffect = 'copy'; }));
+        ;['dragleave', 'drop'].forEach(evt => dropZone.addEventListener(evt, (e) => { e.preventDefault(); }));
+        dropZone.addEventListener('drop', (e) => {
+            const file = (e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0]) || null;
+            if (file && file.type.startsWith('image/')) {
+                const reader = new FileReader();
+                reader.onload = () => setPreview(reader.result);
+                reader.readAsDataURL(file);
+            }
+        });
+
+        function tryAddEntry() {
+            const text = textInput.value.trim();
+            if (!text && !currentImageData) return;
+
+            const id = Date.now();
+            const timestamp = new Date().toISOString();
+            const entry = { id, text, imageFilename: currentImageFilename, timestamp };
             if (currentImageData && currentImageFilename) {
                 imageStorage[currentImageFilename] = currentImageData;
             }
-
             diaryEntries.unshift(entry);
             saveEntriesToStorage();
             renderTimeline();
 
-            // Reset form
+            // reset
             textInput.value = '';
-            textInput.style.height = 'auto';
-            currentImageData = null;
-            currentImageFilename = null;
-            capturedImage.classList.add('hidden');
-        });
+            textInput.style.height = '40px';
+            clearPreview();
+        }
 
-        // Export functionality with ZIP containing JSON + images
+        // Export
         exportBtn.addEventListener('click', async () => {
-            if (diaryEntries.length === 0) {
-                alert('No entries to export!');
-                return;
-            }
-
+            if (!diaryEntries.length) return;
+            exportBtn.disabled = true; const old = exportBtn.textContent; exportBtn.textContent = '⏳ Exporting…';
             try {
-                // Show loading state
-                exportBtn.textContent = '⏳ Creating export...';
-                exportBtn.disabled = true;
-
-                // Create ZIP file
                 const zip = new JSZip();
-                
-                // Prepare clean JSON data (without base64 image data)
-                const exportData = {
+                const data = {
                     exportDate: new Date().toISOString(),
                     totalEntries: diaryEntries.length,
-                    version: "2.0",
-                    description: "Timeline Diary Export - Images are stored as separate files",
-                    entries: diaryEntries.map(entry => ({
-                        id: entry.id,
-                        text: entry.text,
-                        imageFilename: entry.imageFilename || null,
-                        timestamp: entry.timestamp,
-                        date: entry.date
-                    }))
+                    version: '2.0',
+                    entries: diaryEntries.map(e => ({ id: e.id, text: e.text, imageFilename: e.imageFilename || null, timestamp: e.timestamp }))
                 };
-
-                // Add JSON file to ZIP
-                zip.file('diary-data.json', JSON.stringify(exportData, null, 2));
-
-                // Create images folder and add images
-                const imagesFolder = zip.folder('images');
-                
-                // Add all images that exist in entries
-                for (const entry of diaryEntries) {
-                    if (entry.imageFilename && imageStorage[entry.imageFilename]) {
-                        // Convert base64 to blob
-                        const base64Data = imageStorage[entry.imageFilename].split(',')[1];
-                        imagesFolder.file(entry.imageFilename, base64Data, { base64: true });
-                    }
-                    // Handle legacy entries that might still have direct image data
-                    else if (entry.image && !entry.imageFilename) {
-                        const legacyFilename = `legacy-image-${entry.id}.jpg`;
-                        const base64Data = entry.image.split(',')[1];
-                        imagesFolder.file(legacyFilename, base64Data, { base64: true });
+                zip.file('diary-data.json', JSON.stringify(data, null, 2));
+                const images = zip.folder('images');
+                for (const e of diaryEntries) {
+                    if (e.imageFilename && imageStorage[e.imageFilename]) {
+                        const base64 = imageStorage[e.imageFilename].split(',')[1];
+                        images.file(e.imageFilename, base64, { base64: true });
                     }
                 }
-
-                // Add README file
-                const readmeContent = `# Timeline Diary Export
-
-This export contains:
-- diary-data.json: Your diary entries with references to image files
-- images/: Folder containing all your diary images
-
-## How to import:
-1. Extract this ZIP file
-2. The JSON file contains your diary data with image references
-3. Images are stored separately in the images/ folder
-
-Export created on: ${new Date().toLocaleString()}
-Total entries: ${diaryEntries.length}
-`;
-
-                zip.file('README.md', readmeContent);
-
-                // Generate and download ZIP
                 const content = await zip.generateAsync({ type: 'blob' });
                 const url = URL.createObjectURL(content);
-
-                const link = document.createElement('a');
-                link.href = url;
-                link.download = `diary-export-${new Date().toISOString().split('T')[0]}.zip`;
-                link.click();
-
+                const a = document.createElement('a');
+                a.href = url; a.download = `diary-export-${new Date().toISOString().slice(0, 10)}.zip`; a.click();
                 URL.revokeObjectURL(url);
-
-                // Reset button
-                exportBtn.textContent = '💾 Export Diary';
-                exportBtn.disabled = false;
-
-            } catch (error) {
-                console.error('Export failed:', error);
-                alert('Export failed. Please try again.');
-                
-                // Reset button
-                exportBtn.textContent = '💾 Export Diary';
-                exportBtn.disabled = false;
-            }
+            } catch (e) { console.error(e); }
+            finally { exportBtn.textContent = old; exportBtn.disabled = false; }
         });
 
-        // Render timeline
+        // Render timeline (group by day)
         function renderTimeline() {
-            if (diaryEntries.length === 0) {
-                timeline.innerHTML = `
-                    <div class="empty-state">
-                        <svg viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-                        </svg>
-                        <h3>Your diary is empty</h3>
-                        <p>Start capturing your memories and thoughts above!</p>
-                    </div>
-                `;
+            if (!diaryEntries.length) {
+                timeline.innerHTML = '<div class="empty" id="emptyState">No entries yet. Write something below. Press Enter to save.</div>';
                 return;
             }
 
-            timeline.innerHTML = diaryEntries.map(entry => `
-                <div class="timeline-item" data-id="${entry.id}">
-                    <div class="timeline-date">${entry.date}</div>
-                    ${entry.text ? `<div class="timeline-content">${entry.text}</div>` : ''}
-                    ${entry.imageFilename && imageStorage[entry.imageFilename] ? 
-                        `<img src="${imageStorage[entry.imageFilename]}" alt="Diary entry image" class="timeline-image">` : 
-                        entry.image ? `<img src="${entry.image}" alt="Diary entry image" class="timeline-image">` : ''}
-                </div>
-            `).join('');
+            const groups = new Map();
+            for (const e of diaryEntries) {
+                const d = new Date(e.timestamp);
+                const key = d.toISOString().slice(0, 10);
+                if (!groups.has(key)) groups.set(key, { date: d, items: [] });
+                groups.get(key).items.push(e);
+            }
+
+            const html = Array.from(groups.entries())
+                .sort((a, b) => b[0].localeCompare(a[0]))
+                .map(([key, g]) => {
+                    const dayLabel = formatDayLabel(g.date);
+                    const items = g.items.map(e => {
+                        const imageTag = e.imageFilename && imageStorage[e.imageFilename]
+                            ? `<img src="${imageStorage[e.imageFilename]}" alt="Photo">`
+                            : '';
+                        const time = new Date(e.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                        const text = e.text ? `<div class="text">${escapeHtml(e.text)}</div>` : '';
+                        return `<article class="entry"><div class="meta">${time}</div>${text}${imageTag}</article>`;
+                    }).join('');
+                    return `<section class="day"><div>${dayLabel}</div></section>${items}`;
+                }).join('');
+
+            timeline.innerHTML = html;
         }
 
-        // PWA Variables
-        let deferredPrompt;
-        let isOnline = navigator.onLine;
+        function escapeHtml(str) {
+            return str
+                .replaceAll('&', '&amp;')
+                .replaceAll('<', '&lt;')
+                .replaceAll('>', '&gt;')
+                .replaceAll('"', '&quot;')
+                .replaceAll("'", '&#039;');
+        }
 
-        // DOM elements for PWA features
-        const installPrompt = document.getElementById('installPrompt');
-        const installBtn = document.getElementById('installBtn');
-        const closeInstallBtn = document.getElementById('closeInstallBtn');
-        const offlineIndicator = document.getElementById('offlineIndicator');
-        const updateAvailable = document.getElementById('updateAvailable');
-        const updateBtn = document.getElementById('updateBtn');
-
-        // PWA Installation
-        window.addEventListener('beforeinstallprompt', (e) => {
-            e.preventDefault();
-            deferredPrompt = e;
-            
-            // Show install prompt after a delay
-            setTimeout(() => {
-                if (!window.matchMedia('(display-mode: standalone)').matches) {
-                    installPrompt.classList.add('show');
-                }
-            }, 3000);
-        });
-
-        installBtn.addEventListener('click', async () => {
-            if (deferredPrompt) {
-                deferredPrompt.prompt();
-                const { outcome } = await deferredPrompt.userChoice;
-                console.log(`User response to the install prompt: ${outcome}`);
-                deferredPrompt = null;
-                installPrompt.classList.remove('show');
-            }
-        });
-
-        closeInstallBtn.addEventListener('click', () => {
-            installPrompt.classList.remove('show');
-        });
-
-        // Online/Offline Status
+        // Network status toast
+        let online = navigator.onLine;
+        function showToast(text) {
+            netToast.textContent = text; netToast.classList.add('show');
+            setTimeout(() => netToast.classList.remove('show'), 2500);
+        }
         function updateOnlineStatus() {
-            if (navigator.onLine) {
-                offlineIndicator.classList.remove('show');
-                offlineIndicator.classList.add('online-indicator');
-                offlineIndicator.innerHTML = '<span>📶</span><span>Back online</span>';
-                
-                if (!isOnline) {
-                    offlineIndicator.classList.add('show');
-                    setTimeout(() => {
-                        offlineIndicator.classList.remove('show');
-                    }, 3000);
-                }
-                isOnline = true;
-            } else {
-                offlineIndicator.classList.remove('online-indicator');
-                offlineIndicator.innerHTML = '<span>📡</span><span>You\'re offline</span>';
-                offlineIndicator.classList.add('show');
-                isOnline = false;
-            }
+            if (navigator.onLine && !online) showToast('Back online');
+            if (!navigator.onLine && online) showToast('You\'re offline');
+            online = navigator.onLine;
         }
-
         window.addEventListener('online', updateOnlineStatus);
         window.addEventListener('offline', updateOnlineStatus);
 
-        // Service Worker Registration and Update Handling
+        // PWA install
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault(); deferredPrompt = e;
+            if (!window.matchMedia('(display-mode: standalone)').matches) installPrompt.classList.add('show');
+        });
+        installBtn.addEventListener('click', async () => {
+            if (!deferredPrompt) return;
+            deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; installPrompt.classList.remove('show');
+        });
+        closeInstallBtn.addEventListener('click', () => installPrompt.classList.remove('show'));
+
+        // SW registration (kept minimal)
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js')
-                .then(registration => {
-                    console.log('Service Worker registered successfully:', registration.scope);
-
-                    // Check for updates
-                    registration.addEventListener('updatefound', () => {
-                        const newWorker = registration.installing;
-                        newWorker.addEventListener('statechange', () => {
-                            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                                updateAvailable.classList.add('show');
-                            }
-                        });
-                    });
-                })
-                .catch(error => {
-                    console.log('Service Worker registration failed:', error);
-                });
-
-            // Handle service worker updates
-            updateBtn.addEventListener('click', () => {
-                if (navigator.serviceWorker.controller) {
-                    navigator.serviceWorker.controller.postMessage({ type: 'SKIP_WAITING' });
-                    window.location.reload();
-                }
-            });
-
-            // Listen for service worker messages
-            navigator.serviceWorker.addEventListener('message', event => {
-                if (event.data && event.data.type === 'SW_UPDATED') {
-                    updateAvailable.classList.add('show');
-                }
-            });
+            navigator.serviceWorker.register('./sw.js').catch(console.warn);
         }
 
-        // Initialize the app
+        // Init
         loadEntriesFromStorage();
         renderTimeline();
         updateOnlineStatus();
+        updateAddEnabled();
     </script>
 </body>
 
