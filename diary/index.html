@@ -386,18 +386,85 @@
         // Utils
         function saveEntriesToStorage() {
             try {
+                // Save diary entries
                 localStorage.setItem('diaryEntries', JSON.stringify(diaryEntries));
+            } catch (e) {
+                console.error('Error saving diary entries:', e);
+                // Try to free up space by removing oldest entries if quota exceeded
+                if (e.name === 'QuotaExceededError' && diaryEntries.length > 10) {
+                    console.warn('Storage quota exceeded, removing oldest entries');
+                    diaryEntries = diaryEntries.slice(0, Math.floor(diaryEntries.length * 0.8));
+                    try {
+                        localStorage.setItem('diaryEntries', JSON.stringify(diaryEntries));
+                    } catch (e2) {
+                        console.error('Still failing to save after cleanup:', e2);
+                    }
+                }
+            }
+            
+            try {
+                // Save image storage
                 localStorage.setItem('imageStorage', JSON.stringify(imageStorage));
-            } catch (e) { console.error(e); }
+            } catch (e) {
+                console.error('Error saving image storage:', e);
+                // Try to free up space by removing unused images if quota exceeded
+                if (e.name === 'QuotaExceededError') {
+                    console.warn('Storage quota exceeded, cleaning up unused images');
+                    const usedFilenames = new Set(diaryEntries.map(entry => entry.imageFilename).filter(Boolean));
+                    const cleanedImageStorage = {};
+                    for (const [filename, data] of Object.entries(imageStorage)) {
+                        if (usedFilenames.has(filename)) {
+                            cleanedImageStorage[filename] = data;
+                        }
+                    }
+                    imageStorage = cleanedImageStorage;
+                    try {
+                        localStorage.setItem('imageStorage', JSON.stringify(imageStorage));
+                    } catch (e2) {
+                        console.error('Still failing to save images after cleanup:', e2);
+                    }
+                }
+            }
         }
         function loadEntriesFromStorage() {
+            // Load diary entries
             try {
                 const saved = localStorage.getItem('diaryEntries');
-                if (saved) diaryEntries = JSON.parse(saved);
-                const savedImages = localStorage.getItem('imageStorage');
-                if (savedImages) imageStorage = JSON.parse(savedImages);
+                if (saved) {
+                    const parsed = JSON.parse(saved);
+                    if (Array.isArray(parsed)) {
+                        diaryEntries = parsed;
+                    } else {
+                        console.warn('Invalid diaryEntries format, resetting');
+                        diaryEntries = [];
+                    }
+                }
             } catch (e) {
-                console.error(e); diaryEntries = []; imageStorage = {};
+                console.error('Error loading diary entries:', e);
+                // Don't reset, keep existing entries if any
+                if (!Array.isArray(diaryEntries)) {
+                    diaryEntries = [];
+                }
+            }
+            
+            // Load image storage separately 
+            try {
+                const savedImages = localStorage.getItem('imageStorage');
+                if (savedImages) {
+                    const parsed = JSON.parse(savedImages);
+                    if (parsed && typeof parsed === 'object') {
+                        imageStorage = parsed;
+                    } else {
+                        console.warn('Invalid imageStorage format, resetting');
+                        imageStorage = {};
+                    }
+                }
+            } catch (e) {
+                console.error('Error loading image storage:', e);
+                // Don't reset, keep existing images if any
+                if (!imageStorage || typeof imageStorage !== 'object') {
+                    imageStorage = {};
+                }
             }
         }
         function generateImageFilename(ts) {
@@ -495,9 +562,20 @@
             const id = Date.now();
             const timestamp = new Date().toISOString();
             const entry = { id, text, imageFilename: currentImageFilename, timestamp };
+            
+            // Store image data if present and validate it
             if (currentImageData && currentImageFilename) {
-                imageStorage[currentImageFilename] = currentImageData;
+                // Validate image data format
+                if (typeof currentImageData === 'string' && currentImageData.startsWith('data:image/')) {
+                    imageStorage[currentImageFilename] = currentImageData;
+                    console.log('Image stored:', currentImageFilename, 'Size:', currentImageData.length);
+                } else {
+                    console.error('Invalid image data format');
+                    // Remove image reference from entry if data is invalid
+                    entry.imageFilename = null;
+                }
             }
+            
             diaryEntries.unshift(entry);
             saveEntriesToStorage();
             renderTimeline();
@@ -557,9 +635,17 @@
                 .map(([key, g]) => {
                     const dayLabel = formatDayLabel(g.date);
                     const items = g.items.map(e => {
-                        const imageTag = e.imageFilename && imageStorage[e.imageFilename]
-                            ? `<img src="${imageStorage[e.imageFilename]}" alt="Photo">`
-                            : '';
+                        let imageTag = '';
+                        if (e.imageFilename) {
+                            const imageData = imageStorage[e.imageFilename];
+                            if (imageData && typeof imageData === 'string' && imageData.startsWith('data:image/')) {
+                                imageTag = `<img src="${imageData}" alt="Photo">`;
+                            } else {
+                                console.warn('Missing or invalid image data for:', e.imageFilename);
+                                // Show a placeholder or indication that image is missing
+                                imageTag = '<div style="padding: 10px; margin-top: 10px; background: var(--border); border-radius: 10px; color: var(--muted); text-align: center; font-size: 14px;">📷 Image unavailable</div>';
+                            }
+                        }
                         const time = new Date(e.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
                         const text = e.text ? `<div class="text">${escapeHtml(e.text)}</div>` : '';
                         return `<article class="entry"><div class="meta">${time}</div>${text}${imageTag}</article>`;
@@ -631,11 +717,61 @@
             }).catch(console.warn);
         }
 
+        // Debug function to help diagnose storage issues
+        function debugStorage() {
+            console.log('=== Diary Storage Debug Info ===');
+            console.log('Total entries:', diaryEntries.length);
+            console.log('Total images in storage:', Object.keys(imageStorage).length);
+            
+            const entriesWithImages = diaryEntries.filter(e => e.imageFilename);
+            console.log('Entries with images:', entriesWithImages.length);
+            
+            const missingImages = [];
+            const validImages = [];
+            
+            entriesWithImages.forEach(entry => {
+                if (imageStorage[entry.imageFilename]) {
+                    validImages.push(entry.imageFilename);
+                } else {
+                    missingImages.push(entry.imageFilename);
+                }
+            });
+            
+            console.log('Valid images found:', validImages.length);
+            console.log('Missing images:', missingImages.length);
+            
+            if (missingImages.length > 0) {
+                console.warn('Missing image files:', missingImages);
+            }
+            
+            // Check localStorage usage
+            try {
+                const entriesSize = JSON.stringify(diaryEntries).length;
+                const imagesSize = JSON.stringify(imageStorage).length;
+                console.log('Storage sizes:');
+                console.log('- Entries:', (entriesSize / 1024).toFixed(2), 'KB');
+                console.log('- Images:', (imagesSize / 1024).toFixed(2), 'KB');
+                console.log('- Total:', ((entriesSize + imagesSize) / 1024).toFixed(2), 'KB');
+            } catch (e) {
+                console.error('Error calculating storage size:', e);
+            }
+            
+            console.log('=== End Debug Info ===');
+        }
+        
+        // Make debug function available globally
+        window.debugDiaryStorage = debugStorage;
+
         // Init
         loadEntriesFromStorage();
         renderTimeline();
         updateOnlineStatus();
         updateAddEnabled();
+        
+        // Run debug check on load to identify any storage issues
+        if (diaryEntries.length > 0) {
+            setTimeout(debugStorage, 1000); // Delay to avoid blocking UI
+        }
     </script>
 </body>
 

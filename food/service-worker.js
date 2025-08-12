@@ -51,7 +51,7 @@ self.addEventListener('fetch', event => {
     const cached = await caches.match(event.request);
     const fetched = fetch(event.request).then(resp => {
       if (resp && resp.status === 200 && (resp.type === 'basic' || resp.type === 'cors')) {
-        cache.put(event.request, resp.clone()).catch(() => {});
+        cache.put(event.request, resp.clone()).catch(() => { });
       }
       return resp;
     }).catch(() => undefined);

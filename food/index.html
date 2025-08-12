@@ -432,7 +432,7 @@
                 <div id="stats-list"></div>
                 <div class="recent-decisions" id="recent-decisions"></div>
             </div>
-            
+
             <!-- Data Management Section -->
             <div class="section">
                 <h2>Data Management</h2>
@@ -951,11 +951,11 @@
         function clearStorage() {
             if (confirm("Are you sure you want to clear all stored data? This cannot be undone.")) {
                 try {
-                    if (typeof(Storage) !== "undefined" && localStorage) {
+                    if (typeof (Storage) !== "undefined" && localStorage) {
                         localStorage.removeItem('foodOptions');
                         localStorage.removeItem('preferences');
                         localStorage.removeItem('history');
-                        
+
                         // Reload the page to reset the app with default values
                         location.reload();
                     } else {
@@ -976,17 +976,17 @@
                     preferences: preferences,
                     history: history
                 };
-                
+
                 const jsonData = JSON.stringify(data, null, 2);
                 const blob = new Blob([jsonData], { type: 'application/json' });
                 const url = URL.createObjectURL(blob);
-                
+
                 const a = document.createElement('a');
                 a.href = url;
                 a.download = 'food-genius-data.json';
                 document.body.appendChild(a);
                 a.click();
-                
+
                 // Clean up
                 setTimeout(() => {
                     document.body.removeChild(a);
@@ -1009,21 +1009,21 @@
             if (!file) return;
 
             const reader = new FileReader();
-            reader.onload = function(e) {
+            reader.onload = function (e) {
                 try {
                     const data = JSON.parse(e.target.result);
-                    
+
                     // Validate data structure more thoroughly
                     if (!isValidImportData(data)) {
                         throw new Error("Invalid data structure");
                     }
-                    
+
                     // Confirm with user before importing
                     if (confirm("Import this data? This will overwrite your current data.")) {
                         foodOptions = data.foodOptions;
                         preferences = data.preferences;
                         history = data.history;
-                        
+
                         // Save and refresh
                         saveData();
                         location.reload();
@@ -1033,13 +1033,13 @@
                     alert("Invalid file or data format. Please select a valid exported JSON file.");
                 }
             };
-            
-            reader.onerror = function() {
+
+            reader.onerror = function () {
                 alert("Error reading file.");
             };
-            
+
             reader.readAsText(file);
-            
+
             // Reset file input
             event.target.value = '';
         }
@@ -1047,44 +1047,44 @@
         // Validate imported data structure
         function isValidImportData(data) {
             // Check if data has the required top-level properties
-            if (!data.hasOwnProperty('foodOptions') || 
-                !data.hasOwnProperty('preferences') || 
+            if (!data.hasOwnProperty('foodOptions') ||
+                !data.hasOwnProperty('preferences') ||
                 !data.hasOwnProperty('history')) {
                 return false;
             }
-            
+
             // Check if foodOptions is an array
             if (!Array.isArray(data.foodOptions)) {
                 return false;
             }
-            
+
             // Check if preferences is an object
             if (typeof data.preferences !== 'object' || data.preferences === null) {
                 return false;
             }
-            
+
             // Check if history is an array
             if (!Array.isArray(data.history)) {
                 return false;
             }
-            
+
             // Validate each food option
             for (const food of data.foodOptions) {
                 if (typeof food !== 'string' || food.trim() === '') {
                     return false;
                 }
             }
-            
+
             // Validate preferences structure
             for (const [food, pref] of Object.entries(data.preferences)) {
                 if (typeof food !== 'string' || food.trim() === '') {
                     return false;
                 }
-                
+
                 if (!pref || typeof pref !== 'object') {
                     return false;
                 }
-                
+
                 // Check required preference properties
                 const requiredProps = ['score', 'acceptCount', 'declineCount', 'timePatterns', 'dayPatterns', 'lastAccepted'];
                 for (const prop of requiredProps) {
@@ -1092,10 +1092,10 @@
                         return false;
                     }
                 }
-                
+
                 // Validate property types
-                if (typeof pref.score !== 'number' || 
-                    typeof pref.acceptCount !== 'number' || 
+                if (typeof pref.score !== 'number' ||
+                    typeof pref.acceptCount !== 'number' ||
                     typeof pref.declineCount !== 'number' ||
                     typeof pref.timePatterns !== 'object' ||
                     typeof pref.dayPatterns !== 'object' ||
@@ -1103,13 +1103,13 @@
                     return false;
                 }
             }
-            
+
             // Validate history items
             for (const item of data.history) {
                 if (!item || typeof item !== 'object') {
                     return false;
                 }
-                
+
                 // Check required history properties
                 const requiredProps = ['food', 'accepted', 'timestamp', 'context'];
                 for (const prop of requiredProps) {
@@ -1117,36 +1117,36 @@
                         return false;
                     }
                 }
-                
+
                 // Validate property types
-                if (typeof item.food !== 'string' || 
-                    typeof item.accepted !== 'boolean' || 
+                if (typeof item.food !== 'string' ||
+                    typeof item.accepted !== 'boolean' ||
                     typeof item.timestamp !== 'number' ||
                     typeof item.context !== 'object') {
                     return false;
                 }
-                
+
                 // Validate context structure
                 const context = item.context;
-                if (!context.hasOwnProperty('hour') || 
-                    !context.hasOwnProperty('day') || 
+                if (!context.hasOwnProperty('hour') ||
+                    !context.hasOwnProperty('day') ||
                     !context.hasOwnProperty('timeOfDay')) {
                     return false;
                 }
-                
-                if (typeof context.hour !== 'number' || 
-                    typeof context.day !== 'number' || 
+
+                if (typeof context.hour !== 'number' ||
+                    typeof context.day !== 'number' ||
                     typeof context.timeOfDay !== 'string') {
                     return false;
                 }
             }
-            
+
             return true;
         }
 
         // Initialize app when page loads
         document.addEventListener('DOMContentLoaded', initializeApp);
-        
+
         // Register service worker for offline capability
         if ('serviceWorker' in navigator) {
             const reloadOnce = () => {
@@ -1155,24 +1155,24 @@
                 location.reload();
             };
             navigator.serviceWorker.addEventListener('controllerchange', reloadOnce);
-            window.addEventListener('load', function() {
+            window.addEventListener('load', function () {
                 navigator.serviceWorker.register('/food/service-worker.js')
-                    .then(function(reg) {
+                    .then(function (reg) {
                         console.log('ServiceWorker registration successful with scope: ', reg.scope);
                         if (reg.waiting) {
                             reg.waiting.postMessage({ type: 'SKIP_WAITING' });
                         }
-                        reg.addEventListener('updatefound', function() {
+                        reg.addEventListener('updatefound', function () {
                             const newSW = reg.installing;
                             if (!newSW) return;
-                            newSW.addEventListener('statechange', function() {
+                            newSW.addEventListener('statechange', function () {
                                 if (newSW.state === 'installed' && navigator.serviceWorker.controller) {
                                     reloadOnce();
                                 }
                             });
                         });
                     })
-                    .catch(function(err) {
+                    .catch(function (err) {
                         console.log('ServiceWorker registration failed: ', err);
                     });
             });

@@ -23,8 +23,8 @@ self.addEventListener('install', event => {
       })
       .then(() => {
         console.log('Service Worker: Static assets cached successfully');
-  // Activate new SW immediately
-  return self.skipWaiting();
+        // Activate new SW immediately
+        return self.skipWaiting();
       })
       .catch(error => {
         console.error('Service Worker: Error caching static assets:', error);
@@ -42,7 +42,7 @@ self.addEventListener('activate', event => {
           cacheNames.map(cacheName => {
             // Delete old caches
             if (cacheName !== STATIC_CACHE_NAME &&
-                cacheName !== DYNAMIC_CACHE_NAME) {
+              cacheName !== DYNAMIC_CACHE_NAME) {
               console.log('Service Worker: Deleting old cache:', cacheName);
               return caches.delete(cacheName);
             }
@@ -105,7 +105,7 @@ self.addEventListener('fetch', event => {
     const fetchPromise = fetch(event.request).then(response => {
       // Cache successful same-origin or CORS responses
       if (response && response.status === 200 && (response.type === 'basic' || response.type === 'cors')) {
-        cache.put(event.request, response.clone()).catch(() => {});
+        cache.put(event.request, response.clone()).catch(() => { });
       }
       return response;
     }).catch(() => undefined);
@@ -129,7 +129,7 @@ self.addEventListener('sync', event => {
 // Handle push notifications
 self.addEventListener('push', event => {
   console.log('Service Worker: Push notification received');
-  
+
   const options = {
     body: event.data ? event.data.text() : 'New diary reminder',
     icon: './manifest.json',
@@ -161,7 +161,7 @@ self.addEventListener('push', event => {
 // Handle notification clicks
 self.addEventListener('notificationclick', event => {
   console.log('Service Worker: Notification clicked');
-  
+
   event.notification.close();
 
   if (event.action === 'explore') {
@@ -181,11 +181,11 @@ self.addEventListener('notificationclick', event => {
 // Message handling for communication with main thread
 self.addEventListener('message', event => {
   console.log('Service Worker: Message received:', event.data);
-  
+
   if (event.data && event.data.type === 'SKIP_WAITING') {
     self.skipWaiting();
   }
-  
+
   if (event.data && event.data.type === 'GET_VERSION') {
     event.ports[0].postMessage({ version: CACHE_NAME });
   }
