@@ -401,7 +401,7 @@
                     }
                 }
             }
-            
+
             try {
                 // Save image storage
                 localStorage.setItem('imageStorage', JSON.stringify(imageStorage));
@@ -446,7 +446,7 @@
                     diaryEntries = [];
                 }
             }
-            
+
             // Load image storage separately 
             try {
                 const savedImages = localStorage.getItem('imageStorage');
@@ -562,7 +562,7 @@
             const id = Date.now();
             const timestamp = new Date().toISOString();
             const entry = { id, text, imageFilename: currentImageFilename, timestamp };
-            
+
             // Store image data if present and validate it
             if (currentImageData && currentImageFilename) {
                 // Validate image data format
@@ -575,7 +575,7 @@
                     entry.imageFilename = null;
                 }
             }
-            
+
             diaryEntries.unshift(entry);
             saveEntriesToStorage();
             renderTimeline();
@@ -722,13 +722,13 @@
             console.log('=== Diary Storage Debug Info ===');
             console.log('Total entries:', diaryEntries.length);
             console.log('Total images in storage:', Object.keys(imageStorage).length);
-            
+
             const entriesWithImages = diaryEntries.filter(e => e.imageFilename);
             console.log('Entries with images:', entriesWithImages.length);
-            
+
             const missingImages = [];
             const validImages = [];
-            
+
             entriesWithImages.forEach(entry => {
                 if (imageStorage[entry.imageFilename]) {
                     validImages.push(entry.imageFilename);
@@ -736,14 +736,14 @@
                     missingImages.push(entry.imageFilename);
                 }
             });
-            
+
             console.log('Valid images found:', validImages.length);
             console.log('Missing images:', missingImages.length);
-            
+
             if (missingImages.length > 0) {
                 console.warn('Missing image files:', missingImages);
             }
-            
+
             // Check localStorage usage
             try {
                 const entriesSize = JSON.stringify(diaryEntries).length;
@@ -755,10 +755,10 @@
             } catch (e) {
                 console.error('Error calculating storage size:', e);
             }
-            
+
             console.log('=== End Debug Info ===');
         }
-        
+
         // Make debug function available globally
         window.debugDiaryStorage = debugStorage;
 
@@ -767,7 +767,7 @@
         renderTimeline();
         updateOnlineStatus();
         updateAddEnabled();
-        
+
         // Run debug check on load to identify any storage issues
         if (diaryEntries.length > 0) {
             setTimeout(debugStorage, 1000); // Delay to avoid blocking UI
