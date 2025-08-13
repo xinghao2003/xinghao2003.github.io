@@ -1,0 +1,76 @@
+{
+    "1": {
+        "question": "Which of the following are elements of an Auto Scaling group? (Choose all that apply)",
+        "options": {
+            "A": "Maximum size",
+            "B": "Health Checks",
+            "C": "Desired capacity",
+            "D": "Minimum size"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    "2": {
+        "question": "What are the three types of load balancers that Elastic Load Balancing offers? (Choose all that apply)",
+        "options": {
+            "A": "Auto Scaling Load Balancer",
+            "B": "Application Load Balancer",
+            "C": "Compute Load Balancer",
+            "D": "Classic Load Balancer",
+            "E": "e. Internet Load Balancer",
+            "F": "f. Network Load Balancer"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "B",
+            "D",
+            "F"
+        ]
+    },
+    "3": {
+        "question": "In Elastic Load Balancing, when the load balancing detects an unhealthy target, which of the following are true (Choose all that apply)",
+        "options": {
+            "A": "Stops routing traffic to that target",
+            "B": "Resumes routing traffic when it detects that the target is healthy again",
+            "C": "Routes traffic to a healthy target",
+            "D": "Triggers an Alarm",
+            "E": "e. Resumes routing traffic when manually restarted"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "4": {
+        "question": "There is an adult at your company and they need to have a big log of all access to AWS resources in the account. Which of the following services can assist in providing these details?",
+        "options": {
+            "A": "Amazon Simple Notification Service (Amazon SNS)",
+            "B": "Amazon Cloud Watch",
+            "C": "Amazon Elastic Compute Cloud (Amazon EC2)",
+            "D": "AWS Cloud Trial"
+        },
+        "answer": "D"
+    },
+    "5": {
+        "question": "Which of the following elements are used to create an Amazon EC2 Auto Scaling launch configuration? (Choose all that apply)",
+        "options": {
+            "A": "Amazon Machine Image (AMI)",
+            "B": "Amazon Elastic Block Store (Amazon EBS) volumes",
+            "C": "Instance type",
+            "D": "Virtual Private Cloud (VPC) and Subnets",
+            "E": "e. Load Balancer"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
+}

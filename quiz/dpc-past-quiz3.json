@@ -1,0 +1,47 @@
+{
+    "1": {
+        "question": "What should you consider when choosing database type?",
+        "options": {
+            "A": "Query Frequency",
+            "B": "Highly Available",
+            "C": "Data Size",
+            "D": "All the Above",
+            "E": "e. Data access period"
+        },
+        "answer": "D"
+    },
+    "2": {
+        "question": "In Amazon DynamoDB, what does the query operation enable you to do?",
+        "options": {
+            "A": "Query and secondary indexes that exists for a table",
+            "B": "Efficiency create items from a table or secondary index",
+            "C": "Query a table not using the Partition Key and optional sort key filter",
+            "D": "All the Above"
+        },
+        "answer": "A"
+    },
+    "3": {
+        "question": "You are designing an ecommerce web application that will scale to hundreds of thousands of concurrent users, Which database technology is best suited to hold the session state in this example?",
+        "options": {
+            "A": "Amazon RedShift",
+            "B": "Amazon Relational Database Service (Amazon RDS)",
+            "C": "Amazon Simple Storage (Amazon S3)",
+            "D": "Amazon DynamoDB"
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "A company has an application, which consists of a .NET layer that connects to a MySQL database. They want to move this application on to AWS and use AWS features such as high availability and automated backups. Which of the following would be an ideal database for this use case (Select the best answer)",
+        "options": {
+            "A": "Amazon Redshift",
+            "B": "Amazon Aurora",
+            "C": "Amazon RDS",
+            "D": "Amazon Dynamo DB"
+        },
+        "answer": "B"
+    },
+    "5": {
+        "question": "Amazon RDS automatically patches the database software and backs up your database, storing the backups for a user-defined retention period and enabling point-in-time recovery",
+        "answer": "T"
+    }
+}

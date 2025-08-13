@@ -1,0 +1,95 @@
+{
+    "1": {
+        "question": "In the shared responsibility model, which of the following are examples of \"Security in the cloud\"?",
+        "options": {
+            "A": "Compliance with compute security standards and regulations.",
+            "B": "Physical security of the facilities in which the service operates.",
+            "C": "Security group configurations.",
+            "D": "Encryption of the data at rest and data in transit.",
+            "E": "E. Protecting the global infrastructure."
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "C",
+            "D"
+        ]
+    },
+    "2": {
+        "question": "Which of the following is the responsibility of AWS under the AWS shared responsibility model?",
+        "options": {
+            "A": "Configuring third party applications.",
+            "B": "Maintaining physical hardware.",
+            "C": "Security application access and data.",
+            "D": "Managing custom Amazon machine images (AMI's)."
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "When creating an AWS Identity and Access Management (IAM) policy, what are the two types of access that can be granted to a user?",
+        "options": {
+            "A": "Institutuional Access.",
+            "B": "Authorized Access.",
+            "C": "Programmatic Access.",
+            "D": "AWS Management Console Access.",
+            "E": "E. Administrative Root Access."
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "C",
+            "D"
+        ]
+    },
+    "4": {
+        "question": "True or false? AWS organizations enables you to consolidate multiple aws accounts so that you centrally manage them.",
+        "answer": "T"
+    },
+    "5": {
+        "question": "Which of the following are best practices to secure your account using aws identity and access management?",
+        "options": {
+            "A": "Provide users with default administrative privileges.",
+            "B": "Leave unused and unnecessary users and credentials in place.",
+            "C": "Manage access to AWS resources.",
+            "D": "Avoid using IAM groups to grant the same access permissions to multiple users.",
+            "E": "E. Define fine-grained access rights."
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "C",
+            "E"
+        ]
+    },
+    "6": {
+        "question": "Which of the following should be done by the AWS account root user?",
+        "options": {
+            "A": "Secure access for applications.",
+            "B": "Integrate with other AWS services.",
+            "C": "Change granular permissions.",
+            "D": "Change the AWS support plan."
+        },
+        "answer": "D"
+    },
+    "7": {
+        "question": "After initial login, what does AWS recommend as the best practice for the AWS account root user?",
+        "options": {
+            "A": "Delete the AWS account root user.",
+            "B": "Revoke all permissions on the AWS account root user.",
+            "C": "Restrict permission on the AWS account root user.",
+            "D": "Delete the access keys of the AWS account root user."
+        },
+        "answer": "D"
+    },
+    "8": {
+        "question": "How would a system administrator add an additional layer of login security to a user's AWS management console?",
+        "options": {
+            "A": "Use Amazon Cloud Directory.",
+            "AUDIT AWS IDENTITY AND ACCESS MANAGEMENT (IAM": "roles.",
+            "C": "Enable multi-factor authentication.",
+            "D": "Enable AWS CloudTrail."
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "True or false? AWS key management service (AWS KMS) enables you to assess, audit, and evaluate the configurations of your AWS resources.",
+        "answer": "F"
+    }
+}

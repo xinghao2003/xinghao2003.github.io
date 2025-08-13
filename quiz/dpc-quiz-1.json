@@ -1,0 +1,42 @@
+{
+    "1": {
+        "question": "Which of the following can be used to protect Amazon Elastic Compute Cloud (Amazon EC2) instances hosted in AWS?",
+        "options": {
+            "A": "AMI",
+            "B": "All of the above",
+            "C": "Security group",
+            "D": "Internet Gateway"
+        },
+        "answer": "C"
+    },
+    "2": {
+        "question": "With Amazon Virtual Private Cloud (Amazon VPC), what is the smallest size subnet you can have in a VPC?",
+        "options": {
+            "A": "/24",
+            "B": "/26",
+            "C": "/28",
+            "D": "/30"
+        },
+        "answer": "C"
+    },
+    "3": {
+        "question": "Which AWS networking service enables a company to create a virtual network within AWS?",
+        "options": {
+            "A": "AWS Direct Connect",
+            "B": "Amazon Route 53",
+            "C": "AWS Config",
+            "D": "Amazon Virtual Private Cloud (Amazon VPC)"
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "You are a solutions architect who works at a large retail company that is migrating its existing infrastructure to AWS. You recommend that they use a custom VPC. When you create a VPC, you assign it to an IPv4 Classless Inter-Domain Routing (CIDR) block of 10.0.1.0/24 (which has 256 total IP addresses). How many IP addresses are available?",
+        "options": {
+            "A": "251",
+            "B": "256",
+            "C": "246",
+            "D": "250"
+        },
+        "answer": "A"
+    }
+}

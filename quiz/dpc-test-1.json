@@ -1,0 +1,420 @@
+{
+    "1": {
+        "question": "Which of the following statements is NOT true about IAM roles?",
+        "options": {
+            "A": "IAM roles provide temporary security credentials when assumed.",
+            "B": "IAM roles are uniquely associated with one person and have long-term credentials.",
+            "C": "IAM roles can be assumed by applications to access AWS resources",
+            "D": "IAM roles can be used to delegate access to AWS resources for users in another AWS account."
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "XYZ Corp is using AWS Organizations to manage multiple AWS accounts. The company has implemented Service Control Policies (SCPs) at the organizational unit (OU) level to enforce security best practices across all accounts. One of the SCPs denies the ability to delete S3 buckets to prevent accidental data loss. An IAM policy attached to a user in one of the child accounts explicitly allows the deletion of S3 buckets. The user attempts to delete an S3 bucket. What will happen when the user attempts to delete the S3 bucket, and why?",
+        "options": {
+            "A": "The action will be allowed because the IAM policy explicitly allows it.",
+            "B": "The action will be allowed because SCPs do not apply to S3 buckets.",
+            "C": "The action will be denied because the SCP denies the action.",
+            "D": "The action will be allowed because IAM Policy takes precedence over the SCP"
+        },
+        "answer": "C"
+    },
+    "3": {
+        "question": "XYZ Corp is adopting a cloud strategy and wants to ensure their operations team is well-prepared for managing and optimizing their cloud environments. According to the AWS Cloud Adoption Framework (CAF), which of the following is NOT a primary focus area within the Operations Perspective?",
+        "options": {
+            "A": "Resource inventory management",
+            "B": "Service and Application performance monitoring",
+            "C": "Data Center Facility Management",
+            "D": "Business continuity/Disaster recovery"
+        },
+        "answer": "C"
+    },
+    "4": {
+        "question": "Why is AWS more economical than traditional data centers for applications with varying compute workloads?",
+        "options": {
+            "A": "Amazon Elastic Compute Cloud (Amazon EC2) costs are billed on a monthly basis.",
+            "B": "Customers retain full administrative access to their Amazon EC2 instances.",
+            "C": "Customers can permanently run enough instances to handle peak workloads.",
+            "D": "Amazon EC2 instances can be launched on-demand when needed."
+        },
+        "answer": "D"
+    },
+    "5": {
+        "question": "What is the limit on the number of organizational units (OUs) that can be created within an AWS Organization?",
+        "options": {
+            "A": "10000",
+            "B": "100",
+            "C": "Unlimited",
+            "D": "1000"
+        },
+        "answer": "D"
+    },
+    "6": {
+        "question": "ONE of the DRAWBACKS of the Centralized System is _______. Select one:",
+        "options": {
+            "A": "Multiple users share the same resources at all times.",
+            "B": "Multiple points to access.",
+            "C": "Multiple points of failure.",
+            "D": "Multiple points of control."
+        },
+        "answer": "A"
+    },
+    "7": {
+        "question": "Which of the following statements about AWS Availability Zones is NOT true?",
+        "options": {
+            "A": "Availability Zones are interconnected with other Availability Zones by using high-speed public networking.",
+            "B": "Each Region has multiple Availability Zones.",
+            "C": "AWS recommends replicating data and resources across Availability Zones for resiliency.",
+            "D": "Availability Zones consist of discrete physical data centers."
+        },
+        "answer": "A"
+    },
+    "8": {
+        "question": "AWS Key Management Service (KMS) only allows you to create encryption keys but does not provide management capabilities or control over their use across AWS services and applications. True or False?",
+        "answer": "F"
+    },
+    "9": {
+        "question": "Centralized systems are often build using _______ technology and distributed systems may be built using _______ technology.",
+        "options": {
+            "A": "Homogeneous, Heterogeneous",
+            "B": "Heterogeneous, Heterogeneous",
+            "C": "Homogeneous, Homogeneous",
+            "D": "Heterogeneous, Homogeneous"
+        },
+        "answer": "A"
+    },
+    "10": {
+        "question": "XYZ Corp has implemented several IAM policies to manage access to their AWS resources. The company has the following policies in place: Policy A: Allows full access to Amazon S3 for the Finance group. Policy B: Explicitly denies access to Amazon S3 for the Marketing group. Policy C: Allows read-only access to Amazon S3 for the Development group. John is a member of both the Finance group and the Marketing group. He attempts to access an S3 bucket to perform some tasks. Scenario Question: John is trying to upload a file to an S3 bucket. Based on the policies in place (Policy A, Policy B, and Policy C), will John be able to perform the upload action? Choose your answer considering the IAM policy evaluation logic.",
+        "options": {
+            "A": "The action will be allowed due to the explicit allow in Policy A.",
+            "B": "The action will be denied due to the implicit deny.",
+            "C": "The action will be allowed due to explicit allow in Policy C",
+            "D": "The action will be denied due to explicit deny in Policy B"
+        },
+        "answer": "D"
+    },
+    "11": {
+        "question": "Which AWS service pricing model allows you to save money by making a commitment to use a specific amount of resources over a period of time?",
+        "options": {
+            "A": "Reserved Instances",
+            "B": "Spot Instances",
+            "C": "On-demand",
+            "D": "Free tier"
+        },
+        "answer": "A"
+    },
+    "12": {
+        "question": "What is the primary purpose of AWS Identity and Access Management (IAM)?",
+        "options": {
+            "A": "To securely control individual and group access to AWS resources.",
+            "B": "To monitor AWS resources for compliance with security policies.",
+            "C": "To automatically encrypt data stored in Amazon S3.",
+            "D": "To manage and enforce security policies within Amazon VPC."
+        },
+        "answer": "A"
+    },
+    "13": {
+        "question": "Which of the following correctly describes an AWS Region?",
+        "options": {
+            "A": "A single Availability Zone located within a specific geographical area.",
+            "B": "A single data center located in a specific geographical location.",
+            "C": "A collection of data centers located in different parts of the world.",
+            "D": "A collection of Availability Zones located within a specific geographical area."
+        },
+        "answer": "D"
+    },
+    "14": {
+        "question": "A company plans to run its IT infrastructure in the AWS Cloud. The infrastructure must be highly available. The company also must minimize the network latency between servers. Which deployment scenario will meet these requirements?",
+        "options": {
+            "A": "Deploy in multiple AWS Regions. Deploy in one Availability Zone in each Region.",
+            "B": "Deploy in multiple Availability Zones in multiple AWS Regions.",
+            "C": "Deploy in one Availability Zone in one AWS Region",
+            "D": "Deploy in multiple Availability Zones in one AWS Region"
+        },
+        "answer": "D"
+    },
+    "15": {
+        "question": "Which of the following is NOT a factor to consider when selecting the optimal AWS Region for storing data and using AWS services?",
+        "options": {
+            "A": "Data governance, legal requirements",
+            "B": "Political policy",
+            "C": "Costs",
+            "D": "Proximity to customers"
+        },
+        "answer": "B"
+    },
+    "16": {
+        "question": "Which type of account has the highest level of control in AWS Organizations?",
+        "options": {
+            "A": "IAM account",
+            "B": "Management account",
+            "C": "Member account",
+            "D": "Root account"
+        },
+        "answer": "B"
+    },
+    "17": {
+        "question": "Which of the following statements is true about AWS Free Tier?",
+        "options": {
+            "A": "It offers certain levels of free usage for a limited time.",
+            "B": "It is available only for enterprise customers.",
+            "C": "It provides unlimited usage of all AWS services for one year.",
+            "D": "It requires an upfront payment to access."
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "A distributed system is a collection of autonomous computers linked by a computer network that appear to the users as a single computer. Which of the following is NOT the characteristic of autonomous computers?",
+        "options": {
+            "A": "The computers/machines can work independently.",
+            "B": "The computers/machines can interact only to itself.",
+            "C": "The computers/machines can fail separately.",
+            "D": "The computer/machines can work concurrently."
+        },
+        "answer": "B"
+    },
+    "19": {
+        "question": "A company is using multiple AWS services to host their application, and they want to ensure that they optimize the environment by adhering to AWS best practices. Which of the following services is capable of inspecting your AWS environment and making recommendations to lower expenditures, improve system performance and reliability, and close security gaps?",
+        "options": {
+            "A": "AWS Technical Account Manager (TAM)",
+            "B": "AWS Trusted Advisor",
+            "C": "AWS Budgets",
+            "D": "AWS Support Concierge"
+        },
+        "answer": "B"
+    },
+    "20": {
+        "question": "A small startup is planning to use AWS for developing their new web application. They are in the early stages of development and do not have production workloads yet. Their team is new to AWS and might need some guidance on best practices and troubleshooting during development. Which AWS Support plan should the startup choose to best meet their needs?",
+        "options": {
+            "A": "Basic Support",
+            "B": "Developer Support",
+            "C": "Business Support",
+            "D": "Enterprise Support"
+        },
+        "answer": "B"
+    },
+    "21": {
+        "question": "Which of the following statements is NOT true about IAM roles?",
+        "options": {
+            "A": "IAM roles provide temporary security credentials when assumed.",
+            "B": "IAM roles are uniquely associated with one person and have long-term credentials.",
+            "C": "IAM roles can be assumed by applications to access AWS resources",
+            "D": "IAM roles can be used to delegate access to AWS resources for users in another AWS account."
+        },
+        "answer": "B"
+    },
+    "22": {
+        "question": "XYZ Corp is using AWS Organizations to manage multiple AWS accounts. The company has implemented Service Control Policies (SCPs) at the organizational unit (OU) level to enforce security best practices across all accounts. One of the SCPs denies the ability to delete S3 buckets to prevent accidental data loss. An IAM policy attached to a user in one of the child accounts explicitly allows the deletion of S3 buckets. The user attempts to delete an S3 bucket.\n\nQuestion:\nWhat will happen when the user attempts to delete the S3 bucket, and why?",
+        "options": {
+            "A": "The action will be allowed because the IAM policy explicitly allows it.",
+            "B": "The action will be allowed because SCPs do not apply to S3 buckets.",
+            "C": "The action will be denied because the SCP denies the action.",
+            "D": "The action will be allowed because IAM Policy takes precedence over the SCP"
+        },
+        "answer": "C"
+    },
+    "23": {
+        "question": "XYZ Corp is adopting a cloud strategy and wants to ensure their operations team is well-prepared for managing and optimizing their cloud environments. According to the AWS Cloud Adoption Framework (CAF), which of the following is NOT a primary focus area within the Operations Perspective?",
+        "options": {
+            "A": "Resource inventory management",
+            "B": "Service and Application performance monitoring",
+            "C": "Data Center Facility Management",
+            "D": "Business continuity/Disaster recovery"
+        },
+        "answer": "C"
+    },
+    "24": {
+        "question": "Why is AWS more economical than traditional data centers for applications with varying compute workloads?",
+        "options": {
+            "A": "Amazon Elastic Compute Cloud (Amazon EC2) costs are billed on a monthly basis.",
+            "B": "Customers retain full administrative access to their Amazon EC2 instances.",
+            "C": "Customers can permanently run enough instances to handle peak workloads.",
+            "D": "Amazon EC2 instances can be launched on-demand when needed."
+        },
+        "answer": "D"
+    },
+    "25": {
+        "question": "What is the limit on the number of organizational units (OUs) that can be created within an AWS Organization?",
+        "options": {
+            "A": "10000",
+            "B": "100",
+            "C": "Unlimited",
+            "D": "1000"
+        },
+        "answer": "D"
+    },
+    "26": {
+        "question": "ONE of the DRAWBACKS of the Centralized System is _______. Select one:",
+        "options": {
+            "A": "Multiple users share the same resources at all times.",
+            "B": "Multiple points to access.",
+            "C": "Multiple points of failure.",
+            "D": "Multiple points of control."
+        },
+        "answer": "A"
+    },
+    "27": {
+        "question": "Which of the following statements about AWS Availability Zones is NOT true?",
+        "options": {
+            "A": "Availability Zones are interconnected with other Availability Zones by using high-speed public networking.",
+            "B": "Each Region has multiple Availability Zones.",
+            "C": "AWS recommends replicating data and resources across Availability Zones for resiliency.",
+            "D": "Availability Zones consist of discrete physical data centers."
+        },
+        "answer": "A"
+    },
+    "28": {
+        "question": "AWS Key Management Service (KMS) only allows you to create encryption keys but does not provide management capabilities or control over their use across AWS services and applications. True or False?",
+        "answer": "F"
+    },
+    "29": {
+        "question": "Centralized systems are often build using _______ technology and distributed systems may be built using _______ technology.",
+        "options": {
+            "A": "Homogeneous, Heterogeneous",
+            "B": "Heterogeneous, Heterogeneous",
+            "C": "Homogeneous, Homogeneous",
+            "D": "Heterogeneous, Homogeneous"
+        },
+        "answer": "A"
+    },
+    "30": {
+        "question": "XYZ Corp has implemented several IAM policies to manage access to their AWS resources. The company has the following policies in place: Policy A: Allows full access to Amazon S3 for the Finance group. Policy B: Explicitly denies access to Amazon S3 for the Marketing group. Policy C: Allows read-only access to Amazon S3 for the Development group. John is a member of both the Finance group and the Marketing group. He attempts to access an S3 bucket to perform some tasks.\n\nScenario Question: John is trying to upload a file to an S3 bucket. Based on the policies in place (Policy A, Policy B, and Policy C), will John be able to perform the upload action? Choose your answer considering the IAM policy evaluation logic.",
+        "options": {
+            "A": "The action will be allowed due to the explicit allow in Policy A.",
+            "B": "The action will be denied due to the implicit deny.",
+            "C": "The action will be allowed due to explicit allow in Policy C",
+            "D": "The action will be denied due to explicit deny in Policy B"
+        },
+        "answer": "D"
+    },
+    "31": {
+        "question": "Which AWS service pricing model allows you to save money by making a commitment to use a specific amount of resources over a period of time?",
+        "options": {
+            "A": "Reserved Instances",
+            "B": "Spot Instances",
+            "C": "On-demand",
+            "D": "Free tier"
+        },
+        "answer": "A"
+    },
+    "32": {
+        "question": "What is the primary purpose of AWS Identity and Access Management (IAM)?",
+        "options": {
+            "A": "To securely control individual and group access to AWS resources.",
+            "B": "To monitor AWS resources for compliance with security policies.",
+            "C": "To automatically encrypt data stored in Amazon S3.",
+            "D": "To manage and enforce security policies within Amazon VPC."
+        },
+        "answer": "A"
+    },
+    "33": {
+        "question": "Which of the following correctly describes an AWS Region?",
+        "options": {
+            "A": "A single Availability Zone located within a specific geographical area.",
+            "B": "A single data center located in a specific geographical location.",
+            "C": "A collection of data centers located in different parts of the world.",
+            "D": "A collection of Availability Zones located within a specific geographical area."
+        },
+        "answer": "D"
+    },
+    "34": {
+        "question": "A company plans to run its IT infrastructure in the AWS Cloud. The infrastructure must be highly available. The company also must minimize the network latency between servers.\n\nWhich deployment scenario will meet these requirements?",
+        "options": {
+            "A": "Deploy in multiple AWS Regions. Deploy in one Availability Zone in each Region.",
+            "B": "Deploy in multiple Availability Zones in multiple AWS Regions.",
+            "C": "Deploy in one Availability Zone in one AWS Region",
+            "D": "Deploy in multiple Availability Zones in one AWS Region"
+        },
+        "answer": "D"
+    },
+    "35": {
+        "question": "Which of the following is NOT a factor to consider when selecting the optimal AWS Region for storing data and using AWS services?",
+        "options": {
+            "A": "Data governance, legal requirements",
+            "B": "Political policy",
+            "C": "Costs",
+            "D": "Proximity to customers"
+        },
+        "answer": "B"
+    },
+    "36": {
+        "question": "Which type of account has the highest level of control in AWS Organizations?",
+        "options": {
+            "A": "IAM account",
+            "B": "Management account",
+            "C": "Member account",
+            "D": "Root account"
+        },
+        "answer": "B"
+    },
+    "37": {
+        "question": "Which of the following statements is true about AWS Free Tier?",
+        "options": {
+            "A": "It offers certain levels of free usage for a limited time.",
+            "B": "It is available only for enterprise customers.",
+            "C": "It provides unlimited usage of all AWS services for one year.",
+            "D": "It requires an upfront payment to access."
+        },
+        "answer": "A"
+    },
+    "38": {
+        "question": "A distributed system is a collection of autonomous computers linked by a computer network that appear to the users as a single computer.\n\nWhich of the following is NOT the characteristic of autonomous computers? Select one:",
+        "options": {
+            "A": "The computers/machines can work independently.",
+            "B": "The computers/machines can interact only to itself.",
+            "C": "The computers/machines can fail separately.",
+            "D": "The computer/machines can work concurrently."
+        },
+        "answer": "B"
+    },
+    "39": {
+        "question": "A company is using multiple AWS services to host their application, and they want to ensure that they optimize the environment by adhering to AWS best practices.\n\nWhich of the following services is capable of inspecting your AWS environment and making recommendations to lower expenditures, improve system performance and reliability, and close security gaps?",
+        "options": {
+            "A": "AWS Technical Account Manager (TAM)",
+            "B": "AWS Trusted Advisor",
+            "C": "AWS Budgets",
+            "D": "AWS Support Concierge"
+        },
+        "answer": "B"
+    },
+    "40": {
+        "question": "A small startup is planning to use AWS for developing their new web application. They are in the early stages of development and do not have production workloads yet. Their team is new to AWS and might need some guidance on best practices and troubleshooting during development.\n\nWhich AWS Support plan should the startup choose to best meet their needs?",
+        "options": {
+            "A": "Basic Support",
+            "B": "Developer Support",
+            "C": "Business Support",
+            "D": "Enterprise Support"
+        },
+        "answer": "B"
+    },
+    "41": {
+        "question": "A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances. Which AWS service or tool should the company use to meet these requirements?",
+        "options": {
+            "A": "AWS Organizations",
+            "B": "AWS Trusted Advisor",
+            "C": "AWS Billing",
+            "D": "AWS Cost Explorer"
+        },
+        "answer": "A"
+    },
+    "42": {
+        "question": "Which AWS service is used to centrally manage access to multiple AWS accounts and simplify the governance of permissions?",
+        "options": {
+            "A": "AWS Directory Service",
+            "B": "AWS Single Sign-On (SSO)",
+            "C": "AWS Identity and Access Management (IAM)",
+            "D": "AWS Organizations"
+        },
+        "answer": "D"
+    },
+    "43": {
+        "question": "A large financial institution is migrating its mission-critical banking application to AWS. The application must be highly available and secure, with minimal downtime. The institution needs proactive support, including architectural guidance, training, and a dedicated technical account manager to ensure smooth operations. Which AWS Support plan is most appropriate for the financial institution?",
+        "options": {
+            "A": "Basic Support",
+            "B": "Developer Support",
+            "C": "Business Support",
+            "D": "Enterprise Support"
+        },
+        "answer": "D"
+    }
+}

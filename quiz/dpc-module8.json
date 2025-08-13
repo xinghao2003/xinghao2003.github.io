@@ -1,0 +1,96 @@
+{
+    "1": {
+        "question": "You are designing an ecommerce web application that will scale to hundreds of thousands of concurrent users, Which database technology is best suited to hold the session state in this example?",
+        "options": {
+            "A": "Amazon Relational Database Service (Amazon RDS)",
+            "B": "Amazon DynamoDB",
+            "C": "Amazon RedShift",
+            "D": "Amazon Simple Storage (Amazon S3)"
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "You need to find an item in Amazon DynamoDB table using an attribute other than item's primary key. Which of the following operations should you use?",
+        "options": {
+            "A": "Put Item",
+            "B": "Scan",
+            "C": "Query",
+            "D": "Get Item"
+        },
+        "answer": "B"
+    },
+    "3": {
+        "question": "In Amazon DynamoDB, what does the query operation enable you to do?",
+        "options": {
+            "A": "Query a table using the Partition Key and optional sort key filter",
+            "B": "Query and secondary indexes that exists for a table",
+            "C": "Efficiency retrieve items from a table or secondary index",
+            "D": "All the Above"
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "Which AWS Cloud service is best suited for analyzing your data by using standard structured query language (SQL) and your existing business intelligence (BI) tools",
+        "options": {
+            "A": "Amazon Relational Database (Amazon RDS)",
+            "B": "Amazon Simple Storage Simple Glacier",
+            "C": "Amazon Dynamo DB",
+            "D": "Amazon Redshift"
+        },
+        "answer": "D"
+    },
+    "5": {
+        "question": "In Amazon DynamoDB, an attribute is _______",
+        "options": {
+            "A": "A Fundamental Data Element",
+            "B": "A Collection Of items",
+            "C": "A Collection of Attributes"
+        },
+        "answer": "A"
+    },
+    "6": {
+        "question": "Which of the following use cases is appropriate for using Amazon Relational Database Service (Amazon RDS)?",
+        "options": {
+            "A": "Massive read / write rates",
+            "B": "Simple Gets or Put Requests",
+            "C": "Complex Transactions",
+            "D": "All the Above"
+        },
+        "answer": "C"
+    },
+    "7": {
+        "question": "A company has an application, which consists of a .NET layer that connects to a MySQL database. They want to move this application on to AWS and use AWS features such as high availability and automated backups. Which of the following would be an ideal database for this use case (Select the best answer)",
+        "options": {
+            "A": "Amazon Dynamo DB",
+            "B": "Amazon RDS",
+            "C": "Amazon Aurora",
+            "D": "Amazon Redshift"
+        },
+        "answer": "C"
+    },
+    "8": {
+        "question": "If you are developing an application that requires a database with extremely fast performance, fast scalability, and flexibility in the database schema, which service would you consider?",
+        "options": {
+            "A": "Amazon Relational Database (Amazon RDS)",
+            "B": "Amazon Elastic Cache",
+            "C": "Amazon Dynamo DB",
+            "D": "Amazon Redshift"
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "True of false? Amazon RDS automatically patches the database software and backs up your database, storing the backups for a user-defined retention period and enabling point-in-time recovery",
+        "answer": "T"
+    },
+    "10": {
+        "question": "What should you consider when choosing database type?",
+        "options": {
+            "A": "Data Size",
+            "B": "Data access period",
+            "C": "Query Frequency",
+            "D": "All the Above",
+            "E": "E. Highly Available"
+        },
+        "answer": "D"
+    }
+}

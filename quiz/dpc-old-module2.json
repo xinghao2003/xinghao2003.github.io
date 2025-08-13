@@ -1,0 +1,142 @@
+{
+    "1": {
+        "question": "A small startup is planning to use AWS for developing their new web application. They are in the early stages of development and do not have production workloads yet. Their team is new to AWS and might need some guidance on best practices and troubleshooting during development. Which AWS Support plan should the startup choose to best meet their needs?",
+        "options": {
+            "A": "Basic Support",
+            "B": "Developer Support",
+            "C": "Business Support",
+            "D": "Enterprise Support"
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "What is the limit on the number of organizational units (OUs) that can be created within an AWS Organization?",
+        "options": {
+            "A": "1000",
+            "B": "10000",
+            "C": "100",
+            "D": "Unlimited"
+        },
+        "answer": "A"
+    },
+    "3": {
+        "question": "Which AWS service pricing model allows you to save money by making a commitment to use a specific amount of resources over a period of time?",
+        "options": {
+            "A": "Reserved Instances",
+            "B": "Spot Instances",
+            "C": "On-demand",
+            "D": "Free tier"
+        },
+        "answer": "A"
+    },
+    "4": {
+        "question": "Which type of account has the highest level of control in AWS Organizations?",
+        "options": {
+            "A": "IAM account",
+            "B": "Member account",
+            "C": "Root account",
+            "D": "Management account"
+        },
+        "answer": "D"
+    },
+    "5": {
+        "question": "A company is using multiple AWS services to host their application, and they want to ensure that they optimize the environment by adhering to AWS best practices. Which of the following services is capable of inspecting your AWS environment and making recommendations to lower expenditures, improve system performance and reliability, and close security gaps?",
+        "options": {
+            "A": "AWS Technical Account Manager (TAM)",
+            "B": "AWS Trusted Advisor",
+            "C": "AWS Support Concierge",
+            "D": "AWS Budgets"
+        },
+        "answer": "B"
+    },
+    "6": {
+        "question": "_______ allows you to explore AWS services based on your use cases and create a cost estimate. You can model your solutions before building them, explore the price points",
+        "options": {
+            "A": "AWS Cost Explorer",
+            "B": "Total Cost Of Ownership",
+            "C": "AWS Budgets",
+            "D": "AWS Pricing Calculator"
+        },
+        "answer": "D"
+    },
+    "7": {
+        "question": "What is the maximum number of roots allowed in an AWS Organization?",
+        "options": {
+            "A": "1",
+            "B": "10",
+            "C": "100",
+            "D": "1000"
+        },
+        "answer": "A"
+    },
+    "8": {
+        "question": "How can AWS Organizations help with cost management?",
+        "options": {
+            "A": "By offering discounts on EC2 instances",
+            "B": "By providing detailed resource usage reports for individual users",
+            "C": "By consolidating billing across multiple accounts",
+            "D": "By automatically reducing costs based on usage patterns"
+        },
+        "answer": "C"
+    },
+    "9": {
+        "question": "A large financial institution is migrating its mission-critical banking application to AWS. The application must be highly available and secure, with minimal downtime. The institution needs proactive support, including architectural guidance, training, and a dedicated technical account manager to ensure smooth operations. Which AWS Support plan is most appropriate for the financial institution?",
+        "options": {
+            "A": "Basic Support",
+            "B": "Developer Support",
+            "C": "Business Support",
+            "D": "Enterprise Support"
+        },
+        "answer": "D"
+    },
+    "10": {
+        "question": "A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances. Which AWS service or tool should the company use to meet these requirements?",
+        "options": {
+            "A": "AWS Billing",
+            "B": "AWS Organizations",
+            "C": "AWS Trusted Advisor",
+            "D": "AWS Cost Explorer"
+        },
+        "answer": "B"
+    },
+    "11": {
+        "question": "What is AWS Organizations primarily used for?",
+        "options": {
+            "A": "Monitoring AWS services",
+            "B": "Centralized management of multiple AWS accounts",
+            "C": "Managing IAM policies",
+            "D": "Managing AWS user accounts"
+        },
+        "answer": "B"
+    },
+    "12": {
+        "question": "How many levels of nested OUs can you have under a root in AWS Organizations?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "answer": "C"
+    },
+    "13": {
+        "question": "What is the primary benefit of volume-based discounts for AWS storage services like Amazon S3, Amazon EBS, and Amazon EFS?",
+        "options": {
+            "A": "No discount for larger customers",
+            "B": "Savings as usage increases",
+            "C": "Fixed pricing regardless of usage",
+            "D": "Higher pricing for larger volumes"
+        },
+        "answer": "B"
+    },
+    "14": {
+        "question": "Which of the following statements is true about AWS Free Tier?",
+        "options": {
+            "A": "It provides unlimited usage of all AWS services for one year.",
+            "B": "It requires an upfront payment to access.",
+            "C": "It is available only for enterprise customers.",
+            "D": "It offers certain levels of free usage for a limited time."
+        },
+        "answer": "D"
+    }
+}

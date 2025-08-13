@@ -1,0 +1,50 @@
+{
+    "1": {
+        "question": "What are the advantages of cloud computing over computing on-premises?",
+        "options": {
+            "A": "Avoid large capital purchases",
+            "B": "Use on-demand capacity",
+            "C": "Increase speed and agility"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "2": {
+        "question": "True of False? AWS owns and maintains the network-connected hardware required for application services, while you provision and use what you need.",
+        "answer": "T"
+    },
+    "3": {
+        "question": "Which of the following are not benefits of AWS Cloud computing?",
+        "options": {
+            "A": "High Latency",
+            "B": "Multiple procurement cycles"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    "4": {
+        "question": "True or False? Cloud Computing provides a simple way to access servers, storage, databases, and a broad set of application services over the internet. You own the network-connected hardware required for these services and Amazon Web Services provisions what you need.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "Which of these are ways to access AWS core services?",
+        "options": {
+            "A": "AWS Management Console",
+            "B": "AWS Command Line Interface (AWS CLI)",
+            "C": "Software Development Kit (SDKs)"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
+}

@@ -40,6 +40,82 @@
         "file": "erm-topic8.json"
     },
     {
+        "name": "Distributed and Parallel Computing Module 1",
+        "file": "dpc-module1.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 2",
+        "file": "dpc-module2.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 3",
+        "file": "dpc-module3.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 4",
+        "file": "dpc-module4.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 5",
+        "file": "dpc-module5.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 6",
+        "file": "dpc-module6.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 7",
+        "file": "dpc-module7.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Module 8",
+        "file": "dpc-module8.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Old Module 2",
+        "file": "dpc-old-module2.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Quiz 1",
+        "file": "dpc-past-quiz1.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Quiz 2",
+        "file": "dpc-past-quiz2.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Quiz 3",
+        "file": "dpc-past-quiz3.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Quiz 4",
+        "file": "dpc-past-quiz4.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Test 1",
+        "file": "dpc-past-test1.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Past Test 2",
+        "file": "dpc-past-test2.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Quiz 1",
+        "file": "dpc-quiz-1.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Quiz 2",
+        "file": "dpc-quiz-2.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Test 1",
+        "file": "dpc-test-1.json"
+    },
+    {
+        "name": "Distributed and Parallel Computing Test 2",
+        "file": "dpc-test-2.json"
+    },
+    {
         "name": "Data Mining Chapter 1 - Introduction",
         "file": "dm-chapter1.json"
     },

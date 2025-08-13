@@ -1,0 +1,105 @@
+{
+    "1": {
+        "question": "Which of the following is an example of a Platform as a Service (PaaS)? (Choose one)",
+        "options": {
+            "A": "Amazon EC2",
+            "B": "Amazon S3",
+            "C": "AWS Identity and Access Management (IAM)",
+            "D": "AWS Elastic Beanstalk"
+        },
+        "answer": "D"
+    },
+    "2": {
+        "question": "Which of the following is a key benefit of cloud computing?(Choose one)",
+        "options": {
+            "A": "High upfront cost",
+            "B": "Manual server management",
+            "C": "On-demand resource provisioning",
+            "D": "Fixed pricing"
+        },
+        "answer": "C"
+    },
+    "3": {
+        "question": "Which of the following statements is accurate regarding AWS pricing models? (Choose one)",
+        "options": {
+            "A": "All AWS services follow a fixed subscription pricing model",
+            "B": "AWS charges customers based on an up-front capital expenditure (CapEx)",
+            "C": "AWS pricing includes a pay-as-you-go model for resource consumption",
+            "D": "AWS services require a long-term contract commitment"
+        },
+        "answer": "C"
+    },
+    "4": {
+        "question": "What are the fundamental benefits of cloud computing? (Choose all that apply)",
+        "options": {
+            "A": "On-demand resource provisioning",
+            "B": "Flexibility",
+            "C": "Scalability",
+            "D": "High capital expenditures (CapEx)"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "C"
+        ]
+    },
+    "5": {
+        "question": "Which of the following is an example of Infrastructure as a Service (IaaS)? (Choose one)",
+        "options": {
+            "A": "Amazon EC2",
+            "B": "AWS Lambda",
+            "C": "Amazon RDS",
+            "D": "Amazon S3"
+        },
+        "answer": "A"
+    },
+    "6": {
+        "question": "What are the three primary cloud service models? (Choose one)",
+        "options": {
+            "A": "PaaS, SaaS, FaaS",
+            "B": "IaaS, SaaS, PaaS",
+            "C": "NaaS, SaaS, FaaS",
+            "D": "IaaS, FaaS, XaaS"
+        },
+        "answer": "B"
+    },
+    "7": {
+        "question": "Which cloud deployment model is most suitable for organizations with regulatory requirements to keep some workloads on-premises? (Choose one)",
+        "options": {
+            "A": "Public Cloud",
+            "B": "Community Cloud",
+            "C": "Hybrid Cloud",
+            "D": "Private Cloud"
+        },
+        "answer": "C"
+    },
+    "8": {
+        "question": "Which AWS service provides automatic scaling for applications based on demand, and adjusts compute resources accordingly? (Choose one)",
+        "options": {
+            "A": "AWS Elastic Beanstalk",
+            "B": "Amazon EC2 Auto Scaling",
+            "C": "Amazon Route 53",
+            "D": "AWS CloudTrail"
+        },
+        "answer": "B"
+    },
+    "9": {
+        "question": "Which AWS service should be used to analyze large volumes of log data for operational intelligence and troubleshooting? (Choose one)",
+        "options": {
+            "A": "AWS CloudTrail",
+            "B": "Amazon Redshift",
+            "C": "Amazon CloudWatch Logs",
+            "D": "Amazon Kinesis"
+        },
+        "answer": "C"
+    },
+    "10": {
+        "question": "Which of the following services is a content delivery network (CDN) provided by AWS?(Choose one)",
+        "options": {
+            "A": "Amazon RDS",
+            "B": "AWS Lambda",
+            "C": "Amazon S3",
+            "D": "Amazon CloudFront"
+        },
+        "answer": "D"
+    }
+}

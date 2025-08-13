@@ -1,0 +1,47 @@
+{
+    "1": {
+        "question": "By default all data stored in amazon S3 is viewable by the public.",
+        "answer": "F"
+    },
+    "2": {
+        "question": "Amazon simple storage service S3 is an object storage suitable for the storage of flat files like Microsoft Word documents, photos, etc.",
+        "answer": "T"
+    },
+    "3": {
+        "question": "You can use amazon elastic file system efc to: (Select the best ANSWER).",
+        "options": {
+            "A": "Generate user specific content.",
+            "B": "Provide simple, scalable, elastic file storage for use only within AWS.",
+            "C": "Host a robust CDN to deliver entire web sites with dynamic, static, and streaming content.",
+            "D": "Implement storage for Amazon EC2 instances that multiple virtual machines can access at the same time."
+        },
+        "answer": "D"
+    },
+    "4": {
+        "question": "The name of an S3 bucket must be unique.",
+        "options": {
+            "A": "Within a region.",
+            "B": "Across all your AWS accounts.",
+            "C": "Worldwide across all AWS accounts.",
+            "D": "Within your AWS account."
+        },
+        "answer": "C"
+    },
+    "5": {
+        "question": "Which of the following can be used as a storage class for an S3 object lifecycle policy?",
+        "options": {
+            "A": "Amazon Dynamo DB.",
+            "B": "S3 Standard Access.",
+            "C": "S3 Reduced Redundancy Storage.",
+            "D": "Simple Storage Service Glacier.",
+            "E": "e. AWS Storage Gateway.",
+            "F": "f. S3 Infrequent Access."
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "B",
+            "D",
+            "F"
+        ]
+    }
+}

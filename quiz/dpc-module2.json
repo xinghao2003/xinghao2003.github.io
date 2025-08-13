@@ -1,0 +1,68 @@
+{
+    "1": {
+        "question": "For certain services like Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), you can invest in reserved capacity. What options are available for Reserved Instances?",
+        "options": {
+            "A": "AURI",
+            "B": "NURI",
+            "C": "PURI"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "2": {
+        "question": "To receive the discounted rate associated with Reserved Instances, you must make a full, upfront payment for the term of the agreement",
+        "answer": "F"
+    },
+    "3": {
+        "question": "There is no charge for which of the following?",
+        "options": {
+            "A": "Inbound data transfer (with some exceptions)",
+            "B": "Data transfer between services within the same AWS Reg"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    "4": {
+        "question": "What are the four support plans offered by AWS Support?",
+        "options": {
+            "A": "Basic",
+            "B": "Developer",
+            "C": "Business",
+            "D": "Enterprise"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    "5": {
+        "question": "AWS offers a variety of services at no charge, for example, Amazon Virtual Private Cloud (Amazon VPC), AWS Identity and Access Management (IAM), Consolidated Billing, AWS Elastic Beanstalk, automatic scaling, AWS Ops Works and AWS CloudFormation. However, you might be charged for other AWS services that you use in conjunction with these services",
+        "answer": "T"
+    },
+    "6": {
+        "question": "When are free data transfers applicable across AWS?",
+        "options": {
+            "A": "Free inbound data transfer for Amazon Elastic Computer Cloud (Amazon EC2) instances",
+            "B": "Free outbound data transfer between AWS services within the same Region"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    "7": {
+        "question": "Unlimited services are available with the AWS Free Tier to new AWS customers for 12 months following their AWS sign-up date.",
+        "answer": "F"
+    }
+}

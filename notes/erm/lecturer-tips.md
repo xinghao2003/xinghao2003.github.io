@@ -3,56 +3,63 @@ layout: default
 title: Tips
 ---
 
-Exam Details
+## Exam Details
 
-Date: Thursday, 14th August
+**Date:** Thursday, 14th August  
+**Time:** 2:30 PM to 5:30 PM  
+**Venue:** Chancellor Hall
 
-Time: 2:30 PM to 5:30 PM
+## Exam Format & Structure
 
-Venue: Chancellor Hall
-
-Exam Format & Structure
-
-The exam consists of 5 questions, with each question worth 20 marks.
+The exam consists of **5 questions**, with each question worth **20 marks**.
 
 Questions may have sub-parts (e.g., 1a, 1b, 1c).
 
-Question 1: Covers Topic 1.
+- **Question 1:** Covers Topic 1
+- **Question 2:** Covers Topic 2 and Topic 3
+- **Questions 3 & 4:** Cover Topic 4, 6, and 7
+- **Question 5:** Is a mini-case study based on a real company. It covers Topics 3, 4, 5, and 6. Since it's a closed-book exam, you are allowed to make reasonable assumptions to answer the case.
 
-Question 2: Covers Topic 2 and Topic 3.
+## Key Answering Strategies & Tips
 
-Questions 3 & 4: Cover Topic 4, 6, and 7.
+### Understand the Command Words
 
-Question 5: Is a mini-case study based on a real company. It covers Topics 3, 4, 5, and 6. Since it's a closed-book exam, you are allowed to make reasonable assumptions to answer the case.
+Pay close attention to the verb used in the question (e.g., "identify," "explain," "discuss," "compare").
 
-Key Answering Strategies & Tips
+- **Identify/List:** Simply list the points
+- **Explain/Discuss:** Provide detailed explanations and elaborate on the points
+- **Compare:** You must describe each item and then explicitly state their similarities and differences
 
-Understand the Command Words: Pay close attention to the verb used in the question (e.g., "identify," "explain," "discuss," "compare").
+### Answer Length & Marks
 
-Identify/List: Simply list the points.
+Use the marks allocated as a guide for how detailed your answer should be.
 
-Explain/Discuss: Provide detailed explanations and elaborate on the points.
+- **3 Marks:** A short, simple paragraph
+- **5 Marks:** Roughly half a page
+- **10 Marks:** About one full page
 
-Compare: You must describe each item and then explicitly state their similarities and differences.
+> Focus on quality over quantity.
 
-Answer Length & Marks: Use the marks allocated as a guide for how detailed your answer should be.
+### No Single "Correct" Answer
 
-3 Marks: A short, simple paragraph.
+The lecturer emphasizes that answers will be graded on how well you argue and justify your points. Different, well-supported answers can all be correct.
 
-5 Marks: Roughly half a page.
+### Handwriting Matters
 
-10 Marks: About one full page.
+Write clearly and legibly. Illegible handwriting makes it difficult for the examiner to mark and could cause you to lose marks.
 
-Focus on quality over quantity.
+### Structure Your Answer Script
 
-No Single "Correct" Answer: The lecturer emphasizes that answers will be graded on how well you argue and justify your points. Different, well-supported answers can all be correct.
+- Start each new question on a new page
+- If you skip a sub-question to answer it later, leave enough space for it and return to that space. Do not answer it out of order at the end of your script. This makes marking easier.
 
-Handwriting Matters: Write clearly and legibly. Illegible handwriting makes it difficult for the examiner to mark and could cause you to lose marks.
+### Plan Before You Write
 
-Structure Your Answer Script:
+Spend a minute or two planning the structure of your answer before you start writing. This helps organize your thoughts and leads to a more coherent response.
 
-Start each new question on a new page.
+### Use of Bullet Points
 
+Bullet points are acceptable as long as they are self-explanatory. The best approach is to write a short introductory sentence, use bullet points, and then add a concluding sentence.
 If you skip a sub-question to answer it later, leave enough space for it and return to that space. Do not answer it out of order at the end of your script. This makes marking easier.
 
 Plan Before You Write: Spend a minute or two planning the structure of your answer before you start writing. This helps organize your thoughts and leads to a more coherent response.

@@ -1,0 +1,191 @@
+{
+    "1": {
+        "question": "Which of the following best describes the primary challenge addressed by the CAP theorem?",
+        "options": {
+            "A": "Ensuring fault tolerance in a distributed system.",
+            "B": "Balancing consistency, availability, and partition tolerance in a distributed system",
+            "C": "Optimizing communication latency in a parallel system.",
+            "D": "Managing data replication in a cloud environment."
+        },
+        "answer": "B"
+    },
+    "2": {
+        "question": "Which of the following is a key challenge in distributed computing?",
+        "options": {
+            "A": "Network latency",
+            "B": "Centralized control",
+            "C": "Single point of failure",
+            "D": "Limited scalability"
+        },
+        "answer": "C"
+    },
+    "3": {
+        "question": "Which of the following is a characteristic of a distributed system?",
+        "options": {
+            "A": "Single point of failure",
+            "B": "Transparency",
+            "C": "Homogeneous hardware",
+            "D": "Centralized control"
+        },
+        "answer": "B"
+    },
+    "4": {
+        "question": "Load balancing in distributed systems ensure all nodes have equal workload (True or False)",
+        "answer": "T"
+    },
+    "5": {
+        "question": "A distributed system is scalable if it remains effective as the number of users and/or resources increases. (True or False)",
+        "answer": "T"
+    },
+    "6": {
+        "question": "Distributed models define the way in which the components of the system are placed onto underlying network and how they interact with one another. (True or False)",
+        "answer": "F"
+    },
+    "7": {
+        "question": "Grid computing is a collection of connected computers that work together as a unit to perform operations together, functioning in a single system. (True or False)",
+        "answer": "T"
+    },
+    "8": {
+        "question": "Which of the following is NOT a valid advantage of cloud computing?",
+        "options": {
+            "A": "Trade capital expense for variable expense",
+            "B": "Limited economies of scale",
+            "C": "Globalization",
+            "D": "Speed and agility"
+        },
+        "answer": "B"
+    },
+    "9": {
+        "question": "What is the following is NOT considered when choosing an architectural model?",
+        "options": {
+            "A": "purpose",
+            "B": "principle",
+            "C": "performance",
+            "D": "price"
+        },
+        "answer": "D"
+    },
+    "10": {
+        "question": "Which of the following is NOT a correct cloud service deployment model?",
+        "options": {
+            "A": "Infrastructure as a Service",
+            "B": "Operations as a Service",
+            "C": "Software as a Service",
+            "D": "Platform as a Service"
+        },
+        "answer": "B"
+    },
+    "11": {
+        "question": "Why is AWS more economical than traditional data centers for applications with varying compute workloads?",
+        "options": {
+            "A": "Amazon Elastic Compute Cloud (Amazon EC2) costs are billed on a monthly basis.",
+            "B": "Customers retain full administrative access to their Amazon EC2 instances.",
+            "C": "Amazon EC2 instances can be launched on-demand when needed.",
+            "D": "Customers can permanently run enough instances to handle peak workloads."
+        },
+        "answer": "C"
+    },
+    "12": {
+        "question": "Which AWS service provides infrastructure security optimization recommendations?",
+        "options": {
+            "A": "AWS Price List Application Programming Interface (API)",
+            "B": "Reserved Instances",
+            "C": "AWS Trusted Advisor",
+            "D": "Amazon Elastic Compute Cloud (Amazon EC2) Spot Fleet"
+        },
+        "answer": "C"
+    },
+    "13": {
+        "question": "Which of the following statements is accurate regarding AWS pricing models?",
+        "options": {
+            "A": "All AWS services follow a fixed subscription pricing model",
+            "B": "AWS charges customers based on an up-front capital expenditure (CapEx)",
+            "C": "AWS pricing includes a pay-as-you-go model for resource consumption",
+            "D": "AWS services require a long-term contract commitment"
+        },
+        "answer": "C"
+    },
+    "14": {
+        "question": "Which of the following is an example of a Platform as a Service (PaaS)?",
+        "options": {
+            "A": "Amazon EC2",
+            "B": "AWS Elastic Beanstalk",
+            "C": "Amazon S3",
+            "D": "AWS Identity and Access Management (IAM)"
+        },
+        "answer": "B"
+    },
+    "15": {
+        "question": "In which scenario would an organization benefit most from adopting (hybrid cloud mode)?",
+        "options": {
+            "A": "When a business operates in a single physical location",
+            "B": "When a business uses a public cloud but has regulatory constraints that require some data to be stored on-premises",
+            "C": "When the business only uses cloud-based infrastructure for its operations",
+            "D": "When cost is the only concern for an organization"
+        },
+        "answer": "B"
+    },
+    "16": {
+        "question": "Which of the following is a key benefit of cloud computing?",
+        "options": {
+            "A": "On-demand resource provisioning",
+            "B": "Fixed pricing",
+            "C": "High upfront cost",
+            "D": "Manual server management"
+        },
+        "answer": "A"
+    },
+    "17": {
+        "question": "Which of the following AWS services enable cost optimization by automating infrastructure management? (Choose one)",
+        "options": {
+            "A": "AWS Auto Scaling",
+            "B": "AWS CloudFormation",
+            "C": "AWS Lambda",
+            "D": "Amazon RDS"
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "What are the fundamental benefits of cloud computing? (Choose all that apply)",
+        "options": {
+            "A": "Scalability",
+            "B": "High capital expenditures (CapEx)",
+            "C": "Flexibility",
+            "D": "On-demand resource provisioning"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    "19": {
+        "question": "Which of the following are common use cases of cloud computing? (Choose all that apply)",
+        "options": {
+            "A": "Hosting websites and applications",
+            "B": "Powering legacy on-premises infrastructure",
+            "C": "Data backup and disaster recovery",
+            "D": "Running payroll systems"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "A",
+            "C"
+        ]
+    },
+    "20": {
+        "question": "Which of the following are part of AWS's shared responsibility model for security? (Choose all that apply)",
+        "options": {
+            "A": "AWS is responsible for managing data encryption at rest",
+            "B": "Customers are responsible for managing security at the application layer",
+            "C": "AWS is responsible for physical infrastructure security",
+            "D": "Customers are responsible for securing the hypervisor"
+        },
+        "question_type": "multiple_select",
+        "answer": [
+            "B",
+            "D"
+        ]
+    }
+}

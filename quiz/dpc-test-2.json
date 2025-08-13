@@ -1,0 +1,135 @@
+{
+    "1": {
+        "question": "Amazon EC2 Auto Scaling can only scale out (increase instances) when the load increases but cannot scale in (decrease instances).",
+        "answer": "F"
+    },
+    "2": {
+        "question": "Amazon S3 replicates all objects _______.",
+        "options": {
+            "A": "On multiple volumes within an availability zone.",
+            "B": "On multiple S3 buckets.",
+            "C": "In multiple Availability zones within the same region.",
+            "D": "Across multiple regions for higher durability."
+        },
+        "answer": "C"
+    },
+    "3": {
+        "question": "Amazon simple storage service S3 is an object storage suitable for the storage of flat files like Microsoft Word documents, photos, etc.",
+        "answer": "T"
+    },
+    "4": {
+        "question": "In Amazon CloudFront, cached content is automatically updated across edge locations whenever there is a change to the origin content.",
+        "answer": "F"
+    },
+    "5": {
+        "question": "In Amazon DynamoDB, an attribute is _______",
+        "options": {
+            "A": "A Fundamental Data Element",
+            "B": "A Collection of Attributes",
+            "C": "A Collection Of items"
+        },
+        "answer": "A"
+    },
+    "6": {
+        "question": "AWS Elastic Load Balancer (ELB) automatically distributes incoming application traffic across multiple Availability Zones by default.",
+        "answer": "F"
+    },
+    "7": {
+        "question": "A company has an application, which consists of a .NET layer that connects to a MySQL database. They want to move this application on to AWS and use AWS features such as high availability and automated backups. Which of the following would be an ideal database for this use case.",
+        "options": {
+            "A": "Amazon RDS",
+            "B": "Amazon Dynamo DB",
+            "C": "Amazon Aurora",
+            "D": "Amazon Redshift"
+        },
+        "answer": "C"
+    },
+    "8": {
+        "question": "Amazon DynamoDB provides strong consistency across all its global secondary indexes by default.",
+        "answer": "F"
+    },
+    "9": {
+        "question": "AWS Trusted Advisor provides insight regarding which five categories of an AWS account?",
+        "options": {
+            "A": "Performance, cost optimization, access control, connectivity, security",
+            "B": "Performance, cost optimization, security, fault tolerance, service limits.",
+            "C": "Security, Fault tolerance, high availability, connectivity, service limits",
+            "D": "Security, access control, high availability, performance, service limits"
+        },
+        "answer": "B"
+    },
+    "10": {
+        "question": "Amazon S3 automatically replicates data across multiple AWS regions for disaster recovery.",
+        "answer": "F"
+    },
+    "11": {
+        "question": "Containers contain an entire operating system.",
+        "answer": "F"
+    },
+    "12": {
+        "question": "If you are developing an application that requires a database with extremely fast performance, fast scalability, and flexibility in the database schema, which service would you consider?",
+        "options": {
+            "A": "Amazon Elastic Cache",
+            "B": "Amazon Redshift",
+            "C": "Amazon Relational Database (Amazon RDS)",
+            "D": "Amazon Dynamo DB"
+        },
+        "answer": "D"
+    },
+    "13": {
+        "question": "Amazon S3 bucket policies can only be used to grant public access to a bucket and cannot restrict access.",
+        "answer": "F"
+    },
+    "14": {
+        "question": "AWS CloudTrail logs API activity only for the root account by default and does not capture activities from IAM users.",
+        "answer": "F"
+    },
+    "15": {
+        "question": "AWS Trusted Advisor can automatically remediate issues it detects within an AWS account.",
+        "answer": "F"
+    },
+    "16": {
+        "question": "AWS Lambda functions can run continuously without a timeout limit, making them ideal for long-running processes.",
+        "answer": "F"
+    },
+    "17": {
+        "question": "In Amazon DynamoDB, what does the query operation enable you to do?",
+        "options": {
+            "A": "Efficiency retrieve items from a table or secondary index",
+            "B": "Query across multiple tables at once using sort key filter",
+            "C": "Query a table using any attribute as a key",
+            "D": "All the Above"
+        },
+        "answer": "A"
+    },
+    "18": {
+        "question": "If your project requires monthly reports that iterate through very large amounts of data, which Amazon Elastic Compute Cloud EC2 purchasing option should you consider?",
+        "options": {
+            "A": "Scheduled Reserved Instances.",
+            "B": "Dedicated Hosts.",
+            "C": "On-Demand Instances.",
+            "D": "Spot Instances."
+        },
+        "answer": "A"
+    },
+    "19": {
+        "question": "In a VPC, you have set up a public-facing web application. You want to ensure the application is resilient to failures in a single Availability Zone. Which of the following actions should you take to improve fault tolerance?",
+        "options": {
+            "A": "Place all application servers in a single public subnet within one Availability Zone.",
+            "B": "Increase the size of your EC2 instances in one Availability Zone to handle more traffic.",
+            "C": "Create an Auto Scaling group that spans multiple Availability Zones and deploy instances in multiple public subnets.",
+            "D": "Use only one Availability Zone with increased instance count in a single subnet."
+        },
+        "answer": "C"
+    },
+    "20": {
+        "question": "After you move to the AWS Cloud, you want to ensure that the right security settings are put in place. Which online tool can assist in security compliance?",
+        "options": {
+            "A": "Amazon Cloud watch",
+            "B": "Amazon Kinesis",
+            "C": "Amazon Support",
+            "D": "AWS Trusted Advisor"
+        },
+        "answer": "D"
+    }
+}
