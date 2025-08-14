@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enterprise Risk Management Last Minutes Notes
+title: Enterprise Risk Management Last Minute Notes
 ---
 
 ### **Last-Minute Exam Strategy**
