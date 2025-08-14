@@ -30,6 +30,7 @@ Welcome to the Enterprise Risk Management course materials. This section contain
 - [**Final Notes**](final-notes.md) - Core study notes covering all essential topics for the final exam
 - [**Final Notes + Reading Materials**](final-notes+reading.md) - Expanded notes with additional insights from course readings
 - [**Final Notes + Video Materials**](final-notes+video.md) - Enhanced notes incorporating key concepts from video lectures
+- [**Last Minute Tips**](last-minute.md) - Quick tips and reminders for exam day
 - [**Lecturer Tips**](lecturer-tips.md) - Key advice and strategies for exam preparation
 
 ### Past Examinations
