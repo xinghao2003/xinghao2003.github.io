@@ -1,0 +1,441 @@
+{
+  "1": {
+    "question": "What is the primary purpose of a data warehouse?",
+    "answer": "D",
+    "options": {
+      "A": "To manage and process real-time transactions for operational systems.",
+      "B": "To store unstructured data from a single source.",
+      "C": "To quickly process individual customer payments.",
+      "D": "To support decision-making, analysis, and reporting with historical data."
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "Which of the following characteristics are part of W.H. Inmon's definition of a data warehouse? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "Time-variant",
+      "B": "Nonvolatile",
+      "C": "Subject-oriented",
+      "D": "Real-time"
+    },
+    "question_type": "multiple_select"
+  },
+  "3": {
+    "question": "Which feature ensures that data in a data warehouse remains unchanged once entered, only updated through new additions?",
+    "answer": "C",
+    "options": {
+      "A": "Subject-oriented",
+      "B": "Time-variant",
+      "C": "Nonvolatile",
+      "D": "Integrated"
+    },
+    "question_type": "single_select"
+  },
+  "4": {
+    "question": "The 'Integrated' feature of a data warehouse primarily involves which of the following?",
+    "answer": "D",
+    "options": {
+      "A": "Ensuring data is only updated through new additions, not modifications or deletions.",
+      "B": "Excluding irrelevant data from business areas.",
+      "C": "Storing historical data for trend analysis.",
+      "D": "Combining heterogeneous data sources with cleaning and integration for consistency."
+    },
+    "question_type": "single_select"
+  },
+  "5": {
+    "question": "Compared to OLTP, what is a typical characteristic of OLAP regarding response time?",
+    "answer": "C",
+    "options": {
+      "A": "Response times are irrelevant for OLAP.",
+      "B": "Has shorter response times, typically in milliseconds.",
+      "C": "Has longer response times, typically in seconds or minutes.",
+      "D": "Response times are instantaneous."
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "Which of the following are primary users of OLAP systems? (Select all that apply)",
+    "answer": [
+      "A",
+      "C"
+    ],
+    "options": {
+      "A": "Decision-makers",
+      "B": "Clerks",
+      "C": "Data analysts",
+      "D": "IT Professionals"
+    },
+    "question_type": "multiple_select"
+  },
+  "7": {
+    "question": "What type of data structure is typically used in OLTP systems?",
+    "answer": "D",
+    "options": {
+      "A": "Multidimensional cubes",
+      "B": "Snowflake schema",
+      "C": "Star schema",
+      "D": "Relational databases"
+    },
+    "question_type": "single_select"
+  },
+  "8": {
+    "question": "Which component is responsible for receiving and processing queries in a data warehouse architecture?",
+    "answer": "B",
+    "options": {
+      "A": "Monitor & Integrator",
+      "B": "OLAP Server",
+      "C": "Data Sources",
+      "D": "Data Marts"
+    },
+    "question_type": "single_select"
+  },
+  "9": {
+    "question": "In a multi-tiered data warehouse architecture, what is the primary function of 'Data Marts'?",
+    "answer": "B",
+    "options": {
+      "A": "To provide front-end tools for analysis and reporting.",
+      "B": "To store subsets of data from the data warehouse, often for specific business units.",
+      "C": "To serve as a central repository for all enterprise data.",
+      "D": "To extract and transform data from source systems."
+    },
+    "question_type": "single_select"
+  },
+  "10": {
+    "question": "The 'Transformation' phase of ETL typically involves which of the following?",
+    "answer": "D",
+    "options": {
+      "A": "Getting data from multiple, heterogeneous, and external sources.",
+      "B": "Detecting errors in the data and rectifying them.",
+      "C": "Propagating updates from data sources to the warehouse.",
+      "D": "Converting data from legacy or host format to warehouse format."
+    },
+    "question_type": "single_select"
+  },
+  "11": {
+    "question": "What is the primary purpose of 'Data Cleaning' in the ETL process?",
+    "answer": "C",
+    "options": {
+      "A": "To summarize and consolidate data.",
+      "B": "To convert data formats.",
+      "C": "To detect and rectify errors in the data.",
+      "D": "To load data into the warehouse."
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "Which type of metadata in a data warehouse repository tracks data lineage and usage statistics?",
+    "answer": "C",
+    "options": {
+      "A": "Structure Information",
+      "B": "Business Data",
+      "C": "Operational Data",
+      "D": "Summarization Algorithms"
+    },
+    "question_type": "single_select"
+  },
+  "13": {
+    "question": "What does 'Structure Information' in a metadata repository primarily define? (Select all that apply)",
+    "answer": [
+      "A",
+      "B"
+    ],
+    "options": {
+      "A": "Data marts",
+      "B": "Warehouse schema",
+      "C": "Audit logs",
+      "D": "Data lineage"
+    },
+    "question_type": "multiple_select"
+  },
+  "14": {
+    "question": "In a multidimensional data model, what type of table contains measures and keys to related dimension tables?",
+    "answer": "D",
+    "options": {
+      "A": "Lookup table",
+      "B": "Dimension table",
+      "C": "Summary table",
+      "D": "Fact table"
+    },
+    "question_type": "single_select"
+  },
+  "15": {
+    "question": "What is the core concept behind viewing data in a data warehouse based on a multidimensional data model?",
+    "answer": "B",
+    "options": {
+      "A": "Storing data in a normalized relational database.",
+      "B": "Modeling data as a data cube.",
+      "C": "Only storing current, non-historical data.",
+      "D": "Processing real-time transactions."
+    },
+    "question_type": "single_select"
+  },
+  "16": {
+    "question": "In data warehousing, what is the term for the 0-D cuboid that holds the highest-level of summarization?",
+    "answer": "B",
+    "options": {
+      "A": "Dimension cuboid",
+      "B": "Apex cuboid",
+      "C": "Base cuboid",
+      "D": "Fact cuboid"
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "Given a 3-dimensional data cube where each dimension (Product, Location, Time) has 2 levels, how many cuboids are in the lattice?",
+    "answer": "A",
+    "options": {
+      "A": "27",
+      "B": "9",
+      "C": "36",
+      "D": "18"
+    },
+    "question_type": "single_select"
+  },
+  "18": {
+    "question": "Which data warehouse schema involves multiple fact tables sharing dimension tables?",
+    "answer": "A",
+    "options": {
+      "A": "Fact constellation",
+      "B": "Snowflake schema",
+      "C": "Relational schema",
+      "D": "Star schema"
+    },
+    "question_type": "single_select"
+  },
+  "19": {
+    "question": "What is the key difference between a Star Schema and a Snowflake Schema?",
+    "answer": "B",
+    "options": {
+      "A": "Star schema uses multiple fact tables, while Snowflake schema uses only one.",
+      "B": "Snowflake schema normalizes dimensional hierarchies into smaller dimension tables, unlike star schema.",
+      "C": "Star schema supports OLAP operations, while Snowflake schema does not.",
+      "D": "Snowflake schema is optimized for real-time transactions, unlike star schema."
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "Which OLAP operation is used to summarize data by climbing up a concept hierarchy or reducing dimensions?",
+    "answer": "D",
+    "options": {
+      "A": "Slice",
+      "B": "Drill-Down",
+      "C": "Pivot",
+      "D": "Roll-Up"
+    },
+    "question_type": "single_select"
+  },
+  "21": {
+    "question": "To view daily sales after seeing yearly sales, which OLAP operation would be most appropriate?",
+    "answer": "C",
+    "options": {
+      "A": "Slice",
+      "B": "Roll-Up",
+      "C": "Drill-Down",
+      "D": "Pivot"
+    },
+    "question_type": "single_select"
+  },
+  "22": {
+    "question": "Which OLAP operations are primarily used for changing the perspective or filtering a sub-cube of data? (Select all that apply)",
+    "answer": [
+      "A",
+      "C"
+    ],
+    "options": {
+      "A": "Slice",
+      "B": "Drill-Through",
+      "C": "Pivot",
+      "D": "Roll-Up"
+    },
+    "question_type": "multiple_select"
+  },
+  "23": {
+    "question": "Which data warehouse design view focuses on the fact and dimension tables?",
+    "answer": "C",
+    "options": {
+      "A": "Business query view",
+      "B": "Data source view",
+      "C": "Data warehouse view",
+      "D": "Top-down view"
+    },
+    "question_type": "single_select"
+  },
+  "24": {
+    "question": "The 'Top-down view' in data warehouse design primarily focuses on what aspect?",
+    "answer": "A",
+    "options": {
+      "A": "Selecting the relevant information necessary for the data warehouse.",
+      "B": "Exposing information from operational systems.",
+      "C": "Structuring fact and dimension tables.",
+      "D": "Defining the end-user perspectives of data."
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "Which data warehouse usage type involves knowledge discovery from hidden patterns?",
+    "answer": "D",
+    "options": {
+      "A": "Analytical processing",
+      "B": "Operational processing",
+      "C": "Information processing",
+      "D": "Data mining"
+    },
+    "question_type": "single_select"
+  },
+  "26": {
+    "question": "Querying and basic statistical analysis fall under which type of data warehouse application?",
+    "answer": "D",
+    "options": {
+      "A": "Transaction processing",
+      "B": "Data mining",
+      "C": "Analytical processing",
+      "D": "Information processing"
+    },
+    "question_type": "single_select"
+  },
+  "27": {
+    "question": "Which indexing technique is characterized by a bit vector for each column value and is generally not suitable for high cardinality domains?",
+    "answer": "C",
+    "options": {
+      "A": "B-tree index",
+      "B": "Join index",
+      "C": "Bitmap index",
+      "D": "Hash index"
+    },
+    "question_type": "single_select"
+  },
+  "28": {
+    "question": "What is the primary benefit of using a Join Index in a data warehouse?",
+    "answer": "A",
+    "options": {
+      "A": "It materializes relational joins and speeds up relational join operations.",
+      "B": "It optimizes real-time transaction processing.",
+      "C": "It reduces the storage requirements of the data warehouse.",
+      "D": "It ensures data nonvolatility within the warehouse."
+    },
+    "question_type": "single_select"
+  },
+  "29": {
+    "question": "The 'dice' operation in OLAP is a combination of which two SQL-like operations?",
+    "answer": "A",
+    "options": {
+      "A": "Selection and Projection",
+      "B": "Order By and Limit",
+      "C": "Join and Group By",
+      "D": "Union and Intersect"
+    },
+    "question_type": "single_select"
+  },
+  "30": {
+    "question": "When processing an OLAP query, what is a key consideration for efficiency regarding cuboids?",
+    "answer": "C",
+    "options": {
+      "A": "Minimizing the number of dimensions in the query.",
+      "B": "Ensuring all cuboids are de-normalized.",
+      "C": "Determining which materialized cuboid(s) should be selected.",
+      "D": "Transforming all queries into drill-down operations."
+    },
+    "question_type": "single_select"
+  },
+  "31": {
+    "question": "When was Attribute-Oriented Induction (AOI) initially proposed?",
+    "answer": "D",
+    "options": {
+      "A": "2000 (ICDE '00)",
+      "B": "1992 (SIGMOD '92)",
+      "C": "1985 (VLDB '85)",
+      "D": "1989 (KDD '89 workshop)"
+    },
+    "question_type": "single_select"
+  },
+  "32": {
+    "question": "What are the key steps involved in Attribute-Oriented Induction? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Interacting with users for knowledge presentation",
+      "B": "Performing data encryption",
+      "C": "Applying aggregation by merging identical tuples",
+      "D": "Collecting task-relevant data"
+    },
+    "question_type": "multiple_select"
+  },
+  "33": {
+    "question": "In Attribute-Oriented Induction, what is the purpose of 'Attribute-removal'?",
+    "answer": "B",
+    "options": {
+      "A": "To normalize attribute values to a common range.",
+      "B": "To remove attributes with a large set of distinct values if no generalization operator exists or higher-level concepts are expressed by other attributes.",
+      "C": "To add new attributes to the dataset.",
+      "D": "To replace attribute values with default values."
+    },
+    "question_type": "single_select"
+  },
+  "34": {
+    "question": "Which principle in AOI helps manage the number of distinct values after generalization, often with a typical range of 2-8?",
+    "answer": "D",
+    "options": {
+      "A": "Generalized relation threshold control",
+      "B": "Data focusing",
+      "C": "Attribute-removal",
+      "D": "Attribute-threshold control"
+    },
+    "question_type": "single_select"
+  },
+  "35": {
+    "question": "Which step in the AOI basic algorithm is responsible for determining the generalization plan for each attribute (e.g., removal or generalization level)?",
+    "answer": "A",
+    "options": {
+      "A": "PreGen",
+      "B": "InitialRel",
+      "C": "PrimeGen",
+      "D": "Presentation"
+    },
+    "question_type": "single_select"
+  },
+  "36": {
+    "question": "The 'Presentation' step of the AOI algorithm allows for which user interactions? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Pivoting data",
+      "B": "Defining the initial relation SQL query",
+      "C": "Mapping results into rules or cross tabs",
+      "D": "Adjusting levels by drilling"
+    },
+    "question_type": "multiple_select"
+  },
+  "37": {
+    "question": "Which statement accurately describes a key similarity between Attribute-Oriented Induction (AOI) and Cube-Based OLAP?",
+    "answer": "B",
+    "options": {
+      "A": "Both primarily work on non-relational forms of data.",
+      "B": "Both involve interactive drilling, pivoting, slicing, and dicing.",
+      "C": "Both perform query-independent preprocessing systematically.",
+      "D": "Both require manual desired level allocation."
+    },
+    "question_type": "single_select"
+  },
+  "38": {
+    "question": "What is a distinct characteristic of Attribute-Oriented Induction (AOI) compared to Cube-Based OLAP?",
+    "answer": "C",
+    "options": {
+      "A": "AOI typically has shorter response times for complex queries.",
+      "B": "AOI only works with categorical data.",
+      "C": "AOI performs dimension relevance analysis and may work on non-relational forms of data.",
+      "D": "AOI has systematic, query-independent preprocessing."
+    },
+    "question_type": "single_select"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "1": {
+    "question": "Which of the following best describes the primary goal of cluster analysis?",
+    "answer": "B",
+    "options": {
+      "A": "D) To identify cause-and-effect relationships between variables.",
+      "B": "B) To group similar data objects into clusters based on inherent characteristics.",
+      "C": "C) To predict future trends based on historical data.",
+      "D": "A) To classify data objects into predefined categories."
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "Cluster analysis is considered a type of unsupervised learning because:",
+    "answer": "C",
+    "options": {
+      "A": "A) It requires extensive human supervision to define clusters.",
+      "B": "B) It learns by examples with pre-labeled classes.",
+      "C": "C) It does not rely on predefined classes or labeled data.",
+      "D": "D) It generates new data points from existing ones."
+    },
+    "question_type": "single_select"
+  },
+  "3": {
+    "question": "Which of the following are typical applications of cluster analysis? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "A) Disease diagnosis to identify subtypes.",
+      "B": "C) Document clustering for information retrieval.",
+      "C": "B) Predicting stock market prices with 100% accuracy.",
+      "D": "D) Identifying unusual data points as outliers."
+    },
+    "question_type": "multiple_select"
+  },
+  "4": {
+    "question": "In image processing, clustering can be used for:",
+    "answer": "B",
+    "options": {
+      "A": "C) Converting images to text.",
+      "B": "B) Grouping similar pixel colors/patterns for compression.",
+      "C": "D) Adding special effects to images.",
+      "D": "A) Enhancing image resolution."
+    },
+    "question_type": "single_select"
+  },
+  "5": {
+    "question": "A good clustering method should ideally produce clusters with:",
+    "answer": "C",
+    "options": {
+      "A": "D) Random distribution of data points.",
+      "B": "C) High similarity across all clusters.",
+      "C": "B) High intra-class similarity and low inter-class similarity.",
+      "D": "A) Low intra-class similarity and high inter-class similarity."
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "The quality of a clustering method is NOT dependent on which of the following?",
+    "answer": "D",
+    "options": {
+      "A": "A) The similarity measure used by the method.",
+      "B": "B) The implementation of the clustering algorithm.",
+      "C": "C) Its ability to discover hidden patterns.",
+      "D": "D) The subjective preferences of the end-user."
+    },
+    "question_type": "single_select"
+  },
+  "7": {
+    "question": "Which of the following is typically used as a dissimilarity/similarity metric in clustering?",
+    "answer": "A",
+    "options": {
+      "A": "C) Distance function (e.g., Euclidean).",
+      "B": "D) Variance.",
+      "C": "A) Correlation coefficient.",
+      "D": "B) Regression slope."
+    },
+    "question_type": "single_select"
+  },
+  "8": {
+    "question": "When measuring similarity for clustering, which factors are important considerations? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "B) The type of data attributes (numerical, categorical).",
+      "B": "A) The specific distance function chosen.",
+      "C": "C) Applying weights to variables based on importance.",
+      "D": "D) The number of CPU cores available."
+    },
+    "question_type": "multiple_select"
+  },
+  "9": {
+    "question": "In the context of cluster separation, what is the difference between an \"exclusive\" and \"non-exclusive\" cluster?",
+    "answer": "C",
+    "options": {
+      "A": "D) Exclusive clusters are used for numerical data, non-exclusive for categorical.",
+      "B": "C) Non-exclusive clusters are always hierarchical, exclusive are not.",
+      "C": "B) Exclusive means an object belongs to only one cluster, non-exclusive allows multiple.",
+      "D": "A) Exclusive clusters allow overlap, non-exclusive do not."
+    },
+    "question_type": "single_select"
+  },
+  "10": {
+    "question": "Which of the following are important considerations when performing cluster analysis? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "B) The chosen similarity measure (distance-based vs. connectivity-based).",
+      "B": "C) The clustering space (full space vs. subspaces).",
+      "C": "D) The preferred programming language.",
+      "D": "A) Partitioning criteria (single-level vs. hierarchical)."
+    },
+    "question_type": "multiple_select"
+  },
+  "11": {
+    "question": "A major challenge in cluster analysis, especially with real-world data, is:",
+    "answer": "C",
+    "options": {
+      "A": "C) Manually labeling all data points before clustering.",
+      "B": "A) Ensuring the data is perfectly clean and noise-free.",
+      "C": "B) Discovering clusters with complex or arbitrary shapes.",
+      "D": "D) Limiting the analysis to only numerical attributes."
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "Which of the following are key requirements or challenges for effective clustering? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "A) Scalability to handle massive datasets.",
+      "B": "C) Interpretability of results.",
+      "C": "B) Ability to deal with only numerical data types.",
+      "D": "D) Handling high dimensionality."
+    },
+    "question_type": "multiple_select"
+  },
+  "13": {
+    "question": "Which of the following is NOT listed as a major clustering approach category?",
+    "answer": "B",
+    "options": {
+      "A": "C) Density-based methods.",
+      "B": "B) Regression-based methods.",
+      "C": "D) Hierarchical methods.",
+      "D": "A) Partitioning methods."
+    },
+    "question_type": "single_select"
+  },
+  "14": {
+    "question": "Select all categories of major clustering approaches mentioned in the document.",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "A) Grid-based methods.",
+      "B": "B) Model-based methods.",
+      "C": "D) Supervised classification.",
+      "D": "C) Link-based clustering."
+    },
+    "question_type": "multiple_select"
+  },
+  "15": {
+    "question": "What is a key characteristic of partitioning clustering methods like k-means and k-medoids?",
+    "answer": "B",
+    "options": {
+      "A": "A) They always produce a tree-like hierarchy of clusters.",
+      "B": "B) They require the number of clusters, 'k', to be specified beforehand.",
+      "C": "D) They are insensitive to noisy data and outliers.",
+      "D": "C) They are exclusively used for categorical data."
+    },
+    "question_type": "single_select"
+  },
+  "16": {
+    "question": "How does k-medoids (PAM) differ from k-means in representing clusters?",
+    "answer": "D",
+    "options": {
+      "A": "D) K-medoids is suitable for categorical data only, k-means for numerical.",
+      "B": "C) K-medoids is faster and more efficient for large datasets than k-means.",
+      "C": "A) K-medoids uses the mean, while k-means uses the median.",
+      "D": "B) K-medoids uses a real data object as the cluster center, while k-means uses the mean point."
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "In the k-means clustering algorithm, what happens in the \"Reassign Objects\" step?",
+    "answer": "B",
+    "options": {
+      "A": "A) Objects are randomly assigned to any cluster.",
+      "B": "B) Each object is assigned to the nearest centroid.",
+      "C": "D) Objects are removed if they are outliers.",
+      "D": "C) Centroids are re-calculated based on new assignments."
+    },
+    "question_type": "single_select"
+  },
+  "18": {
+    "question": "What are common weaknesses of the k-means clustering method? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "A) It is sensitive to noisy data and outliers.",
+      "B": "C) It requires choosing the number of clusters (k) in advance.",
+      "C": "D) It is typically very slow for large datasets.",
+      "D": "B) It can struggle with complex shape clusters."
+    },
+    "question_type": "multiple_select"
+  },
+  "19": {
+    "question": "How does hierarchical clustering fundamentally differ from partitioning methods regarding the number of clusters?",
+    "answer": "A",
+    "options": {
+      "A": "B) Hierarchical methods do not require a predefined 'k' but need a stopping condition.",
+      "B": "C) Partitioning methods produce a dendrogram, while hierarchical methods do not.",
+      "C": "A) Hierarchical methods always produce exactly 'k' clusters.",
+      "D": "D) Hierarchical methods are only used for very small datasets."
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "Which of the following statements about AGNES and DIANA are true? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "A) AGNES is an agglomerative (bottom-up) method.",
+      "B": "D) AGNES starts with one large cluster and splits it.",
+      "C": "B) DIANA is a divisive (top-down) method.",
+      "D": "C) Both were introduced by Kaufmann and Rousseeuw."
+    },
+    "question_type": "multiple_select"
+  },
+  "21": {
+    "question": "In hierarchical clustering, the \"Single link\" method measures the distance between two clusters as:",
+    "answer": "B",
+    "options": {
+      "A": "C) The largest distance between any two elements, one from each cluster.",
+      "B": "B) The smallest distance between any two elements, one from each cluster.",
+      "C": "A) The average distance between all pairs of elements from both clusters.",
+      "D": "D) The distance between the centroids of the two clusters."
+    },
+    "question_type": "single_select"
+  },
+  "22": {
+    "question": "Which of the following describe valid ways to measure distance between two clusters in hierarchical clustering? (Select all that apply)",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "D) Minimum cluster size.",
+      "B": "C) Centroid distance.",
+      "C": "A) Complete link.",
+      "D": "B) Average distance."
+    },
+    "question_type": "multiple_select"
+  },
+  "23": {
+    "question": "What is a significant advantage of density-based clustering methods?",
+    "answer": "A",
+    "options": {
+      "A": "C) They can discover clusters of arbitrary shapes.",
+      "B": "D) They are computationally inexpensive for very high-dimensional data.",
+      "C": "B) They require a predefined number of clusters (k).",
+      "D": "A) They always produce spherical clusters."
+    },
+    "question_type": "single_select"
+  },
+  "24": {
+    "question": "In density-based clustering (e.g., DBSCAN), what does \"MinPts\" refer to?",
+    "answer": "D",
+    "options": {
+      "A": "A) The minimum distance between two cluster centers.",
+      "B": "B) The minimum number of iterations for the algorithm to converge.",
+      "C": "D) The minimum number of clusters to be formed.",
+      "D": "C) The minimum points required in a neighborhood to form a dense region."
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "What is a primary advantage of grid-based clustering methods?",
+    "answer": "C",
+    "options": {
+      "A": "C) They guarantee the discovery of all possible clusters.",
+      "B": "D) They are exclusively used for categorical data.",
+      "C": "B) They are highly efficient for large datasets due to computations on cells.",
+      "D": "A) They eliminate the need for any input parameters."
+    },
+    "question_type": "single_select"
+  },
+  "26": {
+    "question": "Which of the following is true about CLIQUE clustering? (Select all that apply)",
+    "answer": [
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "D) It is an example of a hierarchical clustering method.",
+      "B": "A) It is considered only a density-based method.",
+      "C": "B) It finds clusters in high-dimensional data by identifying dense units in subspaces.",
+      "D": "C) It partitions each dimension into equal length intervals."
+    },
+    "question_type": "multiple_select"
+  },
+  "27": {
+    "question": "What does a Hopkins Statistic (H) value close to 0 indicate about a dataset?",
+    "answer": "A",
+    "options": {
+      "A": "B) The data has a strong clustering tendency.",
+      "B": "C) The data contains a high number of outliers.",
+      "C": "D) The optimal number of clusters is zero.",
+      "D": "A) The data is perfectly uniformly distributed."
+    },
+    "question_type": "single_select"
+  },
+  "28": {
+    "question": "If the Hopkins Statistic for a dataset is close to 0.5, what can be inferred about its spatial distribution?",
+    "answer": "C",
+    "options": {
+      "A": "D) It suggests a need for density-based clustering.",
+      "B": "C) It indicates the presence of a hierarchical structure.",
+      "C": "B) It is uniformly distributed and likely random.",
+      "D": "A) It is highly skewed and shows clear clusters."
+    },
+    "question_type": "single_select"
+  },
+  "29": {
+    "question": "Which method involves plotting the sum of squared distances against the number of clusters to find an \"elbow\" point?",
+    "answer": "A",
+    "options": {
+      "A": "C) Elbow method.",
+      "B": "B) Empirical method.",
+      "C": "A) Hopkins Statistic.",
+      "D": "D) Silhouette coefficient."
+    },
+    "question_type": "single_select"
+  },
+  "30": {
+    "question": "What does the cross-validation method for determining 'k' involve? (Select all that apply)",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "B) Training clustering models on a subset of data.",
+      "B": "C) Testing the model on a different subset of data.",
+      "C": "A) Splitting the dataset into multiple parts.",
+      "D": "D) Directly calculating 'k' from a predefined formula."
+    },
+    "question_type": "multiple_select"
+  },
+  "31": {
+    "question": "Which type of clustering quality measurement requires the \"ground truth\" or real labels for the data?",
+    "answer": "C",
+    "options": {
+      "A": "C) Unsupervised.",
+      "B": "A) Intrinsic.",
+      "C": "B) Extrinsic.",
+      "D": "D) Density-based."
+    },
+    "question_type": "single_select"
+  },
+  "32": {
+    "question": "The Silhouette coefficient is an example of an intrinsic measure of clustering quality. What does an intrinsic measure typically evaluate? (Select all that apply)",
+    "answer": [
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "D) The computational efficiency of the algorithm.",
+      "B": "C) How well the clusters are separated from each other.",
+      "C": "B) How compact the clusters are.",
+      "D": "A) How well the clusters match predefined labels."
+    },
+    "question_type": "multiple_select"
+  }
+}

@@ -124,6 +124,30 @@
         "file": "dm-chapter2.json"
     },
     {
+        "name": "Data Mining Chapter 3 - Data Preprocessing - Part 1",
+        "file": "dm-chapter3-p1.json"
+    },
+    {
+        "name": "Data Mining Chapter 3 - Data Preprocessing - Part 2",
+        "file": "dm-chapter3-p2.json"
+    },
+    {
+        "name": "Data Mining Chapter 4 - Data Warehousing and Online Analytical Processing",
+        "file": "dm-chapter4.json"
+    },
+    {
+        "name": "Data Mining Chapter 6 - Classification",
+        "file": "dm-chapter6.json"
+    },
+    {
+        "name": "Data Mining Chapter 7 - Clustering",
+        "file": "dm-chapter7.json"
+    },
+    {
+        "name": "Data Mining Chapter 8 - Outlier Analysis and Data Mining Trends",
+        "file": "dm-chapter8.json"
+    },
+    {
         "name": "Data Visualization Lecture 1 - Introduction",
         "file": "dv-lecture1.json"
     },

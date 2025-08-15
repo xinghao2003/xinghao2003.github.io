@@ -1,0 +1,375 @@
+{
+  "1": {
+    "question": "Which of the following is NOT explicitly mentioned as a key area of focus for the course learning outcome related to data mining?",
+    "answer": "A",
+    "options": {
+      "A": "Advanced machine learning model deployment",
+      "B": "Knowledge discovery techniques",
+      "C": "Data warehousing principles",
+      "D": "Data mining architectures"
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "Arrange the following steps in the correct order as presented in the data preparation process diagram:",
+    "answer": "C",
+    "options": {
+      "A": "Data Warehousing, Data Preprocessing, Getting to Know Your Data",
+      "B": "Data Preprocessing, Getting to Know Your Data, Data Warehousing",
+      "C": "Getting to Know Your Data, Data Preprocessing, Data Warehousing",
+      "D": "Getting to Know Your Data, Data Warehousing, Data Preprocessing"
+    },
+    "question_type": "single_select"
+  },
+  "3": {
+    "question": "Which of the following is listed as a major task within the 'Data Preprocessing: An Overview' section?",
+    "answer": "A",
+    "options": {
+      "A": "Data Quality",
+      "B": "Data Cleaning",
+      "C": "Data Transformation",
+      "D": "Data Reduction"
+    },
+    "question_type": "single_select"
+  },
+  "4": {
+    "question": "According to the learning objectives, which of these topics are covered in Chapter 3?",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "options": {
+      "A": "Data Reduction",
+      "B": "Data Cleaning",
+      "C": "Data Visualization",
+      "D": "Data Integration"
+    },
+    "question_type": "multiple_select"
+  },
+  "5": {
+    "question": "Recording a company's revenue as $1M instead of $10M due to an error primarily affects which data quality dimension?",
+    "answer": "D",
+    "options": {
+      "A": "Timeliness",
+      "B": "Consistency",
+      "C": "Completeness",
+      "D": "Accuracy"
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "Which data quality dimension is violated if a system expects MM/DD/YYYY and receives DD/MM/YYYY?",
+    "answer": "B",
+    "options": {
+      "A": "Timeliness",
+      "B": "Validity",
+      "C": "Uniqueness",
+      "D": "Completeness"
+    },
+    "question_type": "single_select"
+  },
+  "7": {
+    "question": "Which of the following are recognized as Data Quality Dimensions according to the document?",
+    "answer": [
+      "A",
+      "D"
+    ],
+    "options": {
+      "A": "Timeliness",
+      "B": "Scalability",
+      "C": "Efficiency",
+      "D": "Uniqueness"
+    },
+    "question_type": "multiple_select"
+  },
+  "8": {
+    "question": "Which of the following tasks is associated with Data Cleaning?",
+    "answer": "C",
+    "options": {
+      "A": "Normalization",
+      "B": "Dimensionality reduction",
+      "C": "Resolving inconsistencies",
+      "D": "Integration of multiple databases"
+    },
+    "question_type": "single_select"
+  },
+  "9": {
+    "question": "What are the sub-tasks involved in Data Reduction?",
+    "answer": [
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Normalization",
+      "B": "Concept hierarchy generation",
+      "C": "Numerosity reduction",
+      "D": "Data compression"
+    },
+    "question_type": "multiple_select"
+  },
+  "10": {
+    "question": "Which major data preprocessing task involves generating concept hierarchies?",
+    "answer": "C",
+    "options": {
+      "A": "Data Reduction",
+      "B": "Data Cleaning",
+      "C": "Data Transformation and Data Discretization",
+      "D": "Data Integration"
+    },
+    "question_type": "single_select"
+  },
+  "11": {
+    "question": "An example of 'Incomplete' data given in the document is:",
+    "answer": "A",
+    "options": {
+      "A": "Occupation = ' ' (missing data)",
+      "B": "Jan. 1 as everyone's birthday",
+      "C": "Age = '42', Birthday = '03/07/2010'",
+      "D": "Salary = '-10'"
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "Which types of dirty data are described in the document?",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Incomplete",
+      "B": "Structured",
+      "C": "Inconsistent",
+      "D": "Noisy"
+    },
+    "question_type": "multiple_select"
+  },
+  "13": {
+    "question": "What is the definition of 'Noise' in data, according to the document?",
+    "answer": "C",
+    "options": {
+      "A": "Systematic error in data collection",
+      "B": "Missing attribute values",
+      "C": "Random error or variance in a measured variable",
+      "D": "Discrepancies between duplicate records"
+    },
+    "question_type": "single_select"
+  },
+  "14": {
+    "question": "Which of the following can cause incorrect attribute values leading to noisy data?",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "Data transmission problems",
+      "B": "Inconsistency in naming convention",
+      "C": "Faulty data collection instruments",
+      "D": "Correct data entry"
+    },
+    "question_type": "multiple_select"
+  },
+  "15": {
+    "question": "Which method for handling noisy data involves smoothing by bin means or median?",
+    "answer": "C",
+    "options": {
+      "A": "Human Inspection",
+      "B": "Clustering",
+      "C": "Binning",
+      "D": "Regression"
+    },
+    "question_type": "single_select"
+  },
+  "16": {
+    "question": "How does 'Regression' help in handling noisy data?",
+    "answer": "D",
+    "options": {
+      "A": "It requires human input to identify outliers manually.",
+      "B": "It divides data into equal-frequency bins.",
+      "C": "It groups similar data points together.",
+      "D": "It fits data into functions and replaces noisy values with predictions."
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "Which of the following is a method used in 'Data discrepancy detection'?",
+    "answer": "A",
+    "options": {
+      "A": "Checking field overloading",
+      "B": "Dimensionality reduction",
+      "C": "Data reduction techniques",
+      "D": "Normalization"
+    },
+    "question_type": "single_select"
+  },
+  "18": {
+    "question": "What is the purpose of 'Data auditing' in data cleaning?",
+    "answer": "D",
+    "options": {
+      "A": "To use simple domain knowledge to detect errors.",
+      "B": "To smooth noisy data using regression models.",
+      "C": "To fill in missing values in a dataset.",
+      "D": "To analyze data to discover rules and relationships to detect violators."
+    },
+    "question_type": "single_select"
+  },
+  "19": {
+    "question": "ETL tools are primarily used for which aspect of the data cleaning process?",
+    "answer": "D",
+    "options": {
+      "A": "Data auditing",
+      "B": "Data discrepancy detection",
+      "C": "Data scrubbing",
+      "D": "Data migration and integration"
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "What is the primary goal of 'Schema integration' in data integration?",
+    "answer": "D",
+    "options": {
+      "A": "To detect and remove noisy data.",
+      "B": "To convert data into a standardized format.",
+      "C": "To identify real-world entities.",
+      "D": "To align data structures from different sources for effective combination."
+    },
+    "question_type": "single_select"
+  },
+  "21": {
+    "question": "Which problem in data integration involves recognizing that 'Bill Clinton' and 'William Clinton' refer to the same person?",
+    "answer": "D",
+    "options": {
+      "A": "Data value conflict",
+      "B": "Schema integration problem",
+      "C": "Data redundancy issue",
+      "D": "Entity identification problem"
+    },
+    "question_type": "single_select"
+  },
+  "22": {
+    "question": "What is 'Derivable data' in the context of data redundancy during integration?",
+    "answer": "A",
+    "options": {
+      "A": "An attribute in one table that can be computed or 'derived' from an attribute in another table.",
+      "B": "Data that has been transformed into a new format.",
+      "C": "Data that can be deleted without loss of information.",
+      "D": "Data that is missing from one of the integrated sources."
+    },
+    "question_type": "single_select"
+  },
+  "23": {
+    "question": "Which analysis techniques are mentioned for detecting redundant attributes during data integration?",
+    "answer": [
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Clustering analysis",
+      "B": "Regression analysis",
+      "C": "Correlation analysis",
+      "D": "Covariance analysis"
+    },
+    "question_type": "multiple_select"
+  },
+  "24": {
+    "question": "In the Chi-square (X²) test for nominal data, what does a larger X² value indicate?",
+    "answer": "B",
+    "options": {
+      "A": "The variables are more likely to be independent.",
+      "B": "The variables are more likely to be related.",
+      "C": "The data is highly consistent.",
+      "D": "The variables are less likely to be related."
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "What is a crucial caution given about correlation in the document?",
+    "answer": "B",
+    "options": {
+      "A": "Correlation is always positive.",
+      "B": "Correlation does not imply causality.",
+      "C": "Correlation can only be applied to numeric data.",
+      "D": "Correlation always implies causation."
+    },
+    "question_type": "single_select"
+  },
+  "26": {
+    "question": "What is another name for the 'Correlation coefficient' used for numeric data?",
+    "answer": "D",
+    "options": {
+      "A": "Standard deviation",
+      "B": "Covariance",
+      "C": "Chi-square test",
+      "D": "Pearson's product moment coefficient"
+    },
+    "question_type": "single_select"
+  },
+  "27": {
+    "question": "If the Pearson correlation coefficient (r_AB) between two numeric variables A and B is 0, what does it imply?",
+    "answer": "D",
+    "options": {
+      "A": "They have a perfect linear relationship.",
+      "B": "They are positively correlated.",
+      "C": "They are negatively correlated.",
+      "D": "They are independent."
+    },
+    "question_type": "single_select"
+  },
+  "28": {
+    "question": "What does a Pearson correlation coefficient (r_AB) greater than 0 indicate?",
+    "answer": "A",
+    "options": {
+      "A": "Positive correlation",
+      "B": "Negative correlation",
+      "C": "Independence",
+      "D": "Perfect inverse relationship"
+    },
+    "question_type": "single_select"
+  },
+  "29": {
+    "question": "What is the primary purpose of standardizing data using the z-score formula before computing correlation?",
+    "answer": "C",
+    "options": {
+      "A": "To transform nominal data into numeric data.",
+      "B": "To remove outliers from the data.",
+      "C": "To ensure both datasets have a mean of 0 and a standard deviation of 1 for fair comparison.",
+      "D": "To reduce the number of data points."
+    },
+    "question_type": "single_select"
+  },
+  "30": {
+    "question": "In the z-score formula, what does 'μ' represent?",
+    "answer": "A",
+    "options": {
+      "A": "Mean of the data",
+      "B": "Data point",
+      "C": "Number of data points",
+      "D": "Standard deviation of the data"
+    },
+    "question_type": "single_select"
+  },
+  "31": {
+    "question": "If the covariance between two numeric variables A and B is positive (Cov(A,B) > 0), what does it indicate?",
+    "answer": "C",
+    "options": {
+      "A": "A and B are independent.",
+      "B": "There is no linear relationship between A and B.",
+      "C": "A and B tend to be larger than their expected values together.",
+      "D": "If A is larger than its expected value, B is likely smaller."
+    },
+    "question_type": "single_select"
+  },
+  "32": {
+    "question": "Under what condition does a covariance of 0 imply independence between variables?",
+    "answer": "D",
+    "options": {
+      "A": "Never; covariance and independence are unrelated.",
+      "B": "Only if the data follows a linear distribution.",
+      "C": "Always, by definition.",
+      "D": "Only if the data follows multivariate normal distributions."
+    },
+    "question_type": "single_select"
+  }
+}

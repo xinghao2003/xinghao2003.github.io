@@ -1,0 +1,502 @@
+{
+  "1": {
+    "question": "Which of the following best describes supervised learning in the context of classification?",
+    "answer": "B",
+    "options": {
+      "A": "It discovers hidden patterns and forms groups within data.",
+      "B": "It involves predicting categorical labels based on labeled training data.",
+      "C": "It aims to estimate missing or future continuous numerical values.",
+      "D": "It trains a model using data without predefined labels."
+    },
+    "question_type": "single_select"
+  },
+  "2": {
+    "question": "What are key characteristics of supervised learning (classification)? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Training data comes with predefined labels.",
+      "B": "It is primarily used for discovering clusters.",
+      "C": "The model learns from these labeled examples.",
+      "D": "It predicts the correct label for new, unseen data."
+    },
+    "question_type": "multiple_select"
+  },
+  "3": {
+    "question": "What is the primary characteristic of training data used in unsupervised learning?",
+    "answer": "C",
+    "options": {
+      "A": "It has predefined labels for categories.",
+      "B": "It consists only of numerical values.",
+      "C": "It does not have predefined labels.",
+      "D": "It always includes a target label."
+    },
+    "question_type": "single_select"
+  },
+  "4": {
+    "question": "Which of the following is a common goal of unsupervised learning?",
+    "answer": "D",
+    "options": {
+      "A": "To improve the accuracy of a spam filter.",
+      "B": "To classify new data into predefined categories.",
+      "C": "To predict a continuous numerical value.",
+      "D": "To discover hidden patterns and form groups within the data."
+    },
+    "question_type": "single_select"
+  },
+  "5": {
+    "question": "Which type of prediction problem involves predicting categorical class labels?",
+    "answer": "A",
+    "options": {
+      "A": "Classification",
+      "B": "Numeric Prediction",
+      "C": "Clustering",
+      "D": "Regression"
+    },
+    "question_type": "single_select"
+  },
+  "6": {
+    "question": "A model designed to predict the exact selling price of a house based on its features (location, size, amenities) is performing what type of prediction?",
+    "answer": "C",
+    "options": {
+      "A": "Clustering",
+      "B": "Classification",
+      "C": "Numeric Prediction",
+      "D": "Categorical labeling"
+    },
+    "question_type": "single_select"
+  },
+  "7": {
+    "question": "What are the two main phases of the classification process?",
+    "answer": "A",
+    "options": {
+      "A": "Model construction and model usage.",
+      "B": "Algorithm design and parameter tuning.",
+      "C": "Feature selection and data visualization.",
+      "D": "Data collection and data cleaning."
+    },
+    "question_type": "single_select"
+  },
+  "8": {
+    "question": "During the model construction phase of classification, what is primarily used to build the model?",
+    "answer": "C",
+    "options": {
+      "A": "New, unseen data.",
+      "B": "A test set for accuracy evaluation.",
+      "C": "A labeled training dataset.",
+      "D": "Unlabeled data."
+    },
+    "question_type": "single_select"
+  },
+  "9": {
+    "question": "How is a decision tree typically constructed?",
+    "answer": "D",
+    "options": {
+      "A": "Bottom-up, merging leaves into branches.",
+      "B": "Iteratively, optimizing a global cost function.",
+      "C": "Randomly, without a specific algorithm.",
+      "D": "Top-down, recursively dividing and conquering."
+    },
+    "question_type": "single_select"
+  },
+  "10": {
+    "question": "Which of the following terms describes the approach used to build a decision tree?",
+    "answer": "D",
+    "options": {
+      "A": "Supervised clustering",
+      "B": "Global optimization",
+      "C": "Non-greedy",
+      "D": "Greedy algorithm"
+    },
+    "question_type": "single_select"
+  },
+  "11": {
+    "question": "What does Entropy measure in a decision tree context?",
+    "answer": "D",
+    "options": {
+      "A": "The accuracy of the model.",
+      "B": "The speed of model construction.",
+      "C": "The complexity of the tree structure.",
+      "D": "The impurity, disorder, or uncertainty in a dataset."
+    },
+    "question_type": "single_select"
+  },
+  "12": {
+    "question": "What is the entropy value for a dataset that is completely 'pure' (i.e., all data points belong to the same class)?",
+    "answer": "B",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "0.5",
+      "D": "Depends on the number of classes"
+    },
+    "question_type": "single_select"
+  },
+  "13": {
+    "question": "Which attribute selection measure is used in ID3 and C4.5 algorithms to determine the best split?",
+    "answer": "D",
+    "options": {
+      "A": "Chi-squared statistic",
+      "B": "Gini Index",
+      "C": "Variance Reduction",
+      "D": "Information Gain"
+    },
+    "question_type": "single_select"
+  },
+  "14": {
+    "question": "How is Information Gain calculated for an attribute A, given dataset D?",
+    "answer": "B",
+    "options": {
+      "A": "Gain(A) = Info(D) + Info_A(D)",
+      "B": "Gain(A) = Info(D) - Info_A(D)",
+      "C": "Gain(A) = Info(D) * Info_A(D)",
+      "D": "Gain(A) = Info_A(D) - Info(D)"
+    },
+    "question_type": "single_select"
+  },
+  "15": {
+    "question": "What is the first step in the ID3 algorithm for building a decision tree?",
+    "answer": "C",
+    "options": {
+      "A": "Choose the attribute with the highest information gain.",
+      "B": "Begin recursive partitioning of data.",
+      "C": "Calculate the entropy of the entire dataset.",
+      "D": "Check for stopping conditions."
+    },
+    "question_type": "single_select"
+  },
+  "16": {
+    "question": "Which criterion does the ID3 algorithm use to select the decision node at each step?",
+    "answer": "A",
+    "options": {
+      "A": "The attribute with the highest information gain.",
+      "B": "The attribute with the lowest entropy.",
+      "C": "The attribute with the highest correlation to other attributes.",
+      "D": "The attribute with the most distinct values."
+    },
+    "question_type": "single_select"
+  },
+  "17": {
+    "question": "What is a common consequence of overfitting in decision trees?",
+    "answer": "C",
+    "options": {
+      "A": "Increased accuracy on unseen samples.",
+      "B": "Faster training time.",
+      "C": "Poor accuracy for unseen samples.",
+      "D": "A simpler, more interpretable tree."
+    },
+    "question_type": "single_select"
+  },
+  "18": {
+    "question": "Which pruning approach involves stopping tree construction early?",
+    "answer": "A",
+    "options": {
+      "A": "Pre-pruning",
+      "B": "Post-pruning",
+      "C": "Validation pruning",
+      "D": "Bootstrap pruning"
+    },
+    "question_type": "single_select"
+  },
+  "19": {
+    "question": "Which of the following is an advantage of decision tree induction?",
+    "answer": "D",
+    "options": {
+      "A": "It produces complex models that are hard to interpret.",
+      "B": "It cannot use SQL queries for data access.",
+      "C": "It is computationally intensive and slow.",
+      "D": "It offers relatively faster learning speed."
+    },
+    "question_type": "single_select"
+  },
+  "20": {
+    "question": "Why is decision tree induction considered popular for large databases? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "They can utilize SQL queries for accessing databases.",
+      "B": "They always outperform all other classification methods in accuracy.",
+      "C": "They have relatively faster learning speed.",
+      "D": "They are easily convertible to simple classification rules."
+    },
+    "question_type": "multiple_select"
+  },
+  "21": {
+    "question": "What is the foundational principle behind Bayesian classification methods?",
+    "answer": "D",
+    "options": {
+      "A": "Support Vector Machines",
+      "B": "Gradient Descent",
+      "C": "Decision Tree Induction",
+      "D": "Bayes' Theorem"
+    },
+    "question_type": "single_select"
+  },
+  "22": {
+    "question": "Which characteristic describes Bayesian classification methods regarding new training examples?",
+    "answer": "B",
+    "options": {
+      "A": "They are non-incremental, requiring fixed datasets.",
+      "B": "They incrementally adjust hypothesis probabilities.",
+      "C": "They only learn from prior knowledge, not observed data.",
+      "D": "They require complete retraining with new data."
+    },
+    "question_type": "single_select"
+  },
+  "23": {
+    "question": "In Bayes' Theorem, what does P(H|X) represent?",
+    "answer": "C",
+    "options": {
+      "A": "Prior probability of the hypothesis.",
+      "B": "Probability of the evidence.",
+      "C": "Posteriori probability of the hypothesis given the evidence.",
+      "D": "Likelihood of the evidence given the hypothesis."
+    },
+    "question_type": "single_select"
+  },
+  "24": {
+    "question": "What is a practical difficulty in applying Bayes' Theorem for prediction?",
+    "answer": "A",
+    "options": {
+      "A": "It requires initial knowledge of many probabilities, leading to computational cost.",
+      "B": "It only works with continuous attributes.",
+      "C": "It requires very small datasets.",
+      "D": "It is unable to handle categorical data."
+    },
+    "question_type": "single_select"
+  },
+  "25": {
+    "question": "What is the key simplifying assumption made by the Naïve Bayes classifier?",
+    "answer": "D",
+    "options": {
+      "A": "Attributes are dependent on each other given the class label.",
+      "B": "All attributes have a Gaussian distribution.",
+      "C": "The model requires complex relational dependencies.",
+      "D": "Attributes are conditionally independent given the class label."
+    },
+    "question_type": "single_select"
+  },
+  "26": {
+    "question": "How does the Naïve Bayes classifier typically compute the probability P(xk|Ci) for a continuous-valued attribute Ak?",
+    "answer": "D",
+    "options": {
+      "A": "By taking the average of xk values.",
+      "B": "By discretizing xk into bins.",
+      "C": "By counting the frequency of xk in class Ci.",
+      "D": "By assuming a Gaussian distribution."
+    },
+    "question_type": "single_select"
+  },
+  "27": {
+    "question": "In an IF-THEN rule for classification, what does the 'THEN' part represent?",
+    "answer": "D",
+    "options": {
+      "A": "The rule's coverage.",
+      "B": "The rule's accuracy.",
+      "C": "The attribute conditions.",
+      "D": "The class prediction."
+    },
+    "question_type": "single_select"
+  },
+  "28": {
+    "question": "Which of the following are methods for conflict resolution when multiple IF-THEN rules are triggered? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Class-based ordering.",
+      "B": "Random selection.",
+      "C": "Rule-based ordering (decision list).",
+      "D": "Size ordering."
+    },
+    "question_type": "multiple_select"
+  },
+  "29": {
+    "question": "How many IF-THEN rules are typically created from a decision tree?",
+    "answer": "D",
+    "options": {
+      "A": "A fixed number, regardless of tree size.",
+      "B": "One for each node in the tree.",
+      "C": "Only one rule for the entire tree.",
+      "D": "One for each path from the root to a leaf node."
+    },
+    "question_type": "single_select"
+  },
+  "30": {
+    "question": "What does each attribute-value pair along a path in a decision tree form in the extracted rule?",
+    "answer": "D",
+    "options": {
+      "A": "A disjunction in the 'IF' part.",
+      "B": "A separate, independent rule.",
+      "C": "The 'THEN' part of the rule.",
+      "D": "A conjunction in the 'IF' part."
+    },
+    "question_type": "single_select"
+  },
+  "31": {
+    "question": "Which of the following is NOT a common metric for evaluating classification models?",
+    "answer": "C",
+    "options": {
+      "A": "Precision",
+      "B": "Recall",
+      "C": "Data Volume",
+      "D": "Accuracy"
+    },
+    "question_type": "single_select"
+  },
+  "32": {
+    "question": "What is the primary purpose of a confusion matrix in model evaluation?",
+    "answer": "C",
+    "options": {
+      "A": "To store raw training data.",
+      "B": "To visualize the decision tree structure.",
+      "C": "To tabulate actual vs. predicted class labels for metric calculation.",
+      "D": "To generate new features for the model."
+    },
+    "question_type": "single_select"
+  },
+  "33": {
+    "question": "In a confusion matrix, what do True Positives (TP) represent?",
+    "answer": "B",
+    "options": {
+      "A": "Instances that were actually negative and predicted negative.",
+      "B": "Instances that were actually positive and predicted positive.",
+      "C": "Instances that were actually positive but predicted negative.",
+      "D": "Instances that were actually negative but predicted positive."
+    },
+    "question_type": "single_select"
+  },
+  "34": {
+    "question": "Which of the following values are typically found in a confusion matrix for binary classification? (Select all that apply)",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "True Positives (TP)",
+      "B": "Model Training Time",
+      "C": "True Negatives (TN)",
+      "D": "False Negatives (FN)"
+    },
+    "question_type": "multiple_select"
+  },
+  "35": {
+    "question": "How is classifier accuracy calculated?",
+    "answer": "B",
+    "options": {
+      "A": "(FP + FN) / All",
+      "B": "(TP + TN) / All",
+      "C": "TP / (TP + FN)",
+      "D": "(TP + FP) / All"
+    },
+    "question_type": "single_select"
+  },
+  "36": {
+    "question": "Which metric measures the classifier's ability to correctly classify positive instances?",
+    "answer": "D",
+    "options": {
+      "A": "Specificity",
+      "B": "Error Rate",
+      "C": "Accuracy",
+      "D": "Sensitivity"
+    },
+    "question_type": "single_select"
+  },
+  "37": {
+    "question": "Which metric measures the 'exactness' of positive predictions?",
+    "answer": "B",
+    "options": {
+      "A": "Specificity",
+      "B": "Precision",
+      "C": "Accuracy",
+      "D": "Recall"
+    },
+    "question_type": "single_select"
+  },
+  "38": {
+    "question": "What is the F-measure (or F-score)?",
+    "answer": "D",
+    "options": {
+      "A": "The sum of precision and recall.",
+      "B": "The arithmetic mean of precision and recall.",
+      "C": "The difference between precision and recall.",
+      "D": "The harmonic mean of precision and recall."
+    },
+    "question_type": "single_select"
+  },
+  "39": {
+    "question": "In the holdout method for accuracy estimation, how is the data typically partitioned?",
+    "answer": "A",
+    "options": {
+      "A": "Into a training set (e.g., 2/3) and a test set (e.g., 1/3).",
+      "B": "Into two dependent sets.",
+      "C": "Into an arbitrary number of folds.",
+      "D": "Into three equally sized sets."
+    },
+    "question_type": "single_select"
+  },
+  "40": {
+    "question": "What is a characteristic of 'stratified cross-validation'?",
+    "answer": "C",
+    "options": {
+      "A": "It ensures that each fold has a different class distribution.",
+      "B": "It randomly assigns all data to a single training set.",
+      "C": "It partitions data such that class distribution in each fold is approximately the same as in the initial data.",
+      "D": "It only uses numerical data for partitioning."
+    },
+    "question_type": "single_select"
+  },
+  "41": {
+    "question": "What do ROC curves visually represent a trade-off between?",
+    "answer": "C",
+    "options": {
+      "A": "Training time and prediction time.",
+      "B": "Precision and Recall.",
+      "C": "True Positive Rate and False Positive Rate.",
+      "D": "Model complexity and interpretability."
+    },
+    "question_type": "single_select"
+  },
+  "42": {
+    "question": "What does an Area Under the Curve (AUC) of 1.0 signify for a classification model on an ROC curve?",
+    "answer": "D",
+    "options": {
+      "A": "The model is performing at random chance.",
+      "B": "The model has a very high False Positive Rate.",
+      "C": "The model is severely overfitting.",
+      "D": "The model has perfect accuracy."
+    },
+    "question_type": "single_select"
+  },
+  "43": {
+    "question": "Which of the following is NOT an issue typically considered when selecting a classification model?",
+    "answer": "D",
+    "options": {
+      "A": "Robustness",
+      "B": "Interpretability",
+      "C": "Scalability",
+      "D": "Aesthetic appeal"
+    },
+    "question_type": "single_select"
+  },
+  "44": {
+    "question": "What does 'robustness' refer to in the context of model selection?",
+    "answer": "A",
+    "options": {
+      "A": "The model's ability to perform well despite errors, noise, or missing data.",
+      "B": "The model's training speed.",
+      "C": "The model's simplicity in rules.",
+      "D": "The model's physical size."
+    },
+    "question_type": "single_select"
+  }
+}

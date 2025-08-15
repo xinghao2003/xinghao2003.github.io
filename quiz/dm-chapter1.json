@@ -1,382 +1,615 @@
 {
   "1": {
-    "question": "Which of the following best describes the 'new mantra' regarding data in the context of data mining?",
+    "question": "What is the primary reason cited for the 'enormous data growth' in commercial and scientific databases?",
     "answer": "C",
     "options": {
-      "A": "Collect only data relevant to a pre-defined purpose.",
-      "B": "Limit data collection to scientific databases only.",
-      "C": "Gather data whenever and wherever possible, regardless of immediate use.",
-      "D": "Prioritize data collection for commercial use over scientific use."
-    }
+      "A": "Improved data storage capacities",
+      "B": "Global reduction in data collection costs",
+      "C": "Advances in data generation and collection technologies",
+      "D": "Increased computational power of modern computers"
+    },
+    "question_type": "single_select"
   },
   "2": {
-    "question": "The growth of data in commercial and scientific databases is primarily attributed to:",
+    "question": "According to the document, where is large-scale data found?",
     "answer": "A",
     "options": {
-      "A": "Advances in data generation and collection technologies.",
-      "B": "Development of new data mining algorithms.",
-      "C": "Increased number of data analysts.",
-      "D": "Decreased storage costs."
-    }
+      "A": "Everywhere, in both commercial and scientific databases",
+      "B": "Primarily in government archives",
+      "C": "Only in scientific research databases",
+      "D": "Only in commercial transactions"
+    },
+    "question_type": "single_select"
   },
   "3": {
-    "question": "According to the commercial viewpoint, which of the following is NOT a reason for the importance of data mining?",
-    "answer": "C",
+    "question": "Which of the following best describes the 'new mantra' regarding data collection?",
+    "answer": "B",
     "options": {
-      "A": "Computers becoming cheaper and more powerful.",
-      "B": "Lots of data being collected and warehoused.",
-      "C": "Decreased need for customized services.",
-      "D": "Strong competitive pressure."
-    }
+      "A": "Gather data sparingly to avoid storage issues.",
+      "B": "Gather whatever data you can whenever and wherever possible.",
+      "C": "Collect only data with clearly defined immediate value.",
+      "D": "Focus only on structured data for efficient processing."
+    },
+    "question_type": "single_select"
   },
   "4": {
-    "question": "What is a key benefit of data mining for businesses facing strong competitive pressure?",
-    "answer": "D",
+    "question": "What is the expectation for gathered data, according to the document?",
+    "answer": "B",
     "options": {
-      "A": "Limiting customer relationship management.",
-      "B": "Increasing the cost of computing resources.",
-      "C": "Reducing the amount of data collected.",
-      "D": "Providing better, customized services for an edge."
-    }
+      "A": "It will only be valuable for purposes not initially envisioned.",
+      "B": "It will have value for its collected purpose or for a purpose not envisioned.",
+      "C": "It will only be valuable for the purpose it was originally collected.",
+      "D": "It will primarily serve as a historical archive."
+    },
+    "question_type": "single_select"
   },
   "5": {
-    "question": "Which of the following is an example of data sources mentioned for the scientific viewpoint of data mining?",
-    "answer": "D",
+    "question": "According to the commercial viewpoint, why is data mining important? Select all that apply.",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
     "options": {
-      "A": "Customer purchase records.",
-      "B": "Social media engagement metrics.",
-      "C": "Employee attendance logs.",
-      "D": "Remote sensors on a satellite."
-    }
+      "A": "Competitive pressure demands better, customized services.",
+      "B": "It eliminates the need for human analysts.",
+      "C": "Computers have become cheaper and more powerful.",
+      "D": "Lots of data is being collected and warehoused."
+    },
+    "question_type": "multiple_select"
   },
   "6": {
-    "question": "How does data mining primarily assist scientists?",
-    "answer": "A",
+    "question": "Which of the following is an example of data being collected and warehoused, as mentioned in the document?",
+    "answer": "D",
     "options": {
-      "A": "In automated analysis of massive datasets and hypothesis formation.",
-      "B": "By reducing the need for data collection.",
-      "C": "By replacing traditional scientific experiments.",
-      "D": "By focusing only on small, manageable datasets."
-    }
+      "A": "Oral history accounts",
+      "B": "Hand-written letters",
+      "C": "Personal diary entries",
+      "D": "Bank/Credit Card transactions"
+    },
+    "question_type": "single_select"
   },
   "7": {
-    "question": "By what percentage is the volume of data projected to grow per year?",
-    "answer": "D",
+    "question": "How does data mining specifically assist scientists, as described in the document? Select all that apply.",
+    "answer": [
+      "A",
+      "C"
+    ],
     "options": {
-      "A": "30%",
-      "B": "20%",
-      "C": "10%",
-      "D": "40%"
-    }
+      "A": "By aiding in hypothesis formation.",
+      "B": "By replacing the need for scientific experiments.",
+      "C": "By automating the analysis of massive datasets.",
+      "D": "By reducing the overall volume of collected data."
+    },
+    "question_type": "multiple_select"
   },
   "8": {
-    "question": "Which of the following societal problems is NOT explicitly mentioned as being addressed by data mining?",
-    "answer": "B",
+    "question": "Which of these is an example of data sources for scientists mentioned in the document?",
+    "answer": "C",
     "options": {
-      "A": "Improving healthcare.",
-      "B": "Resolving international conflicts.",
-      "C": "Predicting climate change impacts.",
-      "D": "Reducing poverty."
-    }
+      "A": "Customer purchase records",
+      "B": "Social media trends",
+      "C": "Remote sensors on a satellite",
+      "D": "Local library archives"
+    },
+    "question_type": "single_select"
   },
   "9": {
-    "question": "Which characteristic is NOT typically associated with 'interesting' patterns extracted in data mining?",
-    "answer": "A",
+    "question": "What is the projected volume of data by 2025, as mentioned in the document?",
+    "answer": "D",
     "options": {
-      "A": "Explicitly stated",
-      "B": "Non-trivial",
-      "C": "Potentially useful",
-      "D": "Previously unknown"
-    }
+      "A": "180 exabytes",
+      "B": "180 petabytes",
+      "C": "180 terabytes",
+      "D": "180 zettabytes"
+    },
+    "question_type": "single_select"
   },
   "10": {
-    "question": "Which of the following is considered an alternative name for data mining?",
-    "answer": "A",
+    "question": "How can extracting knowledge from raw data help solve society's major problems? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "options": {
-      "A": "Knowledge discovery in databases (KDD)",
-      "B": "Deductive expert systems",
-      "C": "Simple search processing",
-      "D": "Data warehousing"
-    }
+      "A": "Reducing poverty by increasing agriculture production.",
+      "B": "Predicting the impact of climate change.",
+      "C": "Eliminating the need for traditional education.",
+      "D": "Improving health care and reducing costs."
+    },
+    "question_type": "multiple_select"
   },
   "11": {
-    "question": "What is the primary goal of data mining?",
-    "answer": "B",
+    "question": "Which of the following characteristics describe 'interesting' patterns in data mining? Select all that apply.",
+    "answer": [
+      "B",
+      "D"
+    ],
     "options": {
-      "A": "To simply store large amounts of data.",
-      "B": "To extract useful patterns, insights, or knowledge.",
-      "C": "To develop deductive expert systems.",
-      "D": "To perform basic data searches and queries."
-    }
+      "A": "Explicit",
+      "B": "Non-trivial",
+      "C": "Potentially useless",
+      "D": "Previously unknown"
+    },
+    "question_type": "multiple_select"
   },
   "12": {
-    "question": "Which step immediately precedes 'Data Mining' in the typical KDD process (from a database/data warehousing view)?",
-    "answer": "B",
+    "question": "What is the core activity of data mining?",
+    "answer": "D",
     "options": {
-      "A": "Knowledge Understanding",
-      "B": "Transformation of Target Data",
-      "C": "Interpretation & Evaluation",
-      "D": "Integration"
-    }
+      "A": "Storing data in databases",
+      "B": "Deleting redundant data",
+      "C": "Collecting raw data",
+      "D": "Extracting useful patterns, insights, or knowledge"
+    },
+    "question_type": "single_select"
   },
   "13": {
-    "question": "Which of the following is NOT a phase in the Knowledge Discovery (KDD) process?",
-    "answer": "C",
+    "question": "Which of the following is NOT typically considered 'data mining' according to the document?",
+    "answer": "A",
     "options": {
-      "A": "Data Cleaning",
-      "B": "Data Mining",
-      "C": "Knowledge Invention",
-      "D": "Pattern Evaluation"
-    }
+      "A": "Simple search and query processing",
+      "B": "Information harvesting",
+      "C": "Knowledge discovery in databases",
+      "D": "Data/pattern analysis"
+    },
+    "question_type": "single_select"
   },
   "14": {
-    "question": "In the business intelligence hierarchy, which stage comes directly after 'Data Preprocessing/Integration, Data Warehouses'?",
-    "answer": "B",
+    "question": "Which of the following are alternative names for data mining? Select all that apply.",
+    "answer": [
+      "A",
+      "C"
+    ],
     "options": {
-      "A": "Data Presentation",
-      "B": "Data Exploration",
-      "C": "Decision Making",
-      "D": "Data Mining"
-    }
+      "A": "Business intelligence",
+      "B": "Data shredding",
+      "C": "Data archeology",
+      "D": "Data archiving"
+    },
+    "question_type": "multiple_select"
   },
   "15": {
-    "question": "Which role is typically associated with the 'Data Sources' level in the business intelligence hierarchy?",
-    "answer": "D",
+    "question": "In the Knowledge Discovery (KDD) process from a database viewpoint, which step immediately precedes 'Data Mining'?",
+    "answer": "A",
     "options": {
-      "A": "Business Analyst",
-      "B": "Data Analyst",
-      "C": "End User",
-      "D": "DBA"
-    }
+      "A": "Transformation",
+      "B": "Integration",
+      "C": "Selection & Cleaning",
+      "D": "Interpretation & Evaluation"
+    },
+    "question_type": "single_select"
   },
   "16": {
-    "question": "Which of the following is NOT one of the four key aspects of the multi-dimensional perspective of data mining?",
-    "answer": "C",
+    "question": "What role does data mining play in the KDD process?",
+    "answer": "A",
     "options": {
-      "A": "Data to be mined",
-      "B": "Techniques to be utilized",
-      "C": "Hardware to be purchased",
-      "D": "Knowledge to be mined"
-    }
+      "A": "It is an essential role in the knowledge discovery process.",
+      "B": "It is a minor, optional step.",
+      "C": "It is the final step in the process.",
+      "D": "It only involves data storage."
+    },
+    "question_type": "single_select"
   },
   "17": {
-    "question": "Which of the following is a data mining function used to identify data objects that do not comply with the general behavior of the data?",
-    "answer": "D",
+    "question": "Which step comes immediately after 'Data mining' in the Web Mining Framework?",
+    "answer": "A",
     "options": {
-      "A": "Association",
-      "B": "Characterization",
-      "C": "Classification",
-      "D": "Outlier analysis"
-    }
+      "A": "Presentation of the mining results",
+      "B": "Data cleaning",
+      "C": "Data integration",
+      "D": "Data selection"
+    },
+    "question_type": "single_select"
   },
   "18": {
-    "question": "What is the difference between descriptive and predictive data mining?",
-    "answer": "B",
+    "question": "According to the Web Mining Framework, what can be constructed after warehousing the data?",
+    "answer": "A",
     "options": {
-      "A": "Descriptive is faster than predictive.",
-      "B": "Descriptive summarizes past data, while predictive forecasts future outcomes.",
-      "C": "Descriptive uses only numerical data, while predictive uses text data.",
-      "D": "Descriptive requires supervision, while predictive is unsupervised."
-    }
+      "A": "Data cube",
+      "B": "Knowledge-base",
+      "C": "Source data",
+      "D": "Raw data"
+    },
+    "question_type": "single_select"
   },
   "19": {
-    "question": "Which of the following is an example of an 'Advanced data set' suitable for data mining?",
-    "answer": "B",
+    "question": "Which level in the Business Intelligence hierarchy is responsible for 'Information Discovery'?",
+    "answer": "C",
     "options": {
-      "A": "Transactional database",
-      "B": "Data streams and sensor data",
-      "C": "Data warehouse",
-      "D": "Relational database"
-    }
+      "A": "Data Exploration",
+      "B": "Data Presentation",
+      "C": "Data Mining",
+      "D": "Decision Making"
+    },
+    "question_type": "single_select"
   },
   "20": {
-    "question": "Which type of data is NOT mentioned as being suitable for data mining?",
-    "answer": "B",
+    "question": "In the Business Intelligence pyramid, who is typically associated with the 'Data Preprocessing/Integration, Data Warehouses' level?",
+    "answer": "D",
     "options": {
-      "A": "Multimedia database",
-      "B": "Manual paper records",
-      "C": "Social networks",
-      "D": "Object-relational databases"
-    }
+      "A": "End User",
+      "B": "Business Analyst",
+      "C": "Data Analyst",
+      "D": "DBA"
+    },
+    "question_type": "single_select"
   },
   "21": {
-    "question": "Which data mining function involves summarizing and contrasting data characteristics?",
-    "answer": "B",
+    "question": "Which of the following tasks are part of 'Data Pre-Processing' in the ML and Statistics view of KDD? Select all that apply.",
+    "answer": [
+      "C",
+      "D"
+    ],
     "options": {
-      "A": "Outlier analysis",
-      "B": "Generalization",
-      "C": "Classification",
-      "D": "Association analysis"
-    }
+      "A": "Pattern evaluation",
+      "B": "Classification",
+      "C": "Dimension reduction",
+      "D": "Feature selection"
+    },
+    "question_type": "multiple_select"
   },
   "22": {
-    "question": "What technology is utilized in generalization to compute multidimensional aggregates?",
-    "answer": "D",
+    "question": "What activities are associated with 'Data Mining' in the KDD process from an ML and Statistics viewpoint?",
+    "answer": "B",
     "options": {
-      "A": "SQL queries",
-      "B": "OLTP (Online Transaction Processing)",
-      "C": "Decision trees",
-      "D": "Data cube technology (OLAP)"
-    }
+      "A": "Input data collection",
+      "B": "Association & correlation, classification, clustering",
+      "C": "Data integration and normalization",
+      "D": "Pattern evaluation and visualization"
+    },
+    "question_type": "single_select"
   },
   "23": {
-    "question": "What do 'support' and 'confidence' typically measure in an association rule like 'Diaper -> Beer [0.5%, 75%]'?",
-    "answer": "D",
+    "question": "Which of the following are types of data suitable for mining, as listed in the multi-dimensional perspective? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "options": {
-      "A": "The number of transactions and the average purchase value.",
-      "B": "The computational cost and memory usage.",
-      "C": "The accuracy and precision of the rule.",
-      "D": "The frequency of the itemset and the reliability of the rule."
-    }
+      "A": "Stream data",
+      "B": "Legacy database data",
+      "C": "Personal handwritten notes",
+      "D": "Graphs & social networks"
+    },
+    "question_type": "multiple_select"
   },
   "24": {
-    "question": "Which of the following is a key goal of association and correlation analysis?",
+    "question": "What type of data includes extended-relational, object-oriented, and heterogeneous forms?",
     "answer": "A",
     "options": {
-      "A": "Discovering items frequently purchased together.",
-      "B": "Identifying data points that deviate significantly.",
-      "C": "Predicting a specific class label.",
-      "D": "Grouping similar data objects into clusters."
-    }
+      "A": "Database data",
+      "B": "Multi-media data",
+      "C": "Transactional data",
+      "D": "Spatiotemporal data"
+    },
+    "question_type": "single_select"
   },
   "25": {
-    "question": "Which of the following is a common method used for classification in data mining?",
-    "answer": "A",
+    "question": "Which of the following are listed as data mining functions (knowledge to be mined)? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "options": {
-      "A": "Decision trees",
-      "B": "Association rule mining",
-      "C": "Outlier detection by clustering",
-      "D": "OLAP"
-    }
+      "A": "Clustering",
+      "B": "Outlier analysis",
+      "C": "Data archiving",
+      "D": "Characterization"
+    },
+    "question_type": "multiple_select"
   },
   "26": {
-    "question": "The primary goal of classification is to:",
-    "answer": "B",
+    "question": "What is the difference between descriptive and predictive data mining?",
+    "answer": "D",
     "options": {
-      "A": "Identify patterns of co-occurrence.",
-      "B": "Predict unknown class labels based on training data.",
-      "C": "Summarize the general characteristics of a dataset.",
-      "D": "Group similar data points without prior knowledge."
-    }
+      "A": "Descriptive data mining focuses on future outcomes, while predictive focuses on past trends.",
+      "B": "Descriptive data mining is quantitative, while predictive is qualitative.",
+      "C": "Descriptive data mining uses statistical methods, while predictive uses machine learning.",
+      "D": "Descriptive data mining describes existing data, while predictive data mining forecasts future outcomes."
+    },
+    "question_type": "single_select"
   },
   "27": {
-    "question": "Cluster analysis is categorized as what type of learning?",
-    "answer": "A",
+    "question": "Which of the following techniques are utilized in data mining, according to the document? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "options": {
-      "A": "Unsupervised learning",
-      "B": "Reinforcement learning",
-      "C": "Supervised learning",
-      "D": "Semi-supervised learning"
-    }
+      "A": "Machine learning",
+      "B": "Visualization",
+      "C": "Manual data entry",
+      "D": "OLAP (online analytical processing)"
+    },
+    "question_type": "multiple_select"
   },
   "28": {
-    "question": "What is the main principle behind cluster analysis?",
-    "answer": "A",
+    "question": "Which of the following is an application area for data mining?",
+    "answer": "C",
     "options": {
-      "A": "Maximizing intra-class similarity and minimizing inter-class similarity.",
-      "B": "Minimizing both intra-class and inter-class similarity.",
-      "C": "Maximizing both intra-class and inter-class similarity.",
-      "D": "Minimizing intra-class similarity and maximizing inter-class similarity."
-    }
+      "A": "Literature criticism",
+      "B": "Automotive manufacturing",
+      "C": "Retail",
+      "D": "Astronomy"
+    },
+    "question_type": "single_select"
   },
   "29": {
-    "question": "What defines an 'outlier' in data mining?",
-    "answer": "A",
+    "question": "Which of the following are considered 'Advanced data sets' suitable for mining?",
+    "answer": "C",
     "options": {
-      "A": "A data object that does not comply with the general behavior of the data.",
-      "B": "A data object used for training machine learning models.",
-      "C": "A data object that perfectly aligns with the general behavior.",
-      "D": "A data object that is frequently observed."
-    }
+      "A": "Data warehouses",
+      "B": "Relational databases",
+      "C": "Data streams and sensor data",
+      "D": "Transactional databases"
+    },
+    "question_type": "single_select"
   },
   "30": {
-    "question": "Which application commonly utilizes outlier analysis?",
-    "answer": "C",
+    "question": "Which types of data are suitable for data mining? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "options": {
-      "A": "Market basket analysis",
-      "B": "Predicting customer churn",
-      "C": "Fraud detection",
-      "D": "Customer segmentation"
-    }
+      "A": "The World-Wide Web",
+      "B": "Time-series data",
+      "C": "Multimedia database",
+      "D": "Hand-drawn sketches"
+    },
+    "question_type": "multiple_select"
   },
   "31": {
-    "question": "Which of the following is NOT a criterion for evaluating interesting mined knowledge?",
-    "answer": "C",
+    "question": "What is involved in 'Information integration and data warehouse construction' under the generalization function?",
+    "answer": "B",
     "options": {
-      "A": "Coverage",
-      "B": "Accuracy",
-      "C": "Cost of mining",
-      "D": "Timeliness"
-    }
+      "A": "Only data cleaning",
+      "B": "Data cleaning, transformation, integration, and multidimensional data model",
+      "C": "Solely OLAP processing",
+      "D": "Pattern evaluation and selection"
+    },
+    "question_type": "single_select"
   },
   "32": {
-    "question": "What does 'Typicality vs. Novelty' refer to in the evaluation of mined knowledge?",
-    "answer": "C",
+    "question": "What does OLAP stand for in the context of data cube technology?",
+    "answer": "B",
     "options": {
-      "A": "Whether the knowledge is easy to understand or complex.",
-      "B": "Whether the knowledge describes past trends or predicts future outcomes.",
-      "C": "Whether the knowledge is expected or something new and unexpected.",
-      "D": "Whether the knowledge applies to a large or small portion of the dataset."
-    }
+      "A": "Offline Analytical Preprocessing",
+      "B": "Online Analytical Processing",
+      "C": "Online Linear Algebra Processing",
+      "D": "On-demand Layered Analysis Procedure"
+    },
+    "question_type": "single_select"
   },
   "33": {
-    "question": "Which of the following is NOT listed as a discipline contributing to data mining?",
-    "answer": "B",
+    "question": "What concept is explored in association and correlation analysis?",
+    "answer": "C",
     "options": {
-      "A": "Database Technology",
-      "B": "Astrology",
-      "C": "Statistics",
-      "D": "Machine Learning"
-    }
+      "A": "Predicting future values of a variable",
+      "B": "Grouping similar data points into clusters",
+      "C": "Discovering items frequently purchased together",
+      "D": "Identifying data outliers"
+    },
+    "question_type": "single_select"
   },
   "34": {
-    "question": "Data mining integrates knowledge from which of these fields to achieve its goals?",
-    "answer": "B",
+    "question": "What two measures are typically associated with a typical association rule like 'Diaper -> Beer [0.5%, 75%]'?",
+    "answer": "D",
     "options": {
-      "A": "History and Literature",
-      "B": "Pattern Recognition and Statistics",
-      "C": "Geology and Meteorology",
-      "D": "Fine Arts and Music"
-    }
+      "A": "Precision and recall",
+      "B": "Coverage and typicality",
+      "C": "Accuracy and timeliness",
+      "D": "Support and confidence"
+    },
+    "question_type": "single_select"
   },
   "35": {
-    "question": "Which application of data mining is directly related to improving customer purchasing experiences and targeted advertising?",
+    "question": "What is the primary goal of classification in data mining?",
     "answer": "B",
     "options": {
-      "A": "Software engineering",
-      "B": "Basket data analysis",
-      "C": "Web page classification",
-      "D": "Biological sequence analysis"
-    }
+      "A": "To identify rare data objects.",
+      "B": "To construct models for future prediction and distinguishing classes.",
+      "C": "To group similar data points together.",
+      "D": "To generalize data into higher-level concepts."
+    },
+    "question_type": "single_select"
   },
   "36": {
-    "question": "Which of the following is an example of a dedicated data mining tool mentioned in the document?",
-    "answer": "A",
+    "question": "Which of the following are typical methods used for classification? Select all that apply.",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
     "options": {
-      "A": "SAS",
-      "B": "Google Chrome",
-      "C": "Adobe Photoshop",
-      "D": "Microsoft Word"
-    }
+      "A": "K-means clustering",
+      "B": "Decision trees",
+      "C": "Neural networks",
+      "D": "Support vector machines"
+    },
+    "question_type": "multiple_select"
   },
   "37": {
-    "question": "Which of the following is considered a major challenge in data mining?",
+    "question": "Which of the following best describes cluster analysis?",
     "answer": "B",
     "options": {
-      "A": "Simplification of data models",
-      "B": "Scalability",
-      "C": "Low data volume",
-      "D": "Homogeneous data types"
-    }
+      "A": "A method to predict a continuous numerical value.",
+      "B": "An unsupervised learning technique to group data into categories.",
+      "C": "A process to identify frequently co-occurring items.",
+      "D": "A supervised learning technique where class labels are known."
+    },
+    "question_type": "single_select"
   },
   "38": {
-    "question": "The challenge of 'High Dimensionality' in data mining refers to:",
+    "question": "What is the fundamental principle of cluster analysis?",
+    "answer": "B",
+    "options": {
+      "A": "Identifying outliers in the dataset.",
+      "B": "Maximizing intra-class similarity and minimizing inter-class similarity.",
+      "C": "Maximizing inter-class similarity and minimizing intra-class similarity.",
+      "D": "Minimizing both intra-class and inter-class similarity."
+    },
+    "question_type": "single_select"
+  },
+  "39": {
+    "question": "What is an 'outlier' in data mining?",
+    "answer": "B",
+    "options": {
+      "A": "A data cluster with high density.",
+      "B": "A data object that does not comply with the general behavior of the data.",
+      "C": "A data point that is part of the most frequent pattern.",
+      "D": "A data object that perfectly aligns with the general data behavior."
+    },
+    "question_type": "single_select"
+  },
+  "40": {
+    "question": "For what real-world applications is outlier analysis particularly useful? Select all that apply.",
+    "answer": [
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Routine data cleaning",
+      "B": "Generating summary reports",
+      "C": "Rare events analysis",
+      "D": "Fraud detection"
+    },
+    "question_type": "multiple_select"
+  },
+  "41": {
+    "question": "What is a key criterion for evaluating mined knowledge?",
     "answer": "A",
     "options": {
-      "A": "Managing data with a very large number of attributes or features.",
-      "B": "The physical size of data storage devices.",
-      "C": "The complexity of data visualization.",
-      "D": "The speed at which data is collected."
-    }
+      "A": "Whether it is interesting or not.",
+      "B": "The number of algorithms used.",
+      "C": "Its computational complexity.",
+      "D": "The volume of data it encompasses."
+    },
+    "question_type": "single_select"
+  },
+  "42": {
+    "question": "Which aspects are important for evaluating mined knowledge? Select all that apply.",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "The color scheme of the visualization",
+      "B": "Typicality vs. Novelty",
+      "C": "Accuracy",
+      "D": "Timeliness"
+    },
+    "question_type": "multiple_select"
+  },
+  "43": {
+    "question": "Data mining is described as a confluence of multiple disciplines. Which of the following disciplines contribute to data mining? Select all that apply.",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Philosophy",
+      "B": "Database Technology",
+      "C": "Statistics",
+      "D": "Machine Learning"
+    },
+    "question_type": "multiple_select"
+  },
+  "44": {
+    "question": "Which discipline is crucial for representing and understanding complex data relationships in data mining?",
+    "answer": "B",
+    "options": {
+      "A": "Algorithms",
+      "B": "Visualization",
+      "C": "High-Performance Computing",
+      "D": "Pattern Recognition"
+    },
+    "question_type": "single_select"
+  },
+  "45": {
+    "question": "Which of the following is a specific application or use case of data mining mentioned in the document?",
+    "answer": "A",
+    "options": {
+      "A": "Basket data analysis for targeted marketing.",
+      "B": "Designing architectural blueprints.",
+      "C": "Weather forecasting based on historical data.",
+      "D": "Creating digital art."
+    },
+    "question_type": "single_select"
+  },
+  "46": {
+    "question": "What types of analysis fall under 'Biological and medical data analysis' as data mining use cases? Select all that apply.",
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Biological network analysis",
+      "B": "Patient record storage",
+      "C": "Biological sequence analysis",
+      "D": "Microarray data analysis"
+    },
+    "question_type": "multiple_select"
+  },
+  "47": {
+    "question": "Which of the following is a major challenge in data mining, as listed in the document?",
+    "answer": "C",
+    "options": {
+      "A": "Low data volume",
+      "B": "Simple data structures",
+      "C": "Scalability",
+      "D": "Homogeneous data types"
+    },
+    "question_type": "single_select"
+  },
+  "48": {
+    "question": "What challenges are associated with the nature of data itself in data mining? Select all that apply.",
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "options": {
+      "A": "Lack of computational power",
+      "B": "Data Ownership and Distribution",
+      "C": "Heterogeneous and Complex Data",
+      "D": "High Dimensionality"
+    },
+    "question_type": "multiple_select"
+  },
+  "49": {
+    "question": "Which of the following best summarizes data mining?",
+    "answer": "B",
+    "options": {
+      "A": "A software tool for data entry.",
+      "B": "Discovering interesting patterns and knowledge from massive data.",
+      "C": "A process primarily focused on data storage.",
+      "D": "A method to manually analyze small datasets."
+    },
+    "question_type": "single_select"
+  },
+  "50": {
+    "question": "Which data mining functionalities are mentioned in the summary points? Select all that apply.",
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "options": {
+      "A": "Outlier analysis",
+      "B": "Classification",
+      "C": "Association",
+      "D": "Data compression"
+    },
+    "question_type": "multiple_select"
   }
 }
