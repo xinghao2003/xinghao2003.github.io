@@ -30,6 +30,7 @@ Welcome to the Distributed and Parallel Computing course materials. This section
 - [**Final Notes**](final-notes.md) - Comprehensive study notes covering all essential topics for the final exam
 - [**Lecturer Tips**](lecturer-tips.md) - Key advice and exam strategies from the instructor
 - [**Extra**](extras.md) - Additional resources and practice materials
+- [**Tests**](tests.md) - Test 1 & Test 2
 
 ### Past Examinations
 
