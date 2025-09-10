@@ -3,48 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Countdown Timer</title>
+    <title id="pageTitle">09:00:00</title>
 </head>
 <body>
     <div id="countdown">09:00:00</div>
     <br>
-    <button id="addHourBtn" onclick="addHour()">+ Add 1 Hour</button>
+    <button id="addHourBtn" onclick="addHour()">+1h</button>
+    <button id="subtractHourBtn" onclick="subtractHour()">-1h</button>
     <br>
     <div id="statusMessage"></div>
 
     <script>
-        // Initialize countdown with 9 hours (in seconds)
-        let totalSeconds = 9 * 60 * 60;
+        // Initialize with 9 hours duration
+        let durationMs = 9 * 60 * 60 * 1000; // 9 hours in milliseconds
+        let startTime = Date.now();
         let countdownInterval;
 
-        function formatTime(seconds) {
-            const hours = Math.floor(seconds / 3600);
-            const minutes = Math.floor((seconds % 3600) / 60);
-            const secs = seconds % 60;
+        function formatTime(totalMs) {
+            if (totalMs <= 0) return '00:00:00';
+            
+            const totalSeconds = Math.floor(totalMs / 1000);
+            const hours = Math.floor(totalSeconds / 3600);
+            const minutes = Math.floor((totalSeconds % 3600) / 60);
+            const secs = totalSeconds % 60;
             
             return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
         }
 
         function updateDisplay() {
+            const now = Date.now();
+            const elapsed = now - startTime;
+            const remaining = durationMs - elapsed;
+            
             const countdownElement = document.getElementById('countdown');
             const statusElement = document.getElementById('statusMessage');
+            const titleElement = document.getElementById('pageTitle');
             
-            if (totalSeconds <= 0) {
-                countdownElement.textContent = '00:00:00';
-                document.title = '00:00:00';
+            if (remaining <= 0) {
+                const timeText = '00:00:00';
+                countdownElement.textContent = timeText;
+                titleElement.textContent = timeText;
                 statusElement.textContent = "Time's Up!";
                 clearInterval(countdownInterval);
                 return;
             }
             
-            const timeString = formatTime(totalSeconds);
-            countdownElement.textContent = timeString;
-            document.title = timeString;
-            totalSeconds--;
+            const timeText = formatTime(remaining);
+            countdownElement.textContent = timeText;
+            titleElement.textContent = timeText;
         }
 
         function addHour() {
-            totalSeconds += 3600; // Add 1 hour (3600 seconds)
+            durationMs += 60 * 60 * 1000; // Add 1 hour
             const statusElement = document.getElementById('statusMessage');
             statusElement.textContent = '+ 1 hour added!';
             
@@ -60,11 +70,11 @@
         }
 
         function subtractHour() {
-            totalSeconds -= 3600; // Subtract 1 hour (3600 seconds)
+            durationMs -= 60 * 60 * 1000; // Subtract 1 hour
             
             // Don't let it go below 0
-            if (totalSeconds < 0) {
-                totalSeconds = 0;
+            if (durationMs < 0) {
+                durationMs = 0;
             }
             
             const statusElement = document.getElementById('statusMessage');
@@ -82,8 +92,16 @@
         }
 
         function startCountdown() {
+            // Reset start time to now
+            startTime = Date.now();
+            
             // Update immediately
             updateDisplay();
+            
+            // Clear any existing interval
+            if (countdownInterval) {
+                clearInterval(countdownInterval);
+            }
             
             // Then update every second
             countdownInterval = setInterval(updateDisplay, 1000);
