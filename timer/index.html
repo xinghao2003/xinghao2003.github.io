@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+</head>
+<body>
+    <div id="countdown">09:00:00</div>
+    <br>
+    <button id="addHourBtn" onclick="addHour()">+ Add 1 Hour</button>
+    <br>
+    <div id="statusMessage"></div>
+
+    <script>
+        // Initialize countdown with 9 hours (in seconds)
+        let totalSeconds = 9 * 60 * 60;
+        let countdownInterval;
+
+        function formatTime(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            const secs = seconds % 60;
+            
+            return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        function updateDisplay() {
+            const countdownElement = document.getElementById('countdown');
+            const statusElement = document.getElementById('statusMessage');
+            
+            if (totalSeconds <= 0) {
+                countdownElement.textContent = '00:00:00';
+                document.title = '00:00:00';
+                statusElement.textContent = "Time's Up!";
+                clearInterval(countdownInterval);
+                return;
+            }
+            
+            const timeString = formatTime(totalSeconds);
+            countdownElement.textContent = timeString;
+            document.title = timeString;
+            totalSeconds--;
+        }
+
+        function addHour() {
+            totalSeconds += 3600; // Add 1 hour (3600 seconds)
+            const statusElement = document.getElementById('statusMessage');
+            statusElement.textContent = '+ 1 hour added!';
+            
+            // Clear the status message after 2 seconds
+            setTimeout(() => {
+                statusElement.textContent = '';
+            }, 2000);
+            
+            // Restart countdown if it had finished
+            if (!countdownInterval) {
+                startCountdown();
+            }
+        }
+
+        function subtractHour() {
+            totalSeconds -= 3600; // Subtract 1 hour (3600 seconds)
+            
+            // Don't let it go below 0
+            if (totalSeconds < 0) {
+                totalSeconds = 0;
+            }
+            
+            const statusElement = document.getElementById('statusMessage');
+            statusElement.textContent = '- 1 hour removed!';
+            
+            // Clear the status message after 2 seconds
+            setTimeout(() => {
+                statusElement.textContent = '';
+            }, 2000);
+            
+            // Restart countdown if it had finished
+            if (!countdownInterval) {
+                startCountdown();
+            }
+        }
+
+        function startCountdown() {
+            // Update immediately
+            updateDisplay();
+            
+            // Then update every second
+            countdownInterval = setInterval(updateDisplay, 1000);
+        }
+
+        // Start the countdown when the page loads
+        window.addEventListener('load', startCountdown);
+    </script>
+</body>
+</html>
